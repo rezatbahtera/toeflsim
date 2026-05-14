@@ -1,0 +1,17 @@
+{
+    "title": "Tes Baru (Kosong)",
+    "sections": [
+        {
+            "title": "Section 1",
+            "type": "listening",
+            "durationMinutes": 25,
+            "parts": [
+                {
+                    "title": "Part A",
+                    "instruction": "",
+                    "questions": []
+                }
+            ]
+        }
+    ]
+}
