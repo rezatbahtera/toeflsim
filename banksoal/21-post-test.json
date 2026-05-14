@@ -1279,6 +1279,158 @@
                                 }
                             ],
                             "groupId": "g_tfs1ce6op"
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "35. WHAT ARE THE MAN AND WOMAN DISCUSSING?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Trash orbiting Earth.",
+                                    "reason": {
+                                        "en": "Correct answer based on the conversation.",
+                                        "id": "Jawaban benar berdasarkan percakapan."
+                                    }
+                                },
+                                {
+                                    "text": "A trip by an astronaut to the Moon.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The overabundance of garbage on Earth.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Becoming space scientists.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ],
+                            "groupId": "g_b0uwltwmh"
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "36. WHERE DID THE WOMAN LEARN ABOUT THIS PROBLEM?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "From a lecture.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "In a magazine article.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "In a book.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "On a television program.",
+                                    "reason": {
+                                        "en": "Correct answer based on the conversation.",
+                                        "id": "Jawaban benar berdasarkan percakapan."
+                                    }
+                                }
+                            ],
+                            "groupId": "g_b0uwltwmh"
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "37. APPROXIMATELY HOW MUCH METAL IS IN ORBIT IN SPACE?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "17,000 pounds.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "3,000 tons.",
+                                    "reason": {
+                                        "en": "Correct answer based on the conversation.",
+                                        "id": "Jawaban benar berdasarkan percakapan."
+                                    }
+                                },
+                                {
+                                    "text": "3,000 pounds.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "300 tons.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ],
+                            "groupId": "g_b0uwltwmh"
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "38. WHAT DOES THE WOMAN HOPE WILL HAPPEN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "She will be able to travel in space.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The problem will take care of itself.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Scientists will find solutions to theproblem.",
+                                    "reason": {
+                                        "en": "Correct answer based on the conversation.",
+                                        "id": "Jawaban benar berdasarkan percakapan."
+                                    }
+                                },
+                                {
+                                    "text": "The junk will fall to Earth.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ],
+                            "groupId": "g_b0uwltwmh"
                         }
                     ],
                     "groups": [
@@ -1287,6 +1439,12 @@
                             "passage": "Questions 31-34\n\n(narrator)    Listen to a conversation between two friends who are making plans.\n(woman)       Do you have any plans this weekend? There's so much to choose from on campus that I'm not sure what I'm going to do.\n(man)         The football game's on Saturday night, and I'm going with a group of friends. Do you want to go with us?\n(woman)       Of course I'd like to go to the football game: it's the biggest game of the sea son. And it sounds like fun to go with a large group of people.\n(man)         Good. We'll be meeting at the cafete ria for dinner at six o'clock on Satur day night, and then we'll go on to the game together.\n(woman)       That takes care of my plans for Satur day night. But now I need to make a decision about Sunday afternoon. The music department is sponsoring a concert then, and I'd really like to hear that concert. But there's also a play being presented by the drama department that I really wanted to see. It's too bad those two events are at the same time.\n(man)         You know, if you go to the game on Saturday night and a concert or play on Sunday, that doesn't leave much time for studying.\n(woman)       Oh, well. Maybe I can do that the weekend after this one.",
                             "audioUrl": "",
                             "label": "Q31-34"
+                        },
+                        {
+                            "id": "g_b0uwltwmh",
+                            "passage": "Questions 35-38\n\n(narrator)    I saw a television program about it last night, and according to the program, there's about 3,000 tons of metal out there in space, traveling at speeds around 17,000 miles per hour.\n(man)         Where did all this garbage come from?\n(woman)       Well, it comes from all those space missions that have gone up since 1957. Every time a rocket ship goes up into space, it leaves a lot behind, and this stuff goes into orbit around the Earth: booster rockets, solar panels, remnants of satellites, and even nuclear reactors.\n(man)         Isn't it dangerous to have all this stuff out there?\n(woman)       Some space scientists are worried about possible collisions between this orbiting junk and spaceships, particu larly manned spacecrafts; however, so far there haven't been any such acci dents.\n(man)         Well, I hope that they're going to do something about this, both for the sake of safety and for the sake of the environment.\n(woman)       Me, too. I know that right now the problem is being studied by numer ous scientists; hopefully, they'll be able to find solutions before the prob lem gets too much worse.",
+                            "audioUrl": "",
+                            "label": "Q35-38"
                         }
                     ]
                 }
