@@ -12,7 +12,7 @@
                     "questions": [
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-a-parts/pretest-a-01-dialog.mp3?v=1",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/pretest/pretest-a-parts/pretest-a-01-dialog.mp3",
                             "passage": "W: Are you enjoying your coffee?\nM: It tastes extremely bitter this morning!",
                             "question": "1. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 2,
