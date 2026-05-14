@@ -1163,7 +1163,7 @@
                     "questions": [
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/partb/complate-partb-soal31.mp3",
                             "passage": "",
                             "question": "31. WHAT IS THE WOMAN'S STATUS AT THE UNIVERSITY?",
                             "correctIndex": 0,
@@ -1201,7 +1201,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/partb/complate-partb-soal32.mp3",
                             "passage": "",
                             "question": "32. WHAT DOES THE MAN WANT TO LEARN FROM THE WOMAN?",
                             "correctIndex": 2,
@@ -1239,7 +1239,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/partb/complate-partb-soal33.mp3",
                             "passage": "",
                             "question": "33. HOW MANYTOTAL COURSES MUST A STUDENT TAKE FOR A LITERATURE MAJOR?",
                             "correctIndex": 2,
@@ -1277,7 +1277,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/partb/complate-partb-soal34.mp3",
                             "passage": "",
                             "question": "34. THE MAN WILL PROBABLY TAKE HIS ELECTIVE COURSES IN WHICH AREA?",
                             "correctIndex": 2,
@@ -1315,7 +1315,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/partb/complate-partb-soal35.mp3",
                             "passage": "",
                             "question": "35. WHERE DID THE WOMAN LEARN ABOUT DOLPHINS?",
                             "correctIndex": 2,
@@ -1353,7 +1353,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/partb/complate-partb-soal36.mp3",
                             "passage": "",
                             "question": "36. WHY DO DOLPHINS USE CLICKS?",
                             "correctIndex": 1,
@@ -1391,7 +1391,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/partb/complate-partb-soal37.mp3",
                             "passage": "",
                             "question": "37. APPROXIMATELYHOW MANY HUMAN COMMANDS HAVE SOME DOLPHINS LEARNED?",
                             "correctIndex": 2,
@@ -1429,7 +1429,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/partb/complate-partb-soal38.mp3",
                             "passage": "",
                             "question": "38. WHAT DOES THE MAN SAY ABOUT DOLPHIN INTELLIGENCE?",
                             "correctIndex": 3,
@@ -1476,13 +1476,13 @@
                         {
                             "id": "g_s6bd3th2g",
                             "passage": "N: Listen to a conversation on a university campus. \n\nM: You seem to know your way around campus. Have you been here long? \nw: I'm a senior literature major. I'll be graduating next June. \nM: Your major is literature? Mine is, too.But I'm just beginning my work in my major. I just transferred to this university from a junior college. Perhaps you could tell me about the courses you've got to take for a literature major. \nw: Well, for a literature major you need to take eight courses, three required courses and five electives. First, you have to take \"Survey of World Literature, Parts One and Two.\" This is really two courses, and it'll take two semesters, and it's required for all literature majors. The other course required for all literature majors is \"Introduction to Literary Analysis.\" \nM: You mean, if I want to specialize in American literature, I still must take two semesters of World literature?  \nw: Yes, because the two semesters are required for all literature majors. \nM: But I only want to study American literature! \nw: At least you can take all of your five elective courses in the area that you want. \nM: That's what I'll do, then.",
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/partb/complate-partb-01-dialog-31-34.mp3",
                             "label": "Q 31-34"
                         },
                         {
                             "id": "g_ey2b5i2ug",
                             "passage": "Listen to a conversation between two friends. \nw: Wasn't that a fascinating lecture on dolphins? I didn't know that dolphins traveled in such large groups, or were able to communicate with other members of their group with those whistlelike sounds. \nM: And they also use clicks as a sort of sonar. \nw: I really couldn't understand that part of the lecture. You could? \nM: Yes, the dolphins use clicks to identify objects in the water; they can even identify tiny objects more than 100 meters away using these clicks. Scientists believe that a dolphin may even have a sonar-like image in its brain of a distant object so that it can identify the object long before the dolphin can actually see the object. \nw: So the dolphins use these clicks mostly to identify objects in the water? \nM: I think so, and they have considerably more ability to do this than humans do. \nw: It is hard to believe that, in addition to these sonar clicks, dolphins are actually learning some human language. \nM: Yes, I believe that the lecturer said that some dolphins had already learned around fifty human commands, and that those dolphins were able to understand not only individual words but words clustered together in sentences! \nw: Dolphins must certainly be amazing animals to do all of that. \nM:  I'm sure they are, and we're only just beginning to find out how intelligent they are.",
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/partb/complate-partb-01-dialog-35-38.mp3",
                             "label": "Q35-38"
                         }
                     ],
