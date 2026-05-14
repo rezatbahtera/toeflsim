@@ -1492,490 +1492,170 @@
                     "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/direction-partb.mp3"
                 },
                 {
-                    "title": "Part C ",
-                    "instruction": "In this part of the test, you will hear several talks. After each talk, you will hear some questions. The talks and questions will not be repeated. \nAfter you hear a question, read the four possible answers in your test book and choose the best answer. Then, on your answer sheet, find the number of the question and fill in the space that corresponds to the letter of the answer you have chosen. ",
+                    "title": "Part C",
+                    "instruction": "",
                     "questions": [
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/partc/complate-partc-soal39.mp3",
                             "passage": "",
-                            "question": "39. WHAT IS THE MAIN OBJECTIVE OF THE SIERRA CLUB?",
-                            "correctIndex": 1,
-                            "options": [
-                                {
-                                    "text": "To protect its members",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "To save the natural environment",
-                                    "reason": {
-                                        "en": "Correct answer based on the conversation.",
-                                        "id": "Jawaban benar berdasarkan percakapan."
-                                    }
-                                },
-                                {
-                                    "text": "To honor the memory of John Muir",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "To improve San Francisco's natural beauty",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                }
-                            ],
-                            "groupId": "g_8zf5awfd6"
-                        },
-                        {
-                            "timeLimitSeconds": 0,
-                            "audioUrl": "",
-                            "passage": "",
-                            "question": "40. APPROXIMATELYHOW LONG HAS THE SIERRA CLUB BEEN IN EXISTENCE?",
+                            "question": "39. WHERE DOES THIS TALK TAKE PLACE?",
                             "correctIndex": 2,
                             "options": [
                                 {
-                                    "text": "For less than a year",
+                                    "text": "In a car",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "Only for a decade",
+                                    "text": "On a hike",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "For more than a century",
+                                    "text": "On a tram",
                                     "reason": {
                                         "en": "Correct answer based on the conversation.",
                                         "id": "Jawaban benar berdasarkan percakapan."
                                     }
                                 },
                                 {
-                                    "text": "For at least two centuries",
+                                    "text": "In a lecture hall",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 }
                             ],
-                            "groupId": "g_8zf5awfd6"
+                            "groupId": "g_3hrx7oix1"
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/partc/complate-partc-soal39.mp3",
                             "passage": "",
-                            "question": "41. WHAT AREA WAS JOHN MUIR ESPECIALLY INTERESTED IN SAVING?",
-                            "correctIndex": 2,
-                            "options": [
-                                {
-                                    "text": "San Francisco",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "All fifty states",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "The Sierra Nevadas",
-                                    "reason": {
-                                        "en": "Correct answer based on the conversation.",
-                                        "id": "Jawaban benar berdasarkan percakapan."
-                                    }
-                                },
-                                {
-                                    "text": "The eastern United States",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                }
-                            ],
-                            "groupId": "g_8zf5awfd6"
-                        },
-                        {
-                            "timeLimitSeconds": 0,
-                            "audioUrl": "",
-                            "passage": "",
-                            "question": "42. WHERE DOES THE SIERRA CLUB HAVE MEMBERS?",
-                            "correctIndex": 1,
-                            "options": [
-                                {
-                                    "text": "All over the world",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "In the entire United States",
-                                    "reason": {
-                                        "en": "Correct answer based on the conversation.",
-                                        "id": "Jawaban benar berdasarkan percakapan."
-                                    }
-                                },
-                                {
-                                    "text": "Only in California",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "Only in the Sierra Nevadas",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                }
-                            ],
-                            "groupId": "g_8zf5awfd6"
-                        },
-                        {
-                            "timeLimitSeconds": 0,
-                            "audioUrl": "",
-                            "passage": "",
-                            "question": "43. WHO IS PROBABLY LISTENING TO THIS TALK?",
-                            "correctIndex": 1,
-                            "options": [
-                                {
-                                    "text": "Students signing up for athletic teams",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "Students going on a tour of a university campus",
-                                    "reason": {
-                                        "en": "Correct answer based on the conversation.",
-                                        "id": "Jawaban benar berdasarkan percakapan."
-                                    }
-                                },
-                                {
-                                    "text": "Students playing various sports",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "Students attending a university dedication ceremony",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                }
-                            ],
-                            "groupId": "g_vozmknxxm"
-                        },
-                        {
-                            "timeLimitSeconds": 0,
-                            "audioUrl": "",
-                            "passage": "",
-                            "question": "44. WHAT IS NEEDED TO GET INTO THE EXERCISE ROOM?",
-                            "correctIndex": 2,
-                            "options": [
-                                {
-                                    "text": "Membership on an athletic team",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "Enrollment in an exercise class",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "A valid student identification card",
-                                    "reason": {
-                                        "en": "Correct answer based on the conversation.",
-                                        "id": "Jawaban benar berdasarkan percakapan."
-                                    }
-                                },
-                                {
-                                    "text": "Permission from.a faculty member",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                }
-                            ],
-                            "groupId": "g_vozmknxxm"
-                        },
-                        {
-                            "timeLimitSeconds": 0,
-                            "audioUrl": "",
-                            "passage": "",
-                            "question": "45. WHERE SHOULD A STUDENT GO TO RESERVE A TENNIS COURT?",
+                            "question": "40. WHAT DOES THE EXPRESSION \"CRYING CROCODILE TEARS\" MEAN WHEN IT IS USED TO DESCRIBE HUMANS?",
                             "correctIndex": 3,
                             "options": [
                                 {
-                                    "text": "To the tennis courts",
+                                    "text": "It means they have big tears.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "To the arena",
+                                    "text": "It means they like to swim.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "To the gymnasium",
+                                    "text": "It means they look like crocodiles.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "To the Athletic Department office",
+                                    "text": "It means they are pretending to be sad.",
                                     "reason": {
                                         "en": "Correct answer based on the conversation.",
                                         "id": "Jawaban benar berdasarkan percakapan."
                                     }
                                 }
                             ],
-                            "groupId": "g_vozmknxxm"
+                            "groupId": "g_3hrx7oix1"
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/partc/complate-partc-soal41.mp3",
                             "passage": "",
-                            "question": "46. WHAT WILL THE STUDENTS PROBABLY DO NEXT?",
-                            "correctIndex": 0,
-                            "options": [
-                                {
-                                    "text": "Go to the Art Center",
-                                    "reason": {
-                                        "en": "Correct answer based on the conversation.",
-                                        "id": "Jawaban benar berdasarkan percakapan."
-                                    }
-                                },
-                                {
-                                    "text": "Sign up for sports classes",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "Visit the exercise room",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "Watch a football game",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                }
-                            ],
-                            "groupId": "g_vozmknxxm"
-                        },
-                        {
-                            "timeLimitSeconds": 0,
-                            "audioUrl": "",
-                            "passage": "",
-                            "question": "47. THIS TALK WOULD PROBABLY BE GIVEN IN WHICH OF THE FOLLOWING COURSES?",
+                            "question": "41. WHY DO CROCODILES HAVE TEARS IN THEIR EYES?",
                             "correctIndex": 2,
                             "options": [
                                 {
-                                    "text": "Science",
+                                    "text": "They are sad.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "Art",
+                                    "text": "They are warming themselves.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "Literature",
+                                    "text": "They are getting rid of salt.",
                                     "reason": {
                                         "en": "Correct answer based on the conversation.",
                                         "id": "Jawaban benar berdasarkan percakapan."
                                     }
                                 },
                                 {
-                                    "text": "Music",
+                                    "text": "They regret their actions.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 }
                             ],
-                            "groupId": "g_ifbdmvog3"
+                            "groupId": "g_3hrx7oix1"
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/partc/complate-partc-soal42.mp3",
                             "passage": "",
-                            "question": "48. WHAT POINT IS THE SPEAKER TRYING TO MAKE ABOUT REALISM AND NATURALISM?",
-                            "correctIndex": 1,
-                            "options": [
-                                {
-                                    "text": "They are completely different.",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "They are somewhat similar but have an essential difference.",
-                                    "reason": {
-                                        "en": "Correct answer based on the conversation.",
-                                        "id": "Jawaban benar berdasarkan percakapan."
-                                    }
-                                },
-                                {
-                                    "text": "They are exactly the same in all respects.",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "They are unrelated.",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                }
-                            ],
-                            "groupId": "g_ifbdmvog3"
-                        },
-                        {
-                            "timeLimitSeconds": 0,
-                            "audioUrl": "",
-                            "passage": "",
-                            "question": "49. WHICH OF THE FOLLOWING BEST DESCRIBES REALISM?",
+                            "question": "42. WHAT DOES THE TOUR GUIDE RECOMMEND?",
                             "correctIndex": 0,
                             "options": [
                                 {
-                                    "text": "Objective",
+                                    "text": "Taking photographs",
                                     "reason": {
                                         "en": "Correct answer based on the conversation.",
                                         "id": "Jawaban benar berdasarkan percakapan."
                                     }
                                 },
                                 {
-                                    "text": "Idealistic",
+                                    "text": "Getting closer to the crocodiles",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "Philosophical",
+                                    "text": "Exploring the water's edge",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "Environmental",
+                                    "text": "Getting off the tram",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 }
                             ],
-                            "groupId": "g_ifbdmvog3"
-                        },
-                        {
-                            "timeLimitSeconds": 0,
-                            "audioUrl": "",
-                            "passage": "",
-                            "question": "50. WHICH OF THE FOLLOWING DOES NOT INFLUENCE HUMAN ACTIONS, ACCORDING TO NATURALIST IDEAS?",
-                            "correctIndex": 2,
-                            "options": [
-                                {
-                                    "text": "Heredity",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "Environment",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "Idealism",
-                                    "reason": {
-                                        "en": "Correct answer based on the conversation.",
-                                        "id": "Jawaban benar berdasarkan percakapan."
-                                    }
-                                },
-                                {
-                                    "text": "Natural laws",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                }
-                            ],
-                            "groupId": "g_ifbdmvog3"
+                            "groupId": "g_3hrx7oix1"
                         }
                     ],
                     "groups": [
                         {
-                            "id": "g_8zf5awfd6",
-                            "passage": "(narrator) Listen to a welcome address by a member of a club. \n(woman) Welcome to this introductory meeting for new members of the Sierra Club. The Sierra Club is an organization whose goals are centered on the protection of the environment. It was founded in 1892 in San Francisco by naturalist John Muir, who was intent on preserving the natural beauty and harmony of the Sierra Nevadas in eastern California. \n\nToday the Sierra Club boasts almost 200,000 members in all fifty states of the United States. Through activities such as conferences, lectures, exhibits, and films, the organization works to continue the effort begun by John Muir. The Sierra Club also publishes a weekly newsletter, a bimonthly magazine, and various books.",
-                            "audioUrl": "",
-                            "label": "Q 39-42"
-                        },
-                        {
-                            "id": "g_vozmknxxm",
-                            "passage": "(NARATOR) Listen to a talk by a university employee. \n(man) The next stop on our campus tour for new freshmen is the university sports complex. This university has extensive sports facilities and is dedicated to providing maximum student access to \nthese facilities. \n\nOn the right you can see the university stadium, which is used for football and soccer as well as track and field. The gymnasium straight ahead contains the arena that is used for basketball and gymnastics. The gymnasium also includes an up-to-date exercise room with a large variety of the latest equipment; the exercise room is open to any student with valid student I.D., not just members of athletic teams. The pool complex is behind the gymnasium, and that is also open for general student use, except when the \nswim team, the diving team, or the water polo team is practicing. \n\nTo the left, you can see the tennis courts and outdoor volleyball courts. It is possible to take instruction classes in these sports, or you are welcome to sign up for court time at the Athletic Department office if you just want to play with some of your friends. \n\nThese are just some of the sports facilities that are available to you here, but I think you can see that this university makes an effort to provide the best opportunity for its students to take part in sports. Now, let's continue on to the Art Center.",
-                            "audioUrl": "",
-                            "label": "Q 43-46"
-                        },
-                        {
-                            "id": "g_ifbdmvog3",
-                            "passage": "(narrator) Listen to a talk given by a professor. \n(woman) Today's lecture is on the difference between the two literary styles of realism and naturalism. These two styles have in common a faithfulness to actual experience and a mistrust of idealism. \n\nAlthough they do have several similarities, realism and naturalism should be clearly differentiated. The realist objectively reports on events, with the accuracy of the description as the prime motive. The naturalist, on the other hand, has more of a philosophic bent; naturalist writings express the writer's philosophy that human actions are determined by natural laws such as heredity and environment.",
-                            "audioUrl": "",
-                            "label": "Q 47-50"
+                            "id": "g_3hrx7oix1",
+                            "passage": "Questions 39-42 \n(narrator) Listen to a talk by a tour guide in the Everglades National Park. \n(man) Today we're going to be taking a tram tour through part of the Everglades National Park. Quite probably we'll be seeing a number of crocodiles sunning themselves by the side of the water or poking their heads up through the water. Needless to say, we will not be getting off the tram at any time until we leave the area because of the danger posed by the crocodiles. \n\nBy the way, you've probably heard of the expression \"crying crocodile tears.\" It is common to say that someone is crying crocodile tears when he or she is pretending to be sad or full of regret. Crocodiles always appear to have tears in their eyes, but they are not crying because of sadness, or even pretended sadness. Instead, a crocodile uses its tear ducts to get rid of extra salt from its body. A crocodile \ndoes not sweat the same way that humans do and must get rid of extra salt through tears. So if you see a crying crocodile, do not think that it's feeling sad; it is basically sweating through its eyes. \n\nLook! Over there on the right. There are two large crocodiles on the water's edge, right next to the fallen trees. You can get out your cameras and take pictures from here on the tram, but no, you cannot get off the tram to get any closer.",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/partc/complate-partc-passage1.mp3",
+                            "label": "Q39-42"
                         }
-                    ],
-                    "passage": "",
-                    "audioUrl": "",
-                    "durationSeconds": 0,
-                    "directionAudioUrl": ""
+                    ]
                 }
             ],
             "instruction": "Time—approximately 35 minutes \n(including the reading of the directions for each part) \n\nIn this section of the test, you will have an opportunity to demonstrate your ability to understand conversations and talks in English. There are three parts to this section. Answer all the questions on the basis of what is stated or implied by the speakers you hear. Do not take notes or write in your test book at any time. Do not turn the pages until you are told to do so. ",
