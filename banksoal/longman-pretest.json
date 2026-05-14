@@ -709,7 +709,7 @@
                                     }
                                 },
                                 {
-                                    "text": "1 The man should locate a typist tomorrow morning.",
+                                    "text": "The man should locate a typist tomorrow morning.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
@@ -723,7 +723,7 @@
                                     }
                                 },
                                 {
-                                    "text": "i The man should complete the paper without help.",
+                                    "text": "The man should complete the paper without help.",
                                     "reason": {
                                         "en": "Correct answer.",
                                         "id": "Jawaban benar."
