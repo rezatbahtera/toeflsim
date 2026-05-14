@@ -633,7 +633,7 @@
                                     }
                                 },
                                 {
-                                    "text": "1 He thinks the papers should be turned in next week.",
+                                    "text": "He thinks the papers should be turned in next week.",
                                     "reason": {
                                         "en": "Correct answer.",
                                         "id": "Jawaban benar."
@@ -671,7 +671,7 @@
                                     }
                                 },
                                 {
-                                    "text": "1 The contractor's work was satisfactory.",
+                                    "text": "The contractor's work was satisfactory.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
