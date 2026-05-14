@@ -1877,7 +1877,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/pretest/pretest-c-parts/pretest-c-question-49.mp3",
                             "passage": "",
                             "question": "49. HOW CAN SOMEONE COMBAT THE NEGATIVE THOUGHTS ASSOCIATED WITH STAGE FRIGHT?",
                             "correctIndex": 3,
@@ -1915,7 +1915,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/pretest/pretest-c-parts/pretest-c-question-50.mp3",
                             "passage": "",
                             "question": "50. WHEN SHOULD THE ACTORS ARRIVE AT THE THEATER?",
                             "correctIndex": 2,
