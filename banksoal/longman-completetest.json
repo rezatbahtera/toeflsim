@@ -1798,6 +1798,158 @@
                                 }
                             ],
                             "groupId": "g_3hrx7oiz1"
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/pretest/pretest-c-parts/pretest-c-question-47.mp3",
+                            "passage": "",
+                            "question": "47. WHO WOULD PROBABLY NOT EXPERIENCE STAGE FRIGHT IN THEIR WORK?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Writers",
+                                    "reason": {
+                                        "en": "Correct answer based on the conversation.",
+                                        "id": "Jawaban benar berdasarkan percakapan."
+                                    }
+                                },
+                                {
+                                    "text": "Actors",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Athletes",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Musicians",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ],
+                            "groupId": "g_o8vy6lyck"
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/pretest/pretest-c-parts/pretest-c-question-48.mp3",
+                            "passage": "",
+                            "question": "48. WHAT PHYSICAL REACTION MIGHT SOMEONE WHO IS EXPERIENCING STAGE FRIGHT COMMONLY HAVE?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "He or she would see butterflies.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He or she would break a leg.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He or she would have shaky knees.",
+                                    "reason": {
+                                        "en": "Correct answer based on the conversation.",
+                                        "id": "Jawaban benar berdasarkan percakapan."
+                                    }
+                                },
+                                {
+                                    "text": "He or she would stop breathing.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ],
+                            "groupId": "g_o8vy6lyck"
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "49. HOW CAN SOMEONE COMBAT THE NEGATIVE THOUGHTS ASSOCIATED WITH STAGE FRIGHT?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "By staring at the audience",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "By breathing shallowly",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "By thinking about possible negative outcomes",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "By focusing on what needs to be done",
+                                    "reason": {
+                                        "en": "Correct answer based on the conversation.",
+                                        "id": "Jawaban benar berdasarkan percakapan."
+                                    }
+                                }
+                            ],
+                            "groupId": "g_o8vy6lyck"
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "50. WHEN SHOULD THE ACTORS ARRIVE AT THE THEATER?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "At two o'clock",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "At four o'clock",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "At six o'clock",
+                                    "reason": {
+                                        "en": "Correct answer based on the conversation.",
+                                        "id": "Jawaban benar berdasarkan percakapan."
+                                    }
+                                },
+                                {
+                                    "text": "At eight o'clock",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ],
+                            "groupId": "g_o8vy6lyck"
                         }
                     ],
                     "groups": [
@@ -1812,6 +1964,12 @@
                             "passage": "(narrator) Listen to the following lecture by a \nuniversity professor. \n(woman) Please take your seats now because I would like to begin today's lecture. Today, we will be discussing one of the more elegant and distinct forms of nineteenth-century transportation—the clipper ship. \n\nClipper ships of the nineteenth century were the graceful, multisailed, oceangoing vessels that were designed for maximum speed. They were given the name \"clipper\" ship in reference to the fact that they \"clipped along\" at such a fast rate of speed. \n\nClipper ships were constructed with a large number of sails in order to maximize their speed. They often had six to eight sails on each of the masts, and ships commonly had three and \nperhaps four masts. The speeds that they achieved were unbelievably fast for the era; clipper ships could, for example, accomplish the amazing feat of traveling from New York to San Francisco in less than a hundred days.\n\nClipper ships first came into use in the United States in the 1840s. They were originally intended to make the trip from New York, around the tip of South America, and on to China in order to transport tea to the United States. Once gold was discovered in California in 1848, clipper ships were immediately put into use to carry large numbers of gold prospectors and large amounts of mining supplies from the East Coast to California. With the success of the American clipper ships, the British began their own fleet of clipper ships to transport goods from the far reaches of the \nBritish Empire. ",
                             "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/partc/complate-partc-passage2.mp3",
                             "label": "Q43-46"
+                        },
+                        {
+                            "id": "g_o8vy6lyck",
+                            "passage": "(narrator) Listen to the following talk by a drama coach to a group of actors. \n\n(man) I know that some of you are feeling more than a little nervous about tonight's performance, and I want you to understand that this is quite a natural feeling. You are going to be on a stage in front of a lot of people tonight, and it's normal to be experiencing some nerves. I would like to help you to understand these feelings and not to let them interfere with your performance. \n\nWhat you are experiencing is called stage fright. Stage fright is the fear that develops before you give a performance in front of an audience. Stage fright is not just experienced by actors and actresses; it can also be experienced by musicians, athletes, teachers—anyone who performs in front of a group of people. It occurs before a performance when a performer is concerned about looking foolish in front of others. Just before tonight's performance, if you are feeling a bit tense, if your knees are shaking, if your stomach has butterflies in it, and if you are thinking about how bad your performance could be, then you have a major case of stage fright. \n\nTo control stage fright, you can work to control both the physical reactions and the negative thoughts. To combat the physical reactions, you can try techniques such as deep breathing, muscle relaxation, or even just laughing to relieve some of the pressure. To combat the negative thoughts, you should force yourself to focus on what you have to do rather than on what other people are going to think. \n\nThat's all I have to say for now. I'll see you back here at six o'clock because the performance starts at eight o'clock. Just remember that if you begin to feel at all nervous, try some deep breathing to relax and focus your thoughts on the performance that you are about to give. See you his evening.",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/pretest/pretest-c-parts/pretest-c-dialog-03.mp3",
+                            "label": "Q47-50"
                         }
                     ],
                     "passage": "",
