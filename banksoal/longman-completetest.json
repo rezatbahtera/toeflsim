@@ -1646,6 +1646,154 @@
                                 }
                             ],
                             "groupId": "g_3hrx7oix1"
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "43. IN WHICH COURSE WOULD THIS LECTURE MOST PROBABLY BE GIVEN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "Water Sports",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Physics",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "American History",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "Psychology",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "44. WHAT IS THE MOST LIKELY MEANING OF THE EXPRESSION \"TO CLIP ALONG\"?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "To cut",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "To move fast",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "To steer a boat",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "To build a ship",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "45. WHAT WERE CLIPPER SHIPS FIRST USED FOR IN THE UNITED STATES?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "To bring tea from China",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "To transport gold to California",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "To trade with the British",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "To sail the American river system",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "46. WHAT DOES THE PROFESSOR REMIND THE STUDENTS ABOUT?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "A reading assignment",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "A quiz on Friday",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "A research paper for the end of the semester",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Some written homework",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
                         }
                     ],
                     "groups": [
