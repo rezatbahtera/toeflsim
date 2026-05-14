@@ -8,11 +8,11 @@
             "parts": [
                 {
                     "title": "Part A",
-                    "instruction": "In Part A you will hear short conversations between two people. After each conversation, you will hear a question about the conversation. The conversations and questions will not be repeated. After you hear a question, read the four possible answers in your test book and choose the best answer. Then, on your answer sheet, find the number of the question and fill in the space that corresponds to the letter of the answer you have chosen.",
+                    "instruction": "Directions: In Part A you will hear short conversations between two people. After each conversation, you will hear a question about the conversation. The conversations and questions will not be repeated. After you hear a question, read the four possible answers in your test book and choose the best answer. Then, on your answer sheet, find the number of the question and fill in the space that corresponds to the letter of the answer you have chosen. \n\nListen to an example. \n\nOn the recording, you hear: \n(man) That exam was just awful. \n(woman) Oh, it could have been worse. \n(narrator) What does the woman mean? \n\nIn your test book, you read: \n(A) The exam was really awful. \n(B) It was the worst exam she had ever seen. \n(C) It couldn't have been more difficult. \n(D) It wasn't that hard. \n\nYou learn from the conversation that the man thought the exam was very difficult and that the woman disagreed with the man. The best answer to the question, \"What does the woman mean?\" is (D), \"It wasn't that hard.\" Therefore, the correct choice is (D). ",
                     "questions": [
                         {
                             "timeLimitSeconds": 25,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/parta/complate-parta-01.mp3",
                             "passage": "M: Carla said that you were rather rude.\nW: It's unfair of her to say that about me.",
                             "question": "WHAT DOES THE MAN MEAN?",
                             "correctIndex": 1,
@@ -50,7 +50,7 @@
                         },
                         {
                             "timeLimitSeconds": 25,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/parta/complate-parta-02.mp3",
                             "passage": "M: I don't think this painting is very good.\nW: It's better than the first one, isn't it?",
                             "question": "WHAT DOES THE WOMAN SAY ABOUT THE PAINTING?",
                             "correctIndex": 0,
@@ -88,7 +88,7 @@
                         },
                         {
                             "timeLimitSeconds": 25,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/parta/complate-parta-03.mp3",
                             "passage": "W: Your graduation ceremony is this afternoon.\nM: I can't believe it. I've graduated at last!",
                             "question": "WHAT DOES THE MAN MEAN?",
                             "correctIndex": 3,
@@ -126,7 +126,7 @@
                         },
                         {
                             "timeLimitSeconds": 25,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/parta/complate-parta-04.mp3",
                             "passage": "W: I got this dress for only five dollars!\nM: Five dollars! How did you get it so cheap?",
                             "question": "WHAT DOES THE MAN MEAN?",
                             "correctIndex": 1,
@@ -164,7 +164,7 @@
                         },
                         {
                             "timeLimitSeconds": 25,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/parta/complate-parta-05.mp3",
                             "passage": "W: I just got my third parking ticket this week.\nM: Why don't you try putting more money in the parking meter when you park your car?",
                             "question": "WHAT DOES THE WOMAN SUGGEST THAT THE MAN DO?",
                             "correctIndex": 2,
@@ -202,7 +202,7 @@
                         },
                         {
                             "timeLimitSeconds": 25,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/parta/complate-parta-06.mp3",
                             "passage": "W: Were you able to get hold of the book that you wanted?\nM: I couldn't. At the bookstore, they told me that it wasn't available yet.",
                             "question": "WHAT DOES THE MAN MEAN?",
                             "correctIndex": 2,
@@ -240,7 +240,7 @@
                         },
                         {
                             "timeLimitSeconds": 25,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/parta/complate-parta-07.mp3",
                             "passage": "W: Professor Mitchell's lecture certainly went on and on for quite some time.\nM: I thought he was never going to finish.",
                             "question": "WHAT DOES THE MAN IMPLY ABOUT THE LECTURE?",
                             "correctIndex": 3,
@@ -278,7 +278,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/parta/complate-parta-08.mp3",
                             "passage": "M: You don't have the notes from yester day's physics class? \nW: No, I don't. Do you think I could borrow yours?",
                             "question": "WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 0,
@@ -316,7 +316,7 @@
                         },
                         {
                             "timeLimitSeconds": 25,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/parta/complate-parta-09.mp3",
                             "passage": "M: You said that you wanted to go shopping this afternoon. What do you want to get?\nW: I think I'd like to get my dad a new wallet for his birthday.",
                             "question": "WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 1,
@@ -354,7 +354,7 @@
                         },
                         {
                             "timeLimitSeconds": 25,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/parta/complate-parta-10.mp3",
                             "passage": "W: You didn't go into the pool, even for a quick dip?\nM: I put my big toe in and decided that the water was too cold for me.",
                             "question": "WHAT DOES THE MAN MEAN?",
                             "correctIndex": 3,
@@ -392,7 +392,7 @@
                         },
                         {
                             "timeLimitSeconds": 25,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/parta/complate-parta-11.mp3",
                             "passage": "M: Do you know where your sweater is?\nW think I left it at my sister's house, but I'm not sure.",
                             "question": "WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 2,
@@ -430,7 +430,7 @@
                         },
                         {
                             "timeLimitSeconds": 25,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/parta/complate-parta-12.mp3",
                             "passage": "M: I need for you to work on these new accounting reports.\nW: But I scarcely have time to finish the ones I already have.",
                             "question": "WHAT DOES THE WOMAN IMPLY?",
                             "correctIndex": 0,
@@ -468,7 +468,7 @@
                         },
                         {
                             "timeLimitSeconds": 25,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/parta/complate-parta-13.mp3",
                             "passage": "W: How much longer do you think you're going to stay on that exercise machine?\nM: I give up!",
                             "question": "WHAT DOES THE MAN MEAN?",
                             "correctIndex": 0,
@@ -506,7 +506,7 @@
                         },
                         {
                             "timeLimitSeconds": 25,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/parta/complate-parta-14.mp3",
                             "passage": "W: Look at those waves coming in. They're as huge as I've ever seen them.\nM: You can say that again!",
                             "question": "WHAT DOES THE MAN MEAN?",
                             "correctIndex": 3,
@@ -544,7 +544,7 @@
                         },
                         {
                             "timeLimitSeconds": 25,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/parta/complate-parta-15.mp3",
                             "passage": "M: Are you ready for the political science exam today? I stayed up all night studying for it.\nW: Didn't you know that the professor put it off until next week?",
                             "question": "WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 0,
@@ -582,7 +582,7 @@
                         },
                         {
                             "timeLimitSeconds": 25,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/parta/complate-parta-16.mp3",
                             "passage": "W: I haven't turned in my schedule change form yet. Do you think that's a problem?\nM: You haven't turned it in yet? It's absolutely essential that you turn the form in immediately.",
                             "question": "WHAT DOES THE MAN MEAN?",
                             "correctIndex": 2,
@@ -620,7 +620,7 @@
                         },
                         {
                             "timeLimitSeconds": 25,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/parta/complate-parta-17.mp3",
                             "passage": "W: I'd like to try on some rings, please.\nM: Do you prefer rings in gold or silver?",
                             "question": "WHERE DOES THIS CONVERSATION PROBABLY TAKE PLACE?",
                             "correctIndex": 1,
@@ -658,7 +658,7 @@
                         },
                         {
                             "timeLimitSeconds": 25,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/parta/complate-parta-18.mp3",
                             "passage": "M: Look at this. You made an awful lot of long distance calls last month.\nW: I called my family even more than usual. That's why the bill's so much higher than usual.",
                             "question": "WHAT ARE THE MAN AND WOMAN PROBABLY DISCUSSING?",
                             "correctIndex": 1,
@@ -696,7 +696,7 @@
                         },
                         {
                             "timeLimitSeconds": 25,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/parta/complate-parta-19.mp3",
                             "passage": "M: What do you think of your new boss?\nW: I couldn't be more impressed with him.",
                             "question": "WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 1,
@@ -734,7 +734,7 @@
                         },
                         {
                             "timeLimitSeconds": 25,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/parta/complate-parta-20.mp3",
                             "passage": "W: Mike, do you know when the recital starts?\nM: It starts at three o'clock, doesn't it?",
                             "question": "WHAT DOES MIKE MEAN?",
                             "correctIndex": 3,
@@ -772,7 +772,7 @@
                         },
                         {
                             "timeLimitSeconds": 25,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/parta/complate-parta-21.mp3",
                             "passage": "W: If your tooth is hurting you so much, perhaps you should see your dentist right away.\nM: I don't really want to, but I guess I don't have much choice.",
                             "question": "WHAT WILL THE MAN PROBABLY DO NEXT?",
                             "correctIndex": 2,
@@ -810,7 +810,7 @@
                         },
                         {
                             "timeLimitSeconds": 25,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/parta/complate-parta-22.mp3",
                             "passage": "M: I need to buy some stamps.\nW: Then you'd better get to the post office quickly, because it closes at five o'clock.",
                             "question": "WHAT CAN BE INFERRED FROM THE CONVERSATION?",
                             "correctIndex": 0,
@@ -848,7 +848,7 @@
                         },
                         {
                             "timeLimitSeconds": 25,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/parta/complate-parta-23.mp3",
                             "passage": "W: Do you know how I can find the journal article that we're supposed to read for class tomorrow?\nM: The professor copied it and put it on reserve in the library.",
                             "question": "WHAT DOES THE MAN MEAN?",
                             "correctIndex": 0,
@@ -886,7 +886,7 @@
                         },
                         {
                             "timeLimitSeconds": 25,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/parta/complate-parta-24.mp3",
                             "passage": "W: I really think you should try to be a little calmer.\nM: If I were any calmer, I'd be asleep.",
                             "question": "WHAT DOES THE MAN MEAN?",
                             "correctIndex": 3,
@@ -924,7 +924,7 @@
                         },
                         {
                             "timeLimitSeconds": 25,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/parta/complate-parta-25.mp3",
                             "passage": "M: I don't think that news report can possibly be true.\nW: Neither do I!",
                             "question": "WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 3,
@@ -962,7 +962,7 @@
                         },
                         {
                             "timeLimitSeconds": 25,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/parta/complate-parta-26.mp3",
                             "passage": "W: Has management decided on a new policy for pay raises?\nM: It's still up in the air. I think it will be discussed again at the meeting next Friday.",
                             "question": "WHAT DOES THE MAN MEAN?",
                             "correctIndex": 1,
@@ -1000,7 +1000,7 @@
                         },
                         {
                             "timeLimitSeconds": 25,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/parta/complate-parta-27.mp3",
                             "passage": "W: I can't believe it's snowing today.\nM: It wasn't exactly unexpected.",
                             "question": "WHAT DOES THE MAN MEAN?",
                             "correctIndex": 1,
@@ -1038,7 +1038,7 @@
                         },
                         {
                             "timeLimitSeconds": 25,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/parta/complate-parta-28.mp3",
                             "passage": "M: How do you think you did on the literature exam that you had this morning?\nW: I really wish I could take it over again.",
                             "question": "WHAT DOES THE WOMAN IMPLY?",
                             "correctIndex": 3,
@@ -1076,7 +1076,7 @@
                         },
                         {
                             "timeLimitSeconds": 25,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/parta/complate-parta-29.mp3",
                             "passage": "W: You didn't have to wait outside. You could've just opened the door and walked right in.\nM: So the door was not locked!",
                             "question": "WHAT HAD THEMAN ASSUMED?",
                             "correctIndex": 2,
@@ -1114,7 +1114,7 @@
                         },
                         {
                             "timeLimitSeconds": 25,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/parta/complate-parta-30.mp3",
                             "passage": "M: My guess is that you're leaving the office now and heading straight home.\nW: You've hit the nail on the head!",
                             "question": "WHAT DOES THE WOMAN SAY ABOUT THE MAN?",
                             "correctIndex": 3,
@@ -1155,7 +1155,7 @@
                     "passage": "",
                     "audioUrl": "",
                     "durationSeconds": 0,
-                    "directionAudioUrl": ""
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/direction-parta.mp3"
                 },
                 {
                     "title": "Part B ",
