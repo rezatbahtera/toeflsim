@@ -1649,7 +1649,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/pretest/pretest-c-parts/pretest-c-question-43.mp3",
                             "passage": "",
                             "question": "43. IN WHICH COURSE WOULD THIS LECTURE MOST PROBABLY BE GIVEN?",
                             "correctIndex": 2,
@@ -1687,7 +1687,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/pretest/pretest-c-parts/pretest-c-question-44.mp3",
                             "passage": "",
                             "question": "44. WHAT IS THE MOST LIKELY MEANING OF THE EXPRESSION \"TO CLIP ALONG\"?",
                             "correctIndex": 1,
@@ -1725,7 +1725,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/pretest/pretest-c-parts/pretest-c-question-45.mp3",
                             "passage": "",
                             "question": "45. WHAT WERE CLIPPER SHIPS FIRST USED FOR IN THE UNITED STATES?",
                             "correctIndex": 3,
@@ -1763,7 +1763,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/pretest/pretest-c-parts/pretest-c-question-46.mp3",
                             "passage": "",
                             "question": "46. WHAT DOES THE PROFESSOR REMIND THE STUDENTS ABOUT?",
                             "correctIndex": 3,
@@ -1809,11 +1809,15 @@
                         },
                         {
                             "id": "g_3hrx7oiz1",
-                            "passage": "Questions 39-42 \n(narrator) Listen to a talk by a tour guide in the Everglades National Park. \n(man) Today we're going to be taking a tram tour through part of the Everglades National Park. Quite probably we'll be seeing a number of crocodiles sunning themselves by the side of the water or poking their heads up through the water. Needless to say, we will not be getting off the tram at any time until we leave the area because of the danger posed by the crocodiles. \n\nBy the way, you've probably heard of the expression \"crying crocodile tears.\" It is common to say that someone is crying crocodile tears when he or she is pretending to be sad or full of regret. Crocodiles always appear to have tears in their eyes, but they are not crying because of sadness, or even pretended sadness. Instead, a crocodile uses its tear ducts to get rid of extra salt from its body. A crocodile \ndoes not sweat the same way that humans do and must get rid of extra salt through tears. So if you see a crying crocodile, do not think that it's feeling sad; it is basically sweating through its eyes. \n\nLook! Over there on the right. There are two large crocodiles on the water's edge, right next to the fallen trees. You can get out your cameras and take pictures from here on the tram, but no, you cannot get off the tram to get any closer.",
+                            "passage": "(narrator) Listen to the following lecture by a \nuniversity professor. \n(woman) Please take your seats now because I would like to begin today's lecture. Today, we will be discussing one of the more elegant and distinct forms of nineteenth-century transportation—the clipper ship. \n\nClipper ships of the nineteenth century were the graceful, multisailed, oceangoing vessels that were designed for maximum speed. They were given the name \"clipper\" ship in reference to the fact that they \"clipped along\" at such a fast rate of speed. \n\nClipper ships were constructed with a large number of sails in order to maximize their speed. They often had six to eight sails on each of the masts, and ships commonly had three and \nperhaps four masts. The speeds that they achieved were unbelievably fast for the era; clipper ships could, for example, accomplish the amazing feat of traveling from New York to San Francisco in less than a hundred days.\n\nClipper ships first came into use in the United States in the 1840s. They were originally intended to make the trip from New York, around the tip of South America, and on to China in order to transport tea to the United States. Once gold was discovered in California in 1848, clipper ships were immediately put into use to carry large numbers of gold prospectors and large amounts of mining supplies from the East Coast to California. With the success of the American clipper ships, the British began their own fleet of clipper ships to transport goods from the far reaches of the \nBritish Empire. ",
                             "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/partc/complate-partc-passage2.mp3",
                             "label": "Q43-46"
                         }
-                    ]
+                    ],
+                    "passage": "",
+                    "audioUrl": "",
+                    "directionAudioUrl": "",
+                    "durationSeconds": 0
                 }
             ],
             "instruction": "Time—approximately 35 minutes \n(including the reading of the directions for each part) \n\nIn this section of the test, you will have an opportunity to demonstrate your ability to understand conversations and talks in English. There are three parts to this section. Answer all the questions on the basis of what is stated or implied by the speakers you hear. Do not take notes or write in your test book at any time. Do not turn the pages until you are told to do so. ",
