@@ -1317,153 +1317,153 @@
                             "timeLimitSeconds": 0,
                             "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/partb/complate-partb-soal35.mp3",
                             "passage": "",
-                            "question": "35. WHERE DID THE WOMAN LEARN ABOUT DOLPHINS?",
-                            "correctIndex": 2,
+                            "question": "35. HOW OFTEN DOES THE MAN USUALLY TALK TO HIS GREAT- GRANDMOTHER?",
+                            "correctIndex": 1,
                             "options": [
                                 {
-                                    "text": "In a book",
+                                    "text": "Every evening",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "From a television program",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "During a trip that she took",
+                                    "text": "Every week",
                                     "reason": {
                                         "en": "Correct answer based on the conversation.",
                                         "id": "Jawaban benar berdasarkan percakapan."
                                     }
                                 },
                                 {
-                                    "text": "From a lecture",
+                                    "text": "Every Sunday",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Every month",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 }
                             ],
-                            "groupId": "g_ey2b5i2ug"
+                            "groupId": "g_zw7ao1eju"
                         },
                         {
                             "timeLimitSeconds": 0,
                             "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/partb/complate-partb-soal36.mp3",
                             "passage": "",
-                            "question": "36. WHY DO DOLPHINS USE CLICKS?",
+                            "question": "36. WHAT DID THE MAN'S GREAT-GRANDMOTHER TELL HIM ON THE PHONE THIS MORNING?",
                             "correctIndex": 1,
                             "options": [
                                 {
-                                    "text": "To communicate with other dolphins",
+                                    "text": "That she was eighty-five years old",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "To recognize objects in the water",
+                                    "text": "That a storm was coming",
                                     "reason": {
                                         "en": "Correct answer based on the conversation.",
                                         "id": "Jawaban benar berdasarkan percakapan."
                                     }
                                 },
                                 {
-                                    "text": "To learn human language",
+                                    "text": "That she was under a great deal of pressure",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "To express fear",
+                                    "text": "That she wanted to become a weather forecaster",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 }
                             ],
-                            "groupId": "g_ey2b5i2ug"
+                            "groupId": "g_zw7ao1eju"
                         },
                         {
                             "timeLimitSeconds": 0,
                             "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/partb/complate-partb-soal37.mp3",
                             "passage": "",
-                            "question": "37. APPROXIMATELYHOW MANY HUMAN COMMANDS HAVE SOME DOLPHINS LEARNED?",
-                            "correctIndex": 2,
+                            "question": "37. WHERE DOES THE MAN'S GREAT-GRANDMOTHER SAY THAT SHE FEELS A STORM COMING?",
+                            "correctIndex": 0,
                             "options": [
                                 {
-                                    "text": "Five",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "Fifteen",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "Fifty",
+                                    "text": "In her bones",
                                     "reason": {
                                         "en": "Correct answer based on the conversation.",
                                         "id": "Jawaban benar berdasarkan percakapan."
                                     }
                                 },
                                 {
-                                    "text": "Five hundred",
+                                    "text": "In her ears",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "In her legs",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "In her head",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 }
                             ],
-                            "groupId": "g_ey2b5i2ug"
+                            "groupId": "g_zw7ao1eju"
                         },
                         {
                             "timeLimitSeconds": 0,
                             "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/partb/complate-partb-soal38.mp3",
                             "passage": "",
-                            "question": "38. WHAT DOES THE MAN SAY ABOUT DOLPHIN INTELLIGENCE?",
+                            "question": "38. WHAT WILL THE MAN PROBABLY DO IN THE FUTURE?",
                             "correctIndex": 3,
                             "options": [
                                 {
-                                    "text": "It is limited.",
+                                    "text": "Call his great-grandmother less often",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "It is greater than human intelligence.",
+                                    "text": "Watch the weather forecasts with his great-grandmother",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "It is less than previously thought.",
+                                    "text": "Help his great-grandmother relieve some of her pressures",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "We are beginning to learn how much they have.",
+                                    "text": "Believe his great-grandmother's predictions about the weather",
                                     "reason": {
                                         "en": "Correct answer based on the conversation.",
                                         "id": "Jawaban benar berdasarkan percakapan."
                                     }
                                 }
                             ],
-                            "groupId": "g_ey2b5i2ug"
+                            "groupId": "g_zw7ao1eju"
                         }
                     ],
                     "groups": [
@@ -1480,8 +1480,8 @@
                             "label": "Q 31-34"
                         },
                         {
-                            "id": "g_ey2b5i2ug",
-                            "passage": "Listen to a conversation between two friends. \nw: Wasn't that a fascinating lecture on dolphins? I didn't know that dolphins traveled in such large groups, or were able to communicate with other members of their group with those whistlelike sounds. \nM: And they also use clicks as a sort of sonar. \nw: I really couldn't understand that part of the lecture. You could? \nM: Yes, the dolphins use clicks to identify objects in the water; they can even identify tiny objects more than 100 meters away using these clicks. Scientists believe that a dolphin may even have a sonar-like image in its brain of a distant object so that it can identify the object long before the dolphin can actually see the object. \nw: So the dolphins use these clicks mostly to identify objects in the water? \nM: I think so, and they have considerably more ability to do this than humans do. \nw: It is hard to believe that, in addition to these sonar clicks, dolphins are actually learning some human language. \nM: Yes, I believe that the lecturer said that some dolphins had already learned around fifty human commands, and that those dolphins were able to understand not only individual words but words clustered together in sentences! \nw: Dolphins must certainly be amazing animals to do all of that. \nM:  I'm sure they are, and we're only just beginning to find out how intelligent they are.",
+                            "id": "g_zw7ao1eju",
+                            "passage": "(narrator) Listen to a conversation about a man's great-grandmother. \n(man) I talked to my great-grandmother on the phone this morning. \n(woman) Your great-grandmother? Do you talk with her often? \n(man) I try to call her at least once a week. She's a really wonderful woman, and she's over eighty-five years old. I enjoy talking to her, because she's so understanding and because she gives me \ngood advice. \n(woman) What advice did she have for you today? \n(man) (laughs) She told me to be careful because a big storm is coming.  \n(woman) She said that a big storm is coming? Is she a weather forecaster? \n(man) Not exactly. She says that she can feel it in her bones when a storm is coming. I know it sounds funny, but when she feels it in her bones that a storm is coming, she's usually right. \n(woman) That's not actually so funny. When people get older, the tissue around their joints can become stiff and swollen. Just before a storm, the air pressure often drops, and this drop in air pressure can cause additional pressure and pain in swollen joints. So when your great-grandmother tells you she thinks a storm is coming, she probably has some aching in her joints from the decreasing air pressure. \n(man) Then, I had better pay more attention to my great-grandmother's weather forecasts!",
                             "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/partb/complate-partb-01-dialog-35-38.mp3",
                             "label": "Q35-38"
                         }
