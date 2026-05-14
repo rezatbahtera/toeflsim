@@ -752,6 +752,16 @@
             </button>
         </div>
         <div class="p-5 space-y-4">
+
+            <div>
+                <label class="block text-xs font-bold text-slate-600 mb-1 uppercase">GitHub Repository (owner/repo)</label>
+                <input type="text" id="gh-repo-input" class="w-full px-3 py-2 text-sm border border-slate-300 rounded-lg focus:ring-blue-500 focus:border-blue-500 font-mono" placeholder="contoh: rezatbahtera/toeflsim">
+            </div>
+
+            <div>
+                <label class="block text-xs font-bold text-slate-600 mb-1 uppercase">Nama / Email Editor</label>
+                <input type="text" id="gh-author-input" class="w-full px-3 py-2 text-sm border border-slate-300 rounded-lg focus:ring-blue-500 focus:border-blue-500 font-sans" placeholder="Misal: Resa atau resa@email.com">
+            </div>
             <div>
                 <label class="block text-xs font-bold text-slate-600 mb-1 uppercase">GitHub PAT (Token)</label>
                 <input type="password" id="gh-pat-input" class="w-full px-3 py-2 text-sm border border-slate-300 rounded-lg focus:ring-blue-500 focus:border-blue-500 font-mono" placeholder="ghp_xxxxxxxxxxxxxxxxx">
@@ -4327,7 +4337,7 @@ QUESTIONS:
          * Fungsi Utama untuk Save ke GitHub Repo
          */
         /**
-         * Membuka Modal GitHub Save
+         * Membuka Modal GitHub Save dan memuat data yang tersimpan
          */
         function handleGithubSave() {
             if (!testData || !testData.sections || testData.sections.length === 0) {
@@ -4335,19 +4345,21 @@ QUESTIONS:
                 return;
             }
             
-            // Set field input modal
             document.getElementById('gh-current-filename').value = currentActiveFilename;
-            // Otomatis kasih saran nama untuk file baru (tambah "-copy")
             document.getElementById('gh-new-filename').value = currentActiveFilename.includes('.json') 
                 ? currentActiveFilename.replace('.json', '-copy.json') 
                 : currentActiveFilename + '-copy.json';
 
-            // Ambil token dari memori browser jika pernah disimpan
+            // Ambil data dari memori browser
             const savedToken = localStorage.getItem('toeflsim_github_pat');
-            if (savedToken) {
-                document.getElementById('gh-pat-input').value = savedToken;
-                document.getElementById('gh-save-pat').checked = true;
-            }
+            const savedRepo = localStorage.getItem('toeflsim_github_repo');
+            const savedAuthor = localStorage.getItem('toeflsim_github_author'); // Memori baru
+            
+            if (savedToken) document.getElementById('gh-pat-input').value = savedToken;
+            if (savedAuthor) document.getElementById('gh-author-input').value = savedAuthor;
+            document.getElementById('gh-repo-input').value = savedRepo || 'rezatbahtera/toeflsim';
+            
+            if (savedToken || savedRepo || savedAuthor) document.getElementById('gh-save-pat').checked = true;
 
             document.getElementById('github-save-modal').classList.remove('hidden');
         }
@@ -4360,37 +4372,51 @@ QUESTIONS:
          * Mengeksekusi API Push ke GitHub
          * @param {string} mode - 'update' atau 'new'
          */
+        /**
+         * Eksekusi simpan dengan custom Commit Message
+         */
         async function executeGithubSave(mode) {
             const token = document.getElementById('gh-pat-input').value.trim();
-            if (!token) { alert("PAT Token wajib diisi!"); return; }
-
-            // Simpan token ke localStorage jika checkbox dicentang
-            if (document.getElementById('gh-save-pat').checked) {
-                localStorage.setItem('toeflsim_github_pat', token);
-            } else {
-                localStorage.removeItem('toeflsim_github_pat');
+            const fullRepoPath = document.getElementById('gh-repo-input').value.trim();
+            const authorName = document.getElementById('gh-author-input').value.trim() || 'Anonim'; // Default jika kosong
+            
+            if (!token || !fullRepoPath) { 
+                alert("Token dan Repository Path wajib diisi!"); 
+                return; 
             }
 
-            // Tentukan nama file yang dipakai
+            // Simpan ke localStorage jika dicentang
+            if (document.getElementById('gh-save-pat').checked) {
+                localStorage.setItem('toeflsim_github_pat', token);
+                localStorage.setItem('toeflsim_github_repo', fullRepoPath);
+                localStorage.setItem('toeflsim_github_author', authorName);
+            } else {
+                localStorage.removeItem('toeflsim_github_pat');
+                localStorage.removeItem('toeflsim_github_repo');
+                localStorage.removeItem('toeflsim_github_author');
+            }
+
             let filename = mode === 'update' 
                 ? document.getElementById('gh-current-filename').value.trim() 
                 : document.getElementById('gh-new-filename').value.trim();
 
-            if (!filename) { alert("Nama file tidak boleh kosong!"); return; }
             if (!filename.endsWith(".json")) filename += ".json";
 
             const btn = mode === 'update' ? document.getElementById('btn-gh-update') : document.getElementById('btn-gh-new');
             const originalText = btn.innerText;
-            btn.innerText = "Tunggu...";
+            btn.innerText = "Processing...";
             btn.disabled = true;
 
-            const owner = 'rezatbahtera';
-            const repo = 'toeflsim';
+            const [owner, repo] = fullRepoPath.split('/');
+            if (!owner || !repo) {
+                alert("Format Repository salah. Gunakan format 'username/nama-repo'");
+                btn.innerText = originalText; btn.disabled = false; return;
+            }
+
             const path = `banksoal/${filename}`;
             const url = `https://api.github.com/repos/${owner}/${repo}/contents/${path}`;
 
             try {
-                // Cek file lama
                 const checkRes = await fetch(url, { headers: { 'Authorization': `Bearer ${token}` } });
                 let fileSha = null;
                 if (checkRes.ok) {
@@ -4398,9 +4424,8 @@ QUESTIONS:
                     fileSha = oldFileData.sha;
                 }
 
-                // Peringatan jika 'Save New' tapi namanya sudah dipakai
                 if (mode === 'new' && fileSha) {
-                    if (!confirm(`File "${filename}" sudah ada di repositori. Ingin menimpanya?`)) {
+                    if (!confirm(`File "${filename}" sudah ada. Ingin menimpa?`)) {
                         btn.innerText = originalText; btn.disabled = false; return;
                     }
                 }
@@ -4408,7 +4433,9 @@ QUESTIONS:
                 const contentString = JSON.stringify(testData, null, 4);
                 const base64Content = btoa(unescape(encodeURIComponent(contentString)));
 
-                // Proses Push
+                // PESAN COMMIT KUSTOM DIMASUKKAN DI SINI
+                const commitMessage = `Update bank soal: ${filename} (oleh: ${authorName})`;
+
                 const saveRes = await fetch(url, {
                     method: 'PUT',
                     headers: {
@@ -4416,26 +4443,25 @@ QUESTIONS:
                         'Content-Type': 'application/json'
                     },
                     body: JSON.stringify({
-                        message: `Update bank soal: ${filename} via Web App`,
+                        message: commitMessage,
                         content: base64Content,
-                        sha: fileSha, // Wajib ada untuk Update, kosong untuk Create
+                        sha: fileSha,
                         branch: "main"
                     })
                 });
 
                 if (saveRes.ok) {
-                    currentActiveFilename = filename; // Update memori aplikasi
-                    showNotification(`Berhasil! File ${filename} tersimpan di GitHub.`, "success");
+                    currentActiveFilename = filename;
+                    showNotification(`Tersimpan di ${fullRepoPath}`, "success");
                     closeGithubModal();
                 } else {
                     const err = await saveRes.json();
-                    alert("Gagal menyimpan: " + err.message);
+                    alert("Error GitHub: " + err.message);
                 }
             } catch (e) {
-                alert("Kesalahan sistem: " + e.message);
+                alert("Koneksi gagal: " + e.message);
             } finally {
-                btn.innerText = originalText;
-                btn.disabled = false;
+                btn.innerText = originalText; btn.disabled = false;
             }
         }
     </script>
