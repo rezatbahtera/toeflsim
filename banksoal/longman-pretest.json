@@ -12,7 +12,7 @@
                     "questions": [
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-a/pretest-a-01-dialog.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-a-parts/pretest-a-01-dialog.mp3?v=1",
                             "passage": "W: Are you enjoying your coffee?\nM: It tastes extremely bitter this morning!",
                             "question": "1. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 2,
@@ -50,7 +50,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-a/pretest-a-02-dialog.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-a-parts/pretest-a-02-dialog.mp3?v=1",
                             "passage": "W: Can you tell me how often the philosophy class meets?\nM: It meets twice a week, for an hour and a half each time.",
                             "question": "2. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 1,
@@ -88,7 +88,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-a/pretest-a-03-dialog.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-a-parts/pretest-a-03-dialog.mp3?v=1",
                             "passage": "I'm tired of just sitting here!\nM: W: Relax. I'm sure that the flight will depart within a few minutes.",
                             "question": "3. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 3,
@@ -126,7 +126,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-a/pretest-a-04-dialog.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-a-parts/pretest-a-04-dialog.mp3?v=1",
                             "passage": "W: The science project is due next week.\nM: I suppose I'll have to start working on it now.",
                             "question": "4. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 0,
@@ -164,7 +164,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-a/pretest-a-05-dialog.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-a-parts/pretest-a-05-dialog.mp3?v=1",
                             "passage": "M: I'd like to order a dozen roses. Do you deliver?\nW: Yes. We can deliver anywhere in the city by this afternoon.",
                             "question": "5. WHERE DOES THIS CONVERSATION PROBABLY TAKE PLACE?",
                             "correctIndex": 1,
@@ -202,7 +202,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-a/pretest-a-06-dialog.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-a-parts/pretest-a-06-dialog.mp3?v=1",
                             "passage": "W: Did you enjoy the biology lecture?\nM: The professor droned on and on about cell division.",
                             "question": "6. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 1,
@@ -240,7 +240,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-a/pretest-a-07-dialog.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-a-parts/pretest-a-07-dialog.mp3?v=1",
                             "passage": "M: What do I need to cash a check?\nW: I have to see a driver's license and a credit card.",
                             "question": "7. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 1,
@@ -278,7 +278,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-a/pretest-a-08-dialog.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-a-parts/pretest-a-08-dialog.mp3?v=1",
                             "passage": "W: Have you been able to find an apartment yet?\nM: It's difficult to find affordable housing in New York.",
                             "question": "8. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 0,
@@ -316,7 +316,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-a/pretest-a-09-dialog.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-a-parts/pretest-a-09-dialog.mp3?v=1",
                             "passage": "W: Why were you so late in getting home from work?\nM: My boss had me finish all the month-end reports.",
                             "question": "9. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 2,
@@ -354,7 +354,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-a/pretest-a-10-dialog.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-a-parts/pretest-a-10-dialog.mp3?v=1",
                             "passage": "M: Ms. Jones did not look too happy as she left her classroom.\nW: She was angered by her rowdy students.",
                             "question": "10. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 0,
@@ -392,7 +392,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-a/pretest-a-11-dialog.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-a-parts/pretest-a-11-dialog.mp3?v=1",
                             "passage": "W: The prices at this store are really outrageous!\nM: You can say that again!",
                             "question": "11. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 3,
@@ -430,7 +430,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-a/pretest-a-12-dialog.mp3v",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-a-parts/pretest-a-12-dialog.mp3?v=1",
                             "passage": "W: I don't like this weather very much.\nM: We haven't see rain like this for many years!",
                             "question": "12. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 0,
@@ -468,7 +468,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-a/pretest-a-13-dialog.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-a-parts/pretest-a-13-dialog.mp3?v=1",
                             "passage": "M: Professor Martin, what do you think of the composition that I turned in last week?\nW: Without question, you need to improve the quality of your writing.",
                             "question": "13. WHAT DOES PROFESSOR MARTIN SAY ABOUT THE STUDENT?",
                             "correctIndex": 1,
@@ -506,7 +506,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-a/pretest-a-14-dialog.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-a-parts/pretest-a-14-dialog.mp3?v=1",
                             "passage": "W: Where should I go next?\nM: You must stand in this line so that the agent can check your passport.\n(D: I He can check her passport instead of the agent.",
                             "question": "14. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 2,
@@ -544,7 +544,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-a/pretest-a-15-dialog.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-a-parts/pretest-a-15-dialog.mp3?v=1",
                             "passage": "M: Did Paul get his work done?\nW: He couldn't finish the assignment because the library was closed.",
                             "question": "15. WHAT DOES THE WOMAN SAY ABOUT PAUL?",
                             "correctIndex": 3,
@@ -582,7 +582,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-a/pretest-a-16-dialog.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-a-parts/pretest-a-16-dialog.mp3?v=1",
                             "passage": "W: The lawyer spent hours and hours working on that case.\nM: It's true that he prepared hard for the case, but his work was for nothing.",
                             "question": "16. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 0,
@@ -620,7 +620,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-a/pretest-a-17-dialog.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-a-parts/pretest-a-17-dialog.mp3?v=1",
                             "passage": "W: Do you know when the papers for Professor Jenkins' history class are due?\nM: They're due next week, aren't they?",
                             "question": "17 WHAT DOES THE MAN MEAN?",
                             "correctIndex": 1,
@@ -658,7 +658,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-a/pretest-a-18-dialog.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-a-parts/pretest-a-18-dialog.mp3?v=1",
                             "passage": "W: Are you happy with the work that the contractor did on your house?\nM: I'm rather dissatisfied with it.",
                             "question": "18. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 0,
@@ -696,7 +696,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-a/pretest-a-19-dialog.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-a-parts/pretest-a-19-dialog.mp3?v=1",
                             "passage": "M: I can't find a typist to finish my term paper by tomorrow morning.\nW: Why not do it yourself?",
                             "question": "19. WHAT DOES THE WOMAN SUGGEST?",
                             "correctIndex": 3,
@@ -734,7 +734,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-a/pretest-a-20-dialog.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-a-parts/pretest-a-20-dialog.mp3?v=1",
                             "passage": "M: I can't get this television set connected to the cable.\nW: Oh, it's as easy as pie.",
                             "question": "20.WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 0,
@@ -772,7 +772,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-a/pretest-a-21-dialog.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-a-parts/pretest-a-21-dialog.mp3?v=1",
                             "passage": "M: Is Bob doing a good job in the office?\nW: He never manages to turn in his budget reports on time.",
                             "question": "21. WHAT DOES THE WOMAN SAY ABOUT BOB?",
                             "correctIndex": 1,
@@ -810,7 +810,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-a/pretest-a-22-dialog.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-a-parts/pretest-a-22-dialog.mp3?v=1",
                             "passage": "M: Has the auto mechanic told you how much work the car needs?\nW: He indicated that the repairs would be quite extensive.",
                             "question": "22. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 1,
@@ -848,7 +848,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-a/pretest-a-23-dialog.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-a-parts/pretest-a-23-dialog.mp3?v=1",
                             "passage": "W: Did Betty listen to what her boss said?\nM: She followed the directions to the letter.",
                             "question": "23. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 2,
@@ -886,7 +886,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-a/pretest-a-24-dialog.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-a-parts/pretest-a-24-dialog.mp3?v=1",
                             "passage": "W: How's Walter doing in his new business?\nM: Well, he hasn't exactly been unsuccessful.",
                             "question": "WHAT DOES THE MAN MEAN?",
                             "correctIndex": 2,
@@ -924,7 +924,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-a/pretest-a-25-dialog.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-a-parts/pretest-a-25-dialog.mp3?v=1",
                             "passage": "W: Are you going to organize that closet this morning?\nM: I wish I didn't have to.",
                             "question": "WHAT DOES THE MAN MEAN?",
                             "correctIndex": 2,
@@ -962,7 +962,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-a/pretest-a-26-dialog.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-a-parts/pretest-a-26-dialog.mp3?v=1",
                             "passage": "M: Did Sally finish that difficult assignment?\nW: She gave up before she really got started.",
                             "question": "WHAT DOES THE WOMAN SAY ABOUT SALLY?",
                             "correctIndex": 0,
@@ -1000,7 +1000,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-a/pretest-a-27-dialog.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-a-parts/pretest-a-27-dialog.mp3?v=1",
                             "passage": "W: What did Peggy say about the job I did?\nM: She couldn't have said nicer things.",
                             "question": "WHAT DOES THE MAN SAY ABOUT PEGGY?",
                             "correctIndex": 3,
@@ -1038,7 +1038,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-a/pretest-a-28-dialog.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-a-parts/pretest-a-28-dialog.mp3?v=1",
                             "passage": "M: Your new secretary seems to be doing a great job.\nW: Rarely do new employees take such initiative.",
                             "question": "WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 1,
@@ -1076,7 +1076,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-a/pretest-a-29-dialog.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-a-parts/pretest-a-29-dialog.mp3?v=1",
                             "passage": "W: Did you enjoy taking care of the children all afternoon?\nM: If you had gotten here any later, I'dhave been a wreck.",
                             "question": "WHAT DOES THE MAN MEAN?",
                             "correctIndex": 1,
@@ -1114,7 +1114,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-a/pretest-a-30-dialog.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-a-parts/pretest-a-30-dialog.mp3?v=1",
                             "passage": "M: I just got back from the market.\nW: So you did do the shopping!",
                             "question": "WHAT HAD THE WOMAN ASSUMED ABOUT THE MAN?",
                             "correctIndex": 0,
@@ -1154,7 +1154,8 @@
                     "groups": [],
                     "passage": "",
                     "audioUrl": "",
-                    "durationSeconds": 0
+                    "durationSeconds": 0,
+                    "directionAudioUrl": ""
                 },
                 {
                     "title": "Part B ",
@@ -1162,7 +1163,7 @@
                     "questions": [
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-b/pretest-b-question-31.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-b-parts/pretest-b-question-31.mp3?v=1",
                             "passage": "",
                             "question": "31. WHAT IS THE WOMAN'S STATUS AT THE UNIVERSITY?",
                             "correctIndex": 0,
@@ -1200,7 +1201,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-b/pretest-b-question-32.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-b-parts/pretest-b-question-32.mp3?v=1",
                             "passage": "",
                             "question": "32. WHAT DOES THE MAN WANT TO LEARN FROM THE WOMAN?",
                             "correctIndex": 2,
@@ -1238,7 +1239,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-b/pretest-b-question-33.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-b-parts/pretest-b-question-33.mp3?v=1",
                             "passage": "",
                             "question": "33. HOW MANYTOTAL COURSES MUST A STUDENT TAKE FOR A LITERATURE MAJOR?",
                             "correctIndex": 2,
@@ -1276,7 +1277,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-b/pretest-b-question-34.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-b-parts/pretest-b-question-34.mp3?v=1",
                             "passage": "",
                             "question": "34. THE MAN WILL PROBABLY TAKE HIS ELECTIVE COURSES IN WHICH AREA?",
                             "correctIndex": 2,
@@ -1314,7 +1315,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-b/pretest-b-question-35.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-b-parts/pretest-b-question-35.mp3?v=1",
                             "passage": "",
                             "question": "35. WHERE DID THE WOMAN LEARN ABOUT DOLPHINS?",
                             "correctIndex": 2,
@@ -1352,7 +1353,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-b/pretest-b-question-36.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-b-parts/pretest-b-question-36.mp3?v=1",
                             "passage": "",
                             "question": "36. WHY DO DOLPHINS USE CLICKS?",
                             "correctIndex": 1,
@@ -1390,7 +1391,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-b/pretest-b-question-37.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-b-parts/pretest-b-question-37.mp3?v=1",
                             "passage": "",
                             "question": "37. APPROXIMATELYHOW MANY HUMAN COMMANDS HAVE SOME DOLPHINS LEARNED?",
                             "correctIndex": 2,
@@ -1428,7 +1429,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-b/pretest-b-question-38.mp3v",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-b-parts/pretest-b-question-38.mp3?v=1",
                             "passage": "",
                             "question": "38. WHAT DOES THE MAN SAY ABOUT DOLPHIN INTELLIGENCE?",
                             "correctIndex": 3,
@@ -1466,23 +1467,23 @@
                         }
                     ],
                     "groups": [
-                        
                         {
                             "id": "g_s6bd3th2g",
                             "passage": "N: Listen to a conversation on a university campus. \n\nM: You seem to know your way around campus. Have you been here long? \nw: I'm a senior literature major. I'll be graduating next June. \nM: Your major is literature? Mine is, too.But I'm just beginning my work in my major. I just transferred to this university from a junior college. Perhaps you could tell me about the courses you've got to take for a literature major. \nw: Well, for a literature major you need to take eight courses, three required courses and five electives. First, you have to take \"Survey of World Literature, Parts One and Two.\" This is really two courses, and it'll take two semesters, and it's required for all literature majors. The other course required for all literature majors is \"Introduction to Literary Analysis.\" \nM: You mean, if I want to specialize in American literature, I still must take two semesters of World literature?  \nw: Yes, because the two semesters are required for all literature majors. \nM: But I only want to study American literature! \nw: At least you can take all of your five elective courses in the area that you want. \nM: That's what I'll do, then.",
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-b/pretest-b-dialog-01.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-b-parts/pretest-b-dialog-01.mp3?v=1",
                             "label": "Q 31-34"
                         },
                         {
                             "id": "g_ey2b5i2ug",
                             "passage": "Listen to a conversation between two friends. \nw: Wasn't that a fascinating lecture on dolphins? I didn't know that dolphins traveled in such large groups, or were able to communicate with other members of their group with those whistlelike sounds. \nM: And they also use clicks as a sort of sonar. \nw: I really couldn't understand that part of the lecture. You could? \nM: Yes, the dolphins use clicks to identify objects in the water; they can even identify tiny objects more than 100 meters away using these clicks. Scientists believe that a dolphin may even have a sonar-like image in its brain of a distant object so that it can identify the object long before the dolphin can actually see the object. \nw: So the dolphins use these clicks mostly to identify objects in the water? \nM: I think so, and they have considerably more ability to do this than humans do. \nw: It is hard to believe that, in addition to these sonar clicks, dolphins are actually learning some human language. \nM: Yes, I believe that the lecturer said that some dolphins had already learned around fifty human commands, and that those dolphins were able to understand not only individual words but words clustered together in sentences! \nw: Dolphins must certainly be amazing animals to do all of that. \nM:  I'm sure they are, and we're only just beginning to find out how intelligent they are.",
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-b/pretest-b-dialog-02.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-b-parts/pretest-b-dialog-02.mp3?v=1",
                             "label": "Q35-38"
                         }
                     ],
                     "passage": "",
                     "audioUrl": "",
-                    "durationSeconds": 0
+                    "durationSeconds": 0,
+                    "directionAudioUrl": ""
                 },
                 {
                     "title": "Part C ",
@@ -1490,7 +1491,7 @@
                     "questions": [
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-c/pretest-c-question-39.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-c-parts/pretest-c-question-39.mp3?v=1",
                             "passage": "",
                             "question": "39. WHAT IS THE MAIN OBJECTIVE OF THE SIERRA CLUB?",
                             "correctIndex": 1,
@@ -1528,7 +1529,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-c/pretest-c-question-40.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-c-parts/pretest-c-question-40.mp3?v=1",
                             "passage": "",
                             "question": "40. APPROXIMATELYHOW LONG HAS THE SIERRA CLUB BEEN IN EXISTENCE?",
                             "correctIndex": 2,
@@ -1566,7 +1567,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-c/pretest-c-question-41.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-c-parts/pretest-c-question-41.mp3?v=1",
                             "passage": "",
                             "question": "41. WHAT AREA WAS JOHN MUIR ESPECIALLY INTERESTED IN SAVING?",
                             "correctIndex": 2,
@@ -1605,7 +1606,7 @@
                         {
                             "timeLimitSeconds": 0,
                             "audioUrl": "",
-                            "passage": "https://toeflsim.cakresa.id/audio/diagnostest/part-c/pretest-c-question-42.mp3",
+                            "passage": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-c-parts/pretest-c-question-42.mp3?v=1",
                             "question": "42. WHERE DOES THE SIERRA CLUB HAVE MEMBERS?",
                             "correctIndex": 1,
                             "options": [
@@ -1642,7 +1643,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-c/pretest-c-question-43.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-c-parts/pretest-c-question-43.mp3?v=1",
                             "passage": "",
                             "question": "43. WHO IS PROBABLY LISTENING TO THIS TALK?",
                             "correctIndex": 1,
@@ -1680,7 +1681,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-c/pretest-c-question-44.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-c-parts/pretest-c-question-44.mp3?v=1",
                             "passage": "",
                             "question": "44. WHAT IS NEEDED TO GET INTO THE EXERCISE ROOM?",
                             "correctIndex": 2,
@@ -1718,7 +1719,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-c/pretest-c-question-45.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-c-parts/pretest-c-question-45.mp3?v=1",
                             "passage": "",
                             "question": "45. WHERE SHOULD A STUDENT GO TO RESERVE A TENNIS COURT?",
                             "correctIndex": 3,
@@ -1756,7 +1757,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-c/pretest-c-question-46.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-c-parts/pretest-c-question-46.mp3?v=1",
                             "passage": "",
                             "question": "46. WHAT WILL THE STUDENTS PROBABLY DO NEXT?",
                             "correctIndex": 0,
@@ -1794,7 +1795,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-c/pretest-c-question-47.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-c-parts/pretest-c-question-47.mp3?v=1",
                             "passage": "",
                             "question": "47. THIS TALK WOULD PROBABLY BE GIVEN IN WHICH OF THE FOLLOWING COURSES?",
                             "correctIndex": 2,
@@ -1832,7 +1833,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-c/pretest-c-question-48.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-c-parts/pretest-c-question-48.mp3?v=1",
                             "passage": "",
                             "question": "48. WHAT POINT IS THE SPEAKER TRYING TO MAKE ABOUT REALISM AND NATURALISM?",
                             "correctIndex": 1,
@@ -1870,7 +1871,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-c/pretest-c-question-49.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-c-parts/pretest-c-question-49.mp3?v=1",
                             "passage": "",
                             "question": "49. WHICH OF THE FOLLOWING BEST DESCRIBES REALISM?",
                             "correctIndex": 0,
@@ -1908,7 +1909,7 @@
                         },
                         {
                             "timeLimitSeconds": 0,
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-c/pretest-c-question-50.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-c-parts/pretest-c-question-50.mp3?v=1",
                             "passage": "",
                             "question": "50. WHICH OF THE FOLLOWING DOES NOT INFLUENCE HUMAN ACTIONS, ACCORDING TO NATURALIST IDEAS?",
                             "correctIndex": 2,
@@ -1949,27 +1950,30 @@
                         {
                             "id": "g_8zf5awfd6",
                             "passage": "(narrator) Listen to a welcome address by a member of a club. \n(woman) Welcome to this introductory meeting for new members of the Sierra Club. The Sierra Club is an organization whose goals are centered on the protection of the environment. It was founded in 1892 in San Francisco by naturalist John Muir, who was intent on preserving the natural beauty and harmony of the Sierra Nevadas in eastern California. \n\nToday the Sierra Club boasts almost 200,000 members in all fifty states of the United States. Through activities such as conferences, lectures, exhibits, and films, the organization works to continue the effort begun by John Muir. The Sierra Club also publishes a weekly newsletter, a bimonthly magazine, and various books.",
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-c/pretest-c-dialog-01.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-c-parts/pretest-c-dialog-01.mp3?v=1",
                             "label": "Q 39-42"
                         },
                         {
                             "id": "g_vozmknxxm",
                             "passage": "(NARATOR) Listen to a talk by a university employee. \n(man) The next stop on our campus tour for new freshmen is the university sports complex. This university has extensive sports facilities and is dedicated to providing maximum student access to \nthese facilities. \n\nOn the right you can see the university stadium, which is used for football and soccer as well as track and field. The gymnasium straight ahead contains the arena that is used for basketball and gymnastics. The gymnasium also includes an up-to-date exercise room with a large variety of the latest equipment; the exercise room is open to any student with valid student I.D., not just members of athletic teams. The pool complex is behind the gymnasium, and that is also open for general student use, except when the \nswim team, the diving team, or the water polo team is practicing. \n\nTo the left, you can see the tennis courts and outdoor volleyball courts. It is possible to take instruction classes in these sports, or you are welcome to sign up for court time at the Athletic Department office if you just want to play with some of your friends. \n\nThese are just some of the sports facilities that are available to you here, but I think you can see that this university makes an effort to provide the best opportunity for its students to take part in sports. Now, let's continue on to the Art Center.",
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-c/pretest-c-dialog-02.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-c-parts/pretest-c-dialog-02.mp3?v=1",
                             "label": "Q 43-46"
                         },
                         {
                             "id": "g_ifbdmvog3",
                             "passage": "(narrator) Listen to a talk given by a professor. \n(woman) Today's lecture is on the difference between the two literary styles of realism and naturalism. These two styles have in common a faithfulness to actual experience and a mistrust of idealism. \n\nAlthough they do have several similarities, realism and naturalism should be clearly differentiated. The realist objectively reports on events, with the accuracy of the description as the prime motive. The naturalist, on the other hand, has more of a philosophic bent; naturalist writings express the writer's philosophy that human actions are determined by natural laws such as heredity and environment.",
-                            "audioUrl": "https://toeflsim.cakresa.id/audio/diagnostest/part-c/pretest-c-dialog-03.mp3",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/rezatbahtera/toeflsim@main/audio/pretest/pretest-c-parts/pretest-c-dialog-03.mp3?v=1",
                             "label": "Q 47-50"
                         }
                     ],
                     "passage": "",
                     "audioUrl": "",
-                    "durationSeconds": 0
+                    "durationSeconds": 0,
+                    "directionAudioUrl": ""
                 }
-            ]
+            ],
+            "instruction": "",
+            "directionAudioUrl": ""
         },
         {
             "title": "Section 2 STRUCTURE",
@@ -2554,7 +2558,8 @@
                     "groups": [],
                     "passage": "",
                     "audioUrl": "",
-                    "durationSeconds": 0
+                    "durationSeconds": 0,
+                    "directionAudioUrl": ""
                 },
                 {
                     "title": "Written Expression ",
@@ -3013,7 +3018,8 @@
                                         "id": "Bukan kesalahan."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -3050,7 +3056,8 @@
                                         "id": "amount"
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -3087,7 +3094,8 @@
                                         "id": "Bukan kesalahan."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -3124,7 +3132,8 @@
                                         "id": "Bukan kesalahan."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -3161,7 +3170,8 @@
                                         "id": "Bukan kesalahan."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -3198,7 +3208,8 @@
                                         "id": "moved"
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -3235,7 +3246,8 @@
                                         "id": "Bukan kesalahan."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -3272,7 +3284,8 @@
                                         "id": "Bukan kesalahan."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -3309,7 +3322,8 @@
                                         "id": "Bukan kesalahan."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -3346,7 +3360,8 @@
                                         "id": "Bukan kesalahan."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -3383,7 +3398,8 @@
                                         "id": "Bukan kesalahan."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -3420,7 +3436,8 @@
                                         "id": "been mined"
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -3457,7 +3474,8 @@
                                         "id": "Bukan kesalahan."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -3494,15 +3512,19 @@
                                         "id": "Bukan kesalahan."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         }
                     ],
                     "groups": [],
                     "passage": "",
                     "audioUrl": "",
-                    "durationSeconds": 0
+                    "durationSeconds": 0,
+                    "directionAudioUrl": ""
                 }
-            ]
+            ],
+            "instruction": "",
+            "directionAudioUrl": ""
         }
     ]
 }
