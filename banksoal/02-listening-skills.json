@@ -2709,6 +2709,760 @@
                         }
                     ],
                     "groups": []
+                },
+                {
+                    "title": "SKILL Review 4-6",
+                    "instruction": "",
+                    "questions": [
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) Can I help you?\n(man) I need two stamps and a padded mail ing envelope, please.",
+                            "question": "1. WHERE DOES THIS CONVERSA TION PROBABLY TAKE PLACE?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "In a department store .",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "In a stationery store .",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "At the post office .",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "At the airport .",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Why were the students coming to the teacher's office?\n(woman) They had to hand in their papers.",
+                            "question": "2. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "The teacher gave the students a hand.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The term papers were turned in.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The students got the papers from the office.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The teacher handed the papers to the students.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Did Mark stop at the service station?\n(woman) Yes, he had the attendant check the oil in his car.",
+                            "question": "3. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "The attendant checked the oil in Mark's car.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "Mark checked to see if he had .^enough oil in his car.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Mark checked with the service station attendant.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Mark wrote a check to pay for the oil.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) I'd like a burger and fries, please.\n(man) To stay, or to go?",
+                            "question": "4. WHO IS THE MAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "A delivery man .",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "A famous chef .",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "A clerk in a fast-food restaurant .",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "An airline steward .",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) Maybe we should make some more copies now, just in case.\n(man) Additional copies can be printed as needed.",
+                            "question": "5. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "They need new print for the additional copies.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "They can make extra copies if necessary.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "Printers are needed for the additional copies.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Additional copies are needed immediately.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) What did the professor ask the stu dents to do?\n(woman) He required them to buy two books.",
+                            "question": "6. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "The professor bought two books.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The students had to purchase two books.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The students sold two books to the professor.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The students were required to read two books by the professor.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) Did Jim see a doctor this morning?\n(man) Yes, and the doctor told him to return to the office to see him next week.",
+                            "question": "7. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "The doctor returned to the office.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Jim asked the doctor to come to the office.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The doctor will not return until next week.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Jim was told to come back.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Have you sent the tissue samples to the laboratory?\n(woman) Not yet, but I'll get it done in the next half hour.",
+                            "question": "8. WHAT WILL THE WOMAN PROBA BLY DO NEXT?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "Go to work in the lab .",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Sample the work from the lab .",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Have the samples delivered .",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "Send a note to the lab .",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Has there been a change in senior class president?\n(woman) Yes, Mary replaced Sue in that posi tion.",
+                            "question": "9. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Mary became the new class president.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "Sue took her place as class president.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "In place of Mary, Sue became senior class president.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The senior class president replaced Sue and Mary.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Did you find that television program interesting?\n(woman) I certainly did. The current political situation was analyzed effectively by the panel.",
+                            "question": "10. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "The panel was analyzed on the television program.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "A committee evaluated recent political events.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The program featured a psychoanalyst.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The panel discussed the television program.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "title": "SKILL Review 1-6",
+                    "instruction": "",
+                    "questions": [
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man)       Why do you think Peter said that?\n(woman)        I think he was really angry.",
+                            "question": "1.        WHAT DOES THE WOMAN SAY ABOUT PETER?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "He seemed to be rather hungry.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She was quite angry at him.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He was trying to hang the posters.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She believes he was mad.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man)       Why is Hannah so happy?\n(woman)        Her parents have allowed her to stay up late.",
+                            "question": "2.        WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "The parents are going to stay up late.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The parents have given Hannah her allowance.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Lately, the parents have not been so loud.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Hannah does not have to go to bed early.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman)     I'd like some unleaded gas, please.\n(man)          Would you like me to fill it up?",
+                            "question": "3.        WHERE DOES THE MAN PROBA BLY WORK?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "At a department store.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "At a service station .",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "At a collection agency.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "In a delivery room .",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man)       What do you suggest for breakfast?\n(woman)        Well, you could have cereal or eggs, or both.",
+                            "question": "4.        WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "She just broke some eggs.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "They need to eat fast.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She is serious about the boat.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He has a choice to make.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman)     Did Ellen help you a lot with your training?\n(man)          She really urged me to do my best.",
+                            "question": "5.        WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "It was urgent that Ellen do her best.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He really urged Ellen to do more.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He was encouraged by Ellen to try harder.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "Ellen told him that she was trying to do better.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man)       Did you hear what happened to Rob's car last night?\n(woman)        Yeah, I heard that it was stolen.",
+                            "question": "6.        WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "The car stalled on the road.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Someone took the car.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "Rob sold his car.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Rob heard someone steal his car.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman)     We need to get some milk for tomor row morning. What about this carton?\n(man)          Maybe we should get the large one instead of the small one.",
+                            "question": "7.        WHAT DOES THE MAN SUGGEST?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Buying the bigger container .",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "Putting the milk in the cart .",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Taking a carton that is smaller .",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Getting the milk tomorrow instead.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man)       What happened when the business people arrived in the office?\n(woman)        Well, first they were greeted by the receptionist.",
+                            "question": "8.        WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "The receptionist welcomed the businesspeople.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The man created a shipping and receiving business.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The businesspeople were rather greedy.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The businesspeople greeted the receptionist.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman)     Did you see that? The police officer was talking to the tourist.\n(man)          Yes, and then he made the tourist come to the station.",
+                            "question": "9.        WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "The police officer was stationed near the tourist.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The tourist was forced to accompany the police officer.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The tourist became mad at the police station.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The tourist stated that the police officer never came.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman)    Do you want to go up to Carmel for the weekend?\n(man)          That seems like a terrific idea to me!",
+                            "question": "10.       WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "He hasn't seen her ideas.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "It was a terrible deal.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He doesn't like the idea.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "It sounds magnificent to him.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "groups": []
                 }
             ]
         }
