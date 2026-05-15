@@ -1890,6 +1890,383 @@
                         }
                     ],
                     "groups": []
+                },
+                {
+                    "title": "REVIEW EXERCISE (Skills 1-10)",
+                    "instruction": "",
+                    "questions": [
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man)         What should I do to get over this?\n(woman)       You should drink plenty of fluids, take this medicine once every eight hours, and return here to my office next week.",
+                            "question": "1.       WHERE DOES THIS CONVERSA TION PROBABLY TAKE PLACE?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "In a doctor's office .",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "At a bar .",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "In a travel agency .",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "In a business office .",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man)         Did you find anything at the store?\n(woman)       I just bought a great shirt!",
+                            "question": "2.       WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "She bought some sheets.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She got a new piece of clothing.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "She couldn't find anything because she's too short.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She was sure to greet her boss.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man)         Did you enjoy the hotel where you stayed in Hawaii?\n(woman)       The view of the ocean couldn't have been better.",
+                            "question": "3.       WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "The hotel was all right, except for the poor view.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The view from the hotel room was spectacular.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "She would have preferred a better hotel.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Only a few hotels would have been better.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman)       You look like you're not feeling too well.\n(man)         Actually, I'm just kind of tired. All I need is a bit of rest.",
+                            "question": "4.       WHAT WILL THE MAN PROBABLY DO NEXT?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Take a nap .",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "Try the rest of the work .",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "See a doctor .",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Have a bite to eat .",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman)       Do you think that Mary will forgive me for what I did?\n(man)         She isn't exactly an unforgiving per son.",
+                            "question": "5.       WHAT DOES THE MAN SAY ABOUT MARY?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "She's an exacting person.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She can't be expected to give you four of them.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She generally forgives others.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "She isn't exact about what she gives to others.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man)         Has Martha already gone on vacation?\n(woman)       She can't take her vacation until next week.",
+                            "question": "6.       WHAT DOES THE WOMAN SAY ABOUT MARTHA?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "She's unable to take her vacation this year.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Her vacation next week has been postponed.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She'll go on vacation next week.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "She'll return from vacation in a week.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man)         I'm looking for some people who just came into the restaurant.\n(woman)       The waitress seated them at a table in the back.",
+                            "question": "7.       WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "The waitress was sitting in the back of the restaurant.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "They were waiting for a seat in the restaurant.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The customers had a table in the back.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The waitress sat down behind the table.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man)         Let's go to the market and get some fresh fruit.\n(woman)       I was there this morning, and the mar ket scarcely had any.",
+                            "question": "8.       WHAT DOES THE WOMAN SAY ABOUT THE MARKET?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "It's hard for the market to sell its fruit.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "All of the fresh fruit at the market is hard.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She hardly ever goes to the market to buy fresh fruit.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "There was a scarcity of fresh fruit at the market.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man)         I'm thinking about taking a few classes at the local adult school.\n(woman)       It's never too late to go back to school.",
+                            "question": "9.       WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "The man should never be late for school.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The man can always return to school.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The man should never go back to school.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "If the man's late to school, he should go through the back door.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man)         I don't think I can make it all the way to the top of the mountain.\n(woman)       I dare you to try!",
+                            "question": "10.      WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "She can't bear to try.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She is a daring person.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She doesn't want the man even to try.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She is challenging the man to make the effort.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "groups": []
                 }
             ]
         }
