@@ -1585,7 +1585,7 @@
                     "questions": [
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-04-01.mp3",
                             "passage": "(woman) I didn't bring my laboratory manual today.\n(man) You can share mine. Today we're con ducting the experiment on photosyn thesis, and we can work together.",
                             "question": "1. WHERE DOES THIS CONVERSA TION PROBABLY TAKE PLACE?",
                             "correctIndex": 1,
@@ -1618,11 +1618,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-04-02.mp3",
                             "passage": "(woman) This is flight 707 requesting permis sion to land.",
                             "question": "2. Right 707, you are cleared for land ing. WHO IS THE MAN?",
                             "correctIndex": 0,
@@ -1655,11 +1656,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-04-03.mp3",
                             "passage": "(woman) Do you want to do the dishes now or later?\n(man) I'd rather put them off as long as possible.",
                             "question": "3. WHAT WILL THE MAN PROBABLY DO?",
                             "correctIndex": 3,
@@ -1692,11 +1694,12 @@
                                         "id": "Jawaban benar."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-04-04.mp3",
                             "passage": "(man) How much of a tip should I leave?\n(woman) Oh, a dollar's plenty. The service was n't very good.",
                             "question": "4. WHERE DOES THIS CONVERSA TION PROBABLY TAKE PLACE?",
                             "correctIndex": 1,
@@ -1729,11 +1732,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-04-05.mp3",
                             "passage": "(woman) Can I pick up my shoes on Tuesday? I need them for a party that night.\n(man) They should be fixed by then.",
                             "question": "5. WHO IS THE MAN?",
                             "correctIndex": 1,
@@ -1766,11 +1770,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-04-06.mp3",
                             "passage": "(woman) Did you get pictures of the lions?\n(man) Yes, and now let's go to the other side of the park. I want to see the exotic birds.",
                             "question": "6. WHERE DOES THIS CONVERSA TION PROBABLY TAKE PLACE?",
                             "correctIndex": 2,
@@ -1803,11 +1808,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-04-07.mp3",
                             "passage": "(man) Could you put the letters in the pend ing file now?\n(woman) Yes. Then I can answer them tomor row.",
                             "question": "7. WHAT WILL THE WOMAN PROBA BLY DO TOMORROW?",
                             "correctIndex": 0,
@@ -1840,11 +1846,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-04-08.mp3",
                             "passage": "(man) The lights are flashing, and every one's going in.\n(woman) We should take our seats now before the second act starts.",
                             "question": "8. WHERE DOES THIS CONVERSA TION PROBABLY TAKE PLACE?",
                             "correctIndex": 2,
@@ -1877,11 +1884,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-04-09.mp3",
                             "passage": "(woman) Have you responded to Bob's dinner invitation yet?\n(man) I'll take care of it right away.",
                             "question": "9. WHAT WILL THE MAN PROBABLY DO NEXT?",
                             "correctIndex": 2,
@@ -1914,11 +1922,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-04-10.mp3",
                             "passage": "(man) Can you fill this prescription for me?\n(woman) If you leave the prescription, I can have it filled in about ten minutes.",
                             "question": "10. WHO IS THE WOMAN?",
                             "correctIndex": 0,
@@ -1951,10 +1960,15 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         }
                     ],
-                    "groups": []
+                    "groups": [],
+                    "passage": "",
+                    "audioUrl": "",
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-04.mp3",
+                    "durationSeconds": 0
                 },
                 {
                     "title": "SKILL 5: LISTEN FOR WHO AND WHAT IN PASSIVES",
@@ -1962,7 +1976,7 @@
                     "questions": [
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-05-01.mp3",
                             "passage": "(man) Would you like to go to the new restaurant on the corner?\n(woman) Is that the one that serves vegetarian food?",
                             "question": "1. WHAT DOES THE WOMAN WANT TO KNOW?",
                             "correctIndex": 3,
@@ -1995,11 +2009,12 @@
                                         "id": "Jawaban benar."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-05-02.mp3",
                             "passage": "(man) Has Harry heard from the law school yet?\n(woman) Yes, he was admitted by the law school for the fall semester.",
                             "question": "2. WHAT HAPPENED TO HARRY?",
                             "correctIndex": 1,
@@ -2032,11 +2047,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-05-03.mp3",
                             "passage": "(man) Mark said that you were a lot of help.\n(woman) Well, I took care of his plants while he was out of town.",
                             "question": "3. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 0,
@@ -2069,11 +2085,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-05-04.mp3",
                             "passage": "(woman) Do you know what happened during the lightning storm?\n(man) Yes, several trees were destroyed.",
                             "question": "4. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 1,
@@ -2106,11 +2123,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-05-05.mp3",
                             "passage": "(man) Did you see Sally? Her leg's in a cast.\n(woman) Yes, I know. She told me that she broke her leg skiing in the mountains.",
                             "question": "5. WHAT HAPPENED TO SALLY?",
                             "correctIndex": 2,
@@ -2143,11 +2161,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-05-06.mp3",
                             "passage": "(woman) The horses are not in very good shape now.\n(man) They were ridden too long and too hard.",
                             "question": "6. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 2,
@@ -2180,11 +2199,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-05-07.mp3",
                             "passage": "(woman) Why didn't you order coffee?\n(man) I thought it had already been ordered.",
                             "question": "7. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 2,
@@ -2217,11 +2237,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-05-08.mp3",
                             "passage": "(man) How are your friends going to get home from the airport after their trip?\n(woman) Their car was left in the airport lot.",
                             "question": "8. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 1,
@@ -2254,11 +2275,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-05-09.mp3",
                             "passage": "(man) Has the class chosen a representative?\n(woman) The other students appointed Mac class representative.",
                             "question": "9. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 0,
@@ -2291,11 +2313,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-05-20.mp3",
                             "passage": "(woman) Wasn't the building damaged in the earthquake?\n(man) Yes, it was. And when this happened, the inhabitants were paid by the insur ance company.",
                             "question": "10. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 0,
@@ -2328,10 +2351,15 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         }
                     ],
-                    "groups": []
+                    "groups": [],
+                    "passage": "",
+                    "audioUrl": "",
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-05.mp3",
+                    "durationSeconds": 0
                 },
                 {
                     "title": "SKILL 6: LISTEN FOR WHO AND WHAT WITH MULTIPLE NOUNS",
@@ -2339,7 +2367,7 @@
                     "questions": [
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-06-01.mp3",
                             "passage": "(man) The passenger arrived in a taxi.\n(woman)  Yes, and then she had the taxi driver wait at the corner.",
                             "question": "1.  WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 2,
@@ -2372,11 +2400,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-06-02.mp3",
                             "passage": "(man) Did you go to the concert last night?\n(woman)  Yes, it was great, and I got to hear Jane play the harp.",
                             "question": "2.  WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 1,
@@ -2409,11 +2438,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-06-03.mp3",
                             "passage": "(woman)  Did the children like the new baby-sit ter?\n(man) Not really, because she made them go to bed early.",
                             "question": "3.  WHAT DOES THE MAN MEAN?",
                             "correctIndex": 1,
@@ -2446,11 +2476,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-06-04.mp3",
                             "passage": "(man) Why is that man throwing the ball so carefully?\n(woman)  He is tossing the ball to his young son.",
                             "question": "4.  WHAT DOES THE WOMAN SAY ABOUT THE FATHER AND SON?",
                             "correctIndex": 1,
@@ -2483,11 +2514,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-06-05.mp3",
                             "passage": "(man) Did the professor tell her students about the lecture this evening?\n(woman)  Yes, she directed her students to attend it.",
                             "question": "5.  WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 0,
@@ -2520,11 +2552,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-06-06.mp3",
                             "passage": "(woman)  I cannot find the clerk.\n(man) The floor manager sent him back to the supply room.",
                             "question": "6.  WHAT HAPPENED, ACCORDING TO THE MAN?",
                             "correctIndex": 2,
@@ -2557,11 +2590,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-06-07.mp3",
                             "passage": "(woman)  Will the students be able to get hold of the books that they need?\n(man) The librarian had them reserve the books for two days.",
                             "question": "7.  WHAT DOES THE MAN MEAN?",
                             "correctIndex": 3,
@@ -2594,11 +2628,12 @@
                                         "id": "Jawaban benar."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-06-08.mp3",
                             "passage": "(man) Were elections held last night, as scheduled?\n(woman)  Yes, and the board elected Tony chair man for another year.",
                             "question": "8.  WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 3,
@@ -2631,11 +2666,12 @@
                                         "id": "Jawaban benar."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-06-09.mp3",
                             "passage": "(woman)  At the trial the defendant was found guilty.\n(man) Yes, the judge called the defendant a murderer.",
                             "question": "9.  WHAT DOES THE MAN MEAN?",
                             "correctIndex": 2,
@@ -2668,11 +2704,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-06-10.mp3",
                             "passage": "(woman) Have the names of the new committee members been announced?\n(man) Congratulations! You've been appointed to serve on the committee.",
                             "question": "10. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 3,
@@ -2705,10 +2742,15 @@
                                         "id": "Jawaban benar."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         }
                     ],
-                    "groups": []
+                    "groups": [],
+                    "passage": "",
+                    "audioUrl": "",
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-06.mp3",
+                    "durationSeconds": 0
                 },
                 {
                     "title": "SKILL Review 4-6",
@@ -2716,7 +2758,7 @@
                     "questions": [
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-04-06-01.mp3",
                             "passage": "(woman) Can I help you?\n(man) I need two stamps and a padded mail ing envelope, please.",
                             "question": "1. WHERE DOES THIS CONVERSA TION PROBABLY TAKE PLACE?",
                             "correctIndex": 2,
@@ -2749,11 +2791,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-04-06-02.mp3",
                             "passage": "(man) Why were the students coming to the teacher's office?\n(woman) They had to hand in their papers.",
                             "question": "2. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 1,
@@ -2786,11 +2829,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-04-06-03.mp3",
                             "passage": "(man) Did Mark stop at the service station?\n(woman) Yes, he had the attendant check the oil in his car.",
                             "question": "3. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 0,
@@ -2823,11 +2867,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-04-06-04.mp3",
                             "passage": "(woman) I'd like a burger and fries, please.\n(man) To stay, or to go?",
                             "question": "4. WHO IS THE MAN?",
                             "correctIndex": 2,
@@ -2860,11 +2905,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-04-06-05.mp3",
                             "passage": "(woman) Maybe we should make some more copies now, just in case.\n(man) Additional copies can be printed as needed.",
                             "question": "5. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 1,
@@ -2897,11 +2943,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-04-06-06.mp3",
                             "passage": "(man) What did the professor ask the stu dents to do?\n(woman) He required them to buy two books.",
                             "question": "6. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 1,
@@ -2934,11 +2981,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-04-06-07.mp3",
                             "passage": "(woman) Did Jim see a doctor this morning?\n(man) Yes, and the doctor told him to return to the office to see him next week.",
                             "question": "7. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 3,
@@ -2971,11 +3019,12 @@
                                         "id": "Jawaban benar."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-04-06-08.mp3",
                             "passage": "(man) Have you sent the tissue samples to the laboratory?\n(woman) Not yet, but I'll get it done in the next half hour.",
                             "question": "8. WHAT WILL THE WOMAN PROBA BLY DO NEXT?",
                             "correctIndex": 2,
@@ -3008,11 +3057,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-04-06-09.mp3",
                             "passage": "(man) Has there been a change in senior class president?\n(woman) Yes, Mary replaced Sue in that posi tion.",
                             "question": "9. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 0,
@@ -3045,11 +3095,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-04-06-10.mp3",
                             "passage": "(man) Did you find that television program interesting?\n(woman) I certainly did. The current political situation was analyzed effectively by the panel.",
                             "question": "10. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 1,
@@ -3082,10 +3133,15 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         }
                     ],
-                    "groups": []
+                    "groups": [],
+                    "passage": "",
+                    "audioUrl": "",
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-04-06.mp3",
+                    "durationSeconds": 0
                 },
                 {
                     "title": "SKILL Review 1-6",
@@ -3093,7 +3149,7 @@
                     "questions": [
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-06-01.mp3",
                             "passage": "(man)       Why do you think Peter said that?\n(woman)        I think he was really angry.",
                             "question": "1.        WHAT DOES THE WOMAN SAY ABOUT PETER?",
                             "correctIndex": 3,
@@ -3126,11 +3182,12 @@
                                         "id": "Jawaban benar."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-06-02.mp3",
                             "passage": "(man)       Why is Hannah so happy?\n(woman)        Her parents have allowed her to stay up late.",
                             "question": "2.        WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 3,
@@ -3163,11 +3220,12 @@
                                         "id": "Jawaban benar."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-06-03.mp3",
                             "passage": "(woman)     I'd like some unleaded gas, please.\n(man)          Would you like me to fill it up?",
                             "question": "3.        WHERE DOES THE MAN PROBA BLY WORK?",
                             "correctIndex": 1,
@@ -3200,11 +3258,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-06-04.mp3",
                             "passage": "(man)       What do you suggest for breakfast?\n(woman)        Well, you could have cereal or eggs, or both.",
                             "question": "4.        WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 3,
@@ -3237,11 +3296,12 @@
                                         "id": "Jawaban benar."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-06-05.mp3",
                             "passage": "(woman)     Did Ellen help you a lot with your training?\n(man)          She really urged me to do my best.",
                             "question": "5.        WHAT DOES THE MAN MEAN?",
                             "correctIndex": 2,
@@ -3274,11 +3334,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-06-06.mp3",
                             "passage": "(man)       Did you hear what happened to Rob's car last night?\n(woman)        Yeah, I heard that it was stolen.",
                             "question": "6.        WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 1,
@@ -3311,11 +3372,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-06-07.mp3",
                             "passage": "(woman)     We need to get some milk for tomor row morning. What about this carton?\n(man)          Maybe we should get the large one instead of the small one.",
                             "question": "7.        WHAT DOES THE MAN SUGGEST?",
                             "correctIndex": 0,
@@ -3348,11 +3410,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-06-08.mp3",
                             "passage": "(man)       What happened when the business people arrived in the office?\n(woman)        Well, first they were greeted by the receptionist.",
                             "question": "8.        WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 0,
@@ -3385,11 +3448,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-06-09.mp3",
                             "passage": "(woman)     Did you see that? The police officer was talking to the tourist.\n(man)          Yes, and then he made the tourist come to the station.",
                             "question": "9.        WHAT DOES THE MAN MEAN?",
                             "correctIndex": 1,
@@ -3422,11 +3486,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-06-10.mp3",
                             "passage": "(woman)    Do you want to go up to Carmel for the weekend?\n(man)          That seems like a terrific idea to me!",
                             "question": "10.       WHAT DOES THE MAN MEAN?",
                             "correctIndex": 3,
@@ -3459,12 +3524,19 @@
                                         "id": "Jawaban benar."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         }
                     ],
-                    "groups": []
+                    "groups": [],
+                    "passage": "",
+                    "audioUrl": "",
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-01-06.mp3",
+                    "durationSeconds": 0
                 }
-            ]
+            ],
+            "instruction": "",
+            "directionAudioUrl": ""
         }
     ]
 }
