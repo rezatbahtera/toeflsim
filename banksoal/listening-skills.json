@@ -45,7 +45,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -82,7 +83,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -119,7 +121,8 @@
                                         "id": "Jawaban benar."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -156,7 +159,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -193,7 +197,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -230,7 +235,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -267,7 +273,8 @@
                                         "id": "Jawaban benar."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -304,7 +311,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -341,7 +349,8 @@
                                         "id": "Jawaban benar."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -378,11 +387,15 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         }
                     ],
                     "groups": [],
-                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-01.mp3"
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-01.mp3",
+                    "passage": "",
+                    "audioUrl": "",
+                    "durationSeconds": 0
                 },
                 {
                     "title": "SKILL 2: CHOOSE ANSWERS WITH SYNONYMS ",
@@ -423,7 +436,8 @@
                                         "id": "Jawaban benar."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -460,7 +474,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -497,7 +512,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -534,7 +550,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -571,7 +588,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -608,7 +626,8 @@
                                         "id": "Jawaban benar."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -645,7 +664,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -682,7 +702,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -719,7 +740,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -756,11 +778,15 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         }
                     ],
                     "groups": [],
-                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-02.mp3"
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-02.mp3",
+                    "passage": "",
+                    "audioUrl": "",
+                    "durationSeconds": 0
                 },
                 {
                     "title": "SKILL 3: AVOID SIMILAR SOUNDS",
@@ -768,7 +794,7 @@
                     "questions": [
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-03-21.mp3",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-03-01.mp3",
                             "passage": "(man)         How long until you'll be ready to leave?\n(woman)       First, I need to water the grass.",
                             "question": "1.       WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 2,
@@ -801,11 +827,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-03-22.mp3",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-03-02.mp3",
                             "passage": "(man)         Do you think I should buy this sweater?\n(woman)       But it doesn't really seem to fit right.",
                             "question": "2.       WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 0,
@@ -838,11 +865,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-03-23.mp3",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-03-03.mp3",
                             "passage": "(woman)       Is Walter's job near here?\n(man)         Walter's been commuting to Boston on a regular basis.",
                             "question": "3.       WHAT DOES THE MAN SAY ABOUT WALTER?",
                             "correctIndex": 3,
@@ -875,11 +903,12 @@
                                         "id": "Jawaban benar."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-03-24.mp3",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-03-04.mp3",
                             "passage": "(woman)       Did Bob memorize every detail in the chapter?\n(man)         He wasn't able to master the lesson.",
                             "question": "4.       WHAT DOES THE MAN SAY ABOUT BOB?",
                             "correctIndex": 1,
@@ -912,7 +941,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -949,7 +979,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -986,7 +1017,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -1023,7 +1055,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -1060,7 +1093,8 @@
                                         "id": "Jawaban benar."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -1097,7 +1131,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -1134,11 +1169,15 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         }
                     ],
                     "groups": [],
-                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-02.mp3"
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-02.mp3",
+                    "passage": "",
+                    "audioUrl": "",
+                    "durationSeconds": 0
                 },
                 {
                     "title": "SKILL 1-3",
@@ -1179,7 +1218,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -1216,7 +1256,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -1253,7 +1294,8 @@
                                         "id": "Jawaban benar."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -1290,7 +1332,8 @@
                                         "id": "Jawaban benar."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -1327,7 +1370,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -1364,7 +1408,8 @@
                                         "id": "Jawaban benar."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -1401,7 +1446,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -1438,7 +1484,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -1475,7 +1522,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -1512,13 +1560,19 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         }
                     ],
                     "groups": [],
-                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-01-03.mp3"
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-01-03.mp3",
+                    "passage": "",
+                    "audioUrl": "",
+                    "durationSeconds": 0
                 }
-            ]
+            ],
+            "instruction": "",
+            "directionAudioUrl": ""
         }
     ]
 }
