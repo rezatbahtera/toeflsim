@@ -1,0 +1,1897 @@
+{
+    "title": "Listening Skills 7-10",
+    "sections": [
+        {
+            "title": "SKILLS 7-10",
+            "type": "listening",
+            "durationMinutes": 25,
+            "parts": [
+                {
+                    "title": "SKILL 7: LISTEN FOR NEGATIVE EXPRESSIONS ",
+                    "instruction": "Negative expressions are very common in the short dialogues, and the most common kind of correct response to a negative statement is a positive statement containing a word with an opposite meaning.",
+                    "questions": [
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Are you going to take out the trash?\n(woman) I have no time to do it.",
+                            "question": "1. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "She is very busy.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "She has lots of free time.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "It is not necessary to take out the trash.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She will do it if she has time.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) Are you worried about the interview?\n(man) It's unimportant to me.",
+                            "question": "2. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "The interview is very important.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He is worried about the interview.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "What he's wearing to the interview is important.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He is not concerned about the interview.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) Do you have all the notes for Psychol ogy 101?\n(man) I didn't miss a single lecture.",
+                            "question": "3. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "He has almost all the notes.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "His attendance was perfect.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "He went to all the lectures but one.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He missed more than one psychology class.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) Do you know the library's summer hours? I need to go there this evening.\n(man) It's never open past six o'clock in the summer.",
+                            "question": "4. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "They passed the library at 6:00.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The library opens at 6:00 in the summer.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The library closes at 6:00.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "You can't check out more than six books in the summer.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) How often should I water the plants while you're gone?\n(man) No more than once a week.",
+                            "question": "5. WHAT SHOULD THE WOMAN DO?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "Water the plants once a day.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Give the plants no more water.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Water the plants often while the man is gone.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Give the plants a limited amount of water.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Did you enjoy your meal? That restau rant is very famous.\n(woman) The food was good, but I was dissatis fied with the service.",
+                            "question": "6. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "The service satisfied her.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The food was worse than the service.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She thought the service was bad.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "Neither the food nor the service was satisfying.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) Do you think that Bob really wanted me to go home?\n(man) He wasn't kidding when he told you to leave.",
+                            "question": "7. WHAT DOES THE MAN SAY ABOUT BOB?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "He told his kids to leave.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He seriously wanted the woman to go.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "He was joking when he told the woman to leave.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He left with the woman.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) Can we finish this project before clos ing time?\n(man) If we work on nothing else.",
+                            "question": "8. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "The project will take all their effort.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "They have no other work to do.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "It's impossible to finish.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "They aren't even close to finishing the project.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Would you mind staying an hour more?\n(woman) I'd rather not.",
+                            "question": "9. WHAT DOES THE WOMAN SAY ABOUT STAYING?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "She doesn't mind an hour more.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She'd rather stay more than an hour.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "It's better to stay than go.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She prefers to leave.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) Would you recommend the hotel where you stayed in New York?\n(man) The hotel provided service that was unequaled!",
+                            "question": "10. WHAT DOES THE MAN SAY ABOUT THE HOTEL?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "The service at the hotel wasn't too good.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "This hotel gave excellent service.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The service at the hotel could have been improved.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "This hotel's service was the same as the service at other hotels.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "title": "SKILL 8: LISTEN FOR DOUBLE NEGATIVE EXPRESSIONS ",
+                    "instruction": "",
+                    "questions": [
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Do you think Ron Rogers will be elected?\n(woman) Well, it's not completely impossible.",
+                            "question": "1. WHAT DOES THE WOMAN IMPLY ABOUT RON?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "He'll definitely be elected.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The election is now complete.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She has high hopes for his chances.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "It may happen.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) How was your tennis match today?\n(man) I didn't serve well, and I didn't volley well either.",
+                            "question": "2. WHAT DOES THE MAN SAY ABOUT HIS TENNIS GAME?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Both parts of his game were bad.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "He served better than he volleyed.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Some parts of his game were better than others.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He played rather well.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Was Gary prepared for the debate?\n(woman) It is no surprise that he was unpre pared.",
+                            "question": "3. WHAT DOES THE WOMAN SAY ABOUT GARY?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "It is a surprise that he was prepared.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He was not ready, as usual.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "He prepared a really big surprise.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "His strong preparation came as no surprise.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Did you go out dancing with everyone else last night?\n(woman) I was not feeling well, so I didn't go out.",
+                            "question": "4. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "She felt good enough to go out.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She went out to get some medicine.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She felt like dancing, so she went out with everyone.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She stayed home because she was sick.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) Do you think Paula understands what she's done?\n(man) She isn't unaware of the trouble she's caused.",
+                            "question": "5. WHAT DOES THE MAN SAY ABOUT PAULA?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "She has problems that others aren't aware of.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Others aren't aware of her problems.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She knows she's been a problem.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "She doesn't have a care in the world.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Did your friends finish the term paper for history class?\n(woman) Steve wasn't able to finish it, and Paul wasn't either.",
+                            "question": "6. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "Steve wanted to finish his paper, and so did Paul.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Both Steve's and Paul's papers were incomplete.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "Steve and Paul were busy doing their term papers.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "When Steve wasn't able to finish his paper, Paul couldn't help.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Can you believe that George walked out of the restaurant without paying for his share of the meal?\n(woman) It was irresponsible of him not to pay the bill.",
+                            "question": "7. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "It wasn't George's responsibility to pay the bill.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Bill was irresponsible about paying George's rent.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "George acted carelessly by not taking care of the bill.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "George took responsibility for the unpaid bill.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) What happened when Harry applied to Milhouse University?\n(woman) It was unfortunate that he wasn't admitted to the university.",
+                            "question": "8. WHAT DOES THE WOMAN SAY ABOUT HARRY?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "It's fortunate that he was accepted.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "It's good that he wasn't admitted.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Fortunately, the university didn't admit him.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "It's too bad he was rejected.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) What did you think of the essay that I wrote?\n(man) The first draft of the essay wasn't well written, and the second wasn't much better.",
+                            "question": "9. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "The first essay was better than the second.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The first and second drafts couldn't be better.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The second draft of the essay was much better than the first.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Both versions were poorly written.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Has Roger been disturbed by all of the recent problems?\n(woman) He hasn't been unaffected.",
+                            "question": "10. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Roger has been bothered.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "Roger wasn't the least bit disturbed.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The problems have had little effect on Roger.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Roger hasn't been disturbed.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "title": "SKILL 9: LISTEN FOR \"ALMOST NEGATIVE\" EXPRESSIONS",
+                    "instruction": "Certain expressions in English have \"almost negative\" meanings. These expressions are common in the short dialogues.",
+                    "questions": [
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) Do you expect a lot of rain this month?\n(man) It hardly ever rains in July.",
+                            "question": "1. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "There's little rain in July.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "In July it never rains.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "It rains hard in July.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "When it rains in July, it rains hard.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Were all three students accepted to the university?\n(woman) Only John was accepted.",
+                            "question": "2. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "The university accepted three students.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "None of the students is going to the university.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "John was not accepted.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Two were not admitted.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Did Mark do well in Professor\n(woman) Franks's class?",
+                            "question": "3. Mark barely passed the history exam that Professor Franks gave. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Although he did pass, Mark's exam grade wasn't too good.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "Mark failed his history exam.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The highest grade on the history exam went to Mark.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Professor Franks didn't pass Mark on the history exam.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) I can't believe how long we've been here.\n(man) Dr. Roberts almost never keeps his patients waiting long.",
+                            "question": "4. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "He often has long waits in Dr.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Roberts's office.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He must wait patiently for Robert.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "Dr. Roberts is generally punctual.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) I can't believe Betty is not at work this week!\n(woman) Only rarely does Betty take a vacation in winter.",
+                            "question": "5. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "He doesn't mind waiting for Dr.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Roberts.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Betty often takes vacations in winter.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Betty prefers to take vacations in winter.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Does Steve study very much?\n(woman) He hardly ever opens a book.",
+                            "question": "6. WHAT DOES THE WOMAN SAY ABOUT STEVE?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Occasionally Betty works one week during vacation.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "A winter vacation is unusual for Betty.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He rarely spends time on his courses.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He's an excellent student.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) Was the philosophy exam very long?\n(man) I scarcely had time to finish it.",
+                            "question": "7. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "He never studies.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "His books are always open.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He finished the exam in plenty of time.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "He was scared he wouldn't finish.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) I was so bored at the staff meeting!\n(woman) Seldom have staff meetings lasted this long.",
+                            "question": "8. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "He used every possible minute to finish.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "He was unable to complete the exam.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "This was a very long staff meeting.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "This was the only staff meeting in a long time.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) Are you enjoying the barbecue?\n((man)  Only rarely have I tasted such deli cious meat.",
+                            "question": "9. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "The meeting lasted only until one o'clock.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The one staff meeting should've lasted longer.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Meat tastes delicious to him when it's cooked rare.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "He isn't sure if the meal is delicious.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) Does your broken arm hurt very much?\n(man) Only if I try to move.",
+                            "question": "10. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "This meat is the best he's tasted in a long time.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He'd like to eat some meat from this delicatessen.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He broke his arm trying to move it.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He only hurt the broken arm.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "title": "SKILL 10: LISTEN FOR NEGATIVES WITH COMPARATIVES",
+                    "instruction": "Negatives can be used with comparatives in the short dialogues of the TOEFL test. A sentence with a negative and a comparative has a superlative, or very strong, meaning.",
+                    "questions": [
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Are you pleased with the exam results?\n(woman) I couldn't be happier.",
+                            "question": "1. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "She's not very happy.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She didn't do very well on the exam.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She could be somewhat happier.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She's delighted with the results.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) Is Paula lazy, as usual, this semester?\n(man) She's never tried harder.",
+                            "question": "2. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "Paula is always lazy.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Paula didn't work very hard this semester.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Paula made a strong effort.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "Paula could have worked harder.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Was it a good sale? Did you buy a lot?\n(woman) Prices couldn't have been any lower.",
+                            "question": "3. WHAT DOES THE WOMAN SAY ABOUT THE SALE?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "The prices were great! .",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The prices were too high.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She didn't buy much because of the prices.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The prices could have been lower.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) What do you think of Betsy?\n(man) I don't know a more intelligent woman.",
+                            "question": "4. WHAT DOES THE MAN SAY ABOUT BETSY?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "She is not very smart.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She always tells him everything.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He doesn't know her very well.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She's extremely intelligent.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) Did the patient really need the surgery?\n(man) It couldn't have been more unneces sary.",
+                            "question": "5. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "The patient absolutely didn't need the surgery.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The necessity for the surgery was unquestionable.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The surgeon felt that the operation was necessary.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "It was essential that the surgery be performed immediately.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Did any of you get hurt in the acci dent?\n(woman) We couldn't have been luckier.",
+                            "question": "6. WHAT DOES THE WOMAN IMPLY?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "They were not very lucky.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "No one was hurt.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The accident was unfortunate.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She wanted to have better luck.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) How do you think you did on the final exam in biology?\n(man) Nothing could have been more diffi cult than that exam!",
+                            "question": "7. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "Nothing was very difficult.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The exam wasn't at all easy.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The exam couldn't have been easier.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The exam had nothing difficult on it.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Are you ready to accept the new posi tion?\n(woman) Nobody wants that job more than I do.",
+                            "question": "8. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "She wants that job very much.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "No one is going to get the job.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Everybody else wants that job as much as she does.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She is not sure about taking the job.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) How did you do in the race?\n(woman) Only one person was faster.",
+                            "question": "9. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "She was second in the race.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "She was almost the slowest person in the race.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She won the race.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She was not faster than anyone else.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) Do you think that the math project this semester was easy?\n(man) Seldom has a math project been more complicated.",
+                            "question": "10. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "This math project was extremely complex.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "This math project was less complicated than the last.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "They seldom complete their math projects.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Complicated math projects are often assigned.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "title": "REVIEW SKILL 7-10",
+                    "instruction": "",
+                    "questions": [
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Do you think you could try a little harder?\n(woman) It's impossible for me to do more.",
+                            "question": "1. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "She can try a little harder.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "There is a lot more that she can do.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She's doing the best that she can.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "It is impossible for her to do anything.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) What are you so upset about?\n(woman) Not once on this trip has the bus left on time.",
+                            "question": "2. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "She's always been late for the bus.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The bus has always been late.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The bus only left on time once.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Only on this trip has the bus been on time.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Was there enough soup to go around?\n(woman) There was barely enough soup for everyone at the table.",
+                            "question": "3. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "There wasn't enough soup to go around.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "We had so much soup that we couldn't finish it.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Everyone got one serving of soup, but there wasn't enough for seconds.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "Everyone around the table had a lot of soup.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Do you really want to move to Florida?\n(woman) I couldn't want anything more!",
+                            "question": "4. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "She does want to see the movie.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "It's extremely important to her to go.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "She doesn't want to go there anymore.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She really couldn't move there.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Did you turn in your research paper for history class?\n(woman) I couldn't turn it in because it was incomplete.",
+                            "question": "5. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "She handed the paper in on time.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She was able to complete the paper, but she didn't turn it in.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The paper was a complete mess, so she didn't turn it in.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The paper was unfinished.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) Do you think that your friends enjoyed their trip to the Museum of\n(man) Modern Art?",
+                            "question": "6. Sylvia doesn't care for modern art, and neither does Tim. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "Neither Tim nor Sylvia is taking care of Art.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Sylvia likes modern art even less than Tim does.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Sylvia doesn't care for anything Tim does.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Sylvia and Tim agree in their opinion of modern art.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) Can your friends go with us this after noon, or do you think they will be too busy?\n(man) They hardly ever work in the after noon.",
+                            "question": "7. WHAT DOES THE MAN SAY ABOUT HIS FRIENDS?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "They always work hard in the afternoon.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "They don't do much after lunch.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "After noon they never work.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "It's never hard for them to work in the afternoon.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) Do you think we could turn the air conditioner on? I'm really uncomfort able?\n(man) The air-conditioner never works when it gets warm.",
+                            "question": "8. WHAT DOES THE MAN IMPLY?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "It's hard for him to work when it gets warm.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Whenever it gets warm, he turns on the air-conditioner.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The air-conditioner only works when it isn't needed.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "He likes to use the air-conditioner when it is warm.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) I heard that your exam results were not too bad.\n(man) Actually, I've never done worse.",
+                            "question": "9. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "He did really poorly.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "He's felt worse before.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The results co\\ild not have been better.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He's not too unhappy with the results.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Did the committee come to a decision about the parking problem?\n(woman) The committee shouldn't have decided the issue when so many mem bers weren't present.",
+                            "question": "10. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "With so many members present, the committee couldn't reach a decision.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The committee should've waited until more members were present.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The issue shouldn't have been decided by all the committed members.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The issue wasn't decided because so many members were absent.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "groups": []
+                }
+            ]
+        }
+    ]
+}
