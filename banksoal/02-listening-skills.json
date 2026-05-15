@@ -2,7 +2,7 @@
     "title": "Listening Skills",
     "sections": [
         {
-            "title": "Short Dialog",
+            "title": "Short Dialog SKILLS 1-3",
             "type": "listening",
             "durationMinutes": 25,
             "parts": [
@@ -1180,7 +1180,7 @@
                     "durationSeconds": 0
                 },
                 {
-                    "title": "SKILL 1-3",
+                    "title": "SKILL Review1 -3",
                     "instruction": "",
                     "questions": [
                         {
@@ -1573,6 +1573,1144 @@
             ],
             "instruction": "",
             "directionAudioUrl": ""
+        },
+        {
+            "title": "Short Dialog SKILLS 4-6",
+            "type": "listening",
+            "durationMinutes": 25,
+            "parts": [
+                {
+                    "title": "SKILL 4: DRAW CONCLUSIONS ABOUT WHO, WHAT, WHERE",
+                    "instruction": "",
+                    "questions": [
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) I didn't bring my laboratory manual today.\n(man) You can share mine. Today we're con ducting the experiment on photosyn thesis, and we can work together.",
+                            "question": "1. WHERE DOES THIS CONVERSA TION PROBABLY TAKE PLACE?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "In a photography studio",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "In a biology laboratory",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "In an office",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "In the library",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) This is flight 707 requesting permis sion to land.",
+                            "question": "2. Right 707, you are cleared for land ing. WHO IS THE MAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "He's a pilot.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "He's a flight attendant.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He's a member of the ground crew.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He works clearing land.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) Do you want to do the dishes now or later?\n(man) I'd rather put them off as long as possible.",
+                            "question": "3. WHAT WILL THE MAN PROBABLY DO?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "Wash the dishes immediately",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Use as many dishes as possible",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Wash the dishes for as long as possible",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Wait until later to clean up",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) How much of a tip should I leave?\n(woman) Oh, a dollar's plenty. The service was n't very good.",
+                            "question": "4. WHERE DOES THIS CONVERSA TION PROBABLY TAKE PLACE?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "In a bank",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "In a restaurant",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "At a service station",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "In a beauty salon",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) Can I pick up my shoes on Tuesday? I need them for a party that night.\n(man) They should be fixed by then.",
+                            "question": "5. WHO IS THE MAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "A salesclerk in a shoe store",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "A shoe repairperson",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "A party caterer",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "A salesclerk in a fixtures department",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) Did you get pictures of the lions?\n(man) Yes, and now let's go to the other side of the park. I want to see the exotic birds.",
+                            "question": "6. WHERE DOES THIS CONVERSA TION PROBABLY TAKE PLACE?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "On a playground",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "In a parking lot",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "At a zoo",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "In a photo studio",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Could you put the letters in the pend ing file now?\n(woman) Yes. Then I can answer them tomor row.",
+                            "question": "7. WHAT WILL THE WOMAN PROBA BLY DO TOMORROW?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Respond to the mail",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "Put the letters in a file",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Create a pending file",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "File the answers she received to the letters",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) The lights are flashing, and every one's going in.\n(woman) We should take our seats now before the second act starts.",
+                            "question": "8. WHERE DOES THIS CONVERSA TION PROBABLY TAKE PLACE?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "In an airplane",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "In a police car",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "In a theater",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "At a fireworks exhibit",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) Have you responded to Bob's dinner invitation yet?\n(man) I'll take care of it right away.",
+                            "question": "9. WHAT WILL THE MAN PROBABLY DO NEXT?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "Take care of Bob .",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Invite Bob to dinner .",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Let Bob know that they accept his invitation .",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "Respond to the woman's question .",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Can you fill this prescription for me?\n(woman) If you leave the prescription, I can have it filled in about ten minutes.",
+                            "question": "10. WHO IS THE WOMAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "A pharmacist .",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "A dentist .",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "A teacher .",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "A business manager .",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "title": "SKILL 5: LISTEN FOR WHO AND WHAT IN PASSIVES",
+                    "instruction": "",
+                    "questions": [
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Would you like to go to the new restaurant on the corner?\n(woman) Is that the one that serves vegetarian food?",
+                            "question": "1. WHAT DOES THE WOMAN WANT TO KNOW?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "If the restaurant is on the corner.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "If the man would like to go to the restaurant .",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "If the vegetables are fresh .",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "If vegetarian food can be obtained .",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Has Harry heard from the law school yet?\n(woman) Yes, he was admitted by the law school for the fall semester.",
+                            "question": "2. WHAT HAPPENED TO HARRY?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "He admitted that he wanted to go to law school in the fall.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The law school accepted him as a student.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The law professor admitted that he would be a student in the fall semester.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He would be admitted to law school after the fall semester.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Mark said that you were a lot of help.\n(woman) Well, I took care of his plants while he was out of town.",
+                            "question": "3. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Mark's plants were cared for in his absence.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "Mark's plan was to be out of town.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Mark was careful about his plans for the out-of-town trip.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She was careful while Mark was gone.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) Do you know what happened during the lightning storm?\n(man) Yes, several trees were destroyed.",
+                            "question": "4. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "The lights in the trees were destroyed in the storm.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The storm damaged the trees.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The falling trees destroyed a store.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "In the light the destruction of the storm could be seen.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Did you see Sally? Her leg's in a cast.\n(woman) Yes, I know. She told me that she broke her leg skiing in the mountains.",
+                            "question": "5. WHAT HAPPENED TO SALLY?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "She was broke from skiing.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She went skiing in spite of her accident.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Her leg was hurt on a skiing trip.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "Her skis were broken in the mountains.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) The horses are not in very good shape now.\n(man) They were ridden too long and too hard.",
+                            "question": "6. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "The road the horses took was long and hard.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "It was hard to find the hidden houses.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The riders worked the horses too much.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "It was hard for people to ride the horses for long.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) Why didn't you order coffee?\n(man) I thought it had already been ordered.",
+                            "question": "7. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "He didn't want the coffee that the woman ordered.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He wasn't sure if the woman wanted coffee.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He assumed the woman had ordered coffee.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "He was unaware that coffee had already been ordered.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) How are your friends going to get home from the airport after their trip?\n(woman) Their car was left in the airport lot.",
+                            "question": "8. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "The car was in the left parking lot at the airport.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The friends parked their car at the airport.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The airport couldn't hold a lot of cars.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "There were a lot of cars to the left",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Has the class chosen a representative?\n(woman) The other students appointed Mac class representative.",
+                            "question": "9. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "The students pointed at Mac.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "Mac was present when the other students made the appointment.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The class representative suggested Mac to the other students.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Mac was chosen by his classmates torepresent them.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) Wasn't the building damaged in the earthquake?\n(man) Yes, it was. And when this happened, the inhabitants were paid by the insur ance company.",
+                            "question": "10. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "After the earthquake, the insurance company came out to inspect the damage.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The insurance company insisted that the building be repaired to meet earthquake safety standards.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The inhabitants paid their premiums after the earthquake.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The insurance company paid for the earthquake damage.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "title": "SKILL 6: LISTEN FOR WHO AND WHAT WITH MULTIPLE NOUNS",
+                    "instruction": "",
+                    "questions": [
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) The passenger arrived in a taxi.\n(woman)  Yes, and then she had the taxi driver wait at the corner.",
+                            "question": "1.  WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "The passenger waited at the corner.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The passenger looked for a taxi at the corner.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The cab driver waited for the passenger.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The passenger cornered the waiting taxi driver.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Did you go to the concert last night?\n(woman)  Yes, it was great, and I got to hear Jane play the harp.",
+                            "question": "2.  WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "It was hard for her to hear Jane last night.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Jane gave a harp recital last night.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "Jane was playing hard while she was hurt.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She played the harp last night for Jane.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman)  Did the children like the new baby-sit ter?\n(man) Not really, because she made them go to bed early.",
+                            "question": "3.  WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "The baby sister went to bed quite early.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The children were forced to go to bed early.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The baby-sitter made the bed after the children got up.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The baby-sitter did not stay up late.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Why is that man throwing the ball so carefully?\n(woman)  He is tossing the ball to his young son.",
+                            "question": "4.  WHAT DOES THE WOMAN SAY ABOUT THE FATHER AND SON?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "The man taught his son about football.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The boy is receiving the ball from his dad.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The ball is being tossed into the air by the boy.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The man is playing with the ball in the sun.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Did the professor tell her students about the lecture this evening?\n(woman)  Yes, she directed her students to attend it.",
+                            "question": "5.  WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "The students were told to go listen to the speaker.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The professor attended that evening's lecture.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The students were given directions to the lecture.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The professor was directed to the lecture hall.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman)  I cannot find the clerk.\n(man) The floor manager sent him back to the supply room.",
+                            "question": "6.  WHAT HAPPENED, ACCORDING TO THE MAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "The manager went to the supply room.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The clerk set supplies on the floor.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The clerk went to the supply room at the manager's request.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The clerk backed into the manager in the supply room.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman)  Will the students be able to get hold of the books that they need?\n(man) The librarian had them reserve the books for two days.",
+                            "question": "7.  WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "The librarian was quite reserved with the students for two days.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Within two days the librarian had the books for the students.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The librarian reserved the books for the students.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The students put the books on hold for two days.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man) Were elections held last night, as scheduled?\n(woman)  Yes, and the board elected Tony chair man for another year.",
+                            "question": "8.  WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "The chairman decided that Tony would serve on the board for another year.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The chairman elected the board.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The board decided Tony could be chairman after one year.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Tony became chairman for one more year.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman)  At the trial the defendant was found guilty.\n(man) Yes, the judge called the defendant a murderer.",
+                            "question": "9.  WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "The judge defended the murderer.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The judge tried to protect the defendant from the murderer.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The judge said that the defendant was a criminal.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The defense couldn't make a judgment about the criminal.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman) Have the names of the new committee members been announced?\n(man) Congratulations! You've been appointed to serve on the committee.",
+                            "question": "10. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "The woman should announce the names of the committee members.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He is thankful to be appointed to the committee.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He is sure about the time of the appointment with the committee.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The woman will serve on the committee.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "groups": []
+                }
+            ]
         }
     ]
 }
