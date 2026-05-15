@@ -1829,7 +1829,7 @@
                                     }
                                 }
                             ],
-                            "groupId": null
+                            "groupId": "g_s8u6lkbfy"
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -1867,7 +1867,7 @@
                                     }
                                 }
                             ],
-                            "groupId": null
+                            "groupId": "g_s8u6lkbfy"
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -1905,7 +1905,7 @@
                                     }
                                 }
                             ],
-                            "groupId": null
+                            "groupId": "g_s8u6lkbfy"
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -1943,7 +1943,7 @@
                                     }
                                 }
                             ],
-                            "groupId": null
+                            "groupId": "g_s8u6lkbfy"
                         }
                     ],
                     "groups": [
@@ -1956,8 +1956,14 @@
                         {
                             "id": "g_s8u6lkbey",
                             "passage": "Questions 43-46\n\n(narrator)    Listen to a talk about Hawaii.\n(woman)\tFor those of you taking part in the trip to Hawaii next week, I'd like to give you a litde information about the weather that you can expect there. You can expect the average daily tem perature there to be about 80 degrees Fahrenheit or 26 degrees Celsius. This is the average daily temperature in the springtime, when we will be there; it is interesting to note that it only gets a few degrees warmer in the summer and a few degrees cooler in the win ter. One important factor that keeps the temperature so constant and moder ate in Hawaii is the trade winds. These are winds that blow in on the north east, or windward, side of the islands on an almost daily basis; the trade winds blow through the islands an average of slighdy more than 300 days per year, and they are the strongest during the heat of the afternoon and turn into a cooling breeze in the evening. The trade winds also keep the humidity down, which makes the weather even more pleasant. I hope this information will help you to understand the weather conditions that you're going to encounter next week on your trip; it should also help you decide what types of clothes you should be packing for your trip.",
-                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-c/post-test-passage-43-45.mp3",
-                            "label": "Q43-45"
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-c/post-test-passage-43-46.mp3",
+                            "label": "Q43-46"
+                        },
+                        {
+                            "id": "g_s8u6lkbfy",
+                            "passage": "Questions 43-46\n\n(narrator)    Listen to a talk about Hawaii.\n(woman)\tFor those of you taking part in the trip to Hawaii next week, I'd like to give you a litde information about the weather that you can expect there. You can expect the average daily tem perature there to be about 80 degrees Fahrenheit or 26 degrees Celsius. This is the average daily temperature in the springtime, when we will be there; it is interesting to note that it only gets a few degrees warmer in the summer and a few degrees cooler in the win ter. One important factor that keeps the temperature so constant and moder ate in Hawaii is the trade winds. These are winds that blow in on the north east, or windward, side of the islands on an almost daily basis; the trade winds blow through the islands an average of slighdy more than 300 days per year, and they are the strongest during the heat of the afternoon and turn into a cooling breeze in the evening. The trade winds also keep the humidity down, which makes the weather even more pleasant. I hope this information will help you to understand the weather conditions that you're going to encounter next week on your trip; it should also help you decide what types of clothes you should be packing for your trip.",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-c/post-test-passage-47-50.mp3",
+                            "label": "Q47-50"
                         }
                     ],
                     "passage": "",
