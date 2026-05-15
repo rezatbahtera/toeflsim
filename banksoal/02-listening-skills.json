@@ -2318,7 +2318,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-05-20.mp3",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-05-10.mp3",
                             "passage": "(woman) Wasn't the building damaged in the earthquake?\n(man) Yes, it was. And when this happened, the inhabitants were paid by the insur ance company.",
                             "question": "10. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 0,
