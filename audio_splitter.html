@@ -1,0 +1,1265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TOEFL / IELTS Audio Splitter</title>
+<style>
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: #f5f6f8;
+    color: #222;
+    font-size: 14px;
+  }
+  header {
+    background: #2c3e50;
+    color: #fff;
+    padding: 14px 20px;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+  header h1 { margin: 0; font-size: 18px; font-weight: 600; }
+  header .file-info { color: #cdd5dc; font-size: 13px; }
+  main { padding: 16px 20px 40px; max-width: 1280px; margin: 0 auto; }
+  .panel {
+    background: #fff;
+    border: 1px solid #d8dde3;
+    border-radius: 8px;
+    padding: 14px 16px;
+    margin-bottom: 14px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+  }
+  .panel h2 {
+    margin: 0 0 10px;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: #6b7280;
+    font-weight: 600;
+  }
+  .row { display: flex; gap: 14px; align-items: center; flex-wrap: wrap; }
+  label { display: inline-flex; align-items: center; gap: 6px; color: #444; }
+  input[type="number"], input[type="text"] {
+    border: 1px solid #c8ced6;
+    border-radius: 4px;
+    padding: 5px 8px;
+    font-size: 13px;
+    font-family: inherit;
+  }
+  input[type="number"] { width: 80px; }
+  input[type="range"] { vertical-align: middle; }
+  button {
+    background: #2c3e50;
+    color: #fff;
+    border: 0;
+    border-radius: 4px;
+    padding: 6px 14px;
+    font-size: 13px;
+    cursor: pointer;
+    font-family: inherit;
+  }
+  button:hover { background: #34495e; }
+  button:disabled { background: #adb5bd; cursor: not-allowed; }
+  button.secondary { background: #6c757d; }
+  button.secondary:hover { background: #5a6268; }
+  button.danger { background: #c0392b; }
+  button.danger:hover { background: #a93226; }
+
+  /* Timeline */
+  #timeline-wrap {
+    position: relative;
+    background: #fafafa;
+    border: 1px solid #c8ced6;
+    border-radius: 6px;
+    overflow: hidden;
+    user-select: none;
+  }
+  #timeline { display: block; width: 100%; height: 150px; cursor: crosshair; }
+  #timeline-help {
+    background: #f0f4f8;
+    border-top: 1px solid #d8dde3;
+    padding: 6px 10px;
+    font-size: 12px;
+    color: #5a6878;
+  }
+  .cut-count { font-weight: 600; color: #c0392b; }
+
+  /* Segment list */
+  table { width: 100%; border-collapse: collapse; }
+  th, td { padding: 8px 10px; border-bottom: 1px solid #e9ecef; text-align: left; }
+  th {
+    background: #f1f3f5;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: #6b7280;
+    font-weight: 600;
+  }
+  tbody tr { cursor: pointer; }
+  tbody tr:hover { background: #f8f9fa; }
+  tbody tr.selected { background: #d9eaff !important; }
+  tbody tr.pause-row { color: #888; font-style: italic; }
+  td .swatch {
+    display: inline-block;
+    width: 10px; height: 10px;
+    margin-right: 6px;
+    border-radius: 2px;
+    vertical-align: middle;
+    border: 1px solid #888;
+  }
+  td input[type="text"] {
+    width: 100%;
+    border: 0;
+    background: transparent;
+    padding: 2px 4px;
+  }
+  td input[type="text"]:focus {
+    outline: 1px solid #3498db;
+    background: #fff;
+  }
+  .seg-actions { display: flex; gap: 6px; }
+  .seg-actions button {
+    padding: 3px 8px;
+    font-size: 12px;
+  }
+
+  /* Status & footer */
+  #status {
+    color: #5a6878;
+    font-size: 13px;
+    margin-right: auto;
+  }
+  .footer-bar { display: flex; align-items: center; gap: 10px; }
+
+  /* Drop zone */
+  #drop-hint {
+    text-align: center;
+    padding: 40px;
+    color: #6b7280;
+    font-size: 15px;
+    border: 2px dashed #c8ced6;
+    border-radius: 8px;
+    background: #fff;
+  }
+  #drop-hint.drag-over {
+    border-color: #3498db;
+    background: #eaf4fc;
+    color: #2980b9;
+  }
+
+  .hidden { display: none !important; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>🎧 TOEFL / IELTS Audio Splitter</h1>
+  <span class="file-info" id="fileInfo">No file loaded</span>
+</header>
+
+<main>
+  <!-- File picker / drop zone -->
+  <div class="panel">
+    <div class="row">
+      <input type="file" id="fileInput" accept="audio/*" />
+      <button id="loadSampleBtn" class="secondary" title="Generate a synthetic TOEFL-like track for testing">Load sample track</button>
+      <span style="color:#888;">·  or drag &amp; drop an MP3/WAV anywhere on the page</span>
+    </div>
+  </div>
+
+  <div id="drop-hint">Drop your audio file here (MP3, WAV, M4A, OGG) — everything happens locally in your browser</div>
+
+  <!-- Detection controls (hidden until file loaded) -->
+  <div class="panel hidden" id="detectionPanel">
+    <h2>Silence detection</h2>
+    <div class="row">
+      <label>Threshold (dBFS):
+        <input type="range" id="threshSlider" min="-60" max="-20" value="-40" />
+        <span id="threshLabel" style="display:inline-block; width:55px;">-40 dB</span>
+      </label>
+      <label>Min silence (ms):
+        <input type="number" id="minSilInput" min="200" max="5000" step="100" value="800" />
+      </label>
+      <label>Keep silence pad (ms):
+        <input type="number" id="padInput" min="0" max="2000" step="50" value="200" />
+      </label>
+      <button id="detectBtn">Auto-detect parts</button>
+      <button id="clearCutsBtn" class="secondary">Clear all cuts</button>
+    </div>
+  </div>
+
+  <!-- Timeline -->
+  <div class="panel hidden" id="timelinePanel">
+    <h2>Timeline</h2>
+    <div id="timeline-wrap">
+      <canvas id="timeline"></canvas>
+    </div>
+    <div id="timeline-help">
+      Click the waveform to add a cut · Drag red handles to move · Right-click a handle to delete · Click a colored band to select that part
+      &nbsp;·&nbsp; Cuts: <span class="cut-count" id="cutCount">0</span>
+    </div>
+    <div class="row" style="margin-top: 10px;">
+      <label>Add cut at (sec):
+        <input type="number" id="cutAtInput" min="0" step="0.5" value="0" />
+      </label>
+      <button id="addCutBtn">Add cut here</button>
+      <button id="autoNameBtn" class="secondary">Auto-name (TOEFL)</button>
+    </div>
+  </div>
+
+  <!-- Segments list -->
+  <div class="panel hidden" id="listPanel">
+    <h2>Parts (review &amp; adjust)</h2>
+    <table>
+      <thead>
+        <tr>
+          <th style="width:50px;">#</th>
+          <th>Name (click to edit)</th>
+          <th style="width:280px;">Start → End  (duration)</th>
+          <th style="width:280px;">Actions</th>
+        </tr>
+      </thead>
+      <tbody id="segmentRows"></tbody>
+    </table>
+  </div>
+
+  <!-- Footer bar -->
+  <div class="panel hidden" id="footerPanel">
+    <div class="row" style="margin-bottom: 8px;">
+      <label>Test prefix:
+        <input type="text" id="prefixInput" placeholder="e.g. diagtest" style="width: 160px;" />
+      </label>
+      <label>Format:
+        <select id="formatSelect" style="padding: 5px 8px; border:1px solid #c8ced6; border-radius:4px;">
+          <option value="wav">WAV (lossless, larger)</option>
+          <option value="mp3">MP3 (smaller, needs CDN)</option>
+        </select>
+      </label>
+      <span style="color:#888; font-size:12px;">→ files named like <code>prefix-01-name.ext</code></span>
+    </div>
+    <div class="footer-bar">
+      <span id="status">Ready.</span>
+      <button id="stopBtn" class="secondary">■ Stop playback</button>
+      <button id="savePlanBtn" class="secondary">Save plan (JSON)</button>
+      <button id="loadPlanBtn" class="secondary">Load plan</button>
+      <input type="file" id="planInput" accept=".json" class="hidden" />
+      <button id="exportBtn">Export all parts (ZIP)</button>
+    </div>
+  </div>
+</main>
+
+<script>
+// ============================================================================
+//                  AUDIO SPLITTER — vanilla HTML/JS (browser-native)
+// ============================================================================
+// Everything runs locally in your browser using the Web Audio API.
+// No server, no upload, no external libraries (except JSZip loaded on demand
+// when you click Export, fetched from a CDN — only needed for ZIP packaging).
+// ============================================================================
+
+const state = {
+  audioBuffer: null,          // decoded PCM (AudioBuffer)
+  sourceName: null,           // original filename
+  totalMs: 0,
+  peaks: [],                  // normalized [0..1] for waveform drawing
+  cuts: [],                   // sorted list of ms positions (0 < c < totalMs)
+  segments: [],               // [{startMs, endMs, name}, ...]
+  selectedIdx: -1,
+  draggingCut: -1,
+  hoverCut: -1,
+  playSource: null,           // currently-playing AudioBufferSourceNode
+};
+
+// One shared AudioContext, created lazily so browsers don't complain about
+// autoplay until the user actually interacts.
+let audioCtx = null;
+function ctx() {
+  if (!audioCtx) audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+  return audioCtx;
+}
+
+// --- Color palette for segment bands ---------------------------------------
+const SEG_COLORS = ["#cfe8ff", "#d9f5d0", "#ffe6c2", "#f4d4ff", "#ffd6d6", "#d8eaf7", "#e7e2c8"];
+const PAUSE_COLOR = "#ececec";
+const WAVE_COLOR = "#3a7bd5";
+const CUT_COLOR = "#d23b3b";
+const CUT_HOVER = "#000";
+
+// --- Time formatting --------------------------------------------------------
+function fmtTs(ms) {
+  const s = Math.floor(ms / 1000);
+  const m = Math.floor(s / 60);
+  return String(m).padStart(2, "0") + ":" + String(s % 60).padStart(2, "0");
+}
+function fmtTsMs(ms) {
+  const totalS = Math.floor(ms / 1000);
+  const m = Math.floor(totalS / 60);
+  const s = totalS % 60;
+  const remMs = ms % 1000;
+  return String(m).padStart(2, "0") + ":" + String(s).padStart(2, "0") + "." + String(remMs).padStart(3, "0");
+}
+
+// ============================================================================
+// SEGMENT DERIVATION — single source of truth: state.cuts → state.segments
+// ============================================================================
+function segmentsFromCuts(cuts, totalMs, prevSegments = null) {
+  // Build sorted unique boundary points including 0 and totalMs
+  const pts = Array.from(new Set([0, totalMs, ...cuts.map(c => Math.max(0, Math.min(totalMs, c)))]))
+                  .sort((a, b) => a - b);
+  const out = [];
+  for (let i = 0; i < pts.length - 1; i++) {
+    const s = pts[i], e = pts[i + 1];
+    if (e - s < 1) continue;
+    let name = prevSegments ? carryName(s, e, prevSegments) : `Part ${i + 1}`;
+    out.push({ startMs: s, endMs: e, name });
+  }
+  // Renumber any remaining default "Part N" names
+  let counter = 1;
+  for (const seg of out) {
+    if (seg.name.startsWith("Part ")) seg.name = `Part ${counter}`;
+    counter++;
+  }
+  return out;
+}
+function carryName(s, e, prev) {
+  let best = null, bestOverlap = 0;
+  for (const p of prev) {
+    const ov = Math.max(0, Math.min(e, p.endMs) - Math.max(s, p.startMs));
+    if (ov > bestOverlap) { best = p; bestOverlap = ov; }
+  }
+  if (best && bestOverlap >= (e - s) / 2) return best.name;
+  return "Part ?";
+}
+
+// ============================================================================
+// SILENCE DETECTION (port of pydub's detect_nonsilent algorithm)
+// ============================================================================
+//
+// We work in dBFS (decibels relative to full scale). For each window we
+// compute RMS energy, convert to dB, and call it "silent" if it is below the
+// threshold. Then we coalesce consecutive non-silent windows and discard
+// non-silent runs that don't have a long enough silent gap before/after.
+//
+function detectNonsilent(audioBuffer, opts) {
+  const minSilenceMs = opts.minSilenceMs;
+  const silenceThreshDb = opts.silenceThreshDb;
+  const seekStepMs = opts.seekStepMs || 10;
+
+  // Mix channels down to mono
+  const sampleRate = audioBuffer.sampleRate;
+  const numCh = audioBuffer.numberOfChannels;
+  const len = audioBuffer.length;
+  const mono = new Float32Array(len);
+  for (let ch = 0; ch < numCh; ch++) {
+    const data = audioBuffer.getChannelData(ch);
+    for (let i = 0; i < len; i++) mono[i] += data[i] / numCh;
+  }
+
+  const windowSamples = Math.max(1, Math.floor(sampleRate * minSilenceMs / 1000));
+  const stepSamples = Math.max(1, Math.floor(sampleRate * seekStepMs / 1000));
+
+  // dBFS of a window = 20*log10(RMS / max_amplitude). For float audio max is 1.0.
+  // A window is silent if dBFS < threshold.
+  // We slide a window of `minSilenceMs` and mark its center as silent/loud.
+  function windowDbfs(start) {
+    let sumSq = 0;
+    const end = Math.min(len, start + windowSamples);
+    const n = end - start;
+    if (n <= 0) return -Infinity;
+    for (let i = start; i < end; i++) sumSq += mono[i] * mono[i];
+    const rms = Math.sqrt(sumSq / n);
+    if (rms <= 0) return -Infinity;
+    return 20 * Math.log10(rms);
+  }
+
+  // Find silent windows
+  const silentRanges = [];
+  let silentStart = -1;
+  for (let i = 0; i + windowSamples <= len; i += stepSamples) {
+    const db = windowDbfs(i);
+    const isSilent = db < silenceThreshDb;
+    if (isSilent && silentStart < 0) silentStart = i;
+    else if (!isSilent && silentStart >= 0) {
+      silentRanges.push([silentStart, i + windowSamples]);
+      silentStart = -1;
+    }
+  }
+  if (silentStart >= 0) silentRanges.push([silentStart, len]);
+
+  // Convert silent ranges to non-silent ranges
+  const nonsilent = [];
+  let prevEnd = 0;
+  for (const [s, e] of silentRanges) {
+    if (s > prevEnd) nonsilent.push([prevEnd, s]);
+    prevEnd = e;
+  }
+  if (prevEnd < len) nonsilent.push([prevEnd, len]);
+
+  // Convert sample indices to ms
+  return nonsilent.map(([s, e]) => [
+    Math.round(s * 1000 / sampleRate),
+    Math.round(e * 1000 / sampleRate),
+  ]).filter(([s, e]) => e - s > 50); // discard noise blips
+}
+
+// ============================================================================
+// WAVEFORM PEAKS (for drawing) — downsample to N buckets
+// ============================================================================
+function computePeaks(audioBuffer, nBuckets = 1000) {
+  const data = audioBuffer.getChannelData(0);
+  const bucket = Math.max(1, Math.floor(data.length / nBuckets));
+  const peaks = [];
+  let topPeak = 0;
+  for (let i = 0; i < data.length; i += bucket) {
+    let max = 0;
+    const end = Math.min(data.length, i + bucket);
+    for (let j = i; j < end; j++) {
+      const v = Math.abs(data[j]);
+      if (v > max) max = v;
+    }
+    peaks.push(max);
+    if (max > topPeak) topPeak = max;
+  }
+  if (topPeak === 0) topPeak = 1;
+  return peaks.map(p => p / topPeak);
+}
+
+// ============================================================================
+// FILE LOADING
+// ============================================================================
+async function loadFile(file) {
+  setStatus(`Decoding ${file.name}…`);
+  try {
+    const arrayBuf = await file.arrayBuffer();
+    const audioBuffer = await ctx().decodeAudioData(arrayBuf.slice(0));
+    state.audioBuffer = audioBuffer;
+    state.sourceName = file.name;
+    state.totalMs = Math.round(audioBuffer.duration * 1000);
+    state.peaks = computePeaks(audioBuffer, 1200);
+    state.cuts = [];
+    state.segments = [];
+    state.selectedIdx = -1;
+
+    document.getElementById("fileInfo").textContent =
+      `${file.name}  ·  ${audioBuffer.duration.toFixed(1)} s  ·  ${audioBuffer.sampleRate} Hz / ${audioBuffer.numberOfChannels}ch`;
+    document.getElementById("drop-hint").classList.add("hidden");
+    document.getElementById("detectionPanel").classList.remove("hidden");
+    document.getElementById("timelinePanel").classList.remove("hidden");
+    document.getElementById("listPanel").classList.remove("hidden");
+    document.getElementById("footerPanel").classList.remove("hidden");
+    document.getElementById("cutAtInput").max = audioBuffer.duration.toFixed(2);
+
+    refreshAll();
+    setStatus("Loaded. Click 'Auto-detect parts' or click the timeline to add cuts.");
+  } catch (e) {
+    console.error(e);
+    setStatus("Failed to decode audio: " + e.message);
+    alert("Could not decode audio file:\n" + e.message);
+  }
+}
+
+// ============================================================================
+// AUTO-DETECT
+// ============================================================================
+function autoDetect() {
+  if (!state.audioBuffer) return;
+  const thresh = parseInt(document.getElementById("threshSlider").value, 10);
+  const minSil = parseInt(document.getElementById("minSilInput").value, 10);
+  const pad = parseInt(document.getElementById("padInput").value, 10);
+
+  setStatus("Detecting dialog start points…");
+  setTimeout(() => {
+    const nonsilent = detectNonsilent(state.audioBuffer, {
+      minSilenceMs: minSil,
+      silenceThreshDb: thresh,
+      seekStepMs: 10,
+    });
+    if (!nonsilent.length) {
+      setStatus("No non-silent regions found. Try a lower threshold or shorter min-silence.");
+      return;
+    }
+
+    const total = state.totalMs;
+
+    // Place ONE cut at the start of each dialog (with pad applied so we don't
+    // clip the first syllable). Skip the very first dialog's cut if there's
+    // no meaningful intro silence — that lets segment 1 start at 0 = Dialog 1.
+    const cuts = [];
+    nonsilent.forEach(([s, _e], i) => {
+      const cut = Math.max(0, s - pad);
+      if (i === 0 && cut < minSil) return;  // no meaningful intro silence
+      cuts.push(cut);
+    });
+
+    state.cuts = Array.from(new Set(cuts.filter(c => c > 0 && c < total))).sort((a, b) => a - b);
+    state.segments = segmentsFromCuts(state.cuts, total);
+
+    // Every segment spans from dialog-start to the next dialog-start (or end of file),
+    // so trailing silence belongs to the dialog before it. No separate "Pause" segments.
+    state.segments.forEach((seg, i) => { seg.name = `Dialog ${i + 1}`; });
+
+    refreshAll();
+    setStatus(`Auto-detected ${state.segments.length} dialog(s). Each segment runs from one dialog-start to the next. Drag handles on the timeline to fine-tune.`);
+  }, 30);
+}
+
+// ============================================================================
+// CUT MUTATIONS
+// ============================================================================
+function addCut(ms) {
+  if (!state.audioBuffer) return;
+  if (ms <= 0 || ms >= state.totalMs) return;
+  if (state.cuts.some(c => Math.abs(c - ms) < 50)) return; // near-duplicate
+  state.cuts.push(ms);
+  state.cuts.sort((a, b) => a - b);
+  refreshAll();
+}
+function moveCut(idx, ms) {
+  const cs = state.cuts;
+  const left = idx > 0 ? cs[idx - 1] + 50 : 50;
+  const right = idx < cs.length - 1 ? cs[idx + 1] - 50 : state.totalMs - 50;
+  cs[idx] = Math.max(left, Math.min(right, ms));
+}
+function deleteCut(idx) {
+  state.cuts.splice(idx, 1);
+  refreshAll();
+}
+function clearAllCuts() {
+  if (!state.cuts.length) return;
+  if (!confirm("Remove ALL cut points?")) return;
+  state.cuts = [];
+  refreshAll();
+  setStatus("All cuts cleared.");
+}
+
+// ============================================================================
+// AUTO-NAME (TOEFL heuristic)
+// ============================================================================
+function autoName() {
+  // No more "Pause" category — every segment is a dialog that includes
+  // its own trailing silence. Classify purely by duration.
+  state.segments.forEach((seg, i) => {
+    const d = seg.endMs - seg.startMs;
+    const n = i + 1;
+    if (d >= 20000) seg.name = `Dialog ${n}`;
+    else if (d >= 6000) seg.name = `Passage ${n}`;
+    else seg.name = `Question ${n}`;
+  });
+  refreshList();
+  drawTimeline();
+  setStatus("Auto-named based on duration heuristics.");
+}
+
+// ============================================================================
+// REFRESH PIPELINE (cuts → segments → DOM + canvas)
+// ============================================================================
+function refreshAll() {
+  if (state.audioBuffer) {
+    state.segments = segmentsFromCuts(state.cuts, state.totalMs, state.segments);
+  }
+  document.getElementById("cutCount").textContent = state.cuts.length;
+  drawTimeline();
+  refreshList();
+}
+
+// ============================================================================
+// SEGMENT LIST (DOM)
+// ============================================================================
+function refreshList() {
+  const tbody = document.getElementById("segmentRows");
+  tbody.innerHTML = "";
+  state.segments.forEach((seg, i) => {
+    const tr = document.createElement("tr");
+    tr.dataset.idx = i;
+    if (seg.name.toLowerCase().startsWith("pause")) tr.classList.add("pause-row");
+    if (i === state.selectedIdx) tr.classList.add("selected");
+
+    const isPause = seg.name.toLowerCase().startsWith("pause");
+    const color = isPause ? PAUSE_COLOR : SEG_COLORS[i % SEG_COLORS.length];
+
+    tr.innerHTML = `
+      <td>${i + 1}</td>
+      <td><span class="swatch" style="background:${color}"></span><input type="text" value="${escapeHtml(seg.name)}" data-rename-idx="${i}" /></td>
+      <td>${fmtTsMs(seg.startMs)} → ${fmtTsMs(seg.endMs)}  (${fmtTsMs(seg.endMs - seg.startMs)})</td>
+      <td>
+        <div class="seg-actions">
+          <button data-act="play"  data-idx="${i}">▶ Play</button>
+          <button data-act="merge" data-idx="${i}" class="secondary">Merge ↓</button>
+          <button data-act="split" data-idx="${i}" class="secondary">Split ½</button>
+          <button data-act="del"   data-idx="${i}" class="danger">✕</button>
+        </div>
+      </td>
+    `;
+    tr.addEventListener("click", e => {
+      // Don't override clicks on the input or buttons
+      if (e.target.tagName === "INPUT" || e.target.tagName === "BUTTON") return;
+      selectSegment(i);
+    });
+    tbody.appendChild(tr);
+  });
+}
+
+function escapeHtml(s) {
+  return s.replace(/[&<>"']/g, c => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", "\"": "&quot;", "'": "&#39;"
+  }[c]));
+}
+
+function selectSegment(idx) {
+  state.selectedIdx = idx;
+  refreshList();
+  drawTimeline();
+  // Scroll selected row into view
+  const row = document.querySelector(`tr[data-idx="${idx}"]`);
+  if (row) row.scrollIntoView({ block: "nearest", behavior: "smooth" });
+}
+
+// ============================================================================
+// SEGMENT ACTIONS
+// ============================================================================
+document.addEventListener("click", e => {
+  const btn = e.target.closest("button[data-act]");
+  if (!btn) return;
+  const idx = parseInt(btn.dataset.idx, 10);
+  const act = btn.dataset.act;
+  if (act === "play")  playSegment(idx);
+  if (act === "merge") mergeNext(idx);
+  if (act === "split") splitCenter(idx);
+  if (act === "del")   deleteSegment(idx);
+});
+document.addEventListener("input", e => {
+  if (e.target.matches("input[data-rename-idx]")) {
+    const i = parseInt(e.target.dataset.renameIdx, 10);
+    state.segments[i].name = e.target.value;
+    drawTimeline();
+  }
+});
+
+function mergeNext(idx) {
+  if (idx >= state.segments.length - 1) return;
+  const boundary = state.segments[idx].endMs;
+  state.cuts = state.cuts.filter(c => c !== boundary);
+  refreshAll();
+}
+function splitCenter(idx) {
+  const seg = state.segments[idx];
+  const mid = Math.floor((seg.startMs + seg.endMs) / 2);
+  if (mid - seg.startMs < 100 || seg.endMs - mid < 100) {
+    alert("Part is too short to split.");
+    return;
+  }
+  state.cuts.push(mid);
+  state.cuts.sort((a, b) => a - b);
+  refreshAll();
+}
+function deleteSegment(idx) {
+  const seg = state.segments[idx];
+  const before = state.cuts.length;
+  state.cuts = state.cuts.filter(c => c !== seg.startMs && c !== seg.endMs);
+  if (state.cuts.length === before) {
+    alert("This segment spans the whole track — no cuts to remove.");
+    return;
+  }
+  refreshAll();
+}
+
+// ============================================================================
+// PLAYBACK (Web Audio API)
+// ============================================================================
+function playSegment(idx) {
+  const seg = state.segments[idx];
+  if (!seg || !state.audioBuffer) return;
+  stopPlayback();
+  const c = ctx();
+  if (c.state === "suspended") c.resume();
+  const src = c.createBufferSource();
+  src.buffer = state.audioBuffer;
+  src.connect(c.destination);
+  const startS = seg.startMs / 1000;
+  const durS = (seg.endMs - seg.startMs) / 1000;
+  src.start(0, startS, durS);
+  state.playSource = src;
+  selectSegment(idx);
+  setStatus(`Playing: ${seg.name}  (${durS.toFixed(1)}s)`);
+  src.onended = () => {
+    if (state.playSource === src) {
+      state.playSource = null;
+      setStatus(`Stopped: ${seg.name}`);
+    }
+  };
+}
+function stopPlayback() {
+  if (state.playSource) {
+    try { state.playSource.stop(); } catch (e) {}
+    state.playSource = null;
+  }
+}
+
+// ============================================================================
+// TIMELINE CANVAS — waveform, segment bands, cut handles, ruler
+// ============================================================================
+const canvas = document.getElementById("timeline");
+const ctx2d = canvas.getContext("2d");
+
+const TL = {
+  PAD_X: 12,
+  WAVE_H: 70,
+  BAND_H: 36,
+  RULER_H: 18,
+  HANDLE_GRAB_PX: 6,
+};
+
+function resizeCanvas() {
+  const wrap = document.getElementById("timeline-wrap");
+  const cssW = wrap.clientWidth;
+  const cssH = TL.WAVE_H + TL.BAND_H + TL.RULER_H + 8;
+  const dpr = window.devicePixelRatio || 1;
+  canvas.style.width  = cssW + "px";
+  canvas.style.height = cssH + "px";
+  canvas.width  = Math.floor(cssW * dpr);
+  canvas.height = Math.floor(cssH * dpr);
+  ctx2d.setTransform(dpr, 0, 0, dpr, 0, 0);
+  drawTimeline();
+}
+window.addEventListener("resize", resizeCanvas);
+
+function tlUsableW() {
+  return canvas.clientWidth - 2 * TL.PAD_X;
+}
+function xOfMs(ms) {
+  if (state.totalMs <= 0) return TL.PAD_X;
+  return TL.PAD_X + (ms / state.totalMs) * tlUsableW();
+}
+function msOfX(x) {
+  if (state.totalMs <= 0) return 0;
+  const rel = (x - TL.PAD_X) / tlUsableW();
+  return Math.round(Math.max(0, Math.min(1, rel)) * state.totalMs);
+}
+function cutIdxNearX(x) {
+  let best = -1, bestD = TL.HANDLE_GRAB_PX + 1;
+  for (let i = 0; i < state.cuts.length; i++) {
+    const d = Math.abs(xOfMs(state.cuts[i]) - x);
+    if (d < bestD) { best = i; bestD = d; }
+  }
+  return best;
+}
+function segIdxAtX(x) {
+  const ms = msOfX(x);
+  for (let i = 0; i < state.segments.length; i++) {
+    const s = state.segments[i];
+    if (s.startMs <= ms && ms <= s.endMs) return i;
+  }
+  return -1;
+}
+
+function drawTimeline() {
+  const w = canvas.clientWidth;
+  const h = canvas.clientHeight;
+  ctx2d.clearRect(0, 0, w, h);
+
+  if (state.totalMs <= 0) {
+    ctx2d.fillStyle = "#888";
+    ctx2d.font = "italic 13px sans-serif";
+    ctx2d.textAlign = "center";
+    ctx2d.fillText("Open an audio file to see the timeline", w / 2, h / 2);
+    return;
+  }
+
+  const waveTop = 4;
+  const waveBot = waveTop + TL.WAVE_H;
+  const bandTop = waveBot + 2;
+  const bandBot = bandTop + TL.BAND_H;
+  const rulerY = bandBot + 2;
+  const midY = (waveTop + waveBot) / 2;
+  const usableW = tlUsableW();
+
+  // White panes
+  ctx2d.fillStyle = "#fff";
+  ctx2d.fillRect(TL.PAD_X, waveTop, usableW, TL.WAVE_H);
+  ctx2d.fillRect(TL.PAD_X, bandTop, usableW, TL.BAND_H);
+  ctx2d.strokeStyle = "#ccc";
+  ctx2d.strokeRect(TL.PAD_X, waveTop, usableW, TL.WAVE_H);
+  ctx2d.strokeRect(TL.PAD_X, bandTop, usableW, TL.BAND_H);
+
+  // Center line
+  ctx2d.strokeStyle = "#dcdcdc";
+  ctx2d.beginPath();
+  ctx2d.moveTo(TL.PAD_X, midY);
+  ctx2d.lineTo(TL.PAD_X + usableW, midY);
+  ctx2d.stroke();
+
+  // Waveform peaks
+  const peaks = state.peaks;
+  if (peaks.length) {
+    const half = TL.WAVE_H / 2 - 2;
+    ctx2d.strokeStyle = WAVE_COLOR;
+    ctx2d.lineWidth = 1;
+    ctx2d.beginPath();
+    for (let i = 0; i < peaks.length; i++) {
+      const x = TL.PAD_X + (i / peaks.length) * usableW;
+      const ph = Math.max(1, peaks[i] * half);
+      ctx2d.moveTo(x, midY - ph);
+      ctx2d.lineTo(x, midY + ph);
+    }
+    ctx2d.stroke();
+  }
+
+  // Segment bands
+  state.segments.forEach((seg, i) => {
+    const x1 = xOfMs(seg.startMs);
+    const x2 = xOfMs(seg.endMs);
+    const isPause = seg.name.toLowerCase().startsWith("pause");
+    const color = isPause ? PAUSE_COLOR : SEG_COLORS[i % SEG_COLORS.length];
+    ctx2d.fillStyle = color;
+    ctx2d.fillRect(x1, bandTop, x2 - x1, TL.BAND_H);
+    ctx2d.strokeStyle = (i === state.selectedIdx) ? "#1e3a8a" : "#888";
+    ctx2d.lineWidth = (i === state.selectedIdx) ? 2 : 1;
+    ctx2d.strokeRect(x1 + 0.5, bandTop + 0.5, x2 - x1 - 1, TL.BAND_H - 1);
+
+    if (x2 - x1 > 40) {
+      ctx2d.fillStyle = "#222";
+      ctx2d.font = "12px sans-serif";
+      ctx2d.textAlign = "center";
+      ctx2d.textBaseline = "middle";
+      ctx2d.fillText(seg.name, (x1 + x2) / 2, (bandTop + bandBot) / 2);
+    }
+  });
+
+  // Ruler
+  ctx2d.strokeStyle = "#888";
+  ctx2d.fillStyle = "#666";
+  ctx2d.font = "10px sans-serif";
+  ctx2d.textAlign = "center";
+  ctx2d.textBaseline = "top";
+  for (let i = 0; i <= 5; i++) {
+    const frac = i / 5;
+    const ms = Math.round(state.totalMs * frac);
+    const x = TL.PAD_X + frac * usableW;
+    ctx2d.beginPath();
+    ctx2d.moveTo(x, rulerY);
+    ctx2d.lineTo(x, rulerY + 4);
+    ctx2d.stroke();
+    ctx2d.fillText(fmtTs(ms), x, rulerY + 6);
+  }
+
+  // Cut handles
+  state.cuts.forEach((c, i) => {
+    const x = xOfMs(c);
+    const color = (i === state.hoverCut || i === state.draggingCut) ? CUT_HOVER : CUT_COLOR;
+    ctx2d.strokeStyle = color;
+    ctx2d.lineWidth = 2;
+    ctx2d.beginPath();
+    ctx2d.moveTo(x, waveTop);
+    ctx2d.lineTo(x, bandBot);
+    ctx2d.stroke();
+    // Triangle handle at top
+    ctx2d.fillStyle = color;
+    ctx2d.beginPath();
+    ctx2d.moveTo(x - 5, waveTop);
+    ctx2d.lineTo(x + 5, waveTop);
+    ctx2d.lineTo(x, waveTop + 7);
+    ctx2d.closePath();
+    ctx2d.fill();
+  });
+}
+
+// ----- Canvas mouse handlers -----------------------------------------------
+canvas.addEventListener("mousedown", e => {
+  if (e.button !== 0) return;
+  if (state.totalMs <= 0) return;
+  const rect = canvas.getBoundingClientRect();
+  const x = e.clientX - rect.left;
+  const y = e.clientY - rect.top;
+
+  const waveBot = 4 + TL.WAVE_H;
+  const bandTop = waveBot + 2;
+  const bandBot = bandTop + TL.BAND_H;
+
+  const idx = cutIdxNearX(x);
+  if (idx >= 0) {
+    state.draggingCut = idx;
+    return;
+  }
+  if (y >= bandTop && y <= bandBot) {
+    const segIdx = segIdxAtX(x);
+    if (segIdx >= 0) selectSegment(segIdx);
+    return;
+  }
+  if (y >= 4 && y <= waveBot) {
+    addCut(msOfX(x));
+  }
+});
+canvas.addEventListener("mousemove", e => {
+  const rect = canvas.getBoundingClientRect();
+  const x = e.clientX - rect.left;
+  if (state.draggingCut >= 0) {
+    moveCut(state.draggingCut, msOfX(x));
+    drawTimeline();
+    document.getElementById("cutCount").textContent = state.cuts.length;
+    return;
+  }
+  const newHover = cutIdxNearX(x);
+  if (newHover !== state.hoverCut) {
+    state.hoverCut = newHover;
+    canvas.style.cursor = newHover >= 0 ? "ew-resize" : "crosshair";
+    drawTimeline();
+  }
+});
+canvas.addEventListener("mouseup", () => {
+  if (state.draggingCut >= 0) {
+    state.draggingCut = -1;
+    refreshAll();
+    setStatus(`${state.cuts.length} cut(s) · ${state.segments.length} part(s).`);
+  }
+});
+canvas.addEventListener("mouseleave", () => {
+  if (state.draggingCut >= 0) {
+    state.draggingCut = -1;
+    refreshAll();
+  }
+  state.hoverCut = -1;
+  drawTimeline();
+});
+canvas.addEventListener("contextmenu", e => {
+  e.preventDefault();
+  const rect = canvas.getBoundingClientRect();
+  const x = e.clientX - rect.left;
+  const idx = cutIdxNearX(x);
+  if (idx >= 0) deleteCut(idx);
+});
+
+// ============================================================================
+// EXPORT — slice the AudioBuffer per segment, encode each as WAV, zip
+// ============================================================================
+// Slugify a string for use in filenames: lowercase, spaces → dashes,
+// strip anything that isn't a letter, digit, dash, or underscore.
+function slugify(str) {
+  return str
+    .toLowerCase()
+    .trim()
+    .replace(/[\s_]+/g, "-")          // spaces & underscores → dash
+    .replace(/[^a-z0-9\-]/g, "")      // drop everything else
+    .replace(/-+/g, "-")              // collapse repeats
+    .replace(/^-+|-+$/g, "");         // trim leading/trailing dashes
+}
+
+async function exportAll() {
+  if (!state.segments.length) {
+    alert("Nothing to export — detect or add some cuts first.");
+    return;
+  }
+  const rawPrefix = document.getElementById("prefixInput").value;
+  const prefix = slugify(rawPrefix) || slugify((state.sourceName || "audio").replace(/\.[^.]+$/, "")) || "audio";
+  const fmt = document.getElementById("formatSelect").value; // "wav" or "mp3"
+
+  setStatus("Loading export libraries…");
+  try {
+    if (typeof JSZip === "undefined") {
+      await loadScript("https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js");
+    }
+    if (fmt === "mp3" && typeof lamejs === "undefined") {
+      await loadScript("https://cdnjs.cloudflare.com/ajax/libs/lamejs/1.2.0/lame.min.js");
+    }
+  } catch (e) {
+    alert(`Could not load export library from CDN. Are you offline?\n${e.message}\n\nTip: switch to WAV format if you only need to export once without internet.`);
+    setStatus("Export aborted.");
+    return;
+  }
+
+  setStatus(`Encoding segments to ${fmt.toUpperCase()}…`);
+  const zip = new JSZip();
+
+  for (let i = 0; i < state.segments.length; i++) {
+    const seg = state.segments[i];
+    const idx = String(i + 1).padStart(2, "0");
+    const safeName = slugify(seg.name) || `part-${idx}`;
+    const filename = `${prefix}-${safeName}.${fmt}`;
+    const sliceBuf = sliceAudioBuffer(state.audioBuffer, seg.startMs, seg.endMs);
+    const bytes = fmt === "mp3"
+      ? audioBufferToMp3(sliceBuf)
+      : audioBufferToWav(sliceBuf);
+    zip.file(filename, bytes);
+    setStatus(`Encoding (${i + 1}/${state.segments.length}): ${filename}`);
+    await new Promise(r => setTimeout(r, 0));
+  }
+
+  setStatus("Building ZIP…");
+  const blob = await zip.generateAsync({ type: "blob" });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = `${prefix}-parts.zip`;
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+  setStatus(`Exported ${state.segments.length} ${fmt.toUpperCase()} file(s) as ${prefix}-parts.zip.`);
+}
+
+// Encode an AudioBuffer as MP3 (128 kbps) → Uint8Array, using lamejs.
+function audioBufferToMp3(audioBuffer) {
+  const sr = audioBuffer.sampleRate;
+  const numCh = Math.min(2, audioBuffer.numberOfChannels);  // lamejs supports mono/stereo
+  const kbps = 128;
+  const mp3encoder = new lamejs.Mp3Encoder(numCh, sr, kbps);
+
+  // lamejs wants Int16 samples
+  const left = floatToInt16(audioBuffer.getChannelData(0));
+  const right = numCh === 2 ? floatToInt16(audioBuffer.getChannelData(1)) : null;
+
+  const chunkSize = 1152;  // standard MP3 frame size
+  const mp3Chunks = [];
+  for (let i = 0; i < left.length; i += chunkSize) {
+    const leftChunk = left.subarray(i, i + chunkSize);
+    const rightChunk = right ? right.subarray(i, i + chunkSize) : null;
+    const buf = numCh === 2
+      ? mp3encoder.encodeBuffer(leftChunk, rightChunk)
+      : mp3encoder.encodeBuffer(leftChunk);
+    if (buf.length > 0) mp3Chunks.push(buf);
+  }
+  const tail = mp3encoder.flush();
+  if (tail.length > 0) mp3Chunks.push(tail);
+
+  // Concatenate all chunks into one Uint8Array
+  let totalLen = 0;
+  for (const c of mp3Chunks) totalLen += c.length;
+  const out = new Uint8Array(totalLen);
+  let offset = 0;
+  for (const c of mp3Chunks) { out.set(c, offset); offset += c.length; }
+  return out;
+}
+
+function floatToInt16(floatArr) {
+  const out = new Int16Array(floatArr.length);
+  for (let i = 0; i < floatArr.length; i++) {
+    const s = Math.max(-1, Math.min(1, floatArr[i]));
+    out[i] = s < 0 ? s * 0x8000 : s * 0x7FFF;
+  }
+  return out;
+}
+
+function loadScript(url) {
+  return new Promise((resolve, reject) => {
+    const s = document.createElement("script");
+    s.src = url;
+    s.onload = resolve;
+    s.onerror = () => reject(new Error("Failed to load " + url));
+    document.head.appendChild(s);
+  });
+}
+
+// Slice an AudioBuffer by [startMs, endMs)
+function sliceAudioBuffer(audioBuffer, startMs, endMs) {
+  const sr = audioBuffer.sampleRate;
+  const numCh = audioBuffer.numberOfChannels;
+  const startSample = Math.floor(startMs / 1000 * sr);
+  const endSample = Math.min(audioBuffer.length, Math.floor(endMs / 1000 * sr));
+  const len = endSample - startSample;
+  const out = new AudioBuffer({ length: len, numberOfChannels: numCh, sampleRate: sr });
+  for (let ch = 0; ch < numCh; ch++) {
+    const src = audioBuffer.getChannelData(ch);
+    const dst = out.getChannelData(ch);
+    for (let i = 0; i < len; i++) dst[i] = src[startSample + i];
+  }
+  return out;
+}
+
+// Encode an AudioBuffer as 16-bit PCM WAV → Uint8Array
+function audioBufferToWav(audioBuffer) {
+  const numCh = audioBuffer.numberOfChannels;
+  const sr = audioBuffer.sampleRate;
+  const len = audioBuffer.length;
+  const bytesPerSample = 2;
+  const blockAlign = numCh * bytesPerSample;
+  const dataSize = len * blockAlign;
+  const buffer = new ArrayBuffer(44 + dataSize);
+  const view = new DataView(buffer);
+
+  // RIFF header
+  writeString(view, 0, "RIFF");
+  view.setUint32(4, 36 + dataSize, true);
+  writeString(view, 8, "WAVE");
+  // fmt chunk
+  writeString(view, 12, "fmt ");
+  view.setUint32(16, 16, true);
+  view.setUint16(20, 1, true);              // PCM
+  view.setUint16(22, numCh, true);
+  view.setUint32(24, sr, true);
+  view.setUint32(28, sr * blockAlign, true);
+  view.setUint16(32, blockAlign, true);
+  view.setUint16(34, 16, true);             // bits per sample
+  // data chunk
+  writeString(view, 36, "data");
+  view.setUint32(40, dataSize, true);
+
+  // Interleaved samples
+  let offset = 44;
+  const channelData = [];
+  for (let ch = 0; ch < numCh; ch++) channelData.push(audioBuffer.getChannelData(ch));
+  for (let i = 0; i < len; i++) {
+    for (let ch = 0; ch < numCh; ch++) {
+      let s = Math.max(-1, Math.min(1, channelData[ch][i]));
+      view.setInt16(offset, s < 0 ? s * 0x8000 : s * 0x7FFF, true);
+      offset += 2;
+    }
+  }
+  return new Uint8Array(buffer);
+}
+
+function writeString(view, offset, str) {
+  for (let i = 0; i < str.length; i++) view.setUint8(offset + i, str.charCodeAt(i));
+}
+
+// ============================================================================
+// PLAN SAVE / LOAD
+// ============================================================================
+function savePlan() {
+  if (!state.segments.length) return;
+  const plan = {
+    source: state.sourceName,
+    totalMs: state.totalMs,
+    cuts: state.cuts,
+    segments: state.segments,
+  };
+  const blob = new Blob([JSON.stringify(plan, null, 2)], { type: "application/json" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = (state.sourceName || "audio").replace(/\.[^.]+$/, "") + "_plan.json";
+  a.click();
+  URL.revokeObjectURL(a.href);
+  setStatus("Plan saved.");
+}
+function loadPlanFile(file) {
+  const reader = new FileReader();
+  reader.onload = () => {
+    try {
+      const plan = JSON.parse(reader.result);
+      state.cuts = (plan.cuts || []).slice();
+      if (!state.cuts.length && plan.segments) {
+        for (const s of plan.segments) if (s.startMs > 0) state.cuts.push(s.startMs);
+      }
+      if (plan.segments) state.segments = plan.segments.slice();
+      refreshAll();
+      setStatus(`Loaded plan with ${state.segments.length} segments.`);
+    } catch (e) {
+      alert("Invalid plan JSON: " + e.message);
+    }
+  };
+  reader.readAsText(file);
+}
+
+// ============================================================================
+// SAMPLE TRACK GENERATOR — for testing without an audio file on hand
+// ============================================================================
+function generateSampleTrack() {
+  const sr = 44100;
+  const c = ctx();
+
+  // 4s tone @ 440Hz · 1.2s silence · 6s tone @ 330Hz · 1.5s silence · 2s tone @ 660Hz
+  const segments = [
+    { freq: 440, ms: 4000 },
+    { freq: 0,   ms: 1200 },
+    { freq: 330, ms: 6000 },
+    { freq: 0,   ms: 1500 },
+    { freq: 660, ms: 2000 },
+  ];
+  const totalMs = segments.reduce((a, s) => a + s.ms, 0);
+  const totalSamples = Math.floor(totalMs / 1000 * sr);
+  const buf = c.createBuffer(1, totalSamples, sr);
+  const data = buf.getChannelData(0);
+  let offset = 0;
+  for (const seg of segments) {
+    const n = Math.floor(seg.ms / 1000 * sr);
+    if (seg.freq > 0) {
+      const w = 2 * Math.PI * seg.freq / sr;
+      for (let i = 0; i < n; i++) data[offset + i] = 0.5 * Math.sin(w * i);
+    }
+    offset += n;
+  }
+
+  state.audioBuffer = buf;
+  state.sourceName = "sample.wav";
+  state.totalMs = Math.round(buf.duration * 1000);
+  state.peaks = computePeaks(buf, 1200);
+  state.cuts = [];
+  state.segments = [];
+  state.selectedIdx = -1;
+
+  document.getElementById("fileInfo").textContent =
+    `sample.wav  ·  ${buf.duration.toFixed(1)} s  ·  ${sr} Hz / 1ch (synthetic)`;
+  document.getElementById("drop-hint").classList.add("hidden");
+  document.getElementById("detectionPanel").classList.remove("hidden");
+  document.getElementById("timelinePanel").classList.remove("hidden");
+  document.getElementById("listPanel").classList.remove("hidden");
+  document.getElementById("footerPanel").classList.remove("hidden");
+  document.getElementById("cutAtInput").max = buf.duration.toFixed(2);
+
+  refreshAll();
+  setStatus("Sample track loaded. Try 'Auto-detect parts' now.");
+}
+
+// ============================================================================
+// UI WIRING
+// ============================================================================
+function setStatus(msg) {
+  document.getElementById("status").textContent = msg;
+}
+
+document.getElementById("fileInput").addEventListener("change", e => {
+  const f = e.target.files[0];
+  if (f) loadFile(f);
+});
+document.getElementById("loadSampleBtn").addEventListener("click", generateSampleTrack);
+document.getElementById("threshSlider").addEventListener("input", e => {
+  document.getElementById("threshLabel").textContent = e.target.value + " dB";
+});
+document.getElementById("detectBtn").addEventListener("click", autoDetect);
+document.getElementById("clearCutsBtn").addEventListener("click", clearAllCuts);
+document.getElementById("addCutBtn").addEventListener("click", () => {
+  const s = parseFloat(document.getElementById("cutAtInput").value || "0");
+  addCut(Math.round(s * 1000));
+});
+document.getElementById("autoNameBtn").addEventListener("click", autoName);
+document.getElementById("stopBtn").addEventListener("click", stopPlayback);
+document.getElementById("savePlanBtn").addEventListener("click", savePlan);
+document.getElementById("loadPlanBtn").addEventListener("click", () =>
+  document.getElementById("planInput").click());
+document.getElementById("planInput").addEventListener("change", e => {
+  const f = e.target.files[0];
+  if (f) loadPlanFile(f);
+});
+document.getElementById("exportBtn").addEventListener("click", exportAll);
+
+// Drag and drop
+const dropHint = document.getElementById("drop-hint");
+["dragenter", "dragover"].forEach(ev => {
+  document.addEventListener(ev, e => {
+    e.preventDefault();
+    dropHint.classList.add("drag-over");
+  });
+});
+["dragleave", "drop"].forEach(ev => {
+  document.addEventListener(ev, e => {
+    e.preventDefault();
+    dropHint.classList.remove("drag-over");
+  });
+});
+document.addEventListener("drop", e => {
+  const f = e.dataTransfer.files[0];
+  if (f) loadFile(f);
+});
+
+// Initial canvas sizing — must happen after layout settles
+window.addEventListener("load", () => {
+  // Canvas is hidden initially, but we still want it correctly sized once visible.
+  // Set up a ResizeObserver on the wrap so it stays in sync as the panel appears.
+  const wrap = document.getElementById("timeline-wrap");
+  new ResizeObserver(resizeCanvas).observe(wrap);
+  resizeCanvas();
+});
+</script>
+</body>
+</html>
