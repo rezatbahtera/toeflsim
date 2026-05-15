@@ -12,7 +12,7 @@
                     "questions": [
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-07-01.mp3",
                             "passage": "(man) Are you going to take out the trash?\n(woman) I have no time to do it.",
                             "question": "1. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 0,
@@ -49,7 +49,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-07-02.mp3",
                             "passage": "(woman) Are you worried about the interview?\n(man) It's unimportant to me.",
                             "question": "2. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 3,
@@ -86,7 +86,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-07-03.mp3",
                             "passage": "(woman) Do you have all the notes for Psychol ogy 101?\n(man) I didn't miss a single lecture.",
                             "question": "3. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 1,
@@ -123,7 +123,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-07-04.mp3",
                             "passage": "(woman) Do you know the library's summer hours? I need to go there this evening.\n(man) It's never open past six o'clock in the summer.",
                             "question": "4. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 2,
@@ -160,7 +160,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-07-05.mp3",
                             "passage": "(woman) How often should I water the plants while you're gone?\n(man) No more than once a week.",
                             "question": "5. WHAT SHOULD THE WOMAN DO?",
                             "correctIndex": 3,
@@ -197,7 +197,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-07-06.mp3",
                             "passage": "(man) Did you enjoy your meal? That restau rant is very famous.\n(woman) The food was good, but I was dissatis fied with the service.",
                             "question": "6. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 2,
@@ -234,7 +234,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-07-07.mp3",
                             "passage": "(woman) Do you think that Bob really wanted me to go home?\n(man) He wasn't kidding when he told you to leave.",
                             "question": "7. WHAT DOES THE MAN SAY ABOUT BOB?",
                             "correctIndex": 1,
@@ -271,7 +271,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-07-08.mp3",
                             "passage": "(woman) Can we finish this project before clos ing time?\n(man) If we work on nothing else.",
                             "question": "8. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 0,
@@ -308,7 +308,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-07-09.mp3",
                             "passage": "(man) Would you mind staying an hour more?\n(woman) I'd rather not.",
                             "question": "9. WHAT DOES THE WOMAN SAY ABOUT STAYING?",
                             "correctIndex": 3,
@@ -345,7 +345,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-07-10.mp3",
                             "passage": "(woman) Would you recommend the hotel where you stayed in New York?\n(man) The hotel provided service that was unequaled!",
                             "question": "10. WHAT DOES THE MAN SAY ABOUT THE HOTEL?",
                             "correctIndex": 1,
@@ -381,7 +381,8 @@
                             ]
                         }
                     ],
-                    "groups": []
+                    "groups": [],
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-07.mp3"
                 },
                 {
                     "title": "SKILL 8: LISTEN FOR DOUBLE NEGATIVE EXPRESSIONS ",
@@ -389,7 +390,7 @@
                     "questions": [
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-08-01.mp3",
                             "passage": "(man) Do you think Ron Rogers will be elected?\n(woman) Well, it's not completely impossible.",
                             "question": "1. WHAT DOES THE WOMAN IMPLY ABOUT RON?",
                             "correctIndex": 3,
@@ -426,7 +427,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-08-02.mp3",
                             "passage": "(woman) How was your tennis match today?\n(man) I didn't serve well, and I didn't volley well either.",
                             "question": "2. WHAT DOES THE MAN SAY ABOUT HIS TENNIS GAME?",
                             "correctIndex": 0,
@@ -463,7 +464,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-08-03.mp3",
                             "passage": "(man) Was Gary prepared for the debate?\n(woman) It is no surprise that he was unpre pared.",
                             "question": "3. WHAT DOES THE WOMAN SAY ABOUT GARY?",
                             "correctIndex": 1,
@@ -500,7 +501,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-08-04.mp3",
                             "passage": "(man) Did you go out dancing with everyone else last night?\n(woman) I was not feeling well, so I didn't go out.",
                             "question": "4. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 3,
@@ -537,7 +538,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-08-05.mp3",
                             "passage": "(woman) Do you think Paula understands what she's done?\n(man) She isn't unaware of the trouble she's caused.",
                             "question": "5. WHAT DOES THE MAN SAY ABOUT PAULA?",
                             "correctIndex": 2,
@@ -574,7 +575,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-08-06.mp3",
                             "passage": "(man) Did your friends finish the term paper for history class?\n(woman) Steve wasn't able to finish it, and Paul wasn't either.",
                             "question": "6. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 1,
@@ -611,7 +612,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-08-07.mp3",
                             "passage": "(man) Can you believe that George walked out of the restaurant without paying for his share of the meal?\n(woman) It was irresponsible of him not to pay the bill.",
                             "question": "7. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 2,
@@ -648,7 +649,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-08-08.mp3",
                             "passage": "(man) What happened when Harry applied to Milhouse University?\n(woman) It was unfortunate that he wasn't admitted to the university.",
                             "question": "8. WHAT DOES THE WOMAN SAY ABOUT HARRY?",
                             "correctIndex": 3,
@@ -685,7 +686,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-08-09.mp3",
                             "passage": "(woman) What did you think of the essay that I wrote?\n(man) The first draft of the essay wasn't well written, and the second wasn't much better.",
                             "question": "9. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 3,
@@ -722,7 +723,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-08-10.mp3",
                             "passage": "(man) Has Roger been disturbed by all of the recent problems?\n(woman) He hasn't been unaffected.",
                             "question": "10. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 0,
@@ -758,7 +759,8 @@
                             ]
                         }
                     ],
-                    "groups": []
+                    "groups": [],
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-08.mp3"
                 },
                 {
                     "title": "SKILL 9: LISTEN FOR \"ALMOST NEGATIVE\" EXPRESSIONS",
@@ -766,7 +768,7 @@
                     "questions": [
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-09-01.mp3",
                             "passage": "(woman) Do you expect a lot of rain this month?\n(man) It hardly ever rains in July.",
                             "question": "1. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 0,
@@ -803,7 +805,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-09-02.mp3",
                             "passage": "(man) Were all three students accepted to the university?\n(woman) Only John was accepted.",
                             "question": "2. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 3,
@@ -840,7 +842,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-09-03.mp3",
                             "passage": "(man) Did Mark do well in Professor\n(woman) Franks's class?",
                             "question": "3. Mark barely passed the history exam that Professor Franks gave. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 0,
@@ -877,7 +879,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-09-04.mp3",
                             "passage": "(woman) I can't believe how long we've been here.\n(man) Dr. Roberts almost never keeps his patients waiting long.",
                             "question": "4. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 2,
@@ -914,7 +916,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-09-05.mp3",
                             "passage": "(man) I can't believe Betty is not at work this week!\n(woman) Only rarely does Betty take a vacation in winter.",
                             "question": "5. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 3,
@@ -951,7 +953,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-09-06.mp3",
                             "passage": "(man) Does Steve study very much?\n(woman) He hardly ever opens a book.",
                             "question": "6. WHAT DOES THE WOMAN SAY ABOUT STEVE?",
                             "correctIndex": 0,
@@ -988,7 +990,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-09-07.mp3",
                             "passage": "(woman) Was the philosophy exam very long?\n(man) I scarcely had time to finish it.",
                             "question": "7. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 2,
@@ -1025,7 +1027,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-09-08.mp3",
                             "passage": "(man) I was so bored at the staff meeting!\n(woman) Seldom have staff meetings lasted this long.",
                             "question": "8. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 0,
@@ -1062,7 +1064,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-09-09.mp3",
                             "passage": "(woman) Are you enjoying the barbecue?\n((man)  Only rarely have I tasted such deli cious meat.",
                             "question": "9. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 2,
@@ -1099,7 +1101,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-09-10.mp3",
                             "passage": "(woman) Does your broken arm hurt very much?\n(man) Only if I try to move.",
                             "question": "10. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 3,
@@ -1135,7 +1137,8 @@
                             ]
                         }
                     ],
-                    "groups": []
+                    "groups": [],
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-09.mp3"
                 },
                 {
                     "title": "SKILL 10: LISTEN FOR NEGATIVES WITH COMPARATIVES",
@@ -1143,7 +1146,7 @@
                     "questions": [
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-10-01.mp3",
                             "passage": "(man) Are you pleased with the exam results?\n(woman) I couldn't be happier.",
                             "question": "1. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 3,
@@ -1180,7 +1183,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-10-02.mp3",
                             "passage": "(woman) Is Paula lazy, as usual, this semester?\n(man) She's never tried harder.",
                             "question": "2. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 2,
@@ -1217,7 +1220,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-10-03.mp3",
                             "passage": "(man) Was it a good sale? Did you buy a lot?\n(woman) Prices couldn't have been any lower.",
                             "question": "3. WHAT DOES THE WOMAN SAY ABOUT THE SALE?",
                             "correctIndex": 0,
@@ -1254,7 +1257,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-10-04.mp3",
                             "passage": "(woman) What do you think of Betsy?\n(man) I don't know a more intelligent woman.",
                             "question": "4. WHAT DOES THE MAN SAY ABOUT BETSY?",
                             "correctIndex": 3,
@@ -1291,7 +1294,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-10-05.mp3",
                             "passage": "(woman) Did the patient really need the surgery?\n(man) It couldn't have been more unneces sary.",
                             "question": "5. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 0,
@@ -1328,7 +1331,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-10-06.mp3",
                             "passage": "(man) Did any of you get hurt in the acci dent?\n(woman) We couldn't have been luckier.",
                             "question": "6. WHAT DOES THE WOMAN IMPLY?",
                             "correctIndex": 1,
@@ -1365,7 +1368,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-10-07.mp3",
                             "passage": "(woman) How do you think you did on the final exam in biology?\n(man) Nothing could have been more diffi cult than that exam!",
                             "question": "7. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 1,
@@ -1402,7 +1405,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-10-08.mp3",
                             "passage": "(man) Are you ready to accept the new posi tion?\n(woman) Nobody wants that job more than I do.",
                             "question": "8. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 0,
@@ -1439,7 +1442,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-10-09.mp3",
                             "passage": "(man) How did you do in the race?\n(woman) Only one person was faster.",
                             "question": "9. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 0,
@@ -1476,7 +1479,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-10-10.mp3",
                             "passage": "(woman) Do you think that the math project this semester was easy?\n(man) Seldom has a math project been more complicated.",
                             "question": "10. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 0,
@@ -1512,7 +1515,8 @@
                             ]
                         }
                     ],
-                    "groups": []
+                    "groups": [],
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-10.mp3"
                 },
                 {
                     "title": "REVIEW SKILL 7-10",
@@ -1520,7 +1524,7 @@
                     "questions": [
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-07-10-01.mp3",
                             "passage": "(man) Do you think you could try a little harder?\n(woman) It's impossible for me to do more.",
                             "question": "1. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 2,
@@ -1557,7 +1561,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-07-10-02.mp3",
                             "passage": "(man) What are you so upset about?\n(woman) Not once on this trip has the bus left on time.",
                             "question": "2. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 1,
@@ -1594,7 +1598,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-07-10-03.mp3",
                             "passage": "(man) Was there enough soup to go around?\n(woman) There was barely enough soup for everyone at the table.",
                             "question": "3. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 2,
@@ -1631,7 +1635,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-07-10-04.mp3",
                             "passage": "(man) Do you really want to move to Florida?\n(woman) I couldn't want anything more!",
                             "question": "4. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 1,
@@ -1668,7 +1672,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-07-10-05.mp3",
                             "passage": "(man) Did you turn in your research paper for history class?\n(woman) I couldn't turn it in because it was incomplete.",
                             "question": "5. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 3,
@@ -1705,7 +1709,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-07-10-06.mp3",
                             "passage": "(woman) Do you think that your friends enjoyed their trip to the Museum of\n(man) Modern Art?",
                             "question": "6. Sylvia doesn't care for modern art, and neither does Tim. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 3,
@@ -1742,7 +1746,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-07-10-07.mp3",
                             "passage": "(woman) Can your friends go with us this after noon, or do you think they will be too busy?\n(man) They hardly ever work in the after noon.",
                             "question": "7. WHAT DOES THE MAN SAY ABOUT HIS FRIENDS?",
                             "correctIndex": 1,
@@ -1779,7 +1783,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-07-10-08.mp3",
                             "passage": "(woman) Do you think we could turn the air conditioner on? I'm really uncomfort able?\n(man) The air-conditioner never works when it gets warm.",
                             "question": "8. WHAT DOES THE MAN IMPLY?",
                             "correctIndex": 2,
@@ -1816,7 +1820,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-07-10-09.mp3",
                             "passage": "(woman) I heard that your exam results were not too bad.\n(man) Actually, I've never done worse.",
                             "question": "9. WHAT DOES THE MAN MEAN?",
                             "correctIndex": 0,
@@ -1853,7 +1857,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-07-10-10.mp3",
                             "passage": "(man) Did the committee come to a decision about the parking problem?\n(woman) The committee shouldn't have decided the issue when so many mem bers weren't present.",
                             "question": "10. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 1,
@@ -1889,7 +1893,8 @@
                             ]
                         }
                     ],
-                    "groups": []
+                    "groups": [],
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-07-10.mp3"
                 },
                 {
                     "title": "REVIEW EXERCISE (Skills 1-10)",
@@ -1897,7 +1902,7 @@
                     "questions": [
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-10-01.mp3",
                             "passage": "(man)         What should I do to get over this?\n(woman)       You should drink plenty of fluids, take this medicine once every eight hours, and return here to my office next week.",
                             "question": "1.       WHERE DOES THIS CONVERSA TION PROBABLY TAKE PLACE?",
                             "correctIndex": 0,
@@ -1934,7 +1939,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-10-02.mp3",
                             "passage": "(man)         Did you find anything at the store?\n(woman)       I just bought a great shirt!",
                             "question": "2.       WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 1,
@@ -1971,7 +1976,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-10-03.mp3",
                             "passage": "(man)         Did you enjoy the hotel where you stayed in Hawaii?\n(woman)       The view of the ocean couldn't have been better.",
                             "question": "3.       WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 1,
@@ -2008,7 +2013,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-10-04.mp3",
                             "passage": "(woman)       You look like you're not feeling too well.\n(man)         Actually, I'm just kind of tired. All I need is a bit of rest.",
                             "question": "4.       WHAT WILL THE MAN PROBABLY DO NEXT?",
                             "correctIndex": 0,
@@ -2045,7 +2050,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-10-05.mp3",
                             "passage": "(woman)       Do you think that Mary will forgive me for what I did?\n(man)         She isn't exactly an unforgiving per son.",
                             "question": "5.       WHAT DOES THE MAN SAY ABOUT MARY?",
                             "correctIndex": 2,
@@ -2082,7 +2087,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-10-06.mp3",
                             "passage": "(man)         Has Martha already gone on vacation?\n(woman)       She can't take her vacation until next week.",
                             "question": "6.       WHAT DOES THE WOMAN SAY ABOUT MARTHA?",
                             "correctIndex": 2,
@@ -2119,7 +2124,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-10-07.mp3",
                             "passage": "(man)         I'm looking for some people who just came into the restaurant.\n(woman)       The waitress seated them at a table in the back.",
                             "question": "7.       WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 2,
@@ -2156,7 +2161,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-10-08.mp3",
                             "passage": "(man)         Let's go to the market and get some fresh fruit.\n(woman)       I was there this morning, and the mar ket scarcely had any.",
                             "question": "8.       WHAT DOES THE WOMAN SAY ABOUT THE MARKET?",
                             "correctIndex": 3,
@@ -2193,7 +2198,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-10-09.mp3",
                             "passage": "(man)         I'm thinking about taking a few classes at the local adult school.\n(woman)       It's never too late to go back to school.",
                             "question": "9.       WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 1,
@@ -2230,7 +2235,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-10-10.mp3",
                             "passage": "(man)         I don't think I can make it all the way to the top of the mountain.\n(woman)       I dare you to try!",
                             "question": "10.      WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 3,
@@ -2266,7 +2271,8 @@
                             ]
                         }
                     ],
-                    "groups": []
+                    "groups": [],
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-01-10.mp3"
                 }
             ]
         }
