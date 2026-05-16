@@ -803,7 +803,7 @@
                     "questions": [
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-16-17-01.mp3",
                             "passage": "(man) Do you do the cooking every night?\n(woman) No, my roommate and I take turns.",
                             "question": "1. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 1,
@@ -841,7 +841,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-16-17-02.mp3",
                             "passage": "(man) Did you meet Hank's father at the game last night?\n(woman) Yes, I did. You know, Hank's really a chip off the old block.",
                             "question": "2. WHAT DOES THE WOMAN SAY ABOUT HANK?",
                             "correctIndex": 0,
@@ -879,7 +879,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-16-17-03.mp3",
                             "passage": "(man) Do you want to go to the football game with us tonight?\n(woman) No, thanks. I think I'm coming down with something.",
                             "question": "3. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 3,
@@ -917,7 +917,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-16-17-04.mp3",
                             "passage": "(woman) I can't believe what Hal said to the teacher!\n(man)  Yeah, he really put his foot in his mouth.",
                             "question": "4. WHAT DOES THE MAN SAY ABOUT HAL?",
                             "correctIndex": 2,
@@ -955,7 +955,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-16-17-05.mp3",
                             "passage": "(man) I'm going to the market now.\n(woman) Could you hold off going for a few minutes? I'd like to go with you.",
                             "question": "5. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 0,
@@ -993,7 +993,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-16-17-06.mp3",
                             "passage": "(man) I got a parking ticket, but I don't think I want to pay it.\n(woman) You know, you're really playing with fire.",
                             "question": "6. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 2,
@@ -1031,7 +1031,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-16-17-07.mp3",
                             "passage": "(man) The noise from those machines is really bothering me.\n(woman) Yeah, I wish we could just ask them to cut it out.",
                             "question": "7. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 2,
@@ -1069,7 +1069,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-16-17-08.mp3",
                             "passage": "(man) Did Fred tell you his theory about who took the money?\n(woman) Yes, and I really think he's barking up the wrong tree.",
                             "question": "8. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 3,
@@ -1107,7 +1107,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-16-17-09.mp3",
                             "passage": "(man) This course is too hard for me. I think\n(woman) I'll just drop it.",
                             "question": "9. Even though it's hard, you should keep at it as long as you can. WHAT DOES THE WOMAN TELL THE MAN?",
                             "correctIndex": 2,
@@ -1145,7 +1145,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-16-17-10.mp3",
                             "passage": "(man) How's the chemistry homework com ing?\n(woman) It's like trying to swim upstream.",
                             "question": "10. WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 1,
