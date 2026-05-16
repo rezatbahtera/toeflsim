@@ -12,7 +12,7 @@
                     "questions": [
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-16-01.mp3",
                             "passage": "(man)      The new neighbors have just moved in.\n(woman)       Maybe we should call on them.",
                             "question": "1.       ACCORDING TO THE WOMAN, WHAT SHOULD THEY DO?",
                             "correctIndex": 3,
@@ -45,11 +45,12 @@
                                         "id": "Jawaban benar."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-16-02.mp3",
                             "passage": "(woman)    You know, I'm really enjoying this class now.\n(man)         I am, too. At first it was kind of bor ing, but now it's turning into some thing fascinating.",
                             "question": "2.       WHAT DOES THE MAN MEAN?",
                             "correctIndex": 0,
@@ -82,11 +83,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-16-03.mp3",
                             "passage": "(man)      I heard you had a bad headache this morning.\n(woman)       Yes, but I think I'm getting over it now.",
                             "question": "3.       WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 2,
@@ -119,11 +121,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-16-04.mp3",
                             "passage": "(man)      I'd like to stop smoking, but it's really hard for me.\n(woman)       Well, at least you should try to cut down.",
                             "question": "4.       WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 1,
@@ -156,11 +159,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-16-05.mp3",
                             "passage": "(man)      Why was the client unhappy?\n(woman)       The lawyer turned down his case.",
                             "question": "5.       WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 1,
@@ -193,11 +197,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-16-06.mp3",
                             "passage": "(woman)    I really like Marsha.\n(man)         Me, too. She is just so friendly with everyone.",
                             "question": "6.       WHAT DOES THE MAN SAY ABOUT MARSHA?",
                             "correctIndex": 0,
@@ -230,11 +235,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-16-07.mp3",
                             "passage": "(woman)    Are you going out or staying here tonight?\n(man)         I can't go out. I have to look after the children.",
                             "question": "7.       WHAT DOES THE MAN MEAN?",
                             "correctIndex": 2,
@@ -267,11 +273,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-16-08.mp3",
                             "passage": "(woman)    Did you see in the paper this morning that one section of the factory is clos ing down today?\n(man)         Yes, and some of the workers will be laid off.",
                             "question": "8.       WHAT DOES THE MAN SAY ABOUT THE WORKERS?",
                             "correctIndex": 2,
@@ -304,11 +311,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-16-09.mp3",
                             "passage": "(woman)    I heard that you're trying out for the football team. Won't that be difficult?\n(man)         Yes, but I'm really going to try to pull it off.",
                             "question": "9.       WHAT DOES THE MAN MEAN?",
                             "correctIndex": 1,
@@ -341,11 +349,12 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-16-10.mp3",
                             "passage": "(man)     I locked the keys in the car again.\n(woman)       Oh, I don't know why I put up with you.",
                             "question": "10.      WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 0,
@@ -378,7 +387,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         }
                     ],
                     "passage": "",
@@ -426,7 +436,8 @@
                                         "id": "Jawaban benar."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -463,7 +474,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -500,7 +512,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -537,7 +550,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -574,7 +588,8 @@
                                         "id": "Jawaban benar."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -611,7 +626,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -648,7 +664,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -685,7 +702,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -722,7 +740,8 @@
                                         "id": "Jawaban benar."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -759,11 +778,15 @@
                                         "id": "Jawaban benar."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         }
                     ],
                     "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-17.mp3",
-                    "groups": []
+                    "groups": [],
+                    "passage": "",
+                    "audioUrl": "",
+                    "durationSeconds": 0
                 }
             ],
             "instruction": "",
@@ -813,7 +836,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -850,7 +874,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -887,7 +912,8 @@
                                         "id": "Jawaban benar."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -924,7 +950,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -961,7 +988,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -998,7 +1026,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -1035,7 +1064,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -1072,7 +1102,8 @@
                                         "id": "Jawaban benar."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -1109,7 +1140,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -1146,11 +1178,15 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         }
                     ],
                     "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-16-17.mp3",
-                    "groups": []
+                    "groups": [],
+                    "passage": "",
+                    "audioUrl": "",
+                    "durationSeconds": 0
                 },
                 {
                     "title": "Skills 01-17",
@@ -1191,7 +1227,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -1228,7 +1265,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -1265,7 +1303,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -1302,7 +1341,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -1339,7 +1379,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -1376,7 +1417,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -1413,7 +1455,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -1450,7 +1493,8 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -1487,7 +1531,8 @@
                                         "id": "Jawaban benar."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         },
                         {
                             "timeLimitSeconds": 12,
@@ -1524,13 +1569,19 @@
                                         "id": "Salah."
                                     }
                                 }
-                            ]
+                            ],
+                            "groupId": null
                         }
                     ],
                     "groups": [],
-                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-01-17.mp3"
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-01-17.mp3",
+                    "passage": "",
+                    "audioUrl": "",
+                    "durationSeconds": 0
                 }
-            ]
+            ],
+            "instruction": "",
+            "directionAudioUrl": ""
         }
     ]
 }
