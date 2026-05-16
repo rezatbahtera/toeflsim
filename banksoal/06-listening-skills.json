@@ -1,17 +1,395 @@
 {
-    "title": "Tes Baru (Kosong)",
+    "title": "Listening Skills 16-17",
     "sections": [
         {
-            "title": "Section 1",
+            "title": "SKILLS 16-17",
             "type": "listening",
             "durationMinutes": 25,
             "parts": [
                 {
-                    "title": "Part A",
-                    "instruction": "",
-                    "questions": []
+                    "title": "SKILL 16: LISTEN FORTWO-AND THREE-PART VERBS ",
+                    "instruction": "In this exercise, listen carefully to each short dialogue and question on the recording, and then choose the best answer to the question. You should be particularly careful of two- and three-part verbs. ",
+                    "questions": [
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man)      The new neighbors have just moved in.\n(woman)       Maybe we should call on them.",
+                            "question": "1.       ACCORDING TO THE WOMAN, WHAT SHOULD THEY DO?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "Phone their neighbors.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Call to their neighbors over the fence .",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Help the neighbors move in .",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Visit their neighbors .",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman)    You know, I'm really enjoying this class now.\n(man)         I am, too. At first it was kind of bor ing, but now it's turning into some thing fascinating.",
+                            "question": "2.       WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "The course is becoming more interesting.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The course used to be more interesting.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The course is about the same as it was.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He's not as bored in the class as the woman.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man)      I heard you had a bad headache this morning.\n(woman)       Yes, but I think I'm getting over it now.",
+                            "question": "3.       WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "Her headache is getting worse.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She felt better this morning than now.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She seems to be feeling better now.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "She is just getting another headache now.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man)      I'd like to stop smoking, but it's really hard for me.\n(woman)       Well, at least you should try to cut down.",
+                            "question": "4.       WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "The man should stop breaking his cigarettes in half.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The man should decrease the number of cigarettes he smokes.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The man should cut the ends off his cigarettes.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The man should stop smoking completely.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man)      Why was the client unhappy?\n(woman)       The lawyer turned down his case.",
+                            "question": "5.       WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "The client presented his case to the lawyer.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The client was upset about the lawyer's rejection.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The client was annoyed because the lawyer returned the suitcase.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The client made the lawyer unhappy about the case.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman)    I really like Marsha.\n(man)         Me, too. She is just so friendly with everyone.",
+                            "question": "6.       WHAT DOES THE MAN SAY ABOUT MARSHA?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "She gets along with lots of people.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "She gets back at people who cross her.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She gets rid of people she doesn't want to spend time with.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She tries to get ahead of everyone else.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman)    Are you going out or staying here tonight?\n(man)         I can't go out. I have to look after the children.",
+                            "question": "7.       WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "He must try to find the children.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "It is necessary for him to clean up after the children.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The children need to be watched.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "He's going to see what the children have done.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman)    Did you see in the paper this morning that one section of the factory is clos ing down today?\n(man)         Yes, and some of the workers will be laid off.",
+                            "question": "8.       WHAT DOES THE MAN SAY ABOUT THE WORKERS?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "They are going on strike.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "They are lying down on the job.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "They are being released from their jobs.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "They are relaxing too much at the factory.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(woman)    I heard that you're trying out for the football team. Won't that be difficult?\n(man)         Yes, but I'm really going to try to pull it off.",
+                            "question": "9.       WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "He is betting that the football team will win.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He really wants to succeed.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "It is not so difficult to play on the football team.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He pulled a muscle while playing football.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "",
+                            "passage": "(man)     I locked the keys in the car again.\n(woman)       Oh, I don't know why I put up with you.",
+                            "question": "10.      WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "She's unsure why she tolerates the man.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "She doesn't know where she put , her keys.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She is actually the one who put the keys in the car.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She can't understand why the man did what he did.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "passage": "",
+                    "audioUrl": "",
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-16.mp3",
+                    "durationSeconds": 0,
+                    "groups": []
                 }
-            ]
+            ],
+            "instruction": "",
+            "directionAudioUrl": ""
         }
     ]
 }
