@@ -1,0 +1,390 @@
+{
+    "title": "Listening Skills 13-17",
+    "sections": [
+        {
+            "title": "SKILL 14-17",
+            "type": "listening",
+            "durationMinutes": 25,
+            "parts": [
+                {
+                    "title": "SKILL 14: LISTEN FOR WISHES ",
+                    "instruction": "TOEFL EXERCISE 14: In this exercise, listen carefully to each short dialogue and question \non the recording, and then choose the best answer to the question. You should remember \nthat a wish implies an opposite meaning.",
+                    "questions": [
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-14-01.mp3",
+                            "passage": "(man) Do you think we'll be able to get tick ets for the concert?\n(woman) I wish there weren't so many people in line in front of us.",
+                            "question": "1. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "The line is short.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "There are not very many people in front of them.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The line in front of them is too long.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "Not many people want to get tickets to the concert.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-14-02.mp3",
+                            "passage": "(woman) I'm sorry I didn't tell you about the parking ticket.\n(man) I wish you had told me about it.",
+                            "question": "2. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "The woman told him about the ticket.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He wanted the woman to get a ticket.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He was happy to find out about the ticket.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The woman did not tell him about the ticket.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-14-03.mp3",
+                            "passage": "(man) Did you see the work schedule for next week?\n(woman) I wish I didn't have to work so many hours then.",
+                            "question": "3. WHAT DOES THE WOMAN IMPLY?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "She is not working too many hours next week.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She doesn't have enough hours next week.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She is working too many hours next week.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "She likes working so much.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-14-04.mp3",
+                            "passage": "(man) Are you happy with the changes in the requirements for graduation?\n(woman) I wish the department had not made the changes.",
+                            "question": "4. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "The department did not change the requirements.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She likes the new requirements.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She changed her apartment just before graduation.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She does not like the changes that the department made.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-14-05.mp3",
+                            "passage": "(woman) Are you going to the theater with us this weekend?\n(man) I wish I had enough money to go.",
+                            "question": "5. WHAT DOES THE MAN IMPLY.",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "He is going to the theater.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He doesn't have enough money.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "He isn't afraid to go.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He doesn't want to spend the money.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-14-06.mp3",
+                            "passage": "(woman) Did you hear how Harry did on the astronomy exam?\n(man) I bet he wishes he had studied harder.",
+                            "question": "6. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Harry did not prepare enough for the exam.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "Harry studied hard for the exam.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He has not heard anything about Harry He had a bet with Harry.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The algebra course that she is taking is not her favorite.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-14-07.mp3",
+                            "passage": "(man) Do you have a good schedule of classes this semester?\n(woman) I wish I didn't need to take this alge bra course. I'm not very good at math.",
+                            "question": "7. WHAT DOES THE WOMAN IMPLY?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "She doesn't need to take the algebra course.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "She has a good schedule of courses this semester.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She's good at math, but she's taking the algebra course anyway.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He was able to find a cheap apartment.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-14-08.mp3",
+                            "passage": "(woman) Your apartment is in a really great location!\n(man) But I wish I had been able to find something cheaper.",
+                            "question": "8. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "His apartment is too expensive.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He doesn't like the apartment's location.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The apartment is cheap because of its location.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He arrived early at the auditorium.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-14-09.mp3",
+                            "passage": "(woman) Why are you sitting all the way in the back of the auditorium?\n(man) I wish I hadn't arrived so late. Then I could have gotten a better seat.",
+                            "question": "9. WHAT DOES THE MAN IMPLY?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "He got one of the best seats in the auditorium.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He was not early enough to get a seat at the front.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He prefers sitting at the back.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "He'd like to work on his social skills at the game.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-14-10.mp3",
+                            "passage": "(woman) Are you going to the football game this weekend?\n(man) I wish I could, but I have to work on my sociology paper.",
+                            "question": "10. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "He wishes he could work on his term paper for sociology.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He can't attend the game because of his schoolwork.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Sociology is less important to him than football this weekend.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-14.mp3",
+                    "groups": []
+                }
+            ]
+        }
+    ]
+}
