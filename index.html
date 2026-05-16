@@ -255,7 +255,11 @@
                     <span id="section-timer-display" class="font-mono font-bold text-base sm:text-lg tracking-wider">00:00:00</span>
                 </div>
 
-                <div class="flex space-x-1 sm:space-x-3 flex-shrink-0">
+                <div class="flex space-x-1 sm:space-x-3 flex-shrink-0 items-center">
+                    <button id="btn-home" onclick="confirmGoHome()" class="text-slate-500 hover:text-blue-600 bg-slate-100 hover:bg-blue-50 border border-slate-300 hover:border-blue-300 px-2 sm:px-3 py-2 text-xs sm:text-sm transition-colors duration-200 rounded-lg flex items-center gap-1" title="Kembali ke halaman pilih sumber data">
+                        <svg class="w-3.5 h-3.5 sm:w-4 sm:h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"></path></svg>
+                        <span class="hidden sm:inline">Home</span>
+                    </button>
                     <button id="btn-tab-test" class="tab-active px-2 sm:px-3 py-2 text-xs sm:text-sm transition-colors duration-200" onclick="switchTab('test')">Ujian</button>
                     <button id="btn-tab-editor" class="tab-inactive px-2 sm:px-3 py-2 text-xs sm:text-sm transition-colors duration-200" onclick="switchTab('editor')">Editor</button>
                 </div>
@@ -291,6 +295,14 @@
                     </div>
 
                     <div id="start-sections-summary" class="bg-slate-50 rounded-lg p-4 mb-6 border border-slate-200 space-y-2 text-sm"></div>
+
+                    <!-- Participant Name -->
+                    <div class="mb-4">
+                        <label for="participant-name" class="block text-[11px] font-bold text-slate-700 mb-1.5 uppercase tracking-wider">Nama Peserta <span class="text-slate-400 normal-case font-normal">(tampil di hasil ujian)</span></label>
+                        <input id="participant-name" type="text" maxlength="80" autocomplete="name"
+                            class="w-full px-3 py-2.5 border border-slate-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 text-sm"
+                            placeholder="Masukkan nama lengkap Anda">
+                    </div>
 
                     <!-- Test Mode Selector -->
                     <div class="mb-5 bg-blue-50 border border-blue-200 rounded-lg p-3">
@@ -346,6 +358,7 @@
             <div id="score-modal" class="hidden absolute inset-0 bg-slate-900/80 z-50 flex flex-col items-center justify-center p-4 backdrop-blur-sm overflow-y-auto">
                 <div class="bg-white p-6 sm:p-8 rounded-2xl shadow-2xl max-w-2xl w-full text-center my-auto">
                     <h2 class="text-2xl sm:text-3xl font-black text-slate-800 mb-1">Ujian Selesai</h2>
+                    <p id="score-modal-participant" class="hidden text-slate-600 font-bold text-sm sm:text-base mb-1"></p>
                     <p class="text-slate-500 mb-6 text-sm">Berikut hasil estimasi nilai TOEFL Anda.</p>
 
                     <!-- TOEFL Score Card -->
@@ -379,10 +392,36 @@
                             <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"></path></svg>
                             <span>Pembahasan</span>
                         </button>
-                        <button onclick="downloadResults()" class="bg-indigo-600 hover:bg-indigo-700 text-white font-bold py-3 px-3 rounded-xl transition-colors shadow text-xs sm:text-sm flex items-center justify-center gap-1.5" title="Download hasil ujian sebagai file JSON">
-                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg>
-                            <span>Download</span>
-                        </button>
+                        <div class="relative">
+                            <button onclick="toggleDownloadMenu(event)" class="w-full bg-indigo-600 hover:bg-indigo-700 text-white font-bold py-3 px-3 rounded-xl transition-colors shadow text-xs sm:text-sm flex items-center justify-center gap-1.5" title="Download hasil ujian">
+                                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg>
+                                <span>Download</span>
+                                <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                            </button>
+                            <div id="download-menu" class="hidden absolute left-0 right-0 sm:right-auto sm:min-w-[220px] top-full mt-1 bg-white rounded-xl shadow-2xl border border-slate-200 z-[60] overflow-hidden">
+                                <button onclick="downloadResultsHtml(); closeDownloadMenu();" class="w-full flex items-start gap-2.5 px-3 py-2.5 hover:bg-blue-50 text-left transition-colors border-b border-slate-100">
+                                    <svg class="w-5 h-5 text-blue-600 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2a4 4 0 014-4h4l-4-4m0 0L9 11m4-4l4 4M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                                    <div class="min-w-0">
+                                        <div class="text-xs sm:text-sm font-bold text-slate-800">Laporan HTML <span class="text-[10px] bg-emerald-100 text-emerald-700 px-1 rounded ml-1">Rekomendasi</span></div>
+                                        <div class="text-[10px] text-slate-500">Bisa dibuka di browser, print, atau save PDF</div>
+                                    </div>
+                                </button>
+                                <button onclick="downloadResultsCsv(); closeDownloadMenu();" class="w-full flex items-start gap-2.5 px-3 py-2.5 hover:bg-emerald-50 text-left transition-colors border-b border-slate-100">
+                                    <svg class="w-5 h-5 text-emerald-600 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2a4 4 0 014-4h.5M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2zM12 11v6m-3-3h6"></path></svg>
+                                    <div class="min-w-0">
+                                        <div class="text-xs sm:text-sm font-bold text-slate-800">CSV Spreadsheet</div>
+                                        <div class="text-[10px] text-slate-500">Buka di Excel/Google Sheets untuk analisis</div>
+                                    </div>
+                                </button>
+                                <button onclick="downloadResults(); closeDownloadMenu();" class="w-full flex items-start gap-2.5 px-3 py-2.5 hover:bg-slate-50 text-left transition-colors">
+                                    <svg class="w-5 h-5 text-slate-600 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4"></path></svg>
+                                    <div class="min-w-0">
+                                        <div class="text-xs sm:text-sm font-bold text-slate-800">JSON Raw Data</div>
+                                        <div class="text-[10px] text-slate-500">Format data mentah untuk developer/integrasi</div>
+                                    </div>
+                                </button>
+                            </div>
+                        </div>
                         <button onclick="showResultsReview()" class="bg-amber-500 hover:bg-amber-600 text-white font-bold py-3 px-3 rounded-xl transition-colors shadow text-xs sm:text-sm flex items-center justify-center gap-1.5" title="Lihat ringkasan jawaban">
                             <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"></path></svg>
                             <span>Ringkasan</span>
@@ -453,9 +492,9 @@
                                     <h3 class="text-sm font-bold text-blue-800 uppercase tracking-wide">Section Directions</h3>
                                 </div>
                                 <div id="section-direction-text" class="text-sm sm:text-base text-slate-700 leading-relaxed font-sans whitespace-pre-wrap mb-5 max-h-[45vh] overflow-y-auto"></div>
-                                <div class="flex items-center justify-between gap-2 pt-4 border-t border-slate-200">
+                                <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-2 pt-4 border-t border-slate-200">
                                     <p class="text-[11px] text-slate-500 italic">Bacalah dengan saksama. Direction tidak akan diulang.</p>
-                                    <button onclick="dismissSectionDirectionScreen()" class="bg-blue-700 hover:bg-blue-800 text-white font-bold px-5 py-2.5 rounded-lg shadow text-sm flex items-center gap-2 transition-colors">
+                                    <button onclick="dismissSectionDirectionScreen(false)" class="bg-blue-700 hover:bg-blue-800 text-white font-bold px-5 py-2.5 rounded-lg shadow text-sm flex items-center gap-2 transition-colors">
                                         Mulai Section
                                         <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
                                     </button>
@@ -485,9 +524,9 @@
                                     <h3 class="text-sm font-bold text-blue-800 uppercase tracking-wide">Petunjuk (Directions)</h3>
                                 </div>
                                 <div id="direction-text" class="text-sm sm:text-base text-slate-700 leading-relaxed font-sans whitespace-pre-wrap mb-5 max-h-[50vh] overflow-y-auto"></div>
-                                <div class="flex items-center justify-between gap-2 pt-4 border-t border-slate-200">
+                                <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-2 pt-4 border-t border-slate-200">
                                     <p class="text-[11px] text-slate-500 italic">Bacalah dengan saksama. Direction tidak akan diulang.</p>
-                                    <button onclick="dismissDirectionScreen()" class="bg-blue-600 hover:bg-blue-700 text-white font-bold px-5 py-2.5 rounded-lg shadow text-sm flex items-center gap-2 transition-colors">
+                                    <button onclick="dismissDirectionScreen(false)" class="bg-blue-600 hover:bg-blue-700 text-white font-bold px-5 py-2.5 rounded-lg shadow text-sm flex items-center gap-2 transition-colors">
                                         Mulai Soal
                                         <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
                                     </button>
@@ -596,11 +635,23 @@
 
                 <!-- Bottom Navigation Bar -->
                 <div class="bottom-nav-bar bg-white border-t border-slate-200 p-2 sm:p-4 flex flex-row justify-between items-center gap-2 sm:gap-3 flex-shrink-0 z-10 shadow-[0_-4px_10px_rgba(0,0,0,0.02)]">
-                    <div class="flex justify-start order-1">
-                        <button id="btn-check" onclick="checkAnswer(false)" class="hidden bg-emerald-600 hover:bg-emerald-700 text-white px-3 sm:px-5 py-2 rounded-lg font-medium transition-colors focus:ring-2 focus:ring-emerald-300 shadow-sm text-xs sm:text-base items-center justify-center">
+                    <div class="flex justify-start items-center gap-1.5 order-1 flex-wrap">
+                        <button id="btn-check" onclick="togglePracticeCheck()" class="hidden bg-emerald-600 hover:bg-emerald-700 text-white px-3 sm:px-5 py-2 rounded-lg font-medium transition-colors focus:ring-2 focus:ring-emerald-300 shadow-sm text-xs sm:text-base items-center justify-center">
                             <svg class="w-4 h-4 sm:mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-                            <span class="hidden sm:inline">Cek Pembahasan</span>
+                            <span class="hidden sm:inline" id="btn-check-text">Cek Pembahasan</span>
                         </button>
+                        <!-- Practice-mode quick controls: audio + timer -->
+                        <div id="practice-controls" class="hidden items-center gap-1">
+                            <button id="btn-replay-audio" onclick="practiceReplayAudio()" class="bg-indigo-50 hover:bg-indigo-100 text-indigo-700 border border-indigo-200 p-2 rounded-lg transition-colors" title="Putar ulang audio">
+                                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"></path></svg>
+                            </button>
+                            <button id="btn-pause-audio" onclick="practiceToggleAudio()" class="bg-indigo-50 hover:bg-indigo-100 text-indigo-700 border border-indigo-200 p-2 rounded-lg transition-colors" title="Pause/Play audio">
+                                <svg id="icon-pause-audio" class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 9v6m4-6v6m7-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                            </button>
+                            <button id="btn-pause-timer" onclick="practiceToggleTimer()" class="bg-amber-50 hover:bg-amber-100 text-amber-700 border border-amber-200 p-2 rounded-lg transition-colors" title="Pause/Resume timer">
+                                <svg id="icon-pause-timer" class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                            </button>
+                        </div>
                     </div>
 
                     <div class="flex justify-end gap-2 ml-auto order-2">
@@ -651,6 +702,11 @@
                         <span class="hidden sm:inline">Dump Longman</span><span class="sm:hidden">Dump</span>
                     </button>
 
+                    <button onclick="configAudioBank()" class="bg-indigo-100 hover:bg-indigo-200 text-indigo-800 border border-indigo-300 px-3 py-1.5 rounded font-medium text-xs sm:text-sm transition-colors shadow-sm flex items-center" title="Konfigurasi URL katalog Bank Audio">
+                        <svg class="w-4 h-4 sm:mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19V6l12 7-12 6z"></path></svg>
+                        <span class="hidden sm:inline">Bank Audio</span><span class="sm:hidden">🎵</span>
+                    </button>
+
                     <button onclick="showInitScreen()" class="bg-amber-100 hover:bg-amber-200 text-amber-800 border border-amber-300 px-3 py-1.5 rounded font-medium text-xs sm:text-sm transition-colors shadow-sm">
                         <span class="hidden sm:inline">Ganti Sumber</span><span class="sm:hidden">Sumber</span>
                     </button>
@@ -680,6 +736,47 @@
     <!-- ============================================ -->
     <!-- BULK DUMP / LONGMAN IMPORTER MODAL           -->
     <!-- ============================================ -->
+    <!-- Audio Picker Modal — browse Bank Audio (GCS catalog) -->
+    <div id="audio-picker-modal" class="hidden fixed inset-0 bg-slate-900/80 z-[60] flex items-center justify-center p-4 backdrop-blur-sm overflow-y-auto">
+        <div class="bg-white rounded-2xl shadow-2xl max-w-3xl w-full max-h-[90vh] flex flex-col">
+            <div class="flex items-center justify-between p-4 border-b border-slate-200 bg-slate-50 rounded-t-2xl">
+                <div>
+                    <h3 class="text-base font-black text-slate-800 flex items-center gap-2">
+                        <svg class="w-5 h-5 text-indigo-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19V6l12 7-12 6z"></path></svg>
+                        Pilih dari Bank Audio
+                    </h3>
+                    <p class="text-[11px] text-slate-500 mt-0.5">Klik file untuk salin URL ke input audio.</p>
+                </div>
+                <button onclick="closeAudioPicker()" class="text-slate-400 hover:text-slate-700 p-1 rounded">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+                </button>
+            </div>
+            <div class="p-4 border-b border-slate-200 bg-slate-50">
+                <div class="flex items-center gap-2 mb-2">
+                    <input id="audio-picker-base-url" type="text" class="flex-1 px-3 py-1.5 text-xs border border-slate-300 rounded font-mono" placeholder="https://storage.googleapis.com/bucket/path/">
+                    <button onclick="audioPickerLoadCatalog()" class="bg-indigo-600 hover:bg-indigo-700 text-white text-xs font-bold px-3 py-1.5 rounded">Muat</button>
+                </div>
+                <div class="flex items-center gap-2 mb-2">
+                    <div class="relative flex-1">
+                        <svg class="absolute left-2 top-1/2 -translate-y-1/2 w-3.5 h-3.5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+                        <input id="audio-picker-filter" type="text" oninput="audioPickerApplyFilter()" class="w-full pl-7 pr-7 py-1.5 text-xs border border-slate-300 rounded" placeholder="Cari nama folder/file...">
+                        <button onclick="audioPickerClearFilter()" class="absolute right-1 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-700 p-1 rounded text-xs font-bold" title="Hapus filter">✕</button>
+                    </div>
+                    <span id="audio-picker-count" class="text-[10px] text-slate-500 whitespace-nowrap"></span>
+                </div>
+                <div class="flex items-center gap-2 text-[10px] text-slate-500">
+                    <span>Breadcrumb:</span>
+                    <div id="audio-picker-breadcrumb" class="flex items-center gap-1 flex-wrap"></div>
+                </div>
+            </div>
+            <div id="audio-picker-content" class="flex-1 overflow-y-auto p-3 text-sm"></div>
+            <div class="p-3 border-t border-slate-200 bg-slate-50 rounded-b-2xl flex justify-between items-center">
+                <p class="text-[10px] text-slate-500">Format file yang ditampilkan: <code>.mp3</code>, <code>.m4a</code>, <code>.wav</code>, <code>.ogg</code></p>
+                <button onclick="closeAudioPicker()" class="bg-slate-200 hover:bg-slate-300 text-slate-800 font-bold px-4 py-2 rounded-lg text-sm">Tutup</button>
+            </div>
+        </div>
+    </div>
+
     <div id="bulk-dump-modal" class="hidden fixed inset-0 bg-slate-900/80 z-[55] flex items-center justify-center p-4 backdrop-blur-sm overflow-y-auto">
         <div class="bg-white rounded-2xl shadow-2xl max-w-4xl w-full my-auto max-h-[92vh] flex flex-col overflow-hidden">
             <div class="bg-gradient-to-r from-purple-700 to-indigo-700 text-white p-4 flex justify-between items-center flex-shrink-0">
@@ -893,11 +990,15 @@
         // editorQPage[`${sIdx}_${pIdx}`] = current page (0-indexed)
         let editorCollapsed = {};
         let editorQPage = {};
+        // editorQExpanded[`${sIdx}_${pIdx}_${qIdx}`] = true if the question card body is expanded.
+        // Only ONE question is expanded at a time per part (auto-collapse others when one is opened).
+        let editorQExpanded = {};
         const Q_PER_PAGE = 10;
 
         let cSectionIdx = 0, cPartIdx = 0, cQuestionIdx = 0;
         let isTestRunning = false, isReviewMode = false;
         let testMode = 'strict'; // 'strict' or 'practice'
+        let participantName = ''; // Filled in startTest(); used in results & exports
 
         let sectionTimesRemaining = [];
         let partTimesRemaining = {}; // key: `${sIdx}_${pIdx}` -> seconds left
@@ -1030,6 +1131,16 @@
             updateBulkExample();
             // Auto-load Bank Soal list since it's the default tab
             fetchBankSoalList();
+            // Apply editor access control at startup (no data loaded yet = no restriction)
+            applyEditorAccessControl();
+            // Watch the participant-name field for live changes so editor visibility
+            // updates immediately if the user types "cakresa" after a Bank Soal load.
+            const nameField = document.getElementById('participant-name');
+            if (nameField) {
+                nameField.addEventListener('input', () => {
+                    applyEditorAccessControl();
+                });
+            }
         });
 
         // ==========================================
@@ -1045,6 +1156,37 @@
         // Bank Soal URL (cakresa.id) — central constant for easy maintenance
         const BANK_SOAL_URL = 'https://api.github.com/repos/rezatbahtera/toeflsim/contents/banksoal';
         let bankListCache = null; // cache populated after first successful fetch
+        // True only when the active dataset was loaded from the Bank Soal Github repo
+        // (rezatbahtera/toeflsim). Editor access is gated on this + user identity check.
+        let loadedFromBankSoal = false;
+
+        // Check if the active user is allowed to access Editor when Bank Soal is the source.
+        // Identity is sourced from (in order): the participant name field on start screen,
+        // or localStorage('participantName'). Case-insensitive compare with "cakresa".
+        function isAuthorizedEditor() {
+            const fromField = (document.getElementById('participant-name')?.value || '').trim().toLowerCase();
+            const fromStorage = (localStorage.getItem('participantName') || '').trim().toLowerCase();
+            const id = fromField || fromStorage;
+            return id === 'cakresa';
+        }
+
+        // Show/hide the Editor tab button based on data source + user identity.
+        // Rule: if dataset was loaded from Bank Soal (Github repo), Editor is restricted
+        // to user "cakresa" only. For any other source (local file, URL, default, empty editor),
+        // Editor stays freely accessible.
+        function applyEditorAccessControl() {
+            const editorBtn = document.getElementById('btn-tab-editor');
+            if (!editorBtn) return;
+            const restricted = loadedFromBankSoal && !isAuthorizedEditor();
+            if (restricted) {
+                editorBtn.classList.add('hidden');
+                // Also force back to test tab if user is currently in editor
+                const editorView = document.getElementById('view-editor');
+                if (editorView && !editorView.classList.contains('opacity-0')) switchTab('test');
+            } else {
+                editorBtn.classList.remove('hidden');
+            }
+        }
 
         function switchSourceTab(tab) {
             ['bank', 'url', 'folder', 'upload', 'default'].forEach(t => {
@@ -1170,7 +1312,9 @@
                         if (!r.ok) throw new Error(`HTTP ${r.status}`);
                         const data = await r.json();
                         currentActiveFilename = f.filename || f.name;
+                        loadedFromBankSoal = true; // editor access gated on this + identity
                         initAppWithData(data);
+                        applyEditorAccessControl();
                         showNotification(`Memuat: ${displayTitle}`, "success");
                     } catch (err) {
                         showNotification("Gagal load file: " + err.message, "error");
@@ -1192,6 +1336,30 @@
                 btnText.innerText = 'Refresh';
                 btnIcon.classList.remove('animate-spin');
             });
+        }
+
+        // Confirm before going back to init/source selection screen — protects user from
+        // accidentally losing progress mid-test.
+        function confirmGoHome() {
+            if (isTestRunning && !isReviewMode) {
+                if (!confirm('Anda sedang dalam ujian. Yakin ingin keluar dan kembali ke halaman sumber data? Progres tidak akan tersimpan.')) return;
+            }
+            // Force-stop everything
+            isTestRunning = false;
+            isReviewMode = false;
+            clearInterval(currentSectionTimerInterval);
+            clearInterval(currentQuestionTimerInterval);
+            clearInterval(currentPartTimerInterval);
+            currentSectionTimerInterval = currentQuestionTimerInterval = currentPartTimerInterval = null;
+            stopAudioCompletely();
+            // Hide all overlays
+            document.getElementById('direction-screen')?.classList.add('hidden');
+            document.getElementById('section-direction-screen')?.classList.add('hidden');
+            document.getElementById('score-modal')?.classList.add('hidden');
+            document.getElementById('finish-confirm-modal')?.classList.add('hidden');
+            document.getElementById('results-review-modal')?.classList.add('hidden');
+            // Go back to init screen
+            showInitScreen();
         }
 
         function showInitScreen() {
@@ -1249,7 +1417,9 @@
                 const response = await fetch(urlInput);
                 if (!response.ok) throw new Error(`HTTP ${response.status}`);
                 const data = await response.json();
+                loadedFromBankSoal = false; // external URL = not bank
                 initAppWithData(data);
+                applyEditorAccessControl();
                 showNotification("Data berhasil dimuat dari URL!", "success");
             } catch (e) {
                 showNotification("Gagal memuat URL: " + e.message, "error");
@@ -1410,12 +1580,14 @@
             
             // Simpan nama file yang sedang dibuka ke variabel global
             currentActiveFilename = file.name; 
+            loadedFromBankSoal = false; // local file = no bank source
 
             const reader = new FileReader();
             reader.onload = function (e) {
                 try {
                     const data = JSON.parse(e.target.result);
                     initAppWithData(data);
+                    applyEditorAccessControl();
                     showNotification(`Berhasil memuat: ${file.name}`, "success");
                 } catch (err) {
                     showNotification("Gagal: File JSON tidak valid.", "error");
@@ -1426,12 +1598,16 @@
         }
 
         function loadDefaultData() {
+            loadedFromBankSoal = false;
             initAppWithData(JSON.parse(JSON.stringify(defaultData)));
+            applyEditorAccessControl();
             showNotification("Menggunakan data default", "success");
         }
 
         function enterEditorEmpty() {
+            loadedFromBankSoal = false;
             initAppWithData({ title: "Tes Baru (Kosong)", sections: [] });
+            applyEditorAccessControl();
             switchTab('editor');
             showNotification("Editor kosong dimuat. Gunakan 'Bulk Dump' untuk impor cepat.", "success");
         }
@@ -1486,6 +1662,15 @@
             document.getElementById('start-screen').classList.remove('hidden');
             document.getElementById('score-modal').classList.add('hidden');
 
+            // Pre-fill participant name from last session (saved in localStorage)
+            const nameInput = document.getElementById('participant-name');
+            if (nameInput) {
+                const savedName = localStorage.getItem('participantName');
+                if (savedName && !nameInput.value) nameInput.value = savedName;
+                // Auto-focus for fast entry
+                setTimeout(() => { try { nameInput.focus(); } catch (e) {} }, 100);
+            }
+
             cSectionIdx = 0; cPartIdx = 0; cQuestionIdx = 0;
             selectedAnswers = {};
             audioHasBeenPlayed = {};
@@ -1527,6 +1712,20 @@
         function startTest() {
             const modeRadio = document.querySelector('input[name="test-mode"]:checked');
             testMode = modeRadio ? modeRadio.value : 'strict';
+            // Capture participant name (required) — fallback to "Peserta Anonim" if empty
+            const nameInput = document.getElementById('participant-name');
+            const rawName = (nameInput?.value || '').trim();
+            if (!rawName) {
+                if (!confirm('Anda belum mengisi nama. Lanjutkan sebagai "Peserta Anonim"?')) {
+                    nameInput?.focus();
+                    return;
+                }
+                participantName = 'Peserta Anonim';
+            } else {
+                participantName = rawName.slice(0, 80);
+                localStorage.setItem('participantName', participantName);
+            }
+            applyEditorAccessControl(); // re-check after name is locked in
             document.getElementById('start-screen').classList.add('hidden');
             document.getElementById('section-timer-container').classList.remove('hidden');
             isTestRunning = true;
@@ -1540,6 +1739,8 @@
                 document.getElementById('btn-check').classList.add('hidden');
                 document.getElementById('btn-check').classList.remove('inline-flex');
             }
+            updatePracticeControlsVisibility();
+            practiceTimerPaused = false;
             loadTarget(0, 0, 0);
         }
 
@@ -1780,8 +1981,9 @@
         function computeResultsBreakdown() {
             const breakdown = {
                 title: testData.title || 'TOEFL Result',
+                participantName: participantName || 'Peserta Anonim',
                 generatedAt: new Date().toISOString(),
-                totalScaled: parseInt(document.getElementById('score-total-scaled')?.innerText || '0'),
+                totalScaled: parseInt(document.getElementById('score-itp-total')?.innerText || '0'),
                 sections: []
             };
             (testData.sections || []).forEach((sec, sIdx) => {
@@ -1813,6 +2015,8 @@
                     });
                     secObj.parts.push(partObj);
                 });
+                // Compute scaled score for this section
+                secObj.scaledScore = rawToScaled(secObj.correct, secObj.total, secObj.type);
                 breakdown.sections.push(secObj);
             });
             return breakdown;
@@ -1824,11 +2028,326 @@
             const url = URL.createObjectURL(blob);
             const a = document.createElement('a');
             a.href = url;
-            const safeTitle = (breakdown.title || 'toefl_itp_result').replace(/[^a-zA-Z0-9_-]+/g, '_').slice(0, 50);
-            a.download = `${safeTitle}_${new Date().toISOString().slice(0, 10)}.json`;
+            const safeName = (breakdown.participantName || 'anonim').replace(/[^a-zA-Z0-9_-]+/g, '_').slice(0, 30);
+            const safeTitle = (breakdown.title || 'toefl_itp_result').replace(/[^a-zA-Z0-9_-]+/g, '_').slice(0, 40);
+            a.download = `${safeName}_${safeTitle}_${new Date().toISOString().slice(0, 10)}.json`;
             document.body.appendChild(a); a.click(); document.body.removeChild(a);
             URL.revokeObjectURL(url);
-            showNotification('Hasil ujian diunduh.', 'success');
+            showNotification('Hasil ujian diunduh (JSON).', 'success');
+        }
+
+        // Download dropdown menu toggle
+        function toggleDownloadMenu(e) {
+            e.stopPropagation();
+            const menu = document.getElementById('download-menu');
+            if (!menu) return;
+            menu.classList.toggle('hidden');
+            // Click outside to close
+            if (!menu.classList.contains('hidden')) {
+                setTimeout(() => {
+                    const handler = (evt) => {
+                        if (!menu.contains(evt.target)) {
+                            menu.classList.add('hidden');
+                            document.removeEventListener('click', handler);
+                        }
+                    };
+                    document.addEventListener('click', handler);
+                }, 0);
+            }
+        }
+        function closeDownloadMenu() {
+            document.getElementById('download-menu')?.classList.add('hidden');
+        }
+
+        // ============================================================
+        // CSV export — flat table of question-by-question results
+        // ============================================================
+        function downloadResultsCsv() {
+            const breakdown = computeResultsBreakdown();
+            const rows = [
+                ['Nama Peserta', breakdown.participantName || ''],
+                ['Tes', breakdown.title || ''],
+                ['Tanggal', new Date(breakdown.generatedAt).toLocaleString('id-ID')],
+                [],
+                ['No', 'Section', 'Part', 'Status', 'Jawaban Anda', 'Jawaban Benar', 'Pertanyaan']
+            ];
+            breakdown.sections.forEach(sec => {
+                sec.parts.forEach(part => {
+                    part.questions.forEach(q => {
+                        const statusText = q.status === 'correct' ? 'Benar'
+                                         : q.status === 'wrong' ? 'Salah'
+                                         : 'Kosong';
+                        rows.push([
+                            q.number,
+                            sec.title,
+                            part.title,
+                            statusText,
+                            q.userAnswerLetter,
+                            q.correctAnswerLetter,
+                            (q.question || '').replace(/\s+/g, ' ').slice(0, 250)
+                        ]);
+                    });
+                });
+            });
+            // Add summary footer
+            rows.push([]);
+            rows.push(['RINGKASAN']);
+            rows.push(['Total Score (ITP)', breakdown.totalScaled]);
+            breakdown.sections.forEach(sec => {
+                rows.push([sec.title, `${sec.correct}/${sec.total}`, `${sec.total > 0 ? Math.round(sec.correct/sec.total*100) : 0}%`]);
+            });
+            const csv = rows.map(r => r.map(c => {
+                const s = String(c == null ? '' : c);
+                // Escape CSV: wrap in quotes if contains comma, quote, or newline; double internal quotes
+                return /[",\n]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s;
+            }).join(',')).join('\n');
+            // Prepend UTF-8 BOM so Excel opens with correct encoding
+            const blob = new Blob(['\ufeff' + csv], { type: 'text/csv;charset=utf-8;' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            const safeName = (breakdown.participantName || 'anonim').replace(/[^a-zA-Z0-9_-]+/g, '_').slice(0, 30);
+            const safeTitle = (breakdown.title || 'toefl_itp_result').replace(/[^a-zA-Z0-9_-]+/g, '_').slice(0, 40);
+            a.download = `${safeName}_${safeTitle}_${new Date().toISOString().slice(0, 10)}.csv`;
+            document.body.appendChild(a); a.click(); document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+            showNotification('Hasil diunduh (CSV) — buka di Excel.', 'success');
+        }
+
+        // ============================================================
+        // HTML report — self-contained, printable, beautiful
+        // Recommended default: works in any browser, can be printed or saved as PDF natively.
+        // ============================================================
+        function downloadResultsHtml() {
+            const breakdown = computeResultsBreakdown();
+            const html = buildHtmlReport(breakdown);
+            const blob = new Blob([html], { type: 'text/html;charset=utf-8' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            const safeName = (breakdown.participantName || 'anonim').replace(/[^a-zA-Z0-9_-]+/g, '_').slice(0, 30);
+            const safeTitle = (breakdown.title || 'toefl_itp_result').replace(/[^a-zA-Z0-9_-]+/g, '_').slice(0, 40);
+            a.download = `${safeName}_${safeTitle}_${new Date().toISOString().slice(0, 10)}.html`;
+            document.body.appendChild(a); a.click(); document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+            showNotification('Laporan HTML diunduh. Buka file untuk preview, print, atau save PDF.', 'success');
+        }
+
+        // Compose a self-contained HTML report. Uses inlined CSS (no external deps).
+        // Has print stylesheet so Ctrl+P → "Save as PDF" produces a clean PDF.
+        function buildHtmlReport(breakdown) {
+            const date = new Date().toLocaleString('id-ID', { dateStyle: 'long', timeStyle: 'short' });
+            const escape = (s) => String(s == null ? '' : s)
+                .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+                .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+
+            const totalQ = breakdown.sections.reduce((a, s) => a + s.total, 0);
+            const totalCorrect = breakdown.sections.reduce((a, s) => a + s.correct, 0);
+            const totalWrong = breakdown.sections.reduce((a, s) => a + s.wrong, 0);
+            const totalEmpty = breakdown.sections.reduce((a, s) => a + s.empty, 0);
+            const accuracy = totalQ > 0 ? Math.round((totalCorrect / totalQ) * 100) : 0;
+
+            // Per-section table rows
+            const sectionRows = breakdown.sections.map(sec => {
+                const pct = sec.total > 0 ? Math.round((sec.correct / sec.total) * 100) : 0;
+                const scaled = sec.scaledScore || rawToScaled(sec.correct, sec.total, sec.type);
+                return `<tr>
+                    <td><b>${escape(sec.title)}</b></td>
+                    <td class="t-center">${sec.total}</td>
+                    <td class="t-center"><span class="badge badge-green">${sec.correct}</span></td>
+                    <td class="t-center"><span class="badge badge-red">${sec.wrong}</span></td>
+                    <td class="t-center"><span class="badge badge-gray">${sec.empty}</span></td>
+                    <td class="t-center"><b>${pct}%</b></td>
+                    <td class="t-center"><b class="scaled-score">${scaled}</b></td>
+                </tr>`;
+            }).join('');
+
+            // Per-question detail tables (grouped by section)
+            const detailHtml = breakdown.sections.map(sec => {
+                const qRows = sec.parts.flatMap(part => part.questions.map(q => {
+                    const statusClass = q.status === 'correct' ? 'row-correct'
+                                     : q.status === 'wrong' ? 'row-wrong' : 'row-empty';
+                    const statusIcon = q.status === 'correct' ? '✓' : q.status === 'wrong' ? '✗' : '—';
+                    const statusText = q.status === 'correct' ? 'Benar' : q.status === 'wrong' ? 'Salah' : 'Kosong';
+                    return `<tr class="${statusClass}">
+                        <td class="t-center"><b>${q.number}</b></td>
+                        <td class="t-center status-icon">${statusIcon} <span class="status-text">${statusText}</span></td>
+                        <td class="t-center"><b>${q.userAnswerLetter}</b></td>
+                        <td class="t-center"><b>${q.correctAnswerLetter}</b></td>
+                        <td class="q-text">${escape((q.question || '').replace(/~\[([^\]]+)\]~\([A-D]\)/g, '$1').slice(0, 180))}${(q.question || '').length > 180 ? '…' : ''}</td>
+                    </tr>`;
+                })).join('');
+                return `<h3 class="section-h">${escape(sec.title)} <span class="section-meta">(${sec.total} soal · ${sec.correct} benar)</span></h3>
+                    <table class="qtable">
+                        <thead><tr><th>No</th><th>Status</th><th>Jawab</th><th>Benar</th><th>Pertanyaan</th></tr></thead>
+                        <tbody>${qRows}</tbody>
+                    </table>`;
+            }).join('');
+
+            return `<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<title>Hasil ${escape(breakdown.title)}</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+* { box-sizing: border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+       background: #f1f5f9; color: #1e293b; margin: 0; padding: 24px; line-height: 1.5; }
+.container { max-width: 900px; margin: 0 auto; background: white; border-radius: 16px;
+             box-shadow: 0 4px 6px rgba(0,0,0,0.05); overflow: hidden; }
+.header { background: linear-gradient(135deg, #1e3a8a 0%, #1e40af 50%, #2563eb 100%);
+          color: white; padding: 28px 32px; }
+.header h1 { font-size: 24px; margin: 0 0 6px; font-weight: 800; }
+.header .subtitle { font-size: 13px; opacity: 0.9; }
+.header .participant-info { display: flex; justify-content: space-between; align-items: flex-end;
+                            margin-top: 14px; padding-top: 14px; border-top: 1px solid rgba(255,255,255,0.2);
+                            flex-wrap: wrap; gap: 8px; }
+.header .participant-name { font-size: 18px; font-weight: 700; }
+.header .meta { font-size: 11px; opacity: 0.7; }
+.score-hero { display: flex; align-items: center; justify-content: space-around;
+              padding: 24px 32px; background: linear-gradient(to right, #f8fafc, #f1f5f9, #f8fafc);
+              border-bottom: 1px solid #e2e8f0; flex-wrap: wrap; gap: 16px; }
+.score-main { text-align: center; }
+.score-main .value { font-size: 56px; font-weight: 900; color: #1e3a8a; line-height: 1;
+                     font-family: 'Inter', system-ui, sans-serif; }
+.score-main .label { font-size: 11px; font-weight: 800; color: #64748b;
+                     text-transform: uppercase; letter-spacing: 1.5px; margin-top: 4px; }
+.score-main .range { font-size: 10px; color: #94a3b8; margin-top: 2px; }
+.score-stat { text-align: center; }
+.score-stat .value { font-size: 28px; font-weight: 800; }
+.score-stat .label { font-size: 10px; font-weight: 700; color: #64748b;
+                     text-transform: uppercase; letter-spacing: 1px; margin-top: 2px; }
+.score-stat.correct .value { color: #059669; }
+.score-stat.wrong .value { color: #dc2626; }
+.score-stat.empty .value { color: #94a3b8; }
+.score-stat.accuracy .value { color: #2563eb; }
+.section-summary { padding: 24px 32px; }
+.section-summary h2 { font-size: 16px; font-weight: 800; margin: 0 0 12px;
+                      color: #1e293b; text-transform: uppercase;
+                      letter-spacing: 0.5px; padding-bottom: 8px; border-bottom: 2px solid #e2e8f0; }
+table { width: 100%; border-collapse: collapse; font-size: 13px; }
+table th { background: #f1f5f9; color: #475569; font-weight: 700; padding: 10px 8px;
+           text-align: left; border-bottom: 2px solid #cbd5e1; font-size: 11px;
+           text-transform: uppercase; letter-spacing: 0.5px; }
+table td { padding: 10px 8px; border-bottom: 1px solid #e2e8f0; }
+.t-center { text-align: center; }
+.badge { display: inline-block; padding: 2px 8px; border-radius: 12px;
+         font-size: 11px; font-weight: 700; }
+.badge-green { background: #d1fae5; color: #047857; }
+.badge-red { background: #fee2e2; color: #b91c1c; }
+.badge-gray { background: #f1f5f9; color: #64748b; }
+.scaled-score { color: #2563eb; font-size: 16px; }
+.detail-section { padding: 0 32px 24px; }
+.detail-section h2 { font-size: 16px; font-weight: 800; margin: 8px 0 16px;
+                     color: #1e293b; text-transform: uppercase;
+                     letter-spacing: 0.5px; padding-bottom: 8px; border-bottom: 2px solid #e2e8f0; }
+.section-h { font-size: 14px; margin: 20px 0 8px; color: #334155; font-weight: 700; }
+.section-h .section-meta { font-size: 11px; color: #94a3b8; font-weight: 400; margin-left: 8px; }
+.qtable { font-size: 11px; }
+.qtable th { padding: 6px 6px; font-size: 9px; }
+.qtable td { padding: 6px 6px; }
+.qtable .row-correct { background: #f0fdf4; }
+.qtable .row-wrong { background: #fef2f2; }
+.qtable .row-empty { background: #fafafa; }
+.qtable .status-icon { font-weight: 900; font-size: 13px; }
+.qtable .row-correct .status-icon { color: #059669; }
+.qtable .row-wrong .status-icon { color: #dc2626; }
+.qtable .row-empty .status-icon { color: #94a3b8; }
+.qtable .status-text { font-size: 10px; font-weight: 600; margin-left: 4px; }
+.qtable .q-text { color: #475569; font-size: 11px; }
+.footer { padding: 16px 32px; background: #f8fafc; color: #94a3b8;
+          font-size: 11px; text-align: center; border-top: 1px solid #e2e8f0; }
+.actions { padding: 16px 32px; background: #fefce8; border-bottom: 1px solid #fde047;
+           display: flex; gap: 12px; align-items: center; justify-content: center;
+           flex-wrap: wrap; }
+.actions p { margin: 0; font-size: 12px; color: #713f12; flex: 1; min-width: 200px; }
+.actions button { background: #ca8a04; color: white; border: none; padding: 10px 18px;
+                  border-radius: 8px; font-weight: 700; font-size: 12px; cursor: pointer;
+                  display: inline-flex; align-items: center; gap: 6px; }
+.actions button:hover { background: #a16207; }
+@media print {
+    @page { margin: 18mm 12mm; }
+    body { background: white; padding: 0; }
+    .container { box-shadow: none; max-width: 100%; border-radius: 0; }
+    .actions { display: none; }
+    .header { background: #1e3a8a !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .score-hero, .section-summary, .detail-section { padding-left: 12px; padding-right: 12px; }
+    .qtable { page-break-inside: auto; }
+    .qtable tr { page-break-inside: avoid; }
+    h2, h3 { page-break-after: avoid; }
+}
+</style>
+</head>
+<body>
+<div class="container">
+    <div class="header">
+        <h1>📊 Hasil Ujian TOEFL ITP</h1>
+        <div class="subtitle">${escape(breakdown.title)}</div>
+        <div class="participant-info">
+            <div class="participant-name">${escape(breakdown.participantName || 'Peserta Anonim')}</div>
+            <div class="meta">Dicetak: ${escape(date)}</div>
+        </div>
+    </div>
+
+    <div class="actions">
+        <p><b>Tip:</b> Tekan <b>Ctrl+P</b> (Cmd+P di Mac) untuk print atau simpan sebagai PDF.</p>
+        <button onclick="window.print()">🖨 Print / Save PDF</button>
+    </div>
+
+    <div class="score-hero">
+        <div class="score-main">
+            <div class="value">${breakdown.totalScaled}</div>
+            <div class="label">Total ITP Score</div>
+            <div class="range">Skala 310 – 677</div>
+        </div>
+        <div class="score-stat correct">
+            <div class="value">${totalCorrect}</div>
+            <div class="label">Benar</div>
+        </div>
+        <div class="score-stat wrong">
+            <div class="value">${totalWrong}</div>
+            <div class="label">Salah</div>
+        </div>
+        <div class="score-stat empty">
+            <div class="value">${totalEmpty}</div>
+            <div class="label">Kosong</div>
+        </div>
+        <div class="score-stat accuracy">
+            <div class="value">${accuracy}%</div>
+            <div class="label">Akurasi</div>
+        </div>
+    </div>
+
+    <div class="section-summary">
+        <h2>📈 Ringkasan per Section</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Section</th>
+                    <th class="t-center">Total</th>
+                    <th class="t-center">Benar</th>
+                    <th class="t-center">Salah</th>
+                    <th class="t-center">Kosong</th>
+                    <th class="t-center">Akurasi</th>
+                    <th class="t-center">Scaled</th>
+                </tr>
+            </thead>
+            <tbody>${sectionRows}</tbody>
+        </table>
+    </div>
+
+    <div class="detail-section">
+        <h2>📋 Detail Soal</h2>
+        ${detailHtml}
+    </div>
+
+    <div class="footer">
+        Laporan dibuat oleh <b>TOEFL ITP Simulator Pro</b> · ${escape(date)}
+    </div>
+</div>
+</body>
+</html>`;
         }
 
         function showResultsReview() {
@@ -1884,6 +2403,7 @@
             stopAudioCompletely();
             isTestRunning = false;
             isReviewMode = true;
+            updatePracticeControlsVisibility();
             let totalQ = 0, totalCorrect = 0, totalAnswered = 0;
             const perSectionStats = []; // {type, title, correct, total}
 
@@ -1933,6 +2453,16 @@
             document.getElementById('score-correct').innerText = totalCorrect;
             document.getElementById('score-wrong').innerText = totalAnswered - totalCorrect;
             document.getElementById('score-empty').innerText = totalQ - totalAnswered;
+            // Show participant name if filled
+            const pName = document.getElementById('score-modal-participant');
+            if (pName) {
+                if (participantName && participantName !== 'Peserta Anonim') {
+                    pName.innerText = '👤 ' + participantName;
+                    pName.classList.remove('hidden');
+                } else {
+                    pName.classList.add('hidden');
+                }
+            }
             document.getElementById('score-modal').classList.remove('hidden');
         }
 
@@ -2036,15 +2566,150 @@
         // AUDIO HANDLING (Custom — 1x play, no replay)
         // ==========================================
         function stopAudioCompletely() {
+            // Stop main question audio
             const audioEl = document.getElementById('question-audio');
             if (audioEl) {
                 audioEl.pause();
                 audioEl.currentTime = 0;
             }
+            // Also stop direction audios (Section + Part) — these can keep playing
+            // if user navigates away while direction screen audio is mid-playback
+            ['section-direction-audio', 'part-direction-audio'].forEach(id => {
+                const el = document.getElementById(id);
+                if (el) {
+                    el.pause();
+                    el.currentTime = 0;
+                    el.src = ''; // detach source so element fully releases the media
+                }
+            });
             audioPlaybackInProgress = false;
             if (audioGracePeriodTimeout) { clearTimeout(audioGracePeriodTimeout); audioGracePeriodTimeout = null; }
             if (audioProgressInterval) { clearInterval(audioProgressInterval); audioProgressInterval = null; }
             document.getElementById('audio-status-card').classList.add('hidden');
+        }
+
+        // Variant: stop ONLY direction audios (Section + Part). Use this when user dismisses
+        // the direction screen via the main button — we want question audio (which hasn't
+        // started yet) to remain untouched.
+        function stopDirectionAudiosOnly() {
+            ['section-direction-audio', 'part-direction-audio'].forEach(id => {
+                const el = document.getElementById(id);
+                if (el) {
+                    el.pause();
+                    el.currentTime = 0;
+                    el.src = '';
+                }
+            });
+        }
+
+        // ===== PRACTICE-MODE CONTROLS =====
+        // Show/hide the practice quick-controls bar based on test mode
+        function updatePracticeControlsVisibility() {
+            const controls = document.getElementById('practice-controls');
+            if (!controls) return;
+            const shouldShow = testMode === 'practice' && isTestRunning && !isReviewMode;
+            if (shouldShow) {
+                controls.classList.remove('hidden');
+                controls.classList.add('flex');
+            } else {
+                controls.classList.add('hidden');
+                controls.classList.remove('flex');
+            }
+            // When a direction screen is active, visually disable the practice control buttons
+            // so the user can't accidentally trigger question audio during instruction playback.
+            const isDirActive = isAnyDirectionScreenActive();
+            ['btn-replay-audio', 'btn-pause-audio', 'btn-pause-timer', 'btn-check'].forEach(id => {
+                const btn = document.getElementById(id);
+                if (!btn) return;
+                btn.disabled = isDirActive;
+                if (isDirActive) {
+                    btn.classList.add('opacity-40', 'cursor-not-allowed', 'pointer-events-none');
+                    btn.title = 'Tidak tersedia saat layar petunjuk aktif';
+                } else {
+                    btn.classList.remove('opacity-40', 'cursor-not-allowed', 'pointer-events-none');
+                    btn.title = ''; // reset
+                }
+            });
+        }
+
+        // Replay current question's audio from the beginning
+        function practiceReplayAudio() {
+            // Bug fix: never act while a direction screen is showing — user might press this
+            // accidentally during instruction audio and trigger the question audio prematurely.
+            if (isAnyDirectionScreenActive()) {
+                showNotification('Tidak bisa diputar saat layar petunjuk aktif.', 'error');
+                return;
+            }
+            const audioEl = document.getElementById('question-audio');
+            if (!audioEl || !audioEl.src) {
+                // No audio source yet — try to re-trigger from current question
+                const part = testData.sections[cSectionIdx]?.parts[cPartIdx];
+                if (!part) return;
+                const q = part.questions[cQuestionIdx];
+                if (!q) return;
+                // Reset audio-played tracking so the sequence runs again
+                const qKey = `${cSectionIdx}_${cPartIdx}_${cQuestionIdx}`;
+                delete audioHasBeenPlayed[qKey];
+                const group = getGroupForQuestion(part, q);
+                if (group) delete partAudioHasBeenPlayed[`g_${group.id}`];
+                playQuestionAudio(q, qKey);
+                showNotification('Memutar ulang audio', 'success');
+                return;
+            }
+            audioEl.currentTime = 0;
+            audioEl.play().catch(() => {});
+            showNotification('Memutar ulang audio', 'success');
+        }
+
+        // Toggle pause/play of the current question audio
+        function practiceToggleAudio() {
+            if (isAnyDirectionScreenActive()) {
+                showNotification('Tidak bisa diputar saat layar petunjuk aktif.', 'error');
+                return;
+            }
+            const audioEl = document.getElementById('question-audio');
+            const icon = document.getElementById('icon-pause-audio');
+            if (!audioEl) return;
+            if (audioEl.paused) {
+                audioEl.play().catch(() => {});
+                // Pause icon (audio is now playing → button toggles to pause)
+                if (icon) icon.innerHTML = '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 9v6m4-6v6m7-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>';
+            } else {
+                audioEl.pause();
+                // Play icon (audio is paused → button toggles to play)
+                if (icon) icon.innerHTML = '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>';
+            }
+        }
+
+        // Toggle pause/resume of all running timers (section + part + question)
+        let practiceTimerPaused = false;
+        let practicePausedAt = { section: null, part: null, q: null };
+        function practiceToggleTimer() {
+            if (isAnyDirectionScreenActive()) {
+                showNotification('Tidak bisa diatur saat layar petunjuk aktif.', 'error');
+                return;
+            }
+            const icon = document.getElementById('icon-pause-timer');
+            if (!practiceTimerPaused) {
+                // Pause: clear all timer intervals (but keep current remaining values)
+                clearInterval(currentSectionTimerInterval);
+                clearInterval(currentPartTimerInterval);
+                clearInterval(currentQuestionTimerInterval);
+                currentSectionTimerInterval = null;
+                currentPartTimerInterval = null;
+                currentQuestionTimerInterval = null;
+                practiceTimerPaused = true;
+                if (icon) icon.innerHTML = '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>';
+                showNotification('Timer dijeda', 'success');
+            } else {
+                // Resume: restart timers from current remaining values
+                practiceTimerPaused = false;
+                startSectionTimer(cSectionIdx);
+                const part = testData.sections[cSectionIdx]?.parts[cPartIdx];
+                if (part && part.durationSeconds > 0) startPartTimer(cSectionIdx, cPartIdx);
+                if (icon) icon.innerHTML = '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>';
+                showNotification('Timer dilanjutkan', 'success');
+            }
         }
 
         // playAudioSequence: plays a list of audio URLs in order, then triggers grace period.
@@ -2354,12 +3019,14 @@
             const wasDiffSec = (cSectionIdx !== sIdx) || !sectionEntered[sIdx];
             const wasDiffPart = (cSectionIdx !== sIdx) || (cPartIdx !== pIdx) || !partEntered[`${sIdx}_${pIdx}`];
             cSectionIdx = sIdx; cPartIdx = pIdx;
-            renderSidebar();
 
             const section = testData.sections[sIdx], part = section.parts[pIdx], questions = part.questions || [];
             if (qIdx >= questions.length) qIdx = Math.max(0, questions.length - 1);
             if (qIdx < 0) qIdx = 0;
             cQuestionIdx = qIdx;
+
+            // Render sidebar AFTER cQuestionIdx is set so group highlight is accurate
+            renderSidebar();
 
             document.getElementById('current-section-title').innerText = section.title;
             document.getElementById('current-part-title').innerText = part.title;
@@ -2374,20 +3041,24 @@
             let directionIsShowing = false;
 
             if (isTestRunning && !isReviewMode && qIdx === 0) {
-                // Section-level direction (only when entering this section for the first time)
-                if (wasDiffSec && section.instruction && section.instruction.trim() !== '' &&
-                    !sectionDirectionShown[sectionKey]) {
+                // Section-level direction: shown if EITHER instruction text OR directionAudioUrl is set
+                const secHasDir = (section.instruction && section.instruction.trim() !== '') ||
+                                  (section.directionAudioUrl && section.directionAudioUrl.trim() !== '');
+                if (wasDiffSec && secHasDir && !sectionDirectionShown[sectionKey]) {
                     showSectionDirectionScreen(cSectionIdx);
                     directionIsShowing = true;
                     sectionEntered[sIdx] = true;
                 }
-                // Part-level direction (after section direction OR if no section direction)
-                else if (wasDiffPart && part.instruction && part.instruction.trim() !== '' &&
-                         !directionShown[partKey]) {
-                    showDirectionScreen(cSectionIdx, cPartIdx);
-                    directionIsShowing = true;
-                    sectionEntered[sIdx] = true;
-                    partEntered[partKey] = true;
+                // Part-level direction: shown if EITHER instruction text OR directionAudioUrl is set
+                else {
+                    const partHasDir = (part.instruction && part.instruction.trim() !== '') ||
+                                       (part.directionAudioUrl && part.directionAudioUrl.trim() !== '');
+                    if (wasDiffPart && partHasDir && !directionShown[partKey]) {
+                        showDirectionScreen(cSectionIdx, cPartIdx);
+                        directionIsShowing = true;
+                        sectionEntered[sIdx] = true;
+                        partEntered[partKey] = true;
+                    }
                 }
             }
 
@@ -2452,6 +3123,10 @@
         }
 
         function loadQuestionUI() {
+            // Reset practice-mode check toggle when moving to a new question
+            practiceCheckRevealed = false;
+            const btnCheckText = document.getElementById('btn-check-text');
+            if (btnCheckText) btnCheckText.innerText = 'Cek Pembahasan';
             const part = testData.sections[cSectionIdx].parts[cPartIdx];
             const q = part.questions[cQuestionIdx];
             const totalQ = part.questions.length;
@@ -2669,6 +3344,61 @@
             });
         }
 
+        // Toggle practice-mode "Cek Pembahasan" button. First click reveals answer+reasons;
+        // second click hides them and restores the normal question view.
+        let practiceCheckRevealed = false;
+        function togglePracticeCheck() {
+            if (isAnyDirectionScreenActive()) {
+                showNotification('Tidak bisa membuka pembahasan saat layar petunjuk aktif.', 'error');
+                return;
+            }
+            const btnText = document.getElementById('btn-check-text');
+            if (!practiceCheckRevealed) {
+                checkAnswer(false);
+                practiceCheckRevealed = true;
+                if (btnText) btnText.innerText = 'Sembunyikan';
+            } else {
+                hidePracticeCheck();
+                practiceCheckRevealed = false;
+                if (btnText) btnText.innerText = 'Cek Pembahasan';
+            }
+        }
+
+        // Reset visuals after Cek Pembahasan — clear correct/wrong styling & hide reasons
+        function hidePracticeCheck() {
+            const labels = document.querySelectorAll('label[id^="label-opt-"]');
+            labels.forEach(lbl => {
+                lbl.classList.remove('border-emerald-500', 'bg-emerald-50', 'border-red-500', 'bg-red-50');
+                lbl.classList.add('border-slate-200', 'bg-white');
+                // Restore "selected" highlight if user had picked an answer
+                const radio = lbl.querySelector('input[type="radio"]');
+                if (radio && radio.checked) {
+                    lbl.classList.remove('border-slate-200', 'bg-white');
+                    lbl.classList.add('border-blue-500', 'bg-blue-50');
+                }
+                const optId = parseInt(lbl.id.replace('label-opt-', ''));
+                const iconContainer = document.getElementById(`icon-opt-${optId}`);
+                if (iconContainer) iconContainer.innerHTML = '';
+                const reasonDiv = document.getElementById(`reason-opt-${optId}`);
+                if (reasonDiv) {
+                    reasonDiv.classList.add('hidden');
+                    reasonDiv.classList.remove('bg-emerald-100/50', 'border-emerald-200', 'text-emerald-900',
+                        'bg-red-100/50', 'border-red-200', 'text-red-900',
+                        'bg-slate-100/80', 'border-slate-200', 'text-slate-600');
+                }
+            });
+            // Hide passage transcript reveal if audio-only question
+            const part = testData.sections[cSectionIdx].parts[cPartIdx];
+            const q = part.questions[cQuestionIdx];
+            const group = getGroupForQuestion(part, q);
+            const sharedAudio = (group && group.audioUrl && group.audioUrl.trim()) || (part.audioUrl && part.audioUrl.trim());
+            const hasAnyAudio = !!(q.audioUrl && q.audioUrl.trim()) || !!sharedAudio;
+            if (hasAnyAudio) {
+                document.getElementById('passage-text').classList.add('hidden');
+                document.getElementById('passage-hidden-msg').classList.remove('hidden');
+            }
+        }
+
         function checkAnswer(isAutoShow = false) {
             const part = testData.sections[cSectionIdx].parts[cPartIdx];
             const q = part.questions[cQuestionIdx];
@@ -2720,6 +3450,21 @@
         }
 
         function navigateQuestion(step, forcedByTimer = false) {
+            // If a direction screen is currently up and user pressed Next/Prev, treat that
+            // as the same intent as the "Mulai Section / Mulai Soal" button — dismiss the
+            // direction overlay and continue into the question. This eliminates the
+            // dual-button confusion where users press Lanjut while direction audio is playing.
+            if (!forcedByTimer && step === 1 && isAnyDirectionScreenActive()) {
+                const sectionDirActive = !document.getElementById('section-direction-screen').classList.contains('hidden');
+                const partDirActive = !document.getElementById('direction-screen').classList.contains('hidden');
+                // Section direction has priority — it appears on top
+                if (sectionDirActive) {
+                    dismissSectionDirectionScreen(false);
+                } else if (partDirActive) {
+                    dismissDirectionScreen(false);
+                }
+                return;
+            }
             let s = cSectionIdx, p = cPartIdx, q = cQuestionIdx;
             if (step === 1) {
                 if (q + 1 < testData.sections[s].parts[p].questions.length) q++;
@@ -2840,7 +3585,13 @@
                             <div class="px-3 pb-3 space-y-2">
                                 <div>
                                     <label class="block text-[10px] font-bold text-slate-600 mb-1 uppercase">URL Audio Direction Section <span class="text-slate-400 normal-case font-normal">(opsional — diputar saat direction screen)</span></label>
-                                    <input type="text" class="w-full px-3 py-1.5 text-xs sm:text-sm border border-slate-300 rounded-lg focus:ring-blue-500 focus:border-blue-500 font-mono" placeholder="https://contoh.com/section-direction.mp3" value="${escapeAttr(sec.directionAudioUrl || '')}" oninput="updateDataState(event, ${sIdx}, null, null, 'sectionDirectionAudioUrl')">
+                                    <div class="flex gap-1">
+                                        <input id="audio-input-sdir-${sIdx}" type="text" class="flex-1 px-3 py-1.5 text-xs sm:text-sm border border-slate-300 rounded-lg focus:ring-blue-500 focus:border-blue-500 font-mono" placeholder="https://contoh.com/section-direction.mp3" value="${escapeAttr(sec.directionAudioUrl || '')}" oninput="updateDataState(event, ${sIdx}, null, null, 'sectionDirectionAudioUrl')">
+                                        <button type="button" onclick="openAudioPicker('audio-input-sdir-${sIdx}', ${sIdx}, null, null, 'sectionDirectionAudioUrl')" class="bg-indigo-50 hover:bg-indigo-100 text-indigo-700 border border-indigo-300 px-2 rounded-lg text-[10px] font-bold whitespace-nowrap flex items-center gap-1" title="Pilih dari Bank Audio">
+                                            <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"></path></svg>
+                                            <span class="hidden sm:inline">Pilih</span>
+                                        </button>
+                                    </div>
                                 </div>
                                 <div>
                                     <label class="block text-[10px] font-bold text-slate-600 mb-1 uppercase">Teks Direction Section</label>
@@ -2875,7 +3626,14 @@
                                     oninput="updateDataState(event, ${sIdx}, ${pIdx}, null, 'partTitle')" onclick="event.stopPropagation();">
                                 <span class="text-[10px] font-bold bg-blue-200 text-blue-800 px-1.5 py-0.5 rounded whitespace-nowrap">${(part.questions || []).length} soal</span>
                             </div>
-                            <div class="flex gap-1" onclick="event.stopPropagation();">
+                            <div class="flex gap-1 flex-wrap" onclick="event.stopPropagation();">
+                                <select onchange="movePartToSection(${sIdx}, ${pIdx}, parseInt(this.value)); this.value='';" class="bg-white border border-blue-300 text-blue-700 text-[10px] font-bold px-1.5 py-1 rounded hover:bg-blue-50 cursor-pointer" title="Pindahkan Part ini ke Section lain">
+                                    <option value="">↔ Pindah Section...</option>
+                                    ${(testData.sections || []).map((other, otherIdx) =>
+                                        otherIdx === sIdx ? '' :
+                                        `<option value="${otherIdx}">→ ${escapeAttr(other.title || ('Section ' + (otherIdx + 1)))}</option>`
+                                    ).join('')}
+                                </select>
                                 <button onclick="movePart(${sIdx}, ${pIdx}, -1)" class="text-blue-600 hover:bg-blue-100 p-1 rounded" title="Atas">
                                     <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 15l7-7 7 7"></path></svg>
                                 </button>
@@ -2902,12 +3660,24 @@
                                     </div>
                                     <div>
                                         <label class="block text-[10px] font-bold text-indigo-600 mb-1 uppercase">URL Audio Direction Part <span class="text-slate-400 normal-case font-normal">(opsional — diputar saat direction Part)</span></label>
-                                        <input type="text" class="w-full px-3 py-1.5 text-xs sm:text-sm border border-indigo-300 rounded-lg focus:ring-indigo-500 focus:border-indigo-500 font-mono" placeholder="https://contoh.com/part-direction.mp3" value="${escapeAttr(part.directionAudioUrl || '')}" oninput="updateDataState(event, ${sIdx}, ${pIdx}, null, 'partDirectionAudioUrl')">
+                                        <div class="flex gap-1">
+                                            <input id="audio-input-pdir-${sIdx}-${pIdx}" type="text" class="flex-1 px-3 py-1.5 text-xs sm:text-sm border border-indigo-300 rounded-lg focus:ring-indigo-500 focus:border-indigo-500 font-mono" placeholder="https://contoh.com/part-direction.mp3" value="${escapeAttr(part.directionAudioUrl || '')}" oninput="updateDataState(event, ${sIdx}, ${pIdx}, null, 'partDirectionAudioUrl')">
+                                            <button type="button" onclick="openAudioPicker('audio-input-pdir-${sIdx}-${pIdx}', ${sIdx}, ${pIdx}, null, 'partDirectionAudioUrl')" class="bg-indigo-50 hover:bg-indigo-100 text-indigo-700 border border-indigo-300 px-2 rounded-lg text-[10px] font-bold whitespace-nowrap flex items-center gap-1" title="Pilih dari Bank Audio">
+                                                <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"></path></svg>
+                                                <span class="hidden sm:inline">Pilih</span>
+                                            </button>
+                                        </div>
                                     </div>
                                     ${(part.groups || []).length === 0 ? `
                                     <div>
                                         <label class="block text-[10px] font-bold text-slate-500 mb-1 uppercase">URL Audio Part (legacy — semua soal di Part ini share audio ini)</label>
-                                        <input type="text" class="w-full px-3 py-1.5 text-xs sm:text-sm border border-slate-300 rounded-lg focus:ring-indigo-500 focus:border-indigo-500 font-mono" placeholder="https://contoh.com/conversation.mp3" value="${escapeAttr(part.audioUrl || '')}" oninput="updateDataState(event, ${sIdx}, ${pIdx}, null, 'partAudioUrl')">
+                                        <div class="flex gap-1">
+                                            <input id="audio-input-paudio-${sIdx}-${pIdx}" type="text" class="flex-1 px-3 py-1.5 text-xs sm:text-sm border border-slate-300 rounded-lg focus:ring-indigo-500 focus:border-indigo-500 font-mono" placeholder="https://contoh.com/conversation.mp3" value="${escapeAttr(part.audioUrl || '')}" oninput="updateDataState(event, ${sIdx}, ${pIdx}, null, 'partAudioUrl')">
+                                            <button type="button" onclick="openAudioPicker('audio-input-paudio-${sIdx}-${pIdx}', ${sIdx}, ${pIdx}, null, 'partAudioUrl')" class="bg-indigo-50 hover:bg-indigo-100 text-indigo-700 border border-indigo-300 px-2 rounded-lg text-[10px] font-bold whitespace-nowrap flex items-center gap-1" title="Pilih dari Bank Audio">
+                                                <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"></path></svg>
+                                                <span class="hidden sm:inline">Pilih</span>
+                                            </button>
+                                        </div>
                                     </div>
                                     <div>
                                         <label class="block text-[10px] font-bold text-slate-500 mb-1 uppercase">Transkrip Part (legacy)</label>
@@ -2938,20 +3708,48 @@
                         </div>`;
                     partsContainer.appendChild(partCard);
 
-                    // ----- PAGINATION -----
+                    // ----- PAGINATION (GROUP-AWARE) -----
+                    // Build pages such that each group is entirely on one page.
+                    // Algorithm: greedy-fill — add questions/groups in order; if a group doesn't fit
+                    // in the current page AND the current page has at least 1 unit, start a new page.
                     const allQs = part.questions || [];
-                    const totalPages = Math.max(1, Math.ceil(allQs.length / Q_PER_PAGE));
+                    const pageBoundaries = []; // array of [startQIdx, endQIdx) — questions on each page
+                    {
+                        let cur = [];
+                        let i = 0;
+                        while (i < allQs.length) {
+                            const q = allQs[i];
+                            // Determine unit size: 1 if no group, else all consecutive questions sharing this groupId
+                            let unitEnd = i + 1;
+                            if (q.groupId) {
+                                while (unitEnd < allQs.length && allQs[unitEnd].groupId === q.groupId) unitEnd++;
+                            }
+                            const unitSize = unitEnd - i;
+                            // If current page is full enough AND adding this unit would exceed page size,
+                            // start a new page (unless current is empty — large group always goes on its own page)
+                            if (cur.length > 0 && cur.length + unitSize > Q_PER_PAGE) {
+                                pageBoundaries.push([cur[0], cur[cur.length - 1] + 1]);
+                                cur = [];
+                            }
+                            // Add all questions in this unit to current page
+                            for (let j = i; j < unitEnd; j++) cur.push(j);
+                            i = unitEnd;
+                        }
+                        if (cur.length > 0) pageBoundaries.push([cur[0], cur[cur.length - 1] + 1]);
+                        if (pageBoundaries.length === 0) pageBoundaries.push([0, 0]);
+                    }
+
+                    const totalPages = pageBoundaries.length;
                     const pageKey = `${sIdx}_${pIdx}`;
                     let curPage = editorQPage[pageKey] || 0;
                     if (curPage >= totalPages) curPage = totalPages - 1;
                     if (curPage < 0) curPage = 0;
                     editorQPage[pageKey] = curPage;
 
-                    const startQ = curPage * Q_PER_PAGE;
-                    const endQ = Math.min(startQ + Q_PER_PAGE, allQs.length);
+                    const [startQ, endQ] = pageBoundaries[curPage];
 
                     const paginationHtml = renderPaginationControls(sIdx, pIdx, curPage, totalPages, allQs.length);
-                    if (allQs.length > Q_PER_PAGE) {
+                    if (totalPages > 1) {
                         document.getElementById(`qpage-controls-top-${sIdx}-${pIdx}`).innerHTML = paginationHtml;
                         document.getElementById(`qpage-controls-bot-${sIdx}-${pIdx}`).innerHTML = paginationHtml;
                     }
@@ -2961,7 +3759,8 @@
                     for (let qIdx = startQ; qIdx < endQ; qIdx++) {
                         const q = allQs[qIdx];
 
-                        // Render group banner card if entering a new group (or transitioning out)
+                        // Render group banner card if entering a new group within THIS page
+                        // (group integrity guaranteed by pagination, so first occurrence on page = first in group)
                         const curGroupId = q.groupId || null;
                         if (curGroupId !== lastRenderedGroupId) {
                             // Find the group object
@@ -2990,7 +3789,13 @@
                                         <div class="space-y-2">
                                             <div>
                                                 <label class="block text-[10px] font-bold text-indigo-700 mb-1 uppercase">URL Audio Grup (1 audio shared)</label>
-                                                <input type="text" class="w-full px-3 py-1.5 text-xs border border-indigo-200 rounded focus:ring-indigo-500 focus:border-indigo-500 font-mono bg-white" placeholder="https://contoh.com/conversation.mp3" value="${escapeAttr(grp.audioUrl || '')}" oninput="updateGroupField('${grp.id}', ${sIdx}, ${pIdx}, 'audioUrl', this.value)">
+                                                <div class="flex gap-1">
+                                                    <input id="audio-input-grp-${grp.id}" type="text" class="flex-1 px-3 py-1.5 text-xs border border-indigo-200 rounded focus:ring-indigo-500 focus:border-indigo-500 font-mono bg-white" placeholder="https://contoh.com/conversation.mp3" value="${escapeAttr(grp.audioUrl || '')}" oninput="updateGroupField('${grp.id}', ${sIdx}, ${pIdx}, 'audioUrl', this.value)">
+                                                    <button type="button" onclick="openAudioPickerForGroup('audio-input-grp-${grp.id}', '${grp.id}', ${sIdx}, ${pIdx})" class="bg-indigo-100 hover:bg-indigo-200 text-indigo-800 border border-indigo-300 px-2 rounded text-[10px] font-bold whitespace-nowrap flex items-center gap-1" title="Pilih dari Bank Audio">
+                                                        <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"></path></svg>
+                                                        <span class="hidden sm:inline">Pilih</span>
+                                                    </button>
+                                                </div>
                                             </div>
                                             <div>
                                                 <label class="block text-[10px] font-bold text-indigo-700 mb-1 uppercase">Transkrip Grup / Passage (Shared)</label>
@@ -3039,10 +3844,23 @@
                                 </div>`;
                         });
 
+                        const qExpKey = `${sIdx}_${pIdx}_${qIdx}`;
+                        const isQExpanded = editorQExpanded[qExpKey] === true;
+                        const qBodyDisplay = isQExpanded ? '' : 'hidden';
+                        const qChevronRotate = isQExpanded ? '' : '-rotate-90';
+                        const qPreview = (q.question || '').trim().slice(0, 80) || '<em class="text-slate-400">(pertanyaan kosong)</em>';
+                        const correctLetter = q.correctIndex !== undefined && q.correctIndex !== null
+                            ? String.fromCharCode(65 + parseInt(q.correctIndex)) : '–';
+
                         qCard.innerHTML = `
-                            <div class="flex flex-wrap gap-2 justify-between items-center mb-3 border-b border-slate-200 pb-2">
-                                <h4 class="font-bold text-slate-700 text-xs bg-slate-200 px-2 py-1 rounded">Soal ${getGlobalQNumber(sIdx, pIdx, qIdx)} <span class="text-slate-400 font-normal">(P-${qIdx + 1})</span></h4>
-                                <div class="flex items-center gap-2">
+                            <div class="flex flex-wrap gap-2 justify-between items-center mb-2 border-b border-slate-200 pb-2 cursor-pointer hover:bg-slate-50 -mx-3 px-3 -mt-3 pt-3 rounded-t-lg" onclick="toggleQuestionExpand(${sIdx}, ${pIdx}, ${qIdx})">
+                                <div class="flex items-center gap-2 min-w-0 flex-1">
+                                    <svg id="q-chevron-${sIdx}-${pIdx}-${qIdx}" class="w-4 h-4 text-slate-500 transition-transform flex-shrink-0 ${qChevronRotate}" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                                    <h4 class="font-bold text-slate-700 text-xs bg-slate-200 px-2 py-1 rounded flex-shrink-0">Soal ${getGlobalQNumber(sIdx, pIdx, qIdx)} <span class="text-slate-400 font-normal">(P-${qIdx + 1})</span></h4>
+                                    <span class="text-[10px] text-slate-500 truncate">${qPreview}</span>
+                                    <span class="text-[10px] font-bold text-emerald-700 bg-emerald-50 border border-emerald-200 px-1.5 py-0.5 rounded flex-shrink-0">${correctLetter}</span>
+                                </div>
+                                <div class="flex items-center gap-1 flex-shrink-0" onclick="event.stopPropagation()">
                                     <div class="flex items-center bg-amber-50 border border-amber-200 px-2 py-0.5 rounded">
                                         <span class="text-[10px] font-bold text-amber-700 mr-1.5 uppercase">Timer:</span>
                                         <input type="number" min="0" class="w-12 text-center text-xs font-bold bg-white border border-amber-300 rounded py-0.5 focus:outline-none focus:border-blue-500" value="${q.timeLimitSeconds || 0}" onchange="updateDataState(event, ${sIdx}, ${pIdx}, ${qIdx}, 'timeLimitSeconds')">
@@ -3057,9 +3875,16 @@
                                     <button onclick="deleteQuestion(${sIdx}, ${pIdx}, ${qIdx})" class="text-slate-400 hover:text-red-600 transition-colors bg-white px-2 py-1 rounded shadow-sm text-[10px] border border-slate-200 font-bold uppercase">Hapus</button>
                                 </div>
                             </div>
+                            <div id="q-body-${sIdx}-${pIdx}-${qIdx}" class="${qBodyDisplay}">
                             <div class="mb-2 border-b border-slate-200 pb-2">
                                 <label class="block text-[10px] font-bold text-blue-600 mb-1 uppercase">URL Audio (Opsional)</label>
-                                <input type="text" class="w-full px-3 py-1.5 text-xs sm:text-sm border border-slate-300 rounded-lg focus:ring-blue-500 focus:border-blue-500 font-mono" placeholder="https://contoh.com/audio.mp3" value="${escapeAttr(q.audioUrl || '')}" oninput="updateDataState(event, ${sIdx}, ${pIdx}, ${qIdx}, 'audioUrl')">
+                                <div class="flex gap-1">
+                                    <input id="audio-input-${sIdx}-${pIdx}-${qIdx}" type="text" class="flex-1 px-3 py-1.5 text-xs sm:text-sm border border-slate-300 rounded-lg focus:ring-blue-500 focus:border-blue-500 font-mono" placeholder="https://contoh.com/audio.mp3" value="${escapeAttr(q.audioUrl || '')}" oninput="updateDataState(event, ${sIdx}, ${pIdx}, ${qIdx}, 'audioUrl')">
+                                    <button type="button" onclick="openAudioPicker('audio-input-${sIdx}-${pIdx}-${qIdx}', ${sIdx}, ${pIdx}, ${qIdx}, 'audioUrl')" class="bg-indigo-50 hover:bg-indigo-100 text-indigo-700 border border-indigo-300 px-2 rounded-lg flex items-center gap-1 text-[10px] font-bold whitespace-nowrap" title="Pilih dari Bank Audio">
+                                        <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"></path></svg>
+                                        <span class="hidden sm:inline">Pilih</span>
+                                    </button>
+                                </div>
                             </div>
                             <div class="grid grid-cols-1 lg:grid-cols-2 gap-3">
                                 <div class="space-y-2">
@@ -3076,6 +3901,7 @@
                                     <label class="block text-[10px] font-bold text-slate-500 mb-1 uppercase">Pilihan Ganda <span class="text-emerald-600">(centang = jawaban benar)</span></label>
                                     <div>${optionsHtml}</div>
                                 </div>
+                            </div>
                             </div>`;
                         qContainer.appendChild(qCard);
                     }
@@ -3135,11 +3961,14 @@
         // Show full-screen direction for SECTION (e.g. "Section 1 Listening Comprehension")
         function showSectionDirectionScreen(sIdx) {
             const sec = testData.sections[sIdx];
-            if (!sec || !sec.instruction || !sec.instruction.trim()) return false;
+            if (!sec) return false;
+            const hasText = sec.instruction && sec.instruction.trim();
+            const hasAudio = sec.directionAudioUrl && sec.directionAudioUrl.trim();
+            if (!hasText && !hasAudio) return false;
             const sDir = document.getElementById('section-direction-screen');
             document.getElementById('section-direction-title').innerText = sec.title || `Section ${sIdx + 1}`;
             document.getElementById('section-direction-subtitle').innerText = `${(sec.type || 'mixed').toUpperCase()} · ${sec.durationMinutes || '?'} menit`;
-            document.getElementById('section-direction-text').innerText = sec.instruction;
+            document.getElementById('section-direction-text').innerText = hasText ? sec.instruction : '(Direction audio diputar — silakan dengarkan sebelum mulai.)';
             sDir.classList.remove('hidden');
             // Pause all timers
             clearInterval(currentSectionTimerInterval);
@@ -3156,18 +3985,28 @@
             } else {
                 dirAudioBox.classList.add('hidden');
             }
+            // Disable practice controls while direction is up
+            updatePracticeControlsVisibility();
             return true;
         }
-        function dismissSectionDirectionScreen() {
+        // dismissSectionDirectionScreen: always stops direction audio when user clicks "Mulai Section".
+        // (keepAudio param retained for backward compat but defaults to false; only triggered manually.)
+        function dismissSectionDirectionScreen(keepAudio = false) {
             document.getElementById('section-direction-screen').classList.add('hidden');
+            // Always stop direction audio when dismissing the screen — prevents it from
+            // continuing to play in the background after the user moves on.
             const audioEl = document.getElementById('section-direction-audio');
-            if (audioEl) { audioEl.pause(); audioEl.src = ''; }
+            if (audioEl) { audioEl.pause(); audioEl.currentTime = 0; audioEl.src = ''; }
             sectionDirectionShown[`${cSectionIdx}`] = true;
             sectionEntered[cSectionIdx] = true;
-            // After section direction, check if part also has direction (chain)
+            // After section direction, check if part also has direction (chain) — based on text OR audio
             const partKey = `${cSectionIdx}_${cPartIdx}`;
             const part = testData.sections[cSectionIdx].parts[cPartIdx];
-            if (part && part.instruction && part.instruction.trim() !== '' && !directionShown[partKey]) {
+            const partHasDir = part && (
+                (part.instruction && part.instruction.trim() !== '') ||
+                (part.directionAudioUrl && part.directionAudioUrl.trim() !== '')
+            );
+            if (partHasDir && !directionShown[partKey]) {
                 showDirectionScreen(cSectionIdx, cPartIdx);
             } else {
                 // No part direction — start timers and load the first question
@@ -3178,16 +4017,21 @@
                 }
                 // Now allow question audio to play
                 playDeferredAudioIfAny();
+                // Re-enable practice quick-controls now that direction screen is gone
+                updatePracticeControlsVisibility();
             }
         }
 
         function showDirectionScreen(sIdx, pIdx) {
             const sec = testData.sections[sIdx];
             const part = sec.parts[pIdx];
-            if (!part || !part.instruction || !part.instruction.trim()) return false;
+            if (!part) return false;
+            const hasText = part.instruction && part.instruction.trim();
+            const hasAudio = part.directionAudioUrl && part.directionAudioUrl.trim();
+            if (!hasText && !hasAudio) return false;
             document.getElementById('direction-section-title').innerText = sec.title || `Section ${sIdx + 1}`;
             document.getElementById('direction-part-title').innerText = part.title || `Part ${pIdx + 1}`;
-            document.getElementById('direction-text').innerText = part.instruction;
+            document.getElementById('direction-text').innerText = hasText ? part.instruction : '(Direction audio diputar — silakan dengarkan sebelum mulai.)';
             document.getElementById('direction-screen').classList.remove('hidden');
             // Pause section/part/question timers while direction is shown
             clearInterval(currentSectionTimerInterval);
@@ -3203,12 +4047,17 @@
             } else {
                 if (dirAudioBox) dirAudioBox.classList.add('hidden');
             }
+            // Disable practice controls while direction is up
+            updatePracticeControlsVisibility();
             return true;
         }
-        function dismissDirectionScreen() {
+        // dismissDirectionScreen: always stops direction audio when the screen is dismissed.
+        // The keepAudio parameter is retained for backward compat but defaults to false.
+        function dismissDirectionScreen(keepAudio = false) {
             document.getElementById('direction-screen').classList.add('hidden');
+            // Always stop direction audio when user moves on
             const audioEl = document.getElementById('part-direction-audio');
-            if (audioEl) { audioEl.pause(); audioEl.src = ''; }
+            if (audioEl) { audioEl.pause(); audioEl.currentTime = 0; audioEl.src = ''; }
             const partKey = `${cSectionIdx}_${cPartIdx}`;
             directionShown[partKey] = true;
             partEntered[partKey] = true;
@@ -3222,6 +4071,8 @@
             }
             // Allow the question's own audio to start now
             playDeferredAudioIfAny();
+            // Re-enable practice quick-controls now that direction screen is gone
+            updatePracticeControlsVisibility();
         }
 
 
@@ -3266,6 +4117,36 @@
                     setTimeout(() => el.classList.remove('ring-4', 'ring-blue-300'), 1500);
                 }
             }, 100);
+        }
+
+        // Toggle a single question card body. Auto-collapses all OTHER questions in the same part.
+        function toggleQuestionExpand(sIdx, pIdx, qIdx) {
+            const key = `${sIdx}_${pIdx}_${qIdx}`;
+            const wasExpanded = editorQExpanded[key] === true;
+            // Collapse all questions in this part
+            const part = testData.sections[sIdx].parts[pIdx];
+            (part.questions || []).forEach((_, otherIdx) => {
+                const otherKey = `${sIdx}_${pIdx}_${otherIdx}`;
+                if (editorQExpanded[otherKey]) {
+                    editorQExpanded[otherKey] = false;
+                    const otherBody = document.getElementById(`q-body-${sIdx}-${pIdx}-${otherIdx}`);
+                    const otherChev = document.getElementById(`q-chevron-${sIdx}-${pIdx}-${otherIdx}`);
+                    if (otherBody) otherBody.classList.add('hidden');
+                    if (otherChev) otherChev.classList.add('-rotate-90');
+                }
+            });
+            // If was collapsed, expand it; if was already expanded, keep collapsed (toggle behavior)
+            if (!wasExpanded) {
+                editorQExpanded[key] = true;
+                const body = document.getElementById(`q-body-${sIdx}-${pIdx}-${qIdx}`);
+                const chev = document.getElementById(`q-chevron-${sIdx}-${pIdx}-${qIdx}`);
+                if (body) {
+                    body.classList.remove('hidden');
+                    // Init auto-grow on textareas inside (since they were hidden initially)
+                    body.querySelectorAll('textarea.auto-grow').forEach(autoGrowTextarea);
+                }
+                if (chev) chev.classList.remove('-rotate-90');
+            }
         }
 
         function toggleEditorCollapse(key) {
@@ -3551,6 +4432,34 @@
             [parts[pIdx], parts[newIdx]] = [parts[newIdx], parts[pIdx]];
             renderEditorUI();
         }
+        // Move an entire part from one section to another. The part (and all its questions/groups)
+        // is appended to the end of the target section's parts array.
+        function movePartToSection(fromSIdx, pIdx, toSIdx) {
+            if (toSIdx === fromSIdx || toSIdx === null || isNaN(toSIdx)) return;
+            if (!testData.sections[fromSIdx] || !testData.sections[toSIdx]) return;
+            const fromParts = testData.sections[fromSIdx].parts;
+            const part = fromParts[pIdx];
+            if (!part) return;
+            // Confirm because this is a destructive structural change
+            const fromTitle = testData.sections[fromSIdx].title || `Section ${fromSIdx + 1}`;
+            const toTitle = testData.sections[toSIdx].title || `Section ${toSIdx + 1}`;
+            const partTitle = part.title || `Part ${pIdx + 1}`;
+            if (!confirm(`Pindahkan "${partTitle}" dari "${fromTitle}" ke "${toTitle}"?`)) return;
+            // Remove from source, append to target
+            fromParts.splice(pIdx, 1);
+            testData.sections[toSIdx].parts.push(part);
+            // Make sure target section is expanded so user sees the moved part
+            editorCollapsed[`s_${toSIdx}`] = false;
+            // Reset page state for both source & target since indices may have shifted
+            Object.keys(editorQPage).forEach(k => {
+                if (k.startsWith(`${fromSIdx}_`) || k.startsWith(`${toSIdx}_`)) delete editorQPage[k];
+            });
+            renderEditorUI();
+            showNotification(`"${partTitle}" dipindah ke "${toTitle}".`, 'success');
+            // Scroll to new location
+            const newPIdx = testData.sections[toSIdx].parts.length - 1;
+            setTimeout(() => scrollToEditorEl(`part-card-${toSIdx}-${newPIdx}`), 100);
+        }
         function addQuestion(sIdx, pIdx) {
             testData.sections[sIdx].parts[pIdx].questions.push({
                 timeLimitSeconds: 0, audioUrl: "", passage: "", question: "", correctIndex: 0,
@@ -3564,6 +4473,11 @@
             // Make sure containing section/part is open
             editorCollapsed[`s_${sIdx}`] = false;
             editorCollapsed[`p_${sIdx}_${pIdx}`] = false;
+            // Collapse all other questions in this part, expand the new one
+            (testData.sections[sIdx].parts[pIdx].questions || []).forEach((_, idx) => {
+                editorQExpanded[`${sIdx}_${pIdx}_${idx}`] = false;
+            });
+            editorQExpanded[`${sIdx}_${pIdx}_${newQIdx}`] = true;
             renderEditorUI();
             scrollToEditorEl(`q-card-${sIdx}-${pIdx}-${newQIdx}`);
         }
@@ -3675,6 +4589,261 @@
             }
             groupConsecutive(sIdx, pIdx, startIdx, count);
             showNotification(`Grup dibuat untuk soal #${startNum}-#${startNum + count - 1}.`, 'success');
+        }
+
+        // ===== AUDIO BANK PICKER =====
+        // Stores catalog URL + active picker target so user can pick audio from a GCS/cloud bucket
+        // organized hierarchically (e.g. soal/section/part/file.mp3).
+        // The catalog can be: (a) Apache/nginx directory listing HTML, or (b) GCS bucket public listing,
+        // or (c) JSON manifest of the form { "folders": ["a/", "b/"], "files": ["f.mp3"] }.
+        let audioPickerTarget = { inputId: null, sIdx: null, pIdx: null, qIdx: null, field: null };
+        let audioPickerCurrentPath = '';  // relative to base URL
+        let audioPickerLastList = { folders: [], files: [], baseUrl: '' }; // cached for re-filtering
+
+        function audioPickerApplyFilter() {
+            renderAudioPickerList(audioPickerLastList.folders, audioPickerLastList.files, audioPickerLastList.baseUrl);
+        }
+        function audioPickerClearFilter() {
+            const f = document.getElementById('audio-picker-filter');
+            if (f) f.value = '';
+            audioPickerApplyFilter();
+        }
+
+        function configAudioBank() {
+            const current = localStorage.getItem('audioBankUrl') || 'https://storage.googleapis.com/toeflsim-audio/';
+            const input = prompt('URL Bank Audio (Cloud Storage / direktori publik):', current);
+            if (input === null) return;
+            const cleaned = input.trim();
+            if (cleaned) {
+                localStorage.setItem('audioBankUrl', cleaned.endsWith('/') ? cleaned : cleaned + '/');
+                showNotification('URL Bank Audio disimpan.', 'success');
+            }
+        }
+
+        function openAudioPicker(inputId, sIdx, pIdx, qIdx, field) {
+            audioPickerTarget = { inputId, sIdx, pIdx, qIdx, field, isGroup: false };
+            audioPickerCurrentPath = '';
+            const baseUrl = localStorage.getItem('audioBankUrl') || 'https://storage.googleapis.com/toeflsim-audio/';
+            document.getElementById('audio-picker-base-url').value = baseUrl;
+            document.getElementById('audio-picker-modal').classList.remove('hidden');
+            audioPickerLoadCatalog();
+        }
+        function openAudioPickerForGroup(inputId, groupId, sIdx, pIdx) {
+            audioPickerTarget = { inputId, groupId, sIdx, pIdx, isGroup: true };
+            audioPickerCurrentPath = '';
+            const baseUrl = localStorage.getItem('audioBankUrl') || 'https://storage.googleapis.com/toeflsim-audio/';
+            document.getElementById('audio-picker-base-url').value = baseUrl;
+            document.getElementById('audio-picker-modal').classList.remove('hidden');
+            audioPickerLoadCatalog();
+        }
+        function closeAudioPicker() {
+            document.getElementById('audio-picker-modal').classList.add('hidden');
+        }
+
+        async function audioPickerLoadCatalog() {
+            const baseUrl = document.getElementById('audio-picker-base-url').value.trim();
+            if (!baseUrl) { showNotification('URL kosong.', 'error'); return; }
+            // Save the base for future use
+            localStorage.setItem('audioBankUrl', baseUrl.endsWith('/') ? baseUrl : baseUrl + '/');
+            const fullUrl = (baseUrl.endsWith('/') ? baseUrl : baseUrl + '/') + audioPickerCurrentPath;
+            const content = document.getElementById('audio-picker-content');
+            content.innerHTML = '<div class="flex items-center gap-2 text-slate-500 p-6 justify-center"><div class="spinner"></div> Memuat katalog...</div>';
+
+            // Update breadcrumb
+            renderAudioPickerBreadcrumb();
+
+            try {
+                const url = isGcsBucketUrl(fullUrl) ? toGcsListUrl(fullUrl) : fullUrl;
+                const response = await fetch(url);
+                if (!response.ok) throw new Error(`HTTP ${response.status}`);
+                const text = await response.text();
+                let folders = [], files = [];
+
+                // Try GCS XML listing first (common for storage.googleapis.com)
+                if (text.trim().startsWith('<?xml')) {
+                    ({ folders, files } = parseGcsXmlListing(text, audioPickerCurrentPath));
+                }
+                // Try JSON manifest OR GCS JSON listing
+                else if (text.trim().startsWith('{') || text.trim().startsWith('[')) {
+                    try {
+                        const json = JSON.parse(text);
+                        // GCS API response: { items: [{name, ...}, ...], prefixes: ["folder/"] }
+                        if (json.kind === 'storage#objects' || json.items || json.prefixes) {
+                            (json.prefixes || []).forEach(p => {
+                                const name = p.replace(audioPickerCurrentPath, '').replace(/\/$/, '');
+                                if (name) folders.push({ name, path: name + '/' });
+                            });
+                            (json.items || []).forEach(it => {
+                                const name = (it.name || '').replace(audioPickerCurrentPath, '');
+                                if (name && !name.includes('/') && /\.(mp3|m4a|wav|ogg|aac|flac)$/i.test(name)) {
+                                    files.push({ name, path: name });
+                                }
+                            });
+                        }
+                        // Generic manifest format
+                        else if (json.folders || json.files) {
+                            if (json.folders) folders = json.folders.map(f => typeof f === 'string' ? { name: f.replace(/\/$/, ''), path: f } : f);
+                            if (json.files) files = json.files.map(f => typeof f === 'string' ? { name: f, path: f } : f);
+                        }
+                        else if (Array.isArray(json)) {
+                            files = json.map(f => typeof f === 'string' ? { name: f, path: f } : f);
+                        }
+                    } catch (e) { /* fall through */ }
+                }
+                // HTML directory listing
+                if (folders.length === 0 && files.length === 0) {
+                    const parsed = parseAudioCatalogHtml(text);
+                    folders = parsed.folders; files = parsed.files;
+                }
+
+                renderAudioPickerList(folders, files, baseUrl);
+                audioPickerLastList = { folders, files, baseUrl };
+                // Reset filter on new directory load
+                const filterEl = document.getElementById('audio-picker-filter');
+                if (filterEl) filterEl.value = '';
+            } catch (err) {
+                content.innerHTML = `<div class="bg-red-50 border border-red-200 rounded-lg p-4 text-center">
+                    <p class="text-sm text-red-700 font-bold">Gagal memuat: ${escapeText(err.message)}</p>
+                    <p class="text-[11px] text-slate-500 mt-2">Pastikan URL bisa diakses publik dan CORS diizinkan, atau gunakan URL JSON manifest format <code>{"folders":[],"files":[]}</code>.</p>
+                </div>`;
+            }
+        }
+
+        function isGcsBucketUrl(url) {
+            return /^https?:\/\/storage\.googleapis\.com\/[^\/]+\//.test(url);
+        }
+        function toGcsListUrl(url) {
+            // Convert https://storage.googleapis.com/BUCKET/path/ → list API URL
+            const m = url.match(/^https?:\/\/storage\.googleapis\.com\/([^\/]+)\/(.*)$/);
+            if (!m) return url;
+            const bucket = m[1];
+            const prefix = m[2] || '';
+            // Use the public XML listing API with delimiter for folder-like grouping
+            return `https://storage.googleapis.com/storage/v1/b/${bucket}/o?delimiter=/&prefix=${encodeURIComponent(prefix)}&alt=json`;
+        }
+        function parseGcsXmlListing(xml, currentPath) {
+            // Parse standard GCS bucket XML listing — but we use JSON via toGcsListUrl above instead
+            return { folders: [], files: [] };
+        }
+
+        function parseAudioCatalogHtml(html) {
+            const folders = [], files = [];
+            try {
+                const doc = new DOMParser().parseFromString(html, 'text/html');
+                doc.querySelectorAll('a[href]').forEach(a => {
+                    let href = a.getAttribute('href') || '';
+                    if (!href || href.startsWith('?') || href.startsWith('#') || href === '../' || href === '/') return;
+                    let decoded; try { decoded = decodeURIComponent(href); } catch (e) { decoded = href; }
+                    if (decoded.endsWith('/')) {
+                        folders.push({ name: decoded.replace(/\/$/, ''), path: href });
+                    } else if (/\.(mp3|m4a|wav|ogg|aac|flac)$/i.test(decoded)) {
+                        files.push({ name: decoded.split('/').pop(), path: href });
+                    }
+                });
+            } catch (e) { /* ignore */ }
+            return { folders, files };
+        }
+
+        function renderAudioPickerBreadcrumb() {
+            const bc = document.getElementById('audio-picker-breadcrumb');
+            bc.innerHTML = '';
+            const rootBtn = document.createElement('button');
+            rootBtn.textContent = '/ (root)';
+            rootBtn.className = 'px-1.5 py-0.5 bg-indigo-100 hover:bg-indigo-200 text-indigo-800 rounded';
+            rootBtn.onclick = () => { audioPickerCurrentPath = ''; audioPickerLoadCatalog(); };
+            bc.appendChild(rootBtn);
+            if (audioPickerCurrentPath) {
+                const parts = audioPickerCurrentPath.split('/').filter(Boolean);
+                let acc = '';
+                parts.forEach(p => {
+                    acc += p + '/';
+                    const sep = document.createElement('span'); sep.textContent = '›'; sep.className = 'text-slate-400';
+                    bc.appendChild(sep);
+                    const accCopy = acc;
+                    const btn = document.createElement('button');
+                    btn.textContent = p;
+                    btn.className = 'px-1.5 py-0.5 bg-indigo-100 hover:bg-indigo-200 text-indigo-800 rounded';
+                    btn.onclick = () => { audioPickerCurrentPath = accCopy; audioPickerLoadCatalog(); };
+                    bc.appendChild(btn);
+                });
+            }
+        }
+
+        function renderAudioPickerList(folders, files, baseUrl) {
+            const content = document.getElementById('audio-picker-content');
+            const countEl = document.getElementById('audio-picker-count');
+            content.innerHTML = '';
+            const filterEl = document.getElementById('audio-picker-filter');
+            const filterText = (filterEl ? filterEl.value : '').trim().toLowerCase();
+            // Apply filter: match on name (case-insensitive). Empty filter = show all.
+            const filteredFolders = filterText
+                ? folders.filter(f => (f.name || '').toLowerCase().includes(filterText))
+                : folders;
+            const filteredFiles = filterText
+                ? files.filter(f => (f.name || '').toLowerCase().includes(filterText))
+                : files;
+
+            if (countEl) {
+                const total = folders.length + files.length;
+                const shown = filteredFolders.length + filteredFiles.length;
+                countEl.textContent = filterText
+                    ? `${shown} / ${total} item${total !== 1 ? 's' : ''}`
+                    : `${total} item${total !== 1 ? 's' : ''}`;
+            }
+
+            if (filteredFolders.length === 0 && filteredFiles.length === 0) {
+                if (filterText && (folders.length + files.length) > 0) {
+                    content.innerHTML = `<div class="text-center text-slate-500 p-6">
+                        <p>Tidak ada hasil untuk: <b>"${escapeText(filterText)}"</b></p>
+                        <button onclick="audioPickerClearFilter()" class="mt-2 text-indigo-600 hover:text-indigo-800 text-xs font-bold">Hapus filter</button>
+                    </div>`;
+                } else {
+                    content.innerHTML = '<div class="text-center text-slate-500 p-6"><p>Folder kosong atau tidak ada file audio.</p></div>';
+                }
+                return;
+            }
+            // Folders first
+            filteredFolders.forEach(f => {
+                const item = document.createElement('button');
+                item.className = 'w-full flex items-center gap-3 p-2.5 rounded hover:bg-indigo-50 text-left border-b border-slate-100';
+                item.innerHTML = `
+                    <svg class="w-5 h-5 text-amber-500 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path d="M2 6a2 2 0 012-2h5l2 2h5a2 2 0 012 2v6a2 2 0 01-2 2H4a2 2 0 01-2-2V6z"></path></svg>
+                    <span class="text-sm font-medium text-slate-700 flex-1 truncate">${escapeText(f.name)}/</span>
+                    <svg class="w-4 h-4 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>`;
+                item.onclick = () => {
+                    audioPickerCurrentPath += f.name + '/';
+                    audioPickerLoadCatalog();
+                };
+                content.appendChild(item);
+            });
+            filteredFiles.forEach(f => {
+                const fileUrl = (baseUrl.endsWith('/') ? baseUrl : baseUrl + '/') + audioPickerCurrentPath + f.name;
+                const item = document.createElement('div');
+                item.className = 'flex items-center gap-2 p-2.5 rounded hover:bg-slate-50 border-b border-slate-100';
+                item.innerHTML = `
+                    <svg class="w-5 h-5 text-indigo-500 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19V6l12 7-12 6z"></path></svg>
+                    <span class="text-sm font-medium text-slate-700 flex-1 truncate">${escapeText(f.name)}</span>
+                    <audio src="${escapeAttr(fileUrl)}" controls preload="none" class="!block h-7" style="height:32px;width:160px"></audio>
+                    <button class="bg-emerald-600 hover:bg-emerald-700 text-white px-3 py-1 rounded text-xs font-bold flex-shrink-0">Pakai</button>`;
+                item.querySelector('button').onclick = () => audioPickerSelect(fileUrl);
+                content.appendChild(item);
+            });
+        }
+
+        function audioPickerSelect(url) {
+            const target = audioPickerTarget;
+            const input = document.getElementById(target.inputId);
+            if (input) {
+                input.value = url;
+                // For group fields, also call updateGroupField directly since input event uses `this.value`
+                if (target.isGroup && target.groupId !== undefined) {
+                    updateGroupField(target.groupId, target.sIdx, target.pIdx, 'audioUrl', url);
+                } else {
+                    input.dispatchEvent(new Event('input', { bubbles: true }));
+                }
+            }
+            closeAudioPicker();
+            showNotification('URL audio dipilih.', 'success');
         }
 
         function exportDataToJson() {
