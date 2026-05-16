@@ -1178,397 +1178,6 @@
                     "passage": "",
                     "audioUrl": "",
                     "durationSeconds": 0
-                },
-                {
-                    "title": "SKILL Review1 -3",
-                    "instruction": "",
-                    "questions": [
-                        {
-                            "timeLimitSeconds": 12,
-                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-03-01.mp3",
-                            "passage": "(woman) Let's stop and get something to drink.\n(man) Some coffee would be nice.",
-                            "question": "1. WHAT DOES THE MAN MEAN?",
-                            "correctIndex": 2,
-                            "options": [
-                                {
-                                    "text": "He would like some iced coffee.",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "He wants to stop drinking coffee.",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "A drink seems like a good idea.",
-                                    "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
-                                    }
-                                },
-                                {
-                                    "text": "He needs to drink something to stop his coughing.",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                }
-                            ],
-                            "groupId": null
-                        },
-                        {
-                            "timeLimitSeconds": 12,
-                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-03-02.mp3",
-                            "passage": "(man) Let's go for a walk in the park.\n(woman) No, not today. It's too cloudy and cold.",
-                            "question": "2. WHAT DOES THE WOMAN MEAN?",
-                            "correctIndex": 0,
-                            "options": [
-                                {
-                                    "text": "She would prefer a sunny day.",
-                                    "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
-                                    }
-                                },
-                                {
-                                    "text": "The park is too crowded.",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "She would like a place that is not so loud.",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "She cannot walk because she's too old.",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                }
-                            ],
-                            "groupId": null
-                        },
-                        {
-                            "timeLimitSeconds": 12,
-                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-03-03.mp3",
-                            "passage": "(man) I have trouble sleeping at night.\n(woman) You could try counting sheep.",
-                            "question": "3. WHAT DOES THE WOMAN SUG GEST TO THE MAN?",
-                            "correctIndex": 3,
-                            "options": [
-                                {
-                                    "text": "He should open an account.",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "He should take a ride on a ship.",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "He should try to keep the cost cheap.",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "He should try something monotonous to get to sleep.",
-                                    "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
-                                    }
-                                }
-                            ],
-                            "groupId": null
-                        },
-                        {
-                            "timeLimitSeconds": 12,
-                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-03-04.mp3",
-                            "passage": "(woman) Have you heard that the department is changing the graduation require ments for our major?\n(man) Yes, and I just can't believe it!",
-                            "question": "4. WHAT DOES THE MAN MEAN?",
-                            "correctIndex": 3,
-                            "options": [
-                                {
-                                    "text": "The department is not changing the requirements.",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "He hasn't heard anything about the change.",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "The changes are believable.",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "What has happened is incredible to him.",
-                                    "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
-                                    }
-                                }
-                            ],
-                            "groupId": null
-                        },
-                        {
-                            "timeLimitSeconds": 12,
-                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-03-05.mp3",
-                            "passage": "(man) I think we're going to be here for a while.\n(woman) But we've been standing in line for almost an hour!",
-                            "question": "5. WHAT DOES THE WOMAN MEAN?",
-                            "correctIndex": 0,
-                            "options": [
-                                {
-                                    "text": "The wait has taken close to an hour.",
-                                    "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
-                                    }
-                                },
-                                {
-                                    "text": "They were stranded in their car.",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "Most of the people have been in line for hours.",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "They made a line in the sand.",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                }
-                            ],
-                            "groupId": null
-                        },
-                        {
-                            "timeLimitSeconds": 12,
-                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-03-06.mp3",
-                            "passage": "(woman) The conductor is coming down the aisle.\n(man) Yes, he is collecting the train fare from the passengers.",
-                            "question": "6. WHAT IS HAPPENING?",
-                            "correctIndex": 3,
-                            "options": [
-                                {
-                                    "text": "The instructor is selecting several passages.",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "The conductor is fair to the passengers.",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "The stamp collector is conducting his business.",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "The riders are paying for the train trip.",
-                                    "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
-                                    }
-                                }
-                            ],
-                            "groupId": null
-                        },
-                        {
-                            "timeLimitSeconds": 12,
-                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-03-07.mp3",
-                            "passage": "(woman) Have you heard about the new man agement training program?\n(man) It will start later this week.",
-                            "question": "7. WHAT DOES THE MAN MEAN?",
-                            "correctIndex": 1,
-                            "options": [
-                                {
-                                    "text": "The managers will take the train to the program.",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "A program to develop new managers will commence soon.",
-                                    "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
-                                    }
-                                },
-                                {
-                                    "text": "The new management program is very weak.",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "The program will be maintained to the letter.",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                }
-                            ],
-                            "groupId": null
-                        },
-                        {
-                            "timeLimitSeconds": 12,
-                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-03-08.mp3",
-                            "passage": "(man) Does anyone know where the fire got started?\n(woman) It must have started in the attic.",
-                            "question": "8. WHAT DOES THE WOMAN MEAN?",
-                            "correctIndex": 2,
-                            "options": [
-                                {
-                                    "text": "The fire started to attack the building.",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "The firefighter stared at the attacker.",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "The fire probably began at the top of the building.",
-                                    "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
-                                    }
-                                },
-                                {
-                                    "text": "The firefighter started to attack the fire.",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                }
-                            ],
-                            "groupId": null
-                        },
-                        {
-                            "timeLimitSeconds": 12,
-                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-03-09.mp3",
-                            "passage": "(woman) Aren't you going to tell me exacdy what happened?\n(man) I assumed that you already knew the truth.",
-                            "question": "9. WHAT DOES THE MAN MEAN?",
-                            "correctIndex": 2,
-                            "options": [
-                                {
-                                    "text": "He assured the woman that he knew the truth.",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "He is sure that it isn't new.",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "He thought that the woman was aware of what happened.",
-                                    "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
-                                    }
-                                },
-                                {
-                                    "text": "He soon will know the truth.",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                }
-                            ],
-                            "groupId": null
-                        },
-                        {
-                            "timeLimitSeconds": 12,
-                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-03-10.mp3",
-                            "passage": "(man) Have you seen any of the sketches\n(woman) Dave did for his art professor?",
-                            "question": "10.  I've seen some of them, and they were fantastic! WHAT DOES THE WOMAN SAY ABOUT DAVE?",
-                            "correctIndex": 1,
-                            "options": [
-                                {
-                                    "text": "The art professor is not one of his fans.",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "His drawings were amazing.",
-                                    "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
-                                    }
-                                },
-                                {
-                                    "text": "The catches that he made were fantastic.",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                },
-                                {
-                                    "text": "His sketches showed a fantasy world.",
-                                    "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
-                                    }
-                                }
-                            ],
-                            "groupId": null
-                        }
-                    ],
-                    "groups": [],
-                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-01-03.mp3",
-                    "passage": "",
-                    "audioUrl": "",
-                    "durationSeconds": 0
                 }
             ],
             "instruction": "",
@@ -2751,6 +2360,406 @@
                     "audioUrl": "",
                     "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-06.mp3",
                     "durationSeconds": 0
+                }
+            ],
+            "instruction": "",
+            "directionAudioUrl": ""
+        },
+        {
+            "title": "Review 1-6",
+            "type": "listening",
+            "durationMinutes": 25,
+            "parts": [
+                {
+                    "title": "SKILL Review1 -3",
+                    "instruction": "",
+                    "questions": [
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-03-01.mp3",
+                            "passage": "(woman) Let's stop and get something to drink.\n(man) Some coffee would be nice.",
+                            "question": "1. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "He would like some iced coffee.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He wants to stop drinking coffee.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "A drink seems like a good idea.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "He needs to drink something to stop his coughing.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ],
+                            "groupId": null
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-03-02.mp3",
+                            "passage": "(man) Let's go for a walk in the park.\n(woman) No, not today. It's too cloudy and cold.",
+                            "question": "2. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "She would prefer a sunny day.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The park is too crowded.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She would like a place that is not so loud.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She cannot walk because she's too old.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ],
+                            "groupId": null
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-03-03.mp3",
+                            "passage": "(man) I have trouble sleeping at night.\n(woman) You could try counting sheep.",
+                            "question": "3. WHAT DOES THE WOMAN SUG GEST TO THE MAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "He should open an account.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He should take a ride on a ship.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He should try to keep the cost cheap.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He should try something monotonous to get to sleep.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ],
+                            "groupId": null
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-03-04.mp3",
+                            "passage": "(woman) Have you heard that the department is changing the graduation require ments for our major?\n(man) Yes, and I just can't believe it!",
+                            "question": "4. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "The department is not changing the requirements.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He hasn't heard anything about the change.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The changes are believable.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "What has happened is incredible to him.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ],
+                            "groupId": null
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-03-05.mp3",
+                            "passage": "(man) I think we're going to be here for a while.\n(woman) But we've been standing in line for almost an hour!",
+                            "question": "5. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "The wait has taken close to an hour.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "They were stranded in their car.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Most of the people have been in line for hours.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "They made a line in the sand.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ],
+                            "groupId": null
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-03-06.mp3",
+                            "passage": "(woman) The conductor is coming down the aisle.\n(man) Yes, he is collecting the train fare from the passengers.",
+                            "question": "6. WHAT IS HAPPENING?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "The instructor is selecting several passages.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The conductor is fair to the passengers.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The stamp collector is conducting his business.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The riders are paying for the train trip.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ],
+                            "groupId": null
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-03-07.mp3",
+                            "passage": "(woman) Have you heard about the new man agement training program?\n(man) It will start later this week.",
+                            "question": "7. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "The managers will take the train to the program.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "A program to develop new managers will commence soon.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The new management program is very weak.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The program will be maintained to the letter.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ],
+                            "groupId": null
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-03-08.mp3",
+                            "passage": "(man) Does anyone know where the fire got started?\n(woman) It must have started in the attic.",
+                            "question": "8. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "The fire started to attack the building.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The firefighter stared at the attacker.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The fire probably began at the top of the building.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The firefighter started to attack the fire.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ],
+                            "groupId": null
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-03-09.mp3",
+                            "passage": "(woman) Aren't you going to tell me exacdy what happened?\n(man) I assumed that you already knew the truth.",
+                            "question": "9. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "He assured the woman that he knew the truth.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He is sure that it isn't new.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He thought that the woman was aware of what happened.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "He soon will know the truth.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ],
+                            "groupId": null
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-03-10.mp3",
+                            "passage": "(man) Have you seen any of the sketches\n(woman) Dave did for his art professor?",
+                            "question": "10.  I've seen some of them, and they were fantastic! WHAT DOES THE WOMAN SAY ABOUT DAVE?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "The art professor is not one of his fans.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "His drawings were amazing.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The catches that he made were fantastic.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "His sketches showed a fantasy world.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ],
+                            "groupId": null
+                        }
+                    ],
+                    "groups": [],
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-01-03.mp3",
+                    "passage": "",
+                    "audioUrl": "",
+                    "durationSeconds": 0
                 },
                 {
                     "title": "SKILL Review 4-6",
@@ -3534,9 +3543,7 @@
                     "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-01-06.mp3",
                     "durationSeconds": 0
                 }
-            ],
-            "instruction": "",
-            "directionAudioUrl": ""
+            ]
         }
     ]
 }
