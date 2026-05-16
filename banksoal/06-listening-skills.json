@@ -1190,394 +1190,381 @@
                 },
                 {
                     "title": "Skills 01-17",
-                    "instruction": "",
+                    "instruction": "In this exercise, listen carefully to each short dialogue and question on the recording, and then choose the best answer to the question.",
                     "questions": [
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-17-01.mp3",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-17-01.mp3",
                             "passage": "(woman)       Could you put some more wood in the fireplace?\n(man)         I'll have to bring some in from out side.",
                             "question": "1.       WHAT DOES THE MAN IMPLY?",
                             "correctIndex": 0,
                             "options": [
                                 {
-                                    "text": "The man's never late.",
+                                    "text": "There's no more wood inside.",
                                     "reason": {
                                         "en": "Correct answer.",
                                         "id": "Jawaban benar."
                                     }
                                 },
                                 {
-                                    "text": "It's good that the man was fifteen minutes late.",
+                                    "text": "The wood in the fireplace should be put outside.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "It's never good to be late for class.",
+                                    "text": "There's a fire outside.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "It's good that the man went to class, on time or not.",
+                                    "text": "He needs to bring some wood outside.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 }
-                            ],
-                            "groupId": null
+                            ]
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-17-02.mp3",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-17-02.mp3",
                             "passage": "(man)         Alice, I thought you were working late tonight.\n(woman)       I was supposed to, but my conference was called off.",
                             "question": "2.       WHAT HAPPENED TO ALICE?",
                             "correctIndex": 1,
                             "options": [
                                 {
-                                    "text": "The woman's work is all in her head.",
+                                    "text": "She worked late at a conference.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "The woman has to do two experiments rather than one.",
+                                    "text": "Her meeting was canceled.",
                                     "reason": {
                                         "en": "Correct answer.",
                                         "id": "Jawaban benar."
                                     }
                                 },
                                 {
-                                    "text": "It's a good idea to work together.",
+                                    "text": "She called a conference at work.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "The biology experiment concerns two-headed animals.",
+                                    "text": "She was late to a conference.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 }
-                            ],
-                            "groupId": null
+                            ]
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-17-03.mp3",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-17-03.mp3",
                             "passage": "(woman)       Why are you getting out of the water?\n(man)         The lifeguard motioned that we should move in that direction.",
                             "question": "3.       WHERE DOES THE CONVERSATION PROBABLY TAKE PLACE?",
                             "correctIndex": 2,
                             "options": [
                                 {
-                                    "text": "She has no time to work now.",
+                                    "text": "SHORT DIALOGUES (Paper and Computer) In a hospital .",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "She doesn't want to work on the report either.",
+                                    "text": "At a police station .",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "It's best to get it over with now.",
+                                    "text": "At the beach .",
                                     "reason": {
                                         "en": "Correct answer.",
                                         "id": "Jawaban benar."
                                     }
                                 },
                                 {
-                                    "text": "There's no time to present the report now.",
+                                    "text": "In a locker room .",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 }
-                            ],
-                            "groupId": null
+                            ]
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-17-04.mp3",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-17-04.mp3",
                             "passage": "(woman)       Did you enjoy the evening at the nightclub?\n(man)         I wish there had been a little more room on the dance floor.",
                             "question": "4.       WHAT DOES THE MAN MEAN?",
                             "correctIndex": 2,
                             "options": [
                                 {
-                                    "text": "She's very lucky to get the last book.",
+                                    "text": "There was too much room on the dance floor.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "She's sorry she can't get the book today.",
+                                    "text": "He enjoyed the room where they went dancing.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "She always has good luck with books.",
+                                    "text": "The dance floor was too crowded.",
                                     "reason": {
                                         "en": "Correct answer.",
                                         "id": "Jawaban benar."
                                     }
                                 },
                                 {
-                                    "text": "She just wanted to look at the book.",
+                                    "text": "The club needed more rooms for dancing.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 }
-                            ],
-                            "groupId": null
+                            ]
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-17-05.mp3",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-17-05.mp3",
                             "passage": "(man)         I just sent off the letter that you wrote.\n(woman)       Then, you did figure out how to use the fax machine.",
-                            "question": "5.       ASSUMED ABOUT THE MAN?",
+                            "question": "5.       WHAT HAD THE WOMAN ASSUMED ABOUT THE MAN?",
                             "correctIndex": 0,
                             "options": [
                                 {
-                                    "text": "The man doesn't like eating in restaurants.",
+                                    "text": "He could not understand the fax machine.",
                                     "reason": {
                                         "en": "Correct answer.",
                                         "id": "Jawaban benar."
                                     }
                                 },
                                 {
-                                    "text": "She doesn't really like that restaurant.",
+                                    "text": "He wrote the letter that was sent.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "Each of them has his own restaurant.",
+                                    "text": "The fax machine was easy for him to use.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "Everyone has different tastes.",
+                                    "text": "He was not very good with figures.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 }
-                            ],
-                            "groupId": null
+                            ]
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-17-06.mp3",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-17-06.mp3",
                             "passage": "(woman)       I guessed that you would buy that new car.\n(man)         And you hit the nail on the head.",
-                            "question": "6.       WHAT HAD THE WOMAN",
+                            "question": "6.       WHAT DOES THE MAN MEAN?",
                             "correctIndex": 2,
                             "options": [
                                 {
-                                    "text": "She'll do it immediately.",
+                                    "text": "The woman hit her head on a nail.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "It is not possible to do it.",
+                                    "text": "The woman hit his new car.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "The man should have told her sooner.",
+                                    "text": "The woman was exactly right.",
                                     "reason": {
                                         "en": "Correct answer.",
                                         "id": "Jawaban benar."
                                     }
                                 },
                                 {
-                                    "text": "She would have done it if the man had asked.",
+                                    "text": "The woman bought the new car.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 }
-                            ],
-                            "groupId": null
+                            ]
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-17-07.mp3",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-17-07.mp3",
                             "passage": "(woman)       Is that your research paper for Eng lish Lit.?\n(man)         Yes, and it's almost finished. Do you think you could look it over for me?",
-                            "question": "7.       WHAT DOES THE MAN MEAN?",
+                            "question": "7.       WHAT DOES THE MAN WANT?",
                             "correctIndex": 2,
                             "options": [
                                 {
-                                    "text": "Abbie used a feather in his art project.",
+                                    "text": "He would like the woman to help him find his paper.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "He was knocked down.",
+                                    "text": "He wants the woman to put the paper away.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "He was really surprised.",
+                                    "text": "He needs the woman to review the paper.",
                                     "reason": {
                                         "en": "Correct answer.",
                                         "id": "Jawaban benar."
                                     }
                                 },
                                 {
-                                    "text": "Abbie's father knocked on the door.",
+                                    "text": "He would like the woman to write the paper for him.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 }
-                            ],
-                            "groupId": null
+                            ]
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-17-08.mp3",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-17-08.mp3",
                             "passage": "(man)         Has everyone been informed?\n(woman)       No one is unaware of the situation.",
-                            "question": "8.       WHAT DOES THE MAN WANT?",
+                            "question": "8.       WHAT DOES THE WOMAN MEAN?",
                             "correctIndex": 2,
                             "options": [
                                 {
-                                    "text": "They are taking a boat trip together.",
+                                    "text": "Information about the problem is unavailable.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "The six chapters are all about the boat.",
+                                    "text": "No one has been informed.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "Everyone has to do the same thing.",
+                                    "text": "Everybody knows what is going on.",
                                     "reason": {
                                         "en": "Correct answer.",
                                         "id": "Jawaban benar."
                                     }
                                 },
                                 {
-                                    "text": "The man will read while he's on the boat.",
+                                    "text": "Nobody is aware that the problem is serious.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 }
-                            ],
-                            "groupId": null
+                            ]
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-17-09.mp3",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-17-09.mp3",
                             "passage": "(woman)       Did you sleep well last night?\n(man)         If the alarm were not so loud, I would never have woken up.",
-                            "question": "9.       WHAT DOES THE WOMAN MEAN?",
+                            "question": "9.       WHAT DOES THE MAN MEAN?",
                             "correctIndex": 3,
                             "options": [
                                 {
-                                    "text": "She is taller than the others.",
+                                    "text": "He did not sleep well.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "She put her science project on top of the others.",
+                                    "text": "He never woke up this morning.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "She has a really good head on her shoulders.",
+                                    "text": "The alarm failed to go off.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "She's the best of them all.",
+                                    "text": "He needed a loud alarm to wake up.",
                                     "reason": {
                                         "en": "Correct answer.",
                                         "id": "Jawaban benar."
                                     }
                                 }
-                            ],
-                            "groupId": null
+                            ]
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-17-10.mp3",
-                            "passage": "(woman)       I could not believe the story in the news about the problem with the air plane.\n(man)         WHAT DOES THE MAN MEAN?",
-                            "question": "10.      Yeah, I saw it, too! The pilot was forced to land the plane in a field. WHAT DOES THE MAN MEAN?",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-17-10.mp3",
+                            "passage": "(woman)       I could not believe the story in the news about the problem with the air plane.\n(man)         Yeah, I saw it, too! The pilot was forced to land the plane in a field.",
+                            "question": "10.      WHAT DOES THE MAN MEAN?",
                             "correctIndex": 0,
                             "options": [
                                 {
-                                    "text": "The man needs to improve his penmanship.",
+                                    "text": "The pilot made an emergency landing.",
                                     "reason": {
                                         "en": "Correct answer.",
                                         "id": "Jawaban benar."
                                     }
                                 },
                                 {
-                                    "text": "The man doesn't really need to apply for the scholarship.",
+                                    "text": "The pilot was forced to leave the plane in a hurry.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "The man needs to fill out the application with dots and crosses.",
+                                    "text": "The pilot fielded questions about the forced landing.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 },
                                 {
-                                    "text": "The man needs to pay attention to every detail.",
+                                    "text": "The plane was damaged when it landed forcefully.",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
                                     }
                                 }
-                            ],
-                            "groupId": null
+                            ]
                         }
                     ],
                     "groups": [],
-                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-01-17.mp3",
-                    "passage": "",
-                    "audioUrl": "",
-                    "durationSeconds": 0
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-01-17.mp3"
                 }
             ],
             "instruction": "",
