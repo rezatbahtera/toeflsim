@@ -386,6 +386,384 @@
                     "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-16.mp3",
                     "durationSeconds": 0,
                     "groups": []
+                },
+                {
+                    "title": "SKILL 17: LISTEN FOR IDIOMS",
+                    "instruction": "In this exercise, listen carefully to each short dialogue and question on the recording, and then choose the best answer to the question. You should be particularly careful of idioms.",
+                    "questions": [
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-17-01.mp3",
+                            "passage": "(man)      I was fifteen minutes late for class today.\n(woman)       Better late than never.",
+                            "question": "1.       WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "The man's never late.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "It's good that the man was fifteen minutes late.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "It's never good to be late for class.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "It's good that the man went to class, on time or not.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-17-02.mp3",
+                            "passage": "(woman)    Do you want to work on the biology experiment together?\n(man)         Two heads are better than one.",
+                            "question": "2.       WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "The woman's work is all in her head.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The woman has to do two experiments rather than one.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "It's a good idea to work together.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The biology experiment concerns two-headed animals.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-17-03.mp3",
+                            "passage": "(man)      I really don't want to work on the report now.\n(woman)       There's no time like the present.",
+                            "question": "3.       WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "She has no time to work now.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She doesn't want to work on the report either.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "It's best to get it over with now.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "There's no time to present the report now.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-17-04.mp3",
+                            "passage": "(man)      I just sold the last copy of that book this morning. You'll have to try again next week.\n(woman)       Just my luck.",
+                            "question": "4.       WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "She's very lucky to get the last book.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She's sorry she can't get the book today.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "She always has good luck with books.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She just wanted to look at the book.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-17-05.mp3",
+                            "passage": "(man)      I know you like this restaurant, but I just don't like the food here.\n(woman)       To each his own.",
+                            "question": "5.       WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "The man doesn't like eating in restaurants.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She doesn't really like that restaurant.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Each of them has his own restaurant.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Everyone has different tastes.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-17-06.mp3",
+                            "passage": "(man)      Would it be possible for you to drop these letters in the mailbox for me?\n(woman)       No sooner said than done.",
+                            "question": "6.       WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "She'll do it immediately.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "It is not possible to do it.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The man should have told her sooner.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She would have done it if the man had asked.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-17-07.mp3",
+                            "passage": "(woman)    Did you hear that Abbie won the art scholarship?\n(man)         You could have knocked me down with a feather.",
+                            "question": "7.       WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "Abbie used a feather in his art project.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He was knocked down.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "He was really surprised.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "Abbie's father knocked on the door.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-17-08.mp3",
+                            "passage": "(man)      I have to read all six chapters this weekend.\n(woman)       We're all in the same boat.",
+                            "question": "8.       WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "They are taking a boat trip together.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The six chapters are all about the boat.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Everyone has to do the same thing.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "The man will read while he's on the boat.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-17-09.mp3",
+                            "passage": "(woman)    Anne's project for the science fair was incredible.\n(man)         She's really head and shoulders above the rest.",
+                            "question": "9.       WHAT DOES THE MAN SAY ABOUT ANNE?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "She is taller than the others.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She put her science project on top of the others.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She has a really good head on her shoulders.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "She's the best of them all.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-17-10.mp3",
+                            "passage": "(man)     I can't believe how many forms I have to fill out to apply for the scholarship.\n(woman)       Yes, and you should be sure to dot all the i's and cross all the t's.",
+                            "question": "10.      WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "The man needs to improve his penmanship.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The man doesn't really need to apply for the scholarship.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The man needs to fill out the application with dots and crosses.",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The man needs to pay attention to every detail.",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-17.mp3",
+                    "groups": []
                 }
             ],
             "instruction": "",
