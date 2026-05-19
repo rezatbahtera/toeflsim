@@ -1295,7 +1295,7 @@
                         {
                             "timeLimitSeconds": 12,
                             "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-04-02.mp3",
-                            "passage": "(woman) This is flight 707 requesting permis sion to land.",
+                            "passage": "(man) This is flight 707 requesting permission to land. \n(woman) Right 707, you are cleared for landing.",
                             "question": "2. Right 707, you are cleared for land ing. WHO IS THE MAN?",
                             "correctIndex": 0,
                             "options": [
@@ -3723,7 +3723,9 @@
                     "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-01-06.mp3",
                     "durationSeconds": 0
                 }
-            ]
+            ],
+            "instruction": "",
+            "directionAudioUrl": ""
         }
     ]
 }
