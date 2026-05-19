@@ -8,7 +8,7 @@
             "parts": [
                 {
                     "title": "SKILL I: BE SURE THE SENTENCE HAS A SUBJECT AND A VERB ",
-                    "instruction": "Pilih (A) Correct dan (B) Incorrect ",
+                    "instruction": "You know that a sentence in English should have a subject and a verb. The most common types of problems that you will encounter in structure questions on the TOEFL test have to do with subjects and verbs: perhaps the sentence is missing either the subject or the verb or both, or perhaps the sentence has an extra subject or verb.",
                     "questions": [
                         {
                             "timeLimitSeconds": 0,
@@ -385,7 +385,7 @@
                 },
                 {
                     "title": "SKILL 2: BE CAREFUL OF OBJECTS OF PREPOSITIONS ",
-                    "instruction": "",
+                    "instruction": "An object of a preposition is a noun, pronoun, gerund or noun clause that comes after a preposition, such as in, at, of, to, by, behind, on, and so on, to form a prepositional phrase. ",
                     "questions": [
                         {
                             "timeLimitSeconds": 0,
@@ -762,7 +762,7 @@
                 },
                 {
                     "title": "SKILL 3: BE CAREFUL OF APPOSITIVES ",
-                    "instruction": "",
+                    "instruction": "An appositive is a noun that comes before or after another noun and has the same meaning. ",
                     "questions": [
                         {
                             "timeLimitSeconds": 0,
@@ -1139,7 +1139,7 @@
                 },
                 {
                     "title": "SKILL 4: BE CAREFUL OF PRESENT PARTICIPLES ",
-                    "instruction": "",
+                    "instruction": "A present participle is the -ing form of the verb (talking, playing).\nit can be either a part of the verb or an adjective. \n\nIt is part of the verb when it is preceded by some form of the verb be.\nit is an adjective when it is not accompanied by some form of the verb be.",
                     "questions": [
                         {
                             "timeLimitSeconds": 0,
@@ -1504,6 +1504,760 @@
                                 },
                                 {
                                     "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "title": "SKILL 5: BE CAREFUL OF PAST PARTICIPLES ",
+                    "instruction": "The past participle is the form of the verb that appears with have or be. It often ends in -ed, but there are also many irregular past participles in English\n\nThe family ~[has purchased]~ a television. \nit part of the verb because it is accompanied by has.\n\nThe television ~[purchased]~  yesterday was expensive.\nA past participle is an adjective when it is not accompanied by some form of be or have.",
+                    "questions": [
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "The money was offered by the client was not accepted",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "The car listed in the advertisement had already stalled",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "The chapters were taught by the professor this morning will be on next week's exam.",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "The loaves of bread were baked in a brick oven at a low temperature for many hours.",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "The ports were reached by the sailors were under the control of a foreign nation.",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "Those suspected in the string of robberies were arrested by the police.",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "The pizza is served in this restaurant is the tastiest in the county.",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "The courses are listed on the second page of the brochure have several prerequisites.",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "All the tenants were invited to the Independence Day barbecue at the apartment complex.",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "Any bills paid by the first of the month will be credited to your account by the next day.",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "title": "EXERCISE (Skills 1-5)",
+                    "instruction": "",
+                    "questions": [
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "The North Platte River _____Wyoming into Nebraska.",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "it flowed",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "flows",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "flowing",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "with flowing water from",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "Biloxi received its name from a Sioux word meaning \"first people.",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "The city of",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "Located in",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "It is in",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The tour included",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "A pride of lions _____ up to forty lions, including one to three males, several females, and cubs.",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "can contain",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "it contains",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "contain",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "containing",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "_____ tea plant are small and white.",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "The",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "On the",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "Having flowers the",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "The flowers of the",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "_____ The tetracyclines, used to treat infections.",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "are a family of",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "being a family",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "a family of",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "their family is",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "antibiotics, are Any possible academic assistance from taking stimulants ______  marginal at best.",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "it is",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "there is",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "is",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "as",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "7Henry Adams, born in Boston, _______ famous as a historian and novelist.",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "became",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "and became",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "he was",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "and he became",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "The major cause _____ the pull of the Moon on the Earth.",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "the ocean tides are",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "of ocean tides is",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "of the tides in the ocean",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "the oceans' tides",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "Still a novelty in the late nineteenth century, ______  limited to the rich.",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "was",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "was photography",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "it was photography",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "photography was",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "A computerized map of the freeways using information gathered by sensors embedded in the pavement ______ on a local cable channel during rush hours.",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "airs",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "airing",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "air",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "to air",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
