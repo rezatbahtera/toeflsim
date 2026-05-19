@@ -1,0 +1,1611 @@
+{
+    "title": "Listening Skills 14-15",
+    "sections": [
+        {
+            "title": "SKILL 14-15",
+            "type": "listening",
+            "durationMinutes": 25,
+            "parts": [
+                {
+                    "title": "SKILL 14: LISTEN FOR WISHES ",
+                    "instruction": "TOEFL EXERCISE 14: In this exercise, listen carefully to each short dialogue and question \non the recording, and then choose the best answer to the question. You should remember \nthat a wish implies an opposite meaning.",
+                    "questions": [
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-14-01.mp3",
+                            "passage": "(man) Do you think we'll be able to get tick ets for the concert?\n(woman) I wish there weren't so many people in line in front of us.",
+                            "question": "1. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "The line is short.",
+                                    "reason": {
+                                        "en": "The woman expresses a wish that there weren't so many people, which implies the opposite is true: there are many people in line.",
+                                        "id": "Wanita itu mengungkapkan keinginan agar tidak ada begitu banyak orang, yang menyiratkan kebalikannya yang benar: ada banyak orang dalam antrean."
+                                    }
+                                },
+                                {
+                                    "text": "There are not very many people in front of them.",
+                                    "reason": {
+                                        "en": "The woman's wish directly contradicts this statement. She wishes there weren't so many people, implying there are.",
+                                        "id": "Keinginan wanita itu secara langsung bertentangan dengan pernyataan ini. Dia berharap tidak ada begitu banyak orang, menyiratkan bahwa ada."
+                                    }
+                                },
+                                {
+                                    "text": "The line in front of them is too long.",
+                                    "reason": {
+                                        "en": "The woman states, 'I wish there weren't so many people in line in front of us.' This is a classic example of Skill 14, where a wish implies the opposite of what is stated. Therefore, she means the line is too long.",
+                                        "id": "Wanita itu menyatakan, 'Saya berharap tidak ada begitu banyak orang dalam antrean di depan kita.' Ini adalah contoh klasik dari Skill 14, di mana keinginan menyiratkan kebalikan dari apa yang dinyatakan. Oleh karena itu, dia bermaksud bahwa antrean terlalu panjang."
+                                    }
+                                },
+                                {
+                                    "text": "Not many people want to get tickets to the concert.",
+                                    "reason": {
+                                        "en": "The woman's statement is about the length of the line, not about the overall demand for concert tickets.",
+                                        "id": "Pernyataan wanita itu adalah tentang panjang antrean, bukan tentang permintaan keseluruhan untuk tiket konser."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 14: Listen for Wishes",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-14-02.mp3",
+                            "passage": "(woman) I'm sorry I didn't tell you about the parking ticket.\n(man) I wish you had told me about it.",
+                            "question": "2. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "The woman told him about the ticket.",
+                                    "reason": {
+                                        "en": "The man says 'I wish you HAD told me,' which implies the opposite is true. Therefore, the woman did NOT tell him.",
+                                        "id": "Pria itu berkata 'Saya harap kamu SUDAH memberitahuku,' yang menyiratkan kebalikannya yang benar. Oleh karena itu, wanita itu TIDAK memberitahunya."
+                                    }
+                                },
+                                {
+                                    "text": "He wanted the woman to get a ticket.",
+                                    "reason": {
+                                        "en": "The man's wish is about being informed, not about the woman receiving a ticket.",
+                                        "id": "Harapan pria itu adalah tentang diberi tahu, bukan tentang wanita itu menerima tiket."
+                                    }
+                                },
+                                {
+                                    "text": "He was happy to find out about the ticket.",
+                                    "reason": {
+                                        "en": "The man's statement expresses regret, not happiness, about finding out about the ticket.",
+                                        "id": "Pernyataan pria itu mengungkapkan penyesalan, bukan kebahagiaan, tentang mengetahui tentang tiket tersebut."
+                                    }
+                                },
+                                {
+                                    "text": "The woman did not tell him about the ticket.",
+                                    "reason": {
+                                        "en": "The phrase 'I wish you had told me' directly implies that the action (telling him) did not happen. This is a key characteristic of Skill 14, where wishes imply the opposite of reality.",
+                                        "id": "Frasa 'Saya harap kamu sudah memberitahuku' secara langsung menyiratkan bahwa tindakan (memberitahunya) tidak terjadi. Ini adalah ciri utama dari Skill 14, di mana harapan menyiratkan kebalikan dari kenyataan."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 14: Listen for Wishes",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-14-03.mp3",
+                            "passage": "(man) Did you see the work schedule for next week?\n(woman) I wish I didn't have to work so many hours then.",
+                            "question": "3. WHAT DOES THE WOMAN IMPLY?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "She is not working too many hours next week.",
+                                    "reason": {
+                                        "en": "The woman states 'I wish I didn't have to work so many hours then.' This is a wish, and according to Skill 14, a wish implies that the opposite of the wish is true. Therefore, she is implying that she IS working too many hours, not that she is not working too many hours.",
+                                        "id": "Wanita tersebut menyatakan 'Saya berharap saya tidak harus bekerja begitu banyak jam saat itu.' Ini adalah sebuah harapan, dan menurut Skill 14, sebuah harapan menyiratkan bahwa kebalikan dari harapan itu benar. Oleh karena itu, dia menyiratkan bahwa dia BEKERJA terlalu banyak jam, bukan bahwa dia tidak bekerja terlalu banyak jam."
+                                    }
+                                },
+                                {
+                                    "text": "She doesn't have enough hours next week.",
+                                    "reason": {
+                                        "en": "The woman states 'I wish I didn't have to work so many hours then.' This is a wish, and according to Skill 14, a wish implies that the opposite of the wish is true. Therefore, she is implying that she IS working too many hours, not that she doesn't have enough hours.",
+                                        "id": "Wanita tersebut menyatakan 'Saya berharap saya tidak harus bekerja begitu banyak jam saat itu.' Ini adalah sebuah harapan, dan menurut Skill 14, sebuah harapan menyiratkan bahwa kebalikan dari harapan itu benar. Oleh karena itu, dia menyiratkan bahwa dia BEKERJA terlalu banyak jam, bukan bahwa dia tidak memiliki cukup jam."
+                                    }
+                                },
+                                {
+                                    "text": "She is working too many hours next week.",
+                                    "reason": {
+                                        "en": "The woman states 'I wish I didn't have to work so many hours then.' This is a wish, and according to Skill 14, a wish implies that the opposite of the wish is true. The opposite of 'I wish I didn't have to work so many hours' is that she does have to work so many hours, meaning she is working too many hours.",
+                                        "id": "Wanita tersebut menyatakan 'Saya berharap saya tidak harus bekerja begitu banyak jam saat itu.' Ini adalah sebuah harapan, dan menurut Skill 14, sebuah harapan menyiratkan bahwa kebalikan dari harapan itu benar. Kebalikan dari 'Saya berharap saya tidak harus bekerja begitu banyak jam' adalah bahwa dia memang harus bekerja begitu banyak jam, yang berarti dia bekerja terlalu banyak jam."
+                                    }
+                                },
+                                {
+                                    "text": "She likes working so much.",
+                                    "reason": {
+                                        "en": "The woman states 'I wish I didn't have to work so many hours then.' This is a wish, and according to Skill 14, a wish implies that the opposite of the wish is true. Her statement is about the number of hours, not about her enjoyment of working.",
+                                        "id": "Wanita tersebut menyatakan 'Saya berharap saya tidak harus bekerja begitu banyak jam saat itu.' Ini adalah sebuah harapan, dan menurut Skill 14, sebuah harapan menyiratkan bahwa kebalikan dari harapan itu benar. Pernyataannya adalah tentang jumlah jam, bukan tentang kesenangannya bekerja."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 14: Listen for Wishes",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-14-04.mp3",
+                            "passage": "(man) Are you happy with the changes in the requirements for graduation?\n(woman) I wish the department had not made the changes.",
+                            "question": "4. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "The department did not change the requirements.",
+                                    "reason": {
+                                        "en": "The woman explicitly states 'I wish the department had not made the changes,' which means the opposite of the changes not being made. Therefore, she is not saying the department did not change the requirements.",
+                                        "id": "Wanita itu secara eksplisit menyatakan 'Saya berharap departemen tidak membuat perubahan', yang berarti kebalikan dari perubahan yang tidak dibuat. Oleh karena itu, dia tidak mengatakan departemen tidak mengubah persyaratan."
+                                    }
+                                },
+                                {
+                                    "text": "She likes the new requirements.",
+                                    "reason": {
+                                        "en": "The phrase 'I wish...' indicates a desire for something different from the current reality. If she liked the changes, she would not express a wish that they had not been made.",
+                                        "id": "Frasa 'Saya berharap...' menunjukkan keinginan untuk sesuatu yang berbeda dari kenyataan saat ini. Jika dia menyukai perubahannya, dia tidak akan mengungkapkan keinginan agar perubahan itu tidak dibuat."
+                                    }
+                                },
+                                {
+                                    "text": "She changed her apartment just before graduation.",
+                                    "reason": {
+                                        "en": "The dialogue is about changes in graduation requirements, not about a personal living space. This option is irrelevant to the conversation.",
+                                        "id": "Dialog tersebut adalah tentang perubahan persyaratan kelulusan, bukan tentang ruang tamu pribadi. Pilihan ini tidak relevan dengan percakapan."
+                                    }
+                                },
+                                {
+                                    "text": "She does not like the changes that the department made.",
+                                    "reason": {
+                                        "en": "According to Skill 14, a wish implies that the opposite of the wish is true. The woman wishes the department had not made the changes, meaning she does not like the changes that were made.",
+                                        "id": "Menurut Skill 14, harapan menyiratkan bahwa kebalikan dari harapan itu benar. Wanita itu berharap departemen tidak membuat perubahan, yang berarti dia tidak menyukai perubahan yang dibuat."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 14: Listen for Wishes",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-14-05.mp3",
+                            "passage": "(woman) Are you going to the theater with us this weekend?\n(man) I wish I had enough money to go.",
+                            "question": "5. WHAT DOES THE MAN IMPLY.",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "He is going to the theater.",
+                                    "reason": {
+                                        "en": "The man explicitly states 'I wish I had enough money to go,' which implies he does NOT have enough money and therefore cannot go. Option [0] contradicts this.",
+                                        "id": "Pria tersebut secara eksplisit menyatakan 'Saya berharap saya punya cukup uang untuk pergi,' yang menyiratkan bahwa dia TIDAK punya cukup uang dan oleh karena itu tidak bisa pergi. Pilihan [0] bertentangan dengan ini."
+                                    }
+                                },
+                                {
+                                    "text": "He doesn't have enough money.",
+                                    "reason": {
+                                        "en": "The man's statement 'I wish I had enough money to go' directly implies that he does not currently possess enough money to attend the theater. This aligns with Skill 14, which states that a wish implies the opposite of the wish is true.",
+                                        "id": "Pernyataan pria tersebut 'Saya berharap saya punya cukup uang untuk pergi' secara langsung menyiratkan bahwa dia saat ini tidak memiliki cukup uang untuk pergi ke teater. Hal ini sejalan dengan Skill 14, yang menyatakan bahwa harapan menyiratkan kebalikan dari harapan itu benar."
+                                    }
+                                },
+                                {
+                                    "text": "He isn't afraid to go.",
+                                    "reason": {
+                                        "en": "The dialogue does not mention anything about the man's fear of going. His statement is solely about his financial situation.",
+                                        "id": "Dialog tersebut tidak menyebutkan apa pun tentang ketakutan pria itu untuk pergi. Pernyataannya semata-mata tentang situasi keuangannya."
+                                    }
+                                },
+                                {
+                                    "text": "He doesn't want to spend the money.",
+                                    "reason": {
+                                        "en": "While not having enough money prevents him from going, the primary implication of his wish is the lack of funds, not an unwillingness to spend them if he had them. The wish is about possession, not desire to spend.",
+                                        "id": "Meskipun tidak memiliki cukup uang mencegahnya untuk pergi, implikasi utama dari harapannya adalah kurangnya dana, bukan keengganan untuk membelanjakannya jika dia memilikinya. Harapan itu adalah tentang kepemilikan, bukan keinginan untuk membelanjakan."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 14: Listen for Wishes",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-14-06.mp3",
+                            "passage": "(woman) Did you hear how Harry did on the astronomy exam?\n(man) I bet he wishes he had studied harder.",
+                            "question": "6. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Harry did not prepare enough for the exam.",
+                                    "reason": {
+                                        "en": "The man's statement 'I bet he wishes he had studied harder' implies that Harry did not study enough, which is the opposite of what he wishes.",
+                                        "id": "Pernyataan pria 'Saya yakin dia berharap dia belajar lebih giat' menyiratkan bahwa Harry tidak belajar cukup, yang merupakan kebalikan dari apa yang dia harapkan."
+                                    }
+                                },
+                                {
+                                    "text": "Harry studied hard for the exam.",
+                                    "reason": {
+                                        "en": "This is the opposite of what the man implies. The wish 'he had studied harder' suggests he did not study hard enough.",
+                                        "id": "Ini adalah kebalikan dari apa yang tersirat oleh pria itu. Harapan 'dia belajar lebih giat' menunjukkan bahwa dia tidak belajar cukup giat."
+                                    }
+                                },
+                                {
+                                    "text": "He has not heard anything about Harry He had a bet with Harry.",
+                                    "reason": {
+                                        "en": "The man is making a statement about Harry's studying habits, not about his lack of information or a bet.",
+                                        "id": "Pria itu membuat pernyataan tentang kebiasaan belajar Harry, bukan tentang kurangnya informasi atau taruhan."
+                                    }
+                                },
+                                {
+                                    "text": "The algebra course that she is taking is not her favorite.",
+                                    "reason": {
+                                        "en": "This option is irrelevant to the conversation, which is about Harry's performance on an astronomy exam.",
+                                        "id": "Opsi ini tidak relevan dengan percakapan, yang membahas tentang kinerja Harry dalam ujian astronomi."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 14: Listen for Wishes",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-14-07.mp3",
+                            "passage": "(man) Do you have a good schedule of classes this semester?\n(woman) I wish I didn't need to take this alge bra course. I'm not very good at math.",
+                            "question": "7. WHAT DOES THE WOMAN IMPLY?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "She doesn't need to take the algebra course.",
+                                    "reason": {
+                                        "en": "The woman says, 'I wish I didn't need to take this algebra course.' This implies that she *does* need to take the course, but she wishes she didn't have to. Therefore, she needs to take it.",
+                                        "id": "Wanita itu berkata, 'Saya berharap saya tidak perlu mengambil mata kuliah aljabar ini.' Ini menyiratkan bahwa dia *perlu* mengambil mata kuliah tersebut, tetapi dia berharap tidak harus. Oleh karena itu, dia perlu mengambilnya."
+                                    }
+                                },
+                                {
+                                    "text": "She has a good schedule of courses this semester.",
+                                    "reason": {
+                                        "en": "The woman's statement focuses on her dislike for the algebra course, not on her overall schedule. She explicitly states she wishes she didn't need to take it, which contradicts having a good schedule.",
+                                        "id": "Pernyataan wanita itu berfokus pada ketidaksukaannya terhadap mata kuliah aljabar, bukan pada jadwal keseluruhannya. Dia secara eksplisit menyatakan bahwa dia berharap tidak perlu mengambilnya, yang bertentangan dengan memiliki jadwal yang baik."
+                                    }
+                                },
+                                {
+                                    "text": "She's good at math, but she's taking the algebra course anyway.",
+                                    "reason": {
+                                        "en": "The woman states, 'I'm not very good at math.' This directly contradicts the idea that she is good at math.",
+                                        "id": "Wanita itu menyatakan, 'Saya tidak pandai matematika.' Ini secara langsung bertentangan dengan gagasan bahwa dia pandai matematika."
+                                    }
+                                },
+                                {
+                                    "text": "He was able to find a cheap apartment.",
+                                    "reason": {
+                                        "en": "The conversation is about class schedules and math courses. There is no mention of apartments or finances.",
+                                        "id": "Percakapan ini tentang jadwal kelas dan mata kuliah matematika. Tidak ada penyebutan tentang apartemen atau keuangan."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 14: Listen for Wishes",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-14-08.mp3",
+                            "passage": "(woman) Your apartment is in a really great location!\n(man) But I wish I had been able to find something cheaper.",
+                            "question": "8. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "His apartment is too expensive.",
+                                    "reason": {
+                                        "en": "The man states, 'But I wish I had been able to find something cheaper.' This directly implies that his current apartment is not cheap, meaning it is too expensive.",
+                                        "id": "Pria itu menyatakan, 'Tapi saya berharap saya bisa menemukan sesuatu yang lebih murah.' Ini secara langsung menyiratkan bahwa apartemennya saat ini tidak murah, yang berarti terlalu mahal."
+                                    }
+                                },
+                                {
+                                    "text": "He doesn't like the apartment's location.",
+                                    "reason": {
+                                        "en": "The woman's first line praises the apartment's location ('Your apartment is in a really great location!'), and the man's wish is about price, not location. He does not express dissatisfaction with the location.",
+                                        "id": "Baris pertama wanita itu memuji lokasi apartemen ('Apartemen Anda berada di lokasi yang sangat bagus!'), dan harapan pria itu adalah tentang harga, bukan lokasi. Dia tidak mengungkapkan ketidakpuasan dengan lokasi tersebut."
+                                    }
+                                },
+                                {
+                                    "text": "The apartment is cheap because of its location.",
+                                    "reason": {
+                                        "en": "The man's wish is that he could have found something *cheaper*, which implies the opposite is true: his current apartment is *not* cheap. The location is mentioned positively by the woman, not as a reason for cheapness.",
+                                        "id": "Harapan pria itu adalah dia bisa menemukan sesuatu yang *lebih murah*, yang menyiratkan kebalikannya yang benar: apartemennya saat ini *tidak* murah. Lokasi disebutkan secara positif oleh wanita itu, bukan sebagai alasan untuk kemurahan."
+                                    }
+                                },
+                                {
+                                    "text": "He arrived early at the auditorium.",
+                                    "reason": {
+                                        "en": "The dialogue is about an apartment and its cost. The phrase 'arrived early at the auditorium' is completely unrelated to the conversation.",
+                                        "id": "Dialog tersebut adalah tentang sebuah apartemen dan biayanya. Frasa 'tiba lebih awal di auditorium' sama sekali tidak berhubungan dengan percakapan tersebut."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 14: Listen for Wishes",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-14-09.mp3",
+                            "passage": "(woman) Why are you sitting all the way in the back of the auditorium?\n(man) I wish I hadn't arrived so late. Then I could have gotten a better seat.",
+                            "question": "9. WHAT DOES THE MAN IMPLY?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "He got one of the best seats in the auditorium.",
+                                    "reason": {
+                                        "en": "The man states 'I wish I hadn't arrived so late. Then I could have gotten a better seat.' This implies he did NOT get a good seat, making this option incorrect.",
+                                        "id": "Pria itu menyatakan 'Saya berharap saya tidak datang terlambat. Kalau begitu saya bisa mendapatkan tempat duduk yang lebih baik.' Ini menyiratkan dia TIDAK mendapatkan tempat duduk yang bagus, membuat pilihan ini salah."
+                                    }
+                                },
+                                {
+                                    "text": "He was not early enough to get a seat at the front.",
+                                    "reason": {
+                                        "en": "The man's wish 'I wish I hadn't arrived so late' directly implies that he arrived late and therefore could not get a better seat, which would likely be at the front.",
+                                        "id": "Harapan pria itu 'Saya berharap saya tidak datang terlambat' secara langsung menyiratkan bahwa dia datang terlambat dan oleh karena itu tidak bisa mendapatkan tempat duduk yang lebih baik, yang kemungkinan berada di depan."
+                                    }
+                                },
+                                {
+                                    "text": "He prefers sitting at the back.",
+                                    "reason": {
+                                        "en": "The man explicitly states he wishes he had arrived earlier to get a better seat, indicating he does not prefer sitting at the back.",
+                                        "id": "Pria itu secara eksplisit menyatakan dia berharap dia datang lebih awal untuk mendapatkan tempat duduk yang lebih baik, menunjukkan bahwa dia tidak lebih suka duduk di belakang."
+                                    }
+                                },
+                                {
+                                    "text": "He'd like to work on his social skills at the game.",
+                                    "reason": {
+                                        "en": "The conversation is about seating in an auditorium, not about a game or social skills. This option is irrelevant to the dialogue.",
+                                        "id": "Percakapan ini tentang tempat duduk di auditorium, bukan tentang permainan atau keterampilan sosial. Pilihan ini tidak relevan dengan dialog."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 14: Listen for Wishes",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-14-10.mp3",
+                            "passage": "(woman) Are you going to the football game this weekend?\n(man) I wish I could, but I have to work on my sociology paper.",
+                            "question": "10. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "He wishes he could work on his term paper for sociology.",
+                                    "reason": {
+                                        "en": "The man wishes he could go to the game, not that he could work on his paper. The phrase 'work on my sociology paper' is the reason he cannot go, not something he wishes to do instead of going.",
+                                        "id": "Pria itu berharap dia bisa pergi ke pertandingan, bukan berharap dia bisa mengerjakan makalahnya. Frasa 'mengerjakan makalah sosiologi saya' adalah alasan dia tidak bisa pergi, bukan sesuatu yang dia ingin lakukan alih-alih pergi."
+                                    }
+                                },
+                                {
+                                    "text": "He can't attend the game because of his schoolwork.",
+                                    "reason": {
+                                        "en": "This is a possible inference, but the man explicitly states a wish ('I wish I could') which implies the opposite of what he is saying. The correct answer focuses on the implication of the wish.",
+                                        "id": "Ini adalah kesimpulan yang mungkin, tetapi pria itu secara eksplisit menyatakan keinginan ('Saya berharap saya bisa') yang menyiratkan kebalikan dari apa yang dia katakan. Jawaban yang benar berfokus pada implikasi dari keinginan tersebut."
+                                    }
+                                },
+                                {
+                                    "text": "Sociology is less important to him than football this weekend.",
+                                    "reason": {
+                                        "en": "The man says 'I wish I could' go to the game. According to Skill 14, a wish implies that the opposite of the wish is true. Therefore, he cannot go to the game. The reason given is that he has to work on his sociology paper, which means his schoolwork is preventing him from attending.",
+                                        "id": "Pria itu berkata 'Saya berharap saya bisa' pergi ke pertandingan. Menurut Skill 14, keinginan menyiratkan bahwa kebalikan dari keinginan itu benar. Oleh karena itu, dia tidak bisa pergi ke pertandingan. Alasan yang diberikan adalah dia harus mengerjakan makalah sosiologinya, yang berarti pekerjaan sekolahnya mencegahnya untuk hadir."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "This option is blank and therefore cannot be the correct answer.",
+                                        "id": "Opsi ini kosong dan oleh karena itu tidak bisa menjadi jawaban yang benar."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 14: Listen for Wishes",
+                            "_is_evaluated": true
+                        }
+                    ],
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-14.mp3",
+                    "groups": []
+                },
+                {
+                    "title": "SKILL 15: LISTEN FOR UNTRUE CONDITIONS",
+                    "instruction": "In this exercise, listen carefully to each short dialogue and question on the recording, and then choose the best answer to the question. You should be particularly careful of untrue conditions.",
+                    "questions": [
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-15-01.mp3",
+                            "passage": "(woman) I'm glad I called and told you about the meeting.\n(man) If you had not called me, I would not have known.",
+                            "question": "1. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "The woman did not need to call him.",
+                                    "reason": {
+                                        "en": "The man explicitly states 'If you had not called me, I would not have known,' which means he *did* need her to call. This option contradicts the statement.",
+                                        "id": "Pria itu secara eksplisit menyatakan 'Jika kamu tidak meneleponku, aku tidak akan tahu,' yang berarti dia *membutuhkan* panggilannya. Pilihan ini bertentangan dengan pernyataan tersebut."
+                                    }
+                                },
+                                {
+                                    "text": "The woman called to let him know about the meeting.",
+                                    "reason": {
+                                        "en": "The man's statement 'If you had not called me, I would not have known' is a conditional statement implying the opposite is true. The opposite of 'I would not have known' is 'I would have known,' which means he *did* know because she called. This option correctly interprets the meaning of the untrue condition.",
+                                        "id": "Pernyataan pria itu 'Jika kamu tidak meneleponku, aku tidak akan tahu' adalah pernyataan bersyarat yang menyiratkan kebalikannya benar. Kebalikan dari 'aku tidak akan tahu' adalah 'aku akan tahu,' yang berarti dia *tahu* karena dia menelepon. Pilihan ini dengan benar menafsirkan makna dari kondisi yang tidak benar."
+                                    }
+                                },
+                                {
+                                    "text": "He's not glad that the woman called.",
+                                    "reason": {
+                                        "en": "The man says, 'If you had not called me, I would not have known.' This is a polite way of expressing gratitude for her call. He is glad she called because it informed him. This option misinterprets his gratitude.",
+                                        "id": "Pria itu berkata, 'Jika kamu tidak meneleponku, aku tidak akan tahu.' Ini adalah cara sopan untuk mengungkapkan terima kasih atas panggilannya. Dia senang dia menelepon karena itu memberinya informasi. Pilihan ini salah menafsirkan rasa syukurnya."
+                                    }
+                                },
+                                {
+                                    "text": "He already knew about the meeting when the woman called.",
+                                    "reason": {
+                                        "en": "The man's statement 'If you had not called me, I would not have known' directly implies that he did *not* know before she called. If he had already known, the condition 'If you had not called me' would be irrelevant to his knowledge.",
+                                        "id": "Pernyataan pria itu 'Jika kamu tidak meneleponku, aku tidak akan tahu' secara langsung menyiratkan bahwa dia *tidak* tahu sebelum dia menelepon. Jika dia sudah tahu, kondisi 'Jika kamu tidak meneleponku' tidak relevan dengan pengetahuannya."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 15: Listen for Untrue Conditions",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-15-02.mp3",
+                            "passage": "(man) I always seem to get stopped by the police.\n(woman) If you drove more slowly, the police would not stop you so often.",
+                            "question": "2. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "The man often drives too quickly.",
+                                    "reason": {
+                                        "en": "The woman's statement 'If you drove more slowly, the police would not stop you so often' implies that the man does NOT drive slowly, and therefore drives too quickly, which is why the police stop him. This is the opposite of the condition stated.",
+                                        "id": "Pernyataan wanita 'Jika Anda mengemudi lebih lambat, polisi tidak akan terlalu sering menghentikan Anda' menyiratkan bahwa pria itu TIDAK mengemudi lambat, dan oleh karena itu mengemudi terlalu cepat, itulah sebabnya polisi menghentikannya. Ini adalah kebalikan dari kondisi yang dinyatakan."
+                                    }
+                                },
+                                {
+                                    "text": "The police do not stop the man too much.",
+                                    "reason": {
+                                        "en": "This contradicts the woman's statement, which implies the police stop the man often because he drives too quickly.",
+                                        "id": "Ini bertentangan dengan pernyataan wanita, yang menyiratkan bahwa polisi sering menghentikan pria itu karena dia mengemudi terlalu cepat."
+                                    }
+                                },
+                                {
+                                    "text": "The man drove rather slowly.",
+                                    "reason": {
+                                        "en": "This is the opposite of what the woman implies. The woman implies the man does not drive slowly.",
+                                        "id": "Ini adalah kebalikan dari apa yang tersirat oleh wanita itu. Wanita itu menyiratkan bahwa pria itu tidak mengemudi dengan lambat."
+                                    }
+                                },
+                                {
+                                    "text": "The police should not stop the man so often.",
+                                    "reason": {
+                                        "en": "The woman is suggesting a solution to the problem, not stating that the police should not stop him. The implication is that if he drove slower, they wouldn't stop him.",
+                                        "id": "Wanita itu menyarankan solusi untuk masalah tersebut, bukan menyatakan bahwa polisi tidak boleh menghentikannya. Implikasinya adalah jika dia mengemudi lebih lambat, mereka tidak akan menghentikannya."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 15: Listen for Untrue Conditions",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-15-03.mp3",
+                            "passage": "(man) Do you know that some offices are closed next Friday?\n(woman) Wouldn't it be nice if we didn't have to work on Friday?",
+                            "question": "3. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "She's so happy they don't have to work on Friday.",
+                                    "reason": {
+                                        "en": "The woman's statement 'Wouldn't it be nice if we didn't have to work on Friday?' expresses a wish that is the opposite of the reality. The reality is that they *do* have to work on Friday, and she is expressing disappointment about this. Option 0 states she is happy, which is the opposite of what the wish implies.",
+                                        "id": "Pernyataan wanita 'Bukankah menyenangkan jika kita tidak harus bekerja pada hari Jumat?' mengungkapkan keinginan yang berlawanan dengan kenyataan. Kenyataannya adalah mereka *harus* bekerja pada hari Jumat, dan dia mengungkapkan kekecewaan tentang hal ini. Opsi 0 menyatakan dia senang, yang berlawanan dengan apa yang tersirat dari keinginan tersebut."
+                                    }
+                                },
+                                {
+                                    "text": "It would be nice if they could finish their work on Friday.",
+                                    "reason": {
+                                        "en": "The woman's statement is about *not* working on Friday. Option 1 suggests it would be nice to *finish* work on Friday, which changes the meaning of her wish.",
+                                        "id": "Pernyataan wanita adalah tentang *tidak* bekerja pada hari Jumat. Opsi 1 menyarankan akan menyenangkan untuk *menyelesaikan* pekerjaan pada hari Jumat, yang mengubah makna keinginannya."
+                                    }
+                                },
+                                {
+                                    "text": "She wonders if the man would be nice enough to come in to work in her place on Friday.",
+                                    "reason": {
+                                        "en": "The woman's statement is a general wish about not working. Option 2 introduces a specific request for the man to work in her place, which is not implied by her words.",
+                                        "id": "Pernyataan wanita adalah keinginan umum tentang tidak bekerja. Opsi 2 memperkenalkan permintaan spesifik agar pria itu bekerja menggantikannya pada hari Jumat, yang tidak tersirat dari kata-katanya."
+                                    }
+                                },
+                                {
+                                    "text": "It's too bad they must work on Friday.",
+                                    "reason": {
+                                        "en": "The phrase 'Wouldn't it be nice if...' is a common way to express a wish that is contrary to fact. The man's statement implies that some offices *are* closed, but the woman's response suggests that *their* office is not, and she wishes it were. Therefore, it's too bad they must work on Friday.",
+                                        "id": "Frasa 'Bukankah menyenangkan jika...' adalah cara umum untuk mengungkapkan keinginan yang berlawanan dengan fakta. Pernyataan pria itu menyiratkan bahwa beberapa kantor *memang* tutup, tetapi tanggapan wanita itu menunjukkan bahwa kantor *mereka* tidak tutup, dan dia berharap demikian. Oleh karena itu, sangat disayangkan mereka harus bekerja pada hari Jumat."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 14: Listen for Wishes",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-15-04.mp3",
+                            "passage": "(woman) I don't think that the letter that I mailed last week arrived.\n(man) If you had put enough postage on it, the letter would have arrived.",
+                            "question": "4. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "She did not put enough postage on the letter.",
+                                    "reason": {
+                                        "en": "The man's statement is a past unreal conditional. It implies that the condition (putting enough postage on the letter) was not met, and therefore the result (the letter arriving) did not happen. This directly means the woman did not put enough postage on the letter.",
+                                        "id": "Pernyataan pria tersebut adalah pengandaian masa lalu yang tidak nyata. Ini menyiratkan bahwa kondisi (memberi cukup ongkos kirim pada surat) tidak terpenuhi, dan oleh karena itu hasilnya (surat tiba) tidak terjadi. Ini secara langsung berarti wanita itu tidak memberi cukup ongkos kirim pada surat tersebut."
+                                    }
+                                },
+                                {
+                                    "text": "The letter arrived last week.",
+                                    "reason": {
+                                        "en": "The dialogue explicitly states the woman does not think the letter arrived. The man's statement is a hypothetical about what would have happened IF the postage had been sufficient, not a confirmation that it arrived.",
+                                        "id": "Dialog secara eksplisit menyatakan bahwa wanita itu tidak berpikir surat itu tiba. Pernyataan pria itu adalah hipotesis tentang apa yang akan terjadi JIKA ongkos kirimnya cukup, bukan konfirmasi bahwa surat itu tiba."
+                                    }
+                                },
+                                {
+                                    "text": "The letter did not need more postage.",
+                                    "reason": {
+                                        "en": "The man's statement directly contradicts this. He implies that the lack of sufficient postage is the reason the letter did not arrive.",
+                                        "id": "Pernyataan pria itu secara langsung bertentangan dengan ini. Dia menyiratkan bahwa kurangnya ongkos kirim yang cukup adalah alasan surat itu tidak tiba."
+                                    }
+                                },
+                                {
+                                    "text": "She did not put any postage on the letter.",
+                                    "reason": {
+                                        "en": "The man's statement implies a lack of *enough* postage, not necessarily a complete absence of any postage. The conditional 'If you had put enough postage' suggests a deficiency rather than zero.",
+                                        "id": "Pernyataan pria itu menyiratkan kurangnya ongkos kirim yang *cukup*, bukan berarti tidak ada ongkos kirim sama sekali. Pengandaian 'Jika Anda memberi cukup ongkos kirim' menunjukkan kekurangan daripada nol."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 15: Listen for Untrue Conditions",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-15-05.mp3",
+                            "passage": "(woman) Do you have a pet dog?\n(man) I would like to have one, if it didn't require so much attention.",
+                            "question": "5. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "He has a dog.",
+                                    "reason": {
+                                        "en": "The man explicitly states he would like to have a dog IF it didn't require so much attention, implying he does NOT currently have one.",
+                                        "id": "Pria itu secara eksplisit menyatakan bahwa dia ingin punya anjing JIKA anjing itu tidak membutuhkan begitu banyak perhatian, menyiratkan bahwa dia TIDAK memilikinya saat ini."
+                                    }
+                                },
+                                {
+                                    "text": "He doesn't pay attention to dogs.",
+                                    "reason": {
+                                        "en": "The man's statement 'if it didn't require so much attention' indicates he believes dogs DO require a lot of attention, the opposite of this option.",
+                                        "id": "Pernyataan pria itu 'jika itu tidak membutuhkan begitu banyak perhatian' menunjukkan bahwa dia percaya anjing MEMBUTUHKAN banyak perhatian, kebalikan dari pilihan ini."
+                                    }
+                                },
+                                {
+                                    "text": "He wishes he had a dog.",
+                                    "reason": {
+                                        "en": "The man's statement 'I would like to have one, if it didn't require so much attention' expresses a desire for a dog under a condition that is not met, which is a form of wishing.",
+                                        "id": "Pernyataan pria itu 'Saya ingin punya satu, jika itu tidak membutuhkan begitu banyak perhatian' mengungkapkan keinginan untuk memiliki anjing dengan syarat yang tidak terpenuhi, yang merupakan bentuk harapan."
+                                    }
+                                },
+                                {
+                                    "text": "Dogs do not need much attention.",
+                                    "reason": {
+                                        "en": "The man's statement 'if it didn't require so much attention' directly contradicts this option, as he implies that dogs do require a lot of attention.",
+                                        "id": "Pernyataan pria itu 'jika itu tidak membutuhkan begitu banyak perhatian' secara langsung bertentangan dengan pilihan ini, karena dia menyiratkan bahwa anjing membutuhkan banyak perhatian."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 14: Listen for Wishes",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-15-06.mp3",
+                            "passage": "(man) Did the other students know we were having a psychology exam today?\n(woman) Had they known about the exam, they would've prepared for it.",
+                            "question": "6. WHAT DOES THE WOMAN SAY ABOUT THE OTHER STUDENTS?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "They knew they had to prepare for the exam.",
+                                    "reason": {
+                                        "en": "The woman implies the opposite: the students did NOT know and therefore did not prepare.",
+                                        "id": "Wanita itu menyiratkan kebalikannya: para siswa TIDAK tahu dan oleh karena itu tidak bersiap."
+                                    }
+                                },
+                                {
+                                    "text": "They didn't prepare for the exam.",
+                                    "reason": {
+                                        "en": "The woman's statement 'Had they known about the exam, they would've prepared for it' is an untrue condition. It implies that they did NOT know and therefore did NOT prepare.",
+                                        "id": "Pernyataan wanita itu 'Seandainya mereka tahu tentang ujian itu, mereka akan mempersiapkannya' adalah kondisi yang tidak benar. Ini menyiratkan bahwa mereka TIDAK tahu dan oleh karena itu TIDAK bersiap."
+                                    }
+                                },
+                                {
+                                    "text": "As soon as they knew about the exam, they began to prepare for it.",
+                                    "reason": {
+                                        "en": "This contradicts the implication of the untrue condition; if they had known, they would have prepared, but they didn't know.",
+                                        "id": "Ini bertentangan dengan implikasi dari kondisi yang tidak benar; jika mereka tahu, mereka akan bersiap, tetapi mereka tidak tahu."
+                                    }
+                                },
+                                {
+                                    "text": "They knew that the preparation for the exam would take a lot of time.",
+                                    "reason": {
+                                        "en": "The statement focuses on the consequence of knowing (preparation), not on the duration of preparation.",
+                                        "id": "Pernyataan tersebut berfokus pada konsekuensi dari mengetahui (persiapan), bukan pada durasi persiapan."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 15: Listen for Untrue Conditions",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-15-07.mp3",
+                            "passage": "(woman) We're all going out to a great restau rant tonight. Do you want to come with us?\n(man) If it didn't cost so much, I would.",
+                            "question": "7. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "It costs too much for him to go.",
+                                    "reason": {
+                                        "en": "The man uses an 'if' clause with a past subjunctive ('didn't cost') and a conditional result ('would'). This structure implies the opposite of what is stated: he would go IF the cost were not high. Therefore, the cost is the reason he cannot go.",
+                                        "id": "Pria tersebut menggunakan klausa 'if' dengan subjunctive lampau ('didn't cost') dan hasil kondisional ('would'). Struktur ini menyiratkan kebalikan dari apa yang dinyatakan: dia akan pergi JIKA biayanya tidak tinggi. Oleh karena itu, biaya adalah alasan dia tidak bisa pergi."
+                                    }
+                                },
+                                {
+                                    "text": "He agrees to go with them.",
+                                    "reason": {
+                                        "en": "The man states he 'would' go IF the cost were not so much, which is a conditional statement. He does not agree to go.",
+                                        "id": "Pria tersebut menyatakan bahwa dia 'akan' pergi JIKA biayanya tidak terlalu mahal, yang merupakan pernyataan kondisional. Dia tidak setuju untuk pergi."
+                                    }
+                                },
+                                {
+                                    "text": "He is unworried about the cost of the restaurant.",
+                                    "reason": {
+                                        "en": "The man's statement 'If it didn't cost so much, I would' clearly indicates that the cost IS a concern for him, making him unwilling to go.",
+                                        "id": "Pernyataan pria tersebut 'Jika biayanya tidak terlalu mahal, saya akan pergi' dengan jelas menunjukkan bahwa biaya ADALAH masalah baginya, membuatnya enggan untuk pergi."
+                                    }
+                                },
+                                {
+                                    "text": "The restaurant is rather inexpensive.",
+                                    "reason": {
+                                        "en": "The man's statement 'If it didn't cost so much, I would' implies that the restaurant IS expensive, which is the opposite of inexpensive.",
+                                        "id": "Pernyataan pria tersebut 'Jika biayanya tidak terlalu mahal, saya akan pergi' menyiratkan bahwa restoran ITU mahal, yang merupakan kebalikan dari murah."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 14: Listen for Wishes",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-15-08.mp3",
+                            "passage": "(woman) Do you think Joe saw the car coming around the corner so fast?\n(man) Had he seen the car coming, he would've been able to get out of the way.",
+                            "question": "8. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "When Joe saw the car coming, he tried to get out of the way.",
+                                    "reason": {
+                                        "en": "This option states that Joe saw the car and tried to get out of the way, which is the opposite of what the man implies. The man's statement is a hypothetical situation that did not happen.",
+                                        "id": "Opsi ini menyatakan bahwa Joe melihat mobil dan mencoba menghindar, yang merupakan kebalikan dari apa yang tersirat oleh pria itu. Pernyataan pria itu adalah situasi hipotetis yang tidak terjadi."
+                                    }
+                                },
+                                {
+                                    "text": "Joe was able to get out of the way because he saw the car coming.",
+                                    "reason": {
+                                        "en": "This option suggests that seeing the car enabled Joe to get out of the way, implying a cause-and-effect relationship that is contrary to the man's statement. The man is describing what would have happened IF Joe had seen the car.",
+                                        "id": "Opsi ini menyarankan bahwa melihat mobil memungkinkan Joe untuk menghindar, menyiratkan hubungan sebab-akibat yang bertentangan dengan pernyataan pria itu. Pria itu menjelaskan apa yang akan terjadi JIKA Joe melihat mobil itu."
+                                    }
+                                },
+                                {
+                                    "text": "Joe jumped out of the way of the oncoming car.",
+                                    "reason": {
+                                        "en": "This option states that Joe jumped out of the way, implying a successful action. The man's statement is about a condition that was not met, and therefore the outcome described (getting out of the way) did not occur.",
+                                        "id": "Opsi ini menyatakan bahwa Joe melompat menghindar, menyiratkan tindakan yang berhasil. Pernyataan pria itu adalah tentang suatu kondisi yang tidak terpenuhi, dan oleh karena itu hasil yang dijelaskan (menghindar) tidak terjadi."
+                                    }
+                                },
+                                {
+                                    "text": "Because Joe didn't see the car coming, he couldn't get out of the way.",
+                                    "reason": {
+                                        "en": "The man's statement 'Had he seen the car coming, he would've been able to get out of the way' is an example of an untrue condition (a past unreal conditional). It implies the opposite: because he did NOT see the car coming, he was NOT able to get out of the way. This matches the meaning of option 3.",
+                                        "id": "Pernyataan pria itu 'Seandainya dia melihat mobil datang, dia akan bisa menghindar' adalah contoh dari kondisi yang tidak benar (kondisional masa lalu yang tidak nyata). Ini menyiratkan kebalikannya: karena dia TIDAK melihat mobil datang, dia TIDAK bisa menghindar. Ini sesuai dengan makna opsi 3."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 15: Listen for Untrue Conditions",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-15-09.mp3",
+                            "passage": "(woman) I really don't want to be here now.\n(man) If you didn't want to be here, then why are you here?",
+                            "question": "9. WHAT DID THE MAN ASSUME?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "The woman didn't come.",
+                                    "reason": {
+                                        "en": "The man's question, 'If you didn't want to be here, then why are you here?', directly implies that the woman IS there. Therefore, the assumption that the woman didn't come is incorrect.",
+                                        "id": "Pertanyaan pria, 'Jika kamu tidak ingin berada di sini, mengapa kamu di sini?', secara langsung menyiratkan bahwa wanita ITU ada di sana. Oleh karena itu, asumsi bahwa wanita itu tidak datang adalah salah."
+                                    }
+                                },
+                                {
+                                    "text": "The woman wanted to be there.",
+                                    "reason": {
+                                        "en": "The man's question is a direct response to the woman's statement 'I really don't want to be here now.' The man is questioning her presence, implying he believes she chose to be there, hence she wanted to be there. This is a classic example of inferring the opposite of what is stated, as per Skill 14.",
+                                        "id": "Pertanyaan pria adalah respons langsung terhadap pernyataan wanita 'Saya benar-benar tidak ingin berada di sini sekarang.' Pria itu mempertanyakan kehadirannya, menyiratkan bahwa dia percaya wanita itu memilih untuk berada di sana, oleh karena itu dia ingin berada di sana. Ini adalah contoh klasik menyimpulkan kebalikan dari apa yang dinyatakan, sesuai dengan Skill 14."
+                                    }
+                                },
+                                {
+                                    "text": "The woman was going to leave immediately.",
+                                    "reason": {
+                                        "en": "The dialogue does not provide any information about the woman's intention to leave immediately. The man's assumption is solely based on her stated dislike of being there.",
+                                        "id": "Dialog tersebut tidak memberikan informasi apa pun tentang niat wanita untuk segera pergi. Asumsi pria itu semata-mata didasarkan pada pernyataannya yang tidak suka berada di sana."
+                                    }
+                                },
+                                {
+                                    "text": "The woman was not really there.",
+                                    "reason": {
+                                        "en": "The man's question, 'why are you here?', confirms that he perceives the woman to be physically present. The assumption that she was not really there contradicts his direct question.",
+                                        "id": "Pertanyaan pria, 'mengapa kamu di sini?', menegaskan bahwa dia menganggap wanita itu hadir secara fisik. Asumsi bahwa dia tidak benar-benar ada di sana bertentangan dengan pertanyaannya yang langsung."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 14: Listen for Wishes",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-15-10.mp3",
+                            "passage": "(man) Kathy couldn't have known that the first prize in the contest was a trip to Hawaii.\n(woman) She would've worked harder on her art project if she had known what first prize was.",
+                            "question": "10. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Kathy didn't work as hard as possible because she didn't know what the reward was.",
+                                    "reason": {
+                                        "en": "The woman's statement, 'She would've worked harder on her art project if she had known what first prize was,' implies that Kathy's lack of knowledge about the prize led her to not work as hard as she could have. This directly aligns with the meaning of the option.",
+                                        "id": "Pernyataan wanita, 'She would've worked harder on her art project if she had known what first prize was,' menyiratkan bahwa ketidaktahuan Kathy tentang hadiah membuatnya tidak bekerja sekeras yang seharusnya. Ini selaras langsung dengan makna pilihan tersebut."
+                                    }
+                                },
+                                {
+                                    "text": "Kathy couldn't have put more effort into the project to win the prize.",
+                                    "reason": {
+                                        "en": "The dialogue states that Kathy *would have* worked harder *if* she had known, implying she did not put in her maximum effort. This option claims she *couldn't have* put more effort, which contradicts the conditional statement.",
+                                        "id": "Dialog menyatakan bahwa Kathy *akan* bekerja lebih keras *jika* dia tahu, menyiratkan dia tidak mengerahkan upaya maksimalnya. Pilihan ini mengklaim dia *tidak bisa* mengerahkan lebih banyak upaya, yang bertentangan dengan pernyataan kondisional."
+                                    }
+                                },
+                                {
+                                    "text": "Kathy won first prize because of her hard work on the art project.",
+                                    "reason": {
+                                        "en": "The dialogue focuses on what *would have happened* if Kathy had known about the prize, not on the outcome of her work. There is no information given about whether she won first prize.",
+                                        "id": "Dialog berfokus pada apa *yang akan terjadi* jika Kathy tahu tentang hadiah, bukan pada hasil karyanya. Tidak ada informasi yang diberikan tentang apakah dia memenangkan hadiah pertama."
+                                    }
+                                },
+                                {
+                                    "text": "Kathy worked so hard that she knew first prize was hers.",
+                                    "reason": {
+                                        "en": "The woman's statement is a hypothetical situation ('if she had known'). It does not suggest that Kathy worked so hard that she was certain to win; in fact, it implies the opposite – that her effort might have been less due to not knowing the prize.",
+                                        "id": "Pernyataan wanita adalah situasi hipotetis ('jika dia tahu'). Ini tidak menyarankan bahwa Kathy bekerja sangat keras sehingga dia yakin akan menang; bahkan, itu menyiratkan sebaliknya – bahwa usahanya mungkin lebih sedikit karena tidak mengetahui hadiahnya."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 14: Listen for Wishes",
+                            "_is_evaluated": true
+                        }
+                    ],
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-15.mp3",
+                    "groups": []
+                }
+            ]
+        },
+        {
+            "title": "REVIEW SKILL 14-15",
+            "type": "listening",
+            "durationMinutes": 25,
+            "parts": [
+                {
+                    "title": "REVIEW SKILLS 14-15",
+                    "instruction": "",
+                    "questions": [
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-14-15-01.mp3",
+                            "passage": "(man) Did you enjoy the film?\n(woman) I wish it had not been so violent.",
+                            "question": "1.  WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "She enjoys violent movies.",
+                                    "reason": {
+                                        "en": "The woman explicitly states she wishes the film had NOT been so violent, which contradicts this option.",
+                                        "id": "Wanita tersebut secara eksplisit menyatakan keinginannya agar film tersebut TIDAK terlalu keras, yang bertentangan dengan pilihan ini."
+                                    }
+                                },
+                                {
+                                    "text": "She would have preferred a more violent movie.",
+                                    "reason": {
+                                        "en": "The woman's wish is that the film had been LESS violent, not more. This option reverses her meaning.",
+                                        "id": "Keinginan wanita tersebut adalah agar film tersebut KURANG keras, bukan lebih keras. Pilihan ini membalikkan maknanya."
+                                    }
+                                },
+                                {
+                                    "text": "She thinks the film was too violent.",
+                                    "reason": {
+                                        "en": "The phrase 'I wish it had not been so violent' directly implies that the woman found the film to be too violent.",
+                                        "id": "Frasa 'Saya berharap itu tidak terlalu keras' secara langsung menyiratkan bahwa wanita tersebut menganggap film itu terlalu keras."
+                                    }
+                                },
+                                {
+                                    "text": "She enjoyed the movie.",
+                                    "reason": {
+                                        "en": "While she might have enjoyed parts of it, her wish focuses on a negative aspect (violence), indicating a reservation about her overall enjoyment.",
+                                        "id": "Meskipun dia mungkin menikmati bagian-bagiannya, keinginannya berfokus pada aspek negatif (kekerasan), yang menunjukkan keraguan tentang kenikmatannya secara keseluruhan."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 14: Listen for Wishes",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-14-15-02.mp3",
+                            "passage": "(woman) Did you remember to close the win dows before we left?\n(man) If I had left the windows open, the rain would have gotten in.",
+                            "question": "2.  WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "He left the windows open.",
+                                    "reason": {
+                                        "en": "The man's statement 'If I had left the windows open, the rain would have gotten in' implies the opposite is true. Since he is implying the rain *did not* get in, it means he *did* close the windows. Therefore, he did not leave them open.",
+                                        "id": "Pernyataan pria 'Jika saya membiarkan jendela terbuka, hujan akan masuk' menyiratkan kebalikannya yang benar. Karena dia menyiratkan hujan *tidak* masuk, itu berarti dia *memang* menutup jendela. Oleh karena itu, dia tidak membiarkannya terbuka."
+                                    }
+                                },
+                                {
+                                    "text": "The rain did not get in.",
+                                    "reason": {
+                                        "en": "The man uses an untrue condition ('If I had left the windows open...') to imply that the opposite of the consequence happened. The consequence stated is 'the rain would have gotten in.' The opposite of this is that the rain did not get in, which means he successfully prevented it by closing the windows.",
+                                        "id": "Pria itu menggunakan kondisi yang tidak benar ('Jika saya membiarkan jendela terbuka...') untuk menyiratkan bahwa kebalikan dari konsekuensinya terjadi. Konsekuensi yang dinyatakan adalah 'hujan akan masuk.' Kebalikan dari ini adalah hujan tidak masuk, yang berarti dia berhasil mencegahnya dengan menutup jendela."
+                                    }
+                                },
+                                {
+                                    "text": "He forgot to close the windows.",
+                                    "reason": {
+                                        "en": "The man's statement is a hypothetical situation that implies the opposite occurred. If he had left the windows open, the rain would have gotten in. This means he did *not* leave the windows open, so he did not forget to close them.",
+                                        "id": "Pernyataan pria itu adalah situasi hipotetis yang menyiratkan kebalikannya terjadi. Jika dia membiarkan jendela terbuka, hujan akan masuk. Ini berarti dia *tidak* membiarkan jendela terbuka, jadi dia tidak lupa menutupnya."
+                                    }
+                                },
+                                {
+                                    "text": "The rain got into the house.",
+                                    "reason": {
+                                        "en": "The man's statement is an untrue condition. He says, 'If I had left the windows open, the rain would have gotten in.' This implies that he *did not* leave the windows open, and therefore the rain did *not* get into the house.",
+                                        "id": "Pernyataan pria itu adalah kondisi yang tidak benar. Dia berkata, 'Jika saya membiarkan jendela terbuka, hujan akan masuk.' Ini menyiratkan bahwa dia *tidak* membiarkan jendela terbuka, dan oleh karena itu hujan *tidak* masuk ke dalam rumah."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 15: Listen for Untrue Conditions",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-14-15-03.mp3",
+                            "passage": "(man) Are your parents able to come to the graduation ceremonies?\n(woman)  I wish they were able to come.",
+                            "question": "3.  WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Her family is unable to come to graduation.",
+                                    "reason": {
+                                        "en": "The woman uses the phrase 'I wish they were able to come.' According to Skill 14, a wish implies that the opposite of the wish is true. Therefore, she means her parents are NOT able to come.",
+                                        "id": "Wanita tersebut menggunakan frasa 'I wish they were able to come.' Menurut Skill 14, sebuah harapan menyiratkan bahwa kebalikan dari harapan tersebut adalah benar. Oleh karena itu, dia bermaksud bahwa orang tuanya TIDAK dapat datang."
+                                    }
+                                },
+                                {
+                                    "text": "It is possible that her family will come.",
+                                    "reason": {
+                                        "en": "The phrase 'I wish' indicates a desire for something that is not currently true, not a possibility.",
+                                        "id": "Frasa 'I wish' menunjukkan keinginan untuk sesuatu yang saat ini tidak benar, bukan kemungkinan."
+                                    }
+                                },
+                                {
+                                    "text": "Her parents are coming to the ceremonies.",
+                                    "reason": {
+                                        "en": "The use of 'I wish they were able to come' directly contradicts this statement, as it implies they are not able to come.",
+                                        "id": "Penggunaan 'I wish they were able to come' secara langsung bertentangan dengan pernyataan ini, karena menyiratkan bahwa mereka tidak dapat datang."
+                                    }
+                                },
+                                {
+                                    "text": "She is not graduating this year.",
+                                    "reason": {
+                                        "en": "The woman's statement is about her parents attending the ceremony, not about her own graduation status.",
+                                        "id": "Pernyataan wanita tersebut adalah tentang orang tuanya yang menghadiri upacara, bukan tentang status kelulusannya sendiri."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 14: Listen for Wishes",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-14-15-04.mp3",
+                            "passage": "(woman)  Are you going on vacation next week?\n(man) I would miss the conference if I took my vacation next week.",
+                            "question": "4.  WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "He is going to miss the conference.",
+                                    "reason": {
+                                        "en": "The man states he would miss the conference IF he took his vacation next week. This implies he does NOT want to miss the conference, and therefore will not take his vacation next week.",
+                                        "id": "Pria itu menyatakan bahwa dia akan ketinggalan konferensi JIKA dia mengambil liburannya minggu depan. Ini menyiratkan bahwa dia TIDAK ingin ketinggalan konferensi, dan oleh karena itu tidak akan mengambil liburannya minggu depan."
+                                    }
+                                },
+                                {
+                                    "text": "He will take his vacation next week.",
+                                    "reason": {
+                                        "en": "The man implies he will NOT take his vacation next week because it would cause him to miss the conference.",
+                                        "id": "Pria itu menyiratkan bahwa dia TIDAK akan mengambil liburannya minggu depan karena itu akan membuatnya ketinggalan konferensi."
+                                    }
+                                },
+                                {
+                                    "text": "He will attend the conference.",
+                                    "reason": {
+                                        "en": "The man states he would miss the conference IF he took his vacation next week. This implies that to avoid missing the conference, he will attend it.",
+                                        "id": "Pria itu menyatakan bahwa dia akan ketinggalan konferensi JIKA dia mengambil liburannya minggu depan. Ini menyiratkan bahwa untuk menghindari ketinggalan konferensi, dia akan menghadirinya."
+                                    }
+                                },
+                                {
+                                    "text": "He won't miss his vacation.",
+                                    "reason": {
+                                        "en": "The man implies he will miss his vacation by not taking it next week to avoid missing the conference.",
+                                        "id": "Pria itu menyiratkan bahwa dia akan ketinggalan liburannya dengan tidak mengambilnya minggu depan untuk menghindari ketinggalan konferensi."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 14: Listen for Wishes",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-14-15-05.mp3",
+                            "passage": "(woman) You have chemistry lab this afternoon, don't you?\n(man) Yes, and I really wish I didn't have to go there.",
+                            "question": "5.  WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "He enjoys chemistry lab.",
+                                    "reason": {
+                                        "en": "The man explicitly states he wishes he didn't have to go, which is the opposite of enjoying it.",
+                                        "id": "Pria itu secara eksplisit menyatakan bahwa dia berharap dia tidak harus pergi, yang berlawanan dengan menikmatinya."
+                                    }
+                                },
+                                {
+                                    "text": "He doesn't have chemistry lab this afternoon.",
+                                    "reason": {
+                                        "en": "The man confirms he has chemistry lab this afternoon, so this option contradicts his statement.",
+                                        "id": "Pria itu mengonfirmasi bahwa dia memiliki lab kimia sore ini, jadi pilihan ini bertentangan dengan pernyataannya."
+                                    }
+                                },
+                                {
+                                    "text": "He isn't taking chemistry class.",
+                                    "reason": {
+                                        "en": "The man's statement implies he is taking chemistry, as he has a lab for it.",
+                                        "id": "Pernyataan pria itu menyiratkan bahwa dia mengambil kimia, karena dia memiliki lab untuk itu."
+                                    }
+                                },
+                                {
+                                    "text": "He has to go to the lab.",
+                                    "reason": {
+                                        "en": "The man says 'I really wish I didn't have to go there.' This implies the opposite is true, meaning he *does* have to go.",
+                                        "id": "Pria itu berkata 'Saya sangat berharap saya tidak harus pergi ke sana.' Ini menyiratkan kebalikannya yang benar, yang berarti dia *harus* pergi."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 14: Listen for Wishes",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-14-15-06.mp3",
+                            "passage": "(man) How could they have run out of gas?\n(woman) Had they filled up the tank at the last service station, they wouldn't have run out of gas.",
+                            "question": "6.  WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "They filled up the gas tank at the last service station.",
+                                    "reason": {
+                                        "en": "This is the opposite of what the woman implies. The woman states that if they HAD filled up, they WOULDN'T have run out of gas, meaning they DIDN'T fill up and DID run out of gas.",
+                                        "id": "Ini adalah kebalikan dari apa yang tersirat oleh wanita itu. Wanita itu menyatakan bahwa jika mereka TELAH mengisi bensin, mereka TIDAK akan kehabisan bensin, yang berarti mereka TIDAK mengisi bensin dan KEHABISAN bensin."
+                                    }
+                                },
+                                {
+                                    "text": "Although they filled up the tank, they still ran out of gas.",
+                                    "reason": {
+                                        "en": "This contradicts the woman's statement. She implies that filling up the tank would have prevented them from running out of gas.",
+                                        "id": "Ini bertentangan dengan pernyataan wanita itu. Dia menyiratkan bahwa mengisi tangki bensin akan mencegah mereka kehabisan bensin."
+                                    }
+                                },
+                                {
+                                    "text": "Even though they didn't stop at the service station, they didn't run out of gas.",
+                                    "reason": {
+                                        "en": "This is the opposite of the situation described. The woman's statement implies that they DID run out of gas because they did NOT fill up.",
+                                        "id": "Ini adalah kebalikan dari situasi yang dijelaskan. Pernyataan wanita itu menyiratkan bahwa mereka KEHABISAN bensin karena mereka TIDAK mengisi bensin."
+                                    }
+                                },
+                                {
+                                    "text": "They ran out of gas because they didn't stop at the gas station.",
+                                    "reason": {
+                                        "en": "The woman's statement is a third conditional, implying that the condition (filling up the tank) was not met, and therefore the result (running out of gas) occurred. 'Had they filled up...' means they did NOT fill up, and 'they wouldn't have run out of gas' implies they DID run out of gas.",
+                                        "id": "Pernyataan wanita itu adalah pengandaian tipe ketiga, yang menyiratkan bahwa syarat (mengisi tangki bensin) tidak terpenuhi, dan oleh karena itu hasilnya (kehabisan bensin) terjadi. 'Seandainya mereka mengisi...' berarti mereka TIDAK mengisi, dan 'mereka tidak akan kehabisan bensin' menyiratkan bahwa mereka KEHABISAN bensin."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 15: Listen for Untrue Conditions",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-14-15-07.mp3",
+                            "passage": "(woman)  You have such a heavy schedule this semester.\n(man) I really wish I had not registered for so many courses.",
+                            "question": "7.  WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "His schedule is not really heavy.",
+                                    "reason": {
+                                        "en": "The man explicitly states he wishes he had not registered for so many courses, directly contradicting this option.",
+                                        "id": "Pria tersebut secara eksplisit menyatakan bahwa dia berharap tidak mendaftar terlalu banyak mata kuliah, yang secara langsung bertentangan dengan pilihan ini."
+                                    }
+                                },
+                                {
+                                    "text": "He needs to add a few more courses.",
+                                    "reason": {
+                                        "en": "The man's statement is a wish about the past, indicating regret about having too many courses, not a desire to add more.",
+                                        "id": "Pernyataan pria tersebut adalah harapan tentang masa lalu, yang menunjukkan penyesalan karena memiliki terlalu banyak mata kuliah, bukan keinginan untuk menambah lebih banyak."
+                                    }
+                                },
+                                {
+                                    "text": "He enrolled in more courses than he really wants.",
+                                    "reason": {
+                                        "en": "The man's wish, 'I really wish I had not registered for so many courses,' implies the opposite is true: he did register for too many courses and regrets it.",
+                                        "id": "Harapan pria tersebut, 'Saya benar-benar berharap saya tidak mendaftar untuk begitu banyak mata kuliah,' menyiratkan kebalikannya yang benar: dia mendaftar untuk terlalu banyak mata kuliah dan menyesalinya."
+                                    }
+                                },
+                                {
+                                    "text": "He will register for a lot of courses next semester.",
+                                    "reason": {
+                                        "en": "The man's wish refers to his current semester's registration, not his plans for the next semester.",
+                                        "id": "Harapan pria tersebut merujuk pada pendaftaran semester ini, bukan rencananya untuk semester depan."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 14: Listen for Wishes",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-14-15-08.mp3",
+                            "passage": "(man) Do you take the bus to work every day?\n(woman)  If I didn't take the bus, I don't know how I would get there.",
+                            "question": "8.  WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "She never took the bus to work.",
+                                    "reason": {
+                                        "en": "The woman's statement 'If I didn't take the bus, I don't know how I would get there' implies that she DOES take the bus. This answer states the opposite.",
+                                        "id": "Pernyataan wanita 'If I didn't take the bus, I don't know how I would get there' menyiratkan bahwa dia MEMANG naik bus. Jawaban ini menyatakan sebaliknya."
+                                    }
+                                },
+                                {
+                                    "text": "She regularly takes the bus.",
+                                    "reason": {
+                                        "en": "The woman's statement is a conditional that implies the opposite is true. 'If I didn't take the bus...' means that she DOES take the bus. The second part 'I don't know how I would get there' reinforces that the bus is her primary means of transportation, implying she regularly takes it.",
+                                        "id": "Pernyataan wanita adalah kondisional yang menyiratkan kebalikannya benar. 'If I didn't take the bus...' berarti dia MEMANG naik bus. Bagian kedua 'I don't know how I would get there' memperkuat bahwa bus adalah moda transportasi utamanya, menyiratkan bahwa dia secara teratur menggunakannya."
+                                    }
+                                },
+                                {
+                                    "text": "She doesn't know how to get to work.",
+                                    "reason": {
+                                        "en": "The woman states she doesn't know how she *would* get there *if* she didn't take the bus, not that she doesn't know how to get there in general.",
+                                        "id": "Wanita itu menyatakan bahwa dia tidak tahu bagaimana dia *akan* sampai di sana *jika* dia tidak naik bus, bukan bahwa dia tidak tahu cara sampai di sana secara umum."
+                                    }
+                                },
+                                {
+                                    "text": "She gets lost on the bus.",
+                                    "reason": {
+                                        "en": "There is no information in the dialogue to suggest that the woman gets lost on the bus.",
+                                        "id": "Tidak ada informasi dalam dialog yang menunjukkan bahwa wanita itu tersesat di bus."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 14: Listen for Wishes",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-14-15-09.mp3",
+                            "passage": "(man) Do you have any eggs that I could bor row? I need them for a dish I'm preparing.\n(woman) I wish I had bought some when I was at the store.",
+                            "question": "9.  WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "She bought some eggs at the store.",
+                                    "reason": {
+                                        "en": "The woman says 'I wish I had bought some,' which implies the opposite is true. Therefore, she did not buy eggs.",
+                                        "id": "Wanita itu berkata 'Saya berharap saya sudah membeli beberapa,' yang menyiratkan kebalikannya yang benar. Oleh karena itu, dia tidak membeli telur."
+                                    }
+                                },
+                                {
+                                    "text": "She doesn't have any eggs to lend him.",
+                                    "reason": {
+                                        "en": "The woman's statement 'I wish I had bought some' implies that she did not buy eggs and therefore does not have any to lend.",
+                                        "id": "Pernyataan wanita itu 'Saya berharap saya sudah membeli beberapa' menyiratkan bahwa dia tidak membeli telur dan oleh karena itu tidak punya untuk dipinjamkan."
+                                    }
+                                },
+                                {
+                                    "text": "He can borrow some eggs.",
+                                    "reason": {
+                                        "en": "The woman's statement 'I wish I had bought some' implies that she did not buy eggs and therefore cannot lend them to him.",
+                                        "id": "Pernyataan wanita itu 'Saya berharap saya sudah membeli beberapa' menyiratkan bahwa dia tidak membeli telur dan oleh karena itu tidak dapat meminjamkannya kepadanya."
+                                    }
+                                },
+                                {
+                                    "text": "She didn't go to the store.",
+                                    "reason": {
+                                        "en": "The woman says 'I wish I had bought some when I was at the store.' This implies that she was at the store but did not buy eggs.",
+                                        "id": "Wanita itu berkata 'Saya berharap saya sudah membeli beberapa ketika saya berada di toko.' Ini menyiratkan bahwa dia berada di toko tetapi tidak membeli telur."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 14: Listen for Wishes",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-14-15-10.mp3",
+                            "passage": "(woman) How is Teresa feeling?\n(man) If she had taken the medicine that the doctor prescribed, she might be feeling a lot better.",
+                            "question": "10. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "Teresa is feeling a lot better.",
+                                    "reason": {
+                                        "en": "The man's statement is a conditional sentence implying the opposite of what is stated. The condition 'If she had taken the medicine' suggests she did NOT take the medicine, and the result 'she might be feeling a lot better' implies she is NOT feeling better.",
+                                        "id": "Pernyataan pria tersebut adalah kalimat bersyarat yang menyiratkan kebalikan dari apa yang dinyatakan. Kondisi 'Jika dia telah meminum obatnya' menyiratkan bahwa dia TIDAK meminum obatnya, dan hasilnya 'dia mungkin merasa jauh lebih baik' menyiratkan bahwa dia TIDAK merasa lebih baik."
+                                    }
+                                },
+                                {
+                                    "text": "The doctor didn't prescribe the medicine.",
+                                    "reason": {
+                                        "en": "The man's statement implies that the doctor DID prescribe the medicine. The condition is about whether Teresa took it, not whether it was prescribed.",
+                                        "id": "Pernyataan pria tersebut menyiratkan bahwa dokter MEMANG meresepkan obat tersebut. Kondisinya adalah tentang apakah Teresa meminumnya, bukan apakah itu diresepkan."
+                                    }
+                                },
+                                {
+                                    "text": "Teresa didn't follow the doctor's orders.",
+                                    "reason": {
+                                        "en": "The man's statement uses an untrue condition ('If she had taken the medicine'). This structure implies that the condition was not met, meaning Teresa did not take the medicine as ordered by the doctor.",
+                                        "id": "Pernyataan pria tersebut menggunakan kondisi yang tidak benar ('Jika dia telah meminum obatnya'). Struktur ini menyiratkan bahwa kondisi tersebut tidak terpenuhi, yang berarti Teresa tidak meminum obat sesuai perintah dokter."
+                                    }
+                                },
+                                {
+                                    "text": "Teresa did exactly what the doctor said.",
+                                    "reason": {
+                                        "en": "The man's statement is a conditional sentence implying the opposite of what is stated. The condition 'If she had taken the medicine' suggests she did NOT take the medicine, and the result 'she might be feeling a lot better' implies she is NOT feeling better.",
+                                        "id": "Pernyataan pria tersebut adalah kalimat bersyarat yang menyiratkan kebalikan dari apa yang dinyatakan. Kondisi 'Jika dia telah meminum obatnya' menyiratkan bahwa dia TIDAK meminum obatnya, dan hasilnya 'dia mungkin merasa jauh lebih baik' menyiratkan bahwa dia TIDAK merasa lebih baik."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 15: Listen for Untrue Conditions",
+                            "_is_evaluated": true
+                        }
+                    ],
+                    "groups": [],
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-14-15.mp3"
+                },
+                {
+                    "title": "REVIEW SKILLS 01-15",
+                    "instruction": "",
+                    "questions": [
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-15-01.mp3",
+                            "passage": "(man) This tea is awfully hot.\n(woman) Why not wait a few minutes?",
+                            "question": "1. WHAT DOES THE WOMAN SUG GEST?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "Drinking the hot tea .",
+                                    "reason": {
+                                        "en": "The man states the tea is 'awfully hot,' implying he does not want to drink it immediately. Option 0 contradicts this.",
+                                        "id": "Pria menyatakan tehnya 'sangat panas', menyiratkan dia tidak ingin meminumnya segera. Pilihan 0 bertentangan dengan ini."
+                                    }
+                                },
+                                {
+                                    "text": "Making more tea in a few minutes .",
+                                    "reason": {
+                                        "en": "The woman's suggestion is to wait, not to make more tea. This option is irrelevant to the dialogue.",
+                                        "id": "Saran wanita adalah menunggu, bukan membuat teh lagi. Pilihan ini tidak relevan dengan dialog."
+                                    }
+                                },
+                                {
+                                    "text": "Letting the tea cool off a bit .",
+                                    "reason": {
+                                        "en": "The woman's question 'Why not wait a few minutes?' directly suggests waiting for the tea to cool down, which is implied by the man's comment about the tea being 'awfully hot.' This aligns with Skill 14's focus on implied meanings.",
+                                        "id": "Pertanyaan wanita 'Mengapa tidak menunggu beberapa menit?' secara langsung menyarankan menunggu teh mendingin, yang tersirat dari komentar pria tentang teh yang 'sangat panas'. Ini sejalan dengan fokus Skill 14 pada makna tersirat."
+                                    }
+                                },
+                                {
+                                    "text": "Having the tea immediately .",
+                                    "reason": {
+                                        "en": "The man explicitly states the tea is too hot to have immediately. Option 3 directly contradicts the man's statement and the woman's implied suggestion.",
+                                        "id": "Pria secara eksplisit menyatakan teh terlalu panas untuk diminum segera. Pilihan 3 secara langsung bertentangan dengan pernyataan pria dan saran tersirat wanita."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 14: Listen for Wishes",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-15-02.mp3",
+                            "passage": "(woman) I'd like two tickets to the six o'clock show, please.\n(man) That will be ten dollars.",
+                            "question": "2. WHERE DOES THIS CONVERSA TION PROBABLY TAKE PLACE?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "In a bus station .",
+                                    "reason": {
+                                        "en": "The conversation is about purchasing tickets for a show, not about transportation or waiting for a bus.",
+                                        "id": "Percakapan ini tentang membeli tiket untuk pertunjukan, bukan tentang transportasi atau menunggu bus."
+                                    }
+                                },
+                                {
+                                    "text": "In a store .",
+                                    "reason": {
+                                        "en": "While tickets are sold in stores, the context of a 'show' and 'tickets' specifically points to an entertainment venue rather than a general store.",
+                                        "id": "Meskipun tiket dijual di toko, konteks 'pertunjukan' dan 'tiket' secara spesifik menunjuk ke tempat hiburan daripada toko umum."
+                                    }
+                                },
+                                {
+                                    "text": "In a restaurant .",
+                                    "reason": {
+                                        "en": "The conversation is about purchasing tickets for a show, not about ordering food or dining.",
+                                        "id": "Percakapan ini tentang membeli tiket untuk pertunjukan, bukan tentang memesan makanan atau makan."
+                                    }
+                                },
+                                {
+                                    "text": "In a theater .",
+                                    "reason": {
+                                        "en": "The dialogue involves a customer requesting tickets for a 'show' and a price being given, which is typical of a theater or cinema box office.",
+                                        "id": "Dialog tersebut melibatkan pelanggan yang meminta tiket untuk 'pertunjukan' dan harga yang diberikan, yang merupakan ciri khas loket teater atau bioskop."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 14: Listen for Wishes",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-15-03.mp3",
+                            "passage": "(woman) Are you glad that the semester's about over?\n(man) I'm not exacdy sad that it's ending.",
+                            "question": "3. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "He's unhappy to end the semester.",
+                                    "reason": {
+                                        "en": "The man says he is 'not exactly sad' that the semester is ending, which means he is not unhappy. This option states he is unhappy.",
+                                        "id": "Pria itu mengatakan dia 'tidak terlalu sedih' semester berakhir, yang berarti dia tidak tidak senang. Pilihan ini menyatakan dia tidak senang."
+                                    }
+                                },
+                                {
+                                    "text": "He's glad to be finishing school.",
+                                    "reason": {
+                                        "en": "The man says he is 'not exactly sad' that the semester is ending. This is an understatement, meaning he is actually quite happy that it is ending. This option captures that sentiment.",
+                                        "id": "Pria itu mengatakan dia 'tidak terlalu sedih' semester berakhir. Ini adalah pernyataan yang meremehkan, yang berarti dia sebenarnya cukup senang semester itu berakhir. Pilihan ini menangkap sentimen tersebut."
+                                    }
+                                },
+                                {
+                                    "text": "He couldn't be happier to begin the semester.",
+                                    "reason": {
+                                        "en": "The man is talking about the end of the semester, not the beginning. This option refers to the beginning.",
+                                        "id": "Pria itu berbicara tentang akhir semester, bukan permulaan. Pilihan ini merujuk pada permulaan."
+                                    }
+                                },
+                                {
+                                    "text": "The end of the semester is making him feel sad.",
+                                    "reason": {
+                                        "en": "The man says he is 'not exactly sad,' which is the opposite of being sad. This option states he is sad.",
+                                        "id": "Pria itu mengatakan dia 'tidak terlalu sedih,' yang merupakan kebalikan dari sedih. Pilihan ini menyatakan dia sedih."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 14: Listen for Wishes",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-15-04.mp3",
+                            "passage": "(woman) How much damage did the storm do?\n(man) The trees behind the house were knocked down.",
+                            "question": "4. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "The storm destroyed the house.",
+                                    "reason": {
+                                        "en": "The man only mentions trees being knocked down, not damage to the house itself. This answer goes beyond the information given.",
+                                        "id": "Pria itu hanya menyebutkan pohon-pohon tumbang, bukan kerusakan pada rumah itu sendiri. Jawaban ini melampaui informasi yang diberikan."
+                                    }
+                                },
+                                {
+                                    "text": "The house blocked the trees.",
+                                    "reason": {
+                                        "en": "The man states the trees were behind the house, implying the trees fell, not that the house blocked them. This answer misinterprets the relationship.",
+                                        "id": "Pria itu menyatakan bahwa pohon-pohon berada di belakang rumah, menyiratkan bahwa pohon-pohon itu tumbang, bukan bahwa rumah itu menghalanginya. Jawaban ini salah menafsirkan hubungan tersebut."
+                                    }
+                                },
+                                {
+                                    "text": "The stormy weather caused the trees to fall.",
+                                    "reason": {
+                                        "en": "The man's statement 'The trees behind the house were knocked down' directly implies that the storm caused the trees to fall. This is a direct inference from the provided information.",
+                                        "id": "Pernyataan pria itu 'Pohon-pohon di belakang rumah tumbang' secara langsung menyiratkan bahwa badai menyebabkan pohon-pohon itu tumbang. Ini adalah kesimpulan langsung dari informasi yang diberikan."
+                                    }
+                                },
+                                {
+                                    "text": "During the storm, someone knocked on the door of the house.",
+                                    "reason": {
+                                        "en": "The man is discussing damage from a storm, not someone knocking on a door. This answer is irrelevant to the conversation.",
+                                        "id": "Pria itu sedang membahas kerusakan akibat badai, bukan seseorang yang mengetuk pintu. Jawaban ini tidak relevan dengan percakapan."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 15: Listen for Untrue Conditions",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-15-05.mp3",
+                            "passage": "(woman) I hear the football team lost again.\n(man) As usual.",
+                            "question": "5. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "The team hasn't won often.",
+                                    "reason": {
+                                        "en": "The man's response 'As usual' implies that the team losing is a common occurrence, meaning they haven't won often. This aligns with Skill 14 which discusses how statements can imply the opposite of what is literally said, or in this case, imply a consistent pattern.",
+                                        "id": "Respons pria 'As usual' menyiratkan bahwa tim kalah adalah kejadian biasa, yang berarti mereka tidak sering menang. Ini selaras dengan Skill 14 yang membahas bagaimana pernyataan dapat menyiratkan kebalikan dari apa yang dikatakan secara harfiah, atau dalam kasus ini, menyiratkan pola yang konsisten."
+                                    }
+                                },
+                                {
+                                    "text": "He usually doesn't pay attention to the football team.",
+                                    "reason": {
+                                        "en": "The phrase 'As usual' indicates a pattern of behavior or events, not necessarily the man's attention level. Skill 14 focuses on implied meanings related to wishes or contrary situations, not general attention.",
+                                        "id": "Frasa 'As usual' menunjukkan pola perilaku atau peristiwa, bukan tingkat perhatian pria tersebut. Skill 14 berfokus pada makna tersirat yang berkaitan dengan keinginan atau situasi yang berlawanan, bukan perhatian umum."
+                                    }
+                                },
+                                {
+                                    "text": "It's out of the ordinary for the team to lose.",
+                                    "reason": {
+                                        "en": "The man's statement 'As usual' directly contradicts this option. It implies that losing is NOT out of the ordinary. This relates to understanding implied meaning, as discussed in Skill 14.",
+                                        "id": "Pernyataan pria 'As usual' secara langsung bertentangan dengan pilihan ini. Ini menyiratkan bahwa kalah BUKANLAH hal yang luar biasa. Ini berkaitan dengan pemahaman makna tersirat, seperti yang dibahas dalam Skill 14."
+                                    }
+                                },
+                                {
+                                    "text": "He usually hears about the football games.",
+                                    "reason": {
+                                        "en": "The dialogue is about the team's performance (losing), not about the man hearing about the games. 'As usual' refers to the team's losing habit, not the man's information gathering. Skill 14 is about implied meanings, not about the frequency of hearing news.",
+                                        "id": "Dialog tersebut adalah tentang kinerja tim (kalah), bukan tentang pria yang mendengar tentang pertandingan. 'As usual' mengacu pada kebiasaan tim yang kalah, bukan pengumpulan informasi pria tersebut. Skill 14 adalah tentang makna tersirat, bukan tentang frekuensi mendengar berita."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 14: Listen for Wishes",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-15-06.mp3",
+                            "passage": "(man) I have to be at the office at 8:00 every morning.\n(woman) Then, you did get a job!",
+                            "question": "6. WHAT HADTHE WOMAN ASSUMED ABOUT THE MAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "He went to the office every morning.",
+                                    "reason": {
+                                        "en": "The woman's statement 'Then, you did get a job!' implies that she previously assumed the man did NOT have a job. Option 0 states the opposite of this assumption.",
+                                        "id": "Pernyataan wanita 'Then, you did get a job!' menyiratkan bahwa dia sebelumnya berasumsi pria itu TIDAK punya pekerjaan. Pilihan 0 menyatakan kebalikan dari asumsi ini."
+                                    }
+                                },
+                                {
+                                    "text": "He was not working.",
+                                    "reason": {
+                                        "en": "The woman's statement 'Then, you did get a job!' is a reaction to the man's statement about having to be at the office at 8:00 AM. This implies she previously assumed he was not working. This aligns with the context.",
+                                        "id": "Pernyataan wanita 'Then, you did get a job!' adalah reaksi terhadap pernyataan pria tentang keharusan berada di kantor jam 8 pagi. Ini menyiratkan bahwa dia sebelumnya berasumsi dia tidak bekerja. Ini sesuai dengan konteks."
+                                    }
+                                },
+                                {
+                                    "text": "He had to arrive at work earlier than 8 o'clock.",
+                                    "reason": {
+                                        "en": "The man states he has to be at the office at 8:00 AM. The woman's reaction does not suggest she assumed he had to arrive earlier; rather, it suggests she assumed he had no job at all.",
+                                        "id": "Pria itu menyatakan dia harus berada di kantor jam 8 pagi. Reaksi wanita itu tidak menunjukkan bahwa dia berasumsi dia harus tiba lebih awal; sebaliknya, itu menunjukkan bahwa dia berasumsi dia sama sekali tidak punya pekerjaan."
+                                    }
+                                },
+                                {
+                                    "text": "He had a job.",
+                                    "reason": {
+                                        "en": "The woman's statement 'Then, you did get a job!' is a conclusion based on the man's statement about his morning routine. It implies her prior assumption was that he did NOT have a job, making this option the opposite of her assumption.",
+                                        "id": "Pernyataan wanita 'Then, you did get a job!' adalah kesimpulan berdasarkan pernyataan pria tentang rutinitas paginya. Ini menyiratkan asumsi sebelumnya bahwa dia TIDAK punya pekerjaan, menjadikan pilihan ini kebalikan dari asumsinya."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 14: Listen for Wishes",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-15-07.mp3",
+                            "passage": "(woman) How was your vacation in the islands?\n(man) If I had not lost my passport, I would have enjoyed it a lot more.",
+                            "question": "7. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "He did not enjoy his vacation as much as possible.",
+                                    "reason": {
+                                        "en": "The man uses an untrue condition ('If I had not lost my passport') which implies the opposite is true: he DID lose his passport, and therefore he did not enjoy his vacation as much as possible. Option 0 correctly states this implied meaning.",
+                                        "id": "Pria tersebut menggunakan kondisi yang tidak benar ('Jika saya tidak kehilangan paspor saya') yang menyiratkan kebalikannya adalah benar: dia KEHILANGAN paspornya, dan oleh karena itu dia tidak menikmati liburannya sebanyak mungkin. Pilihan 0 dengan benar menyatakan makna tersirat ini."
+                                    }
+                                },
+                                {
+                                    "text": "He got lost on his vacation.",
+                                    "reason": {
+                                        "en": "The man states he lost his passport, not that he got lost. Option 1 misinterprets the meaning of 'lost'.",
+                                        "id": "Pria tersebut menyatakan bahwa dia kehilangan paspornya, bukan bahwa dia tersesat. Pilihan 1 salah menafsirkan arti 'lost'."
+                                    }
+                                },
+                                {
+                                    "text": "The vacation was really enjoyable.",
+                                    "reason": {
+                                        "en": "The untrue condition ('If I had not lost my passport') implies that the opposite is true, meaning he DID lose his passport and therefore did NOT enjoy his vacation fully. Option 2 contradicts this.",
+                                        "id": "Kondisi yang tidak benar ('Jika saya tidak kehilangan paspor saya') menyiratkan bahwa kebalikannya adalah benar, yang berarti dia KEHILANGAN paspornya dan oleh karena itu TIDAK menikmati liburannya sepenuhnya. Pilihan 2 bertentangan dengan ini."
+                                    }
+                                },
+                                {
+                                    "text": "He did not really lose his passport.",
+                                    "reason": {
+                                        "en": "The untrue condition ('If I had not lost my passport') implies that the opposite is true, meaning he DID lose his passport. Option 3 directly contradicts this implication.",
+                                        "id": "Kondisi yang tidak benar ('Jika saya tidak kehilangan paspor saya') menyiratkan bahwa kebalikannya adalah benar, yang berarti dia KEHILANGAN paspornya. Pilihan 3 secara langsung bertentangan dengan implikasi ini."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 15: Listen for Untrue Conditions",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-15-08.mp3",
+                            "passage": "(woman) Can you tell me which bus I should take to get to Riverdale?\n(man) The number 8 bus, I think.",
+                            "question": "8. WHAT DOES THE MAN INDICATE?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "It will take eight hours to get to Riverdale on the bus.",
+                                    "reason": {
+                                        "en": "The man does not mention the duration of the bus ride. The number '8' refers to the bus number, not hours.",
+                                        "id": "Pria itu tidak menyebutkan durasi perjalanan bus. Angka '8' merujuk pada nomor bus, bukan jam."
+                                    }
+                                },
+                                {
+                                    "text": "He believes he knows the correct bus.",
+                                    "reason": {
+                                        "en": "The man uses the phrase 'I think,' which indicates a belief or opinion, and he suggests the number 8 bus, implying he believes it is the correct one.",
+                                        "id": "Pria itu menggunakan frasa 'I think' (menurut saya), yang menunjukkan keyakinan atau pendapat, dan dia menyarankan bus nomor 8, menyiratkan bahwa dia percaya itu adalah bus yang benar."
+                                    }
+                                },
+                                {
+                                    "text": "He doesn't know where Riverdale is.",
+                                    "reason": {
+                                        "en": "The man offers a suggestion for the bus number, which implies he has some knowledge of how to get to Riverdale, rather than not knowing where it is.",
+                                        "id": "Pria itu menawarkan saran untuk nomor bus, yang menyiratkan bahwa dia memiliki pengetahuan tentang cara menuju Riverdale, daripada tidak tahu di mana lokasinya."
+                                    }
+                                },
+                                {
+                                    "text": "He assures the woman that he knows the way to Riverdale.",
+                                    "reason": {
+                                        "en": "The man expresses uncertainty with 'I think,' which is not an assurance. He is offering a suggestion, not a guarantee.",
+                                        "id": "Pria itu mengungkapkan ketidakpastian dengan 'I think' (menurut saya), yang bukan merupakan jaminan. Dia menawarkan saran, bukan kepastian."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 11: Listen for Expressions of Agreement",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-15-09.mp3",
+                            "passage": "(man) Did the laboratory assistant get a lot done?\n(woman) He couldn't finish more than one experiment.",
+                            "question": "9. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "The laboratory assistant completed one experiment.",
+                                    "reason": {
+                                        "en": "The woman's statement 'He couldn't finish more than one experiment' implies that he did finish one experiment. This is a common way to express a limited amount in English, similar to saying 'He only finished one experiment.' Therefore, option 0, 'The laboratory assistant completed one experiment,' is the correct interpretation.",
+                                        "id": "Pernyataan wanita 'He couldn't finish more than one experiment' menyiratkan bahwa dia menyelesaikan satu eksperimen. Ini adalah cara umum untuk menyatakan jumlah yang terbatas dalam bahasa Inggris, mirip dengan mengatakan 'He only finished one experiment.' Oleh karena itu, opsi 0, 'The laboratory assistant completed one experiment,' adalah interpretasi yang benar."
+                                    }
+                                },
+                                {
+                                    "text": "The laboratory assistant couldn't finish one experiment.",
+                                    "reason": {
+                                        "en": "This option directly contradicts the implication of the woman's statement. 'Couldn't finish more than one' means one was finished, not that one couldn't be finished.",
+                                        "id": "Opsi ini secara langsung bertentangan dengan implikasi pernyataan wanita tersebut. 'Couldn't finish more than one' berarti satu telah selesai, bukan bahwa satu tidak dapat diselesaikan."
+                                    }
+                                },
+                                {
+                                    "text": "The laboratory assistant didn't want to do more experiments.",
+                                    "reason": {
+                                        "en": "The dialogue does not provide information about the assistant's willingness or desire to do more experiments. The focus is on what he was able to accomplish.",
+                                        "id": "Dialog tersebut tidak memberikan informasi tentang kemauan atau keinginan asisten untuk melakukan lebih banyak eksperimen. Fokusnya adalah pada apa yang dapat dia capai."
+                                    }
+                                },
+                                {
+                                    "text": "None of the experiments could be completed.",
+                                    "reason": {
+                                        "en": "The woman's statement clearly indicates that at least one experiment was completed. This option suggests no experiments were completed, which is incorrect.",
+                                        "id": "Pernyataan wanita tersebut dengan jelas menunjukkan bahwa setidaknya satu eksperimen telah selesai. Opsi ini menyarankan bahwa tidak ada eksperimen yang selesai, yang salah."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 14: Listen for Wishes",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-15-10.mp3",
+                            "passage": "(man) I really wish the semester would end soon!\n(woman) You can say that again!",
+                            "question": "10. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "She would like the man to repeat what he said.",
+                                    "reason": {
+                                        "en": "The woman's response 'You can say that again!' is an idiom meaning she strongly agrees with the man, not that she wants him to repeat himself.",
+                                        "id": "Respons wanita 'You can say that again!' adalah idiom yang berarti dia sangat setuju dengan pria itu, bukan bahwa dia ingin dia mengulanginya."
+                                    }
+                                },
+                                {
+                                    "text": "The semester is really over! .",
+                                    "reason": {
+                                        "en": "The man's statement is a wish that the semester would end soon, implying it has not yet ended. The woman agrees with this wish.",
+                                        "id": "Pernyataan pria itu adalah harapan agar semester segera berakhir, menyiratkan bahwa itu belum berakhir. Wanita itu setuju dengan harapan ini."
+                                    }
+                                },
+                                {
+                                    "text": "The semester will never end.",
+                                    "reason": {
+                                        "en": "The man's statement is a wish for the semester to end soon, not a statement that it will never end. The woman agrees with his wish.",
+                                        "id": "Pernyataan pria itu adalah harapan agar semester segera berakhir, bukan pernyataan bahwa itu tidak akan pernah berakhir. Wanita itu setuju dengan harapannya."
+                                    }
+                                },
+                                {
+                                    "text": "She has the same wish as the man.",
+                                    "reason": {
+                                        "en": "The idiom 'You can say that again!' is used to express strong agreement. The woman is agreeing with the man's wish that the semester would end soon.",
+                                        "id": "Idiom 'You can say that again!' digunakan untuk mengekspresikan persetujuan yang kuat. Wanita itu setuju dengan harapan pria itu agar semester segera berakhir."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "Listening Part A - Skill 14: Listen for Wishes",
+                            "_is_evaluated": true
+                        }
+                    ],
+                    "groups": [],
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-01-15.mp3"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2078 @@
+{
+    "title": "Listening Skills 11-13",
+    "sections": [
+        {
+            "title": "SKILLS 11-13",
+            "type": "listening",
+            "durationMinutes": 25,
+            "parts": [
+                {
+                    "title": "SKILL 11: LISTEN FOR EXPRESSIONS OF AGREEMENT",
+                    "instruction": "In this exercise, listen carefully to each short dialogue and question on the recording, and then choose the best answer to the question. You should pay attention to expressions of agreement. ",
+                    "questions": [
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-11-01.mp3",
+                            "passage": "(man) I'd like to take a trip down the coast this weekend.\n(woman) Me, too.",
+                            "question": "1. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "The trip would cost too much.",
+                                    "reason": {
+                                        "en": "The woman's statement 'Me, too' indicates agreement with the man's desire to take a trip, not a concern about cost.",
+                                        "id": "Pernyataan wanita 'Me, too' menunjukkan persetujuan dengan keinginan pria untuk melakukan perjalanan, bukan kekhawatiran tentang biaya."
+                                    }
+                                },
+                                {
+                                    "text": "She doesn't think that a trip would be a good idea.",
+                                    "reason": {
+                                        "en": "The phrase 'Me, too' is an expression of agreement, directly contradicting the idea that she doesn't think the trip is a good idea.",
+                                        "id": "Frasa 'Me, too' adalah ekspresi persetujuan, yang secara langsung bertentangan dengan gagasan bahwa dia tidak berpikir perjalanan itu ide yang bagus."
+                                    }
+                                },
+                                {
+                                    "text": "She would like to take two trips rather than one.",
+                                    "reason": {
+                                        "en": "The woman is agreeing with the man's desire for one trip, not expressing a preference for two trips.",
+                                        "id": "Wanita itu setuju dengan keinginan pria untuk satu perjalanan, bukan mengungkapkan preferensi untuk dua perjalanan."
+                                    }
+                                },
+                                {
+                                    "text": "She would also like to take a trip.",
+                                    "reason": {
+                                        "en": "The phrase 'Me, too' is a common expression of agreement, meaning she shares the same desire as the man to take a trip.",
+                                        "id": "Frasa 'Me, too' adalah ekspresi persetujuan yang umum, yang berarti dia memiliki keinginan yang sama dengan pria itu untuk melakukan perjalanan."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 11: Listen for Expressions of Agreement",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-11-02.mp3",
+                            "passage": "(woman) I would like to see Matt elected to the town council next month.\n(man) So would I.",
+                            "question": "2. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "He would like to see the elections for town council.",
+                                    "reason": {
+                                        "en": "The man's statement 'So would I' indicates agreement with the woman's desire for Matt to be elected, not a general interest in the elections themselves.",
+                                        "id": "Pernyataan pria 'So would I' menunjukkan persetujuan dengan keinginan wanita agar Matt terpilih, bukan ketertarikan umum pada pemilihan itu sendiri."
+                                    }
+                                },
+                                {
+                                    "text": "He agrees that Matt should be elected.",
+                                    "reason": {
+                                        "en": "The phrase 'So would I' is a common expression of agreement in English, directly mirroring the woman's sentiment that Matt should be elected.",
+                                        "id": "Frasa 'So would I' adalah ungkapan persetujuan yang umum dalam bahasa Inggris, yang secara langsung mencerminkan sentimen wanita bahwa Matt harus terpilih."
+                                    }
+                                },
+                                {
+                                    "text": "He thinks the elections should take place next month.",
+                                    "reason": {
+                                        "en": "While the woman mentions 'next month,' the man's agreement is specifically about Matt's election, not the timing of the elections in general.",
+                                        "id": "Meskipun wanita menyebutkan 'bulan depan', persetujuan pria secara khusus adalah tentang pemilihan Matt, bukan tentang waktu pemilihan secara umum."
+                                    }
+                                },
+                                {
+                                    "text": "He disagrees with the woman.",
+                                    "reason": {
+                                        "en": "The phrase 'So would I' is an expression of agreement, directly contradicting the idea that the man disagrees with the woman.",
+                                        "id": "Frasa 'So would I' adalah ungkapan persetujuan, yang secara langsung bertentangan dengan gagasan bahwa pria tersebut tidak setuju dengan wanita itu."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 11: Listen for Expressions of Agreement",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-11-03.mp3",
+                            "passage": "(man) I'm not sure if I should take begin ning or intermediate French next semester.\n(woman) Neither am I.",
+                            "question": "3. WHAT DOES THE W7OMAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "She is not sure which course she should take.",
+                                    "reason": {
+                                        "en": "The woman uses the expression 'Neither am I' to agree with the man's statement of uncertainty about which French course to take. This directly means she shares his uncertainty.",
+                                        "id": "Wanita tersebut menggunakan ekspresi 'Neither am I' untuk menyetujui pernyataan ketidakpastian pria tentang kursus bahasa Prancis mana yang harus diambil. Ini secara langsung berarti dia berbagi ketidakpastiannya."
+                                    }
+                                },
+                                {
+                                    "text": "She's not sure if she should take a trip to France.",
+                                    "reason": {
+                                        "en": "The dialogue is about choosing French courses, not about taking a trip to France. The phrase 'Neither am I' is an agreement with the previous statement, not a statement about travel plans.",
+                                        "id": "Dialog tersebut adalah tentang memilih kursus bahasa Prancis, bukan tentang melakukan perjalanan ke Prancis. Frasa 'Neither am I' adalah persetujuan dengan pernyataan sebelumnya, bukan pernyataan tentang rencana perjalanan."
+                                    }
+                                },
+                                {
+                                    "text": "She knows that she is not ready for intermediate French.",
+                                    "reason": {
+                                        "en": "The woman's statement 'Neither am I' indicates she shares the man's uncertainty about *both* beginning and intermediate French, not that she knows she's not ready for intermediate.",
+                                        "id": "Pernyataan wanita 'Neither am I' menunjukkan bahwa dia berbagi ketidakpastian pria tentang *baik* bahasa Prancis tingkat pemula maupun menengah, bukan bahwa dia tahu dia belum siap untuk tingkat menengah."
+                                    }
+                                },
+                                {
+                                    "text": "She wants to take neither beginning nor intermediate French.",
+                                    "reason": {
+                                        "en": "The phrase 'Neither am I' is an agreement with the man's uncertainty about taking *either* course. It does not mean she wants to take neither course.",
+                                        "id": "Frasa 'Neither am I' adalah persetujuan dengan ketidakpastian pria tentang mengambil *salah satu* kursus. Itu tidak berarti dia tidak ingin mengambil kursus sama sekali."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 11: Listen for Expressions of Agreement",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-11-04.mp3",
+                            "passage": "(man) The food in the cafeteria is not exactly the best food I have ever tasted.\n(woman) You can say that again!",
+                            "question": "4. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "The man should repeat what he said.",
+                                    "reason": {
+                                        "en": "The woman's response 'You can say that again!' is an idiom expressing strong agreement, not a literal request for repetition.",
+                                        "id": "Respons wanita 'You can say that again!' adalah idiom yang mengekspresikan persetujuan kuat, bukan permintaan harfiah untuk mengulang."
+                                    }
+                                },
+                                {
+                                    "text": "The man said something foolish.",
+                                    "reason": {
+                                        "en": "The idiom 'You can say that again!' is used to express agreement, not to criticize the man's statement as foolish.",
+                                        "id": "Idiom 'You can say that again!' digunakan untuk mengekspresikan persetujuan, bukan untuk mengkritik pernyataan pria itu sebagai bodoh."
+                                    }
+                                },
+                                {
+                                    "text": "She thinks that the food is the best she has ever tasted.",
+                                    "reason": {
+                                        "en": "The woman's statement is in direct agreement with the man's negative comment about the food, meaning she also finds it bad.",
+                                        "id": "Pernyataan wanita itu adalah persetujuan langsung dengan komentar negatif pria tentang makanan, yang berarti dia juga menganggapnya buruk."
+                                    }
+                                },
+                                {
+                                    "text": "She agrees that the food is pretty bad.",
+                                    "reason": {
+                                        "en": "The idiom 'You can say that again!' is a common expression used to show strong agreement with a previous statement. The man stated the food was not good, and the woman is agreeing with him.",
+                                        "id": "Idiom 'You can say that again!' adalah ungkapan umum yang digunakan untuk menunjukkan persetujuan kuat dengan pernyataan sebelumnya. Pria itu menyatakan makanannya tidak enak, dan wanita itu setuju dengannya."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 11: Listen for Expressions of Agreement",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-11-05.mp3",
+                            "passage": "(woman) This party certainly has been fun!\n(man) I'll say!",
+                            "question": "5. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "This party hasn't been any fun at all.",
+                                    "reason": {
+                                        "en": "The man's response 'I'll say!' is an expression of strong agreement, meaning he agrees enthusiastically. Option [0] states the opposite.",
+                                        "id": "Respons pria 'I'll say!' adalah ekspresi persetujuan yang kuat, yang berarti dia setuju dengan antusias. Pilihan [0] menyatakan sebaliknya."
+                                    }
+                                },
+                                {
+                                    "text": "He wonders if the woman enjoyed herself.",
+                                    "reason": {
+                                        "en": "The man's response 'I'll say!' is a statement of agreement, not a question about the woman's enjoyment. Option [1] misinterprets the function of the expression.",
+                                        "id": "Respons pria 'I'll say!' adalah pernyataan persetujuan, bukan pertanyaan tentang kesenangan wanita. Pilihan [1] salah menafsirkan fungsi ekspresi tersebut."
+                                    }
+                                },
+                                {
+                                    "text": "He wants to know what she said.",
+                                    "reason": {
+                                        "en": "The man's response 'I'll say!' is an affirmation of his own feelings about the party, not a request for the woman to repeat herself. Option [2] is irrelevant.",
+                                        "id": "Respons pria 'I'll say!' adalah penegasan perasaannya sendiri tentang pesta, bukan permintaan agar wanita mengulang perkataannya. Pilihan [2] tidak relevan."
+                                    }
+                                },
+                                {
+                                    "text": "He's enjoyed himself tremendously.",
+                                    "reason": {
+                                        "en": "The expression 'I'll say!' is an idiom used to express strong agreement or emphasis. In this context, it means the man strongly agrees with the woman that the party has been fun, implying he has enjoyed himself tremendously. This aligns with Skill 11 which covers expressions of agreement.",
+                                        "id": "Ekspresi 'I'll say!' adalah idiom yang digunakan untuk menyatakan persetujuan atau penekanan yang kuat. Dalam konteks ini, artinya pria tersebut sangat setuju dengan wanita bahwa pesta itu menyenangkan, yang menyiratkan bahwa dia sangat menikmati dirinya sendiri. Hal ini sejalan dengan Skill 11 yang mencakup ekspresi persetujuan."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 11: Listen for Expressions of Agreement",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-11-06.mp3",
+                            "passage": "(man) I'm not about to condone what she did!\n(woman) I'm not either.",
+                            "question": "6. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "She condones what happened.",
+                                    "reason": {
+                                        "en": "The woman explicitly states 'I'm not either,' which is the opposite of condoning. This option contradicts her statement.",
+                                        "id": "Wanita secara eksplisit menyatakan 'Saya juga tidak', yang merupakan kebalikan dari menyetujui. Pilihan ini bertentangan dengan pernyataannya."
+                                    }
+                                },
+                                {
+                                    "text": "She does not like what the man said.",
+                                    "reason": {
+                                        "en": "The woman's statement is about agreeing with the man's sentiment regarding 'what she did,' not about his specific words or tone.",
+                                        "id": "Pernyataan wanita adalah tentang menyetujui sentimen pria mengenai 'apa yang dia lakukan', bukan tentang kata-kata atau nada spesifiknya."
+                                    }
+                                },
+                                {
+                                    "text": "She agrees with the man about what happened.",
+                                    "reason": {
+                                        "en": "The phrase 'I'm not either' is an expression of agreement with the man's negative statement ('I'm not about to condone'). This means she also does not condone what she did.",
+                                        "id": "Frasa 'Saya juga tidak' adalah ekspresi persetujuan dengan pernyataan negatif pria ('Saya tidak akan menyetujui'). Ini berarti dia juga tidak menyetujui apa yang dia lakukan."
+                                    }
+                                },
+                                {
+                                    "text": "She says that she did not do it.",
+                                    "reason": {
+                                        "en": "The dialogue is about the woman's (the speaker's) opinion on someone else's actions ('what she did'), not about her own actions.",
+                                        "id": "Dialog ini adalah tentang pendapat wanita (pembicara) tentang tindakan orang lain ('apa yang dia lakukan'), bukan tentang tindakannya sendiri."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 11: Listen for Expressions of Agreement",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-11-07.mp3",
+                            "passage": "(woman) Those people upstairs always have such loud parties.\n(man) Don't they!",
+                            "question": "7. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "He thinks the parties aren't loud.",
+                                    "reason": {
+                                        "en": "The man's response 'Don't they!' is an expression of agreement, meaning he agrees with the woman's statement that the parties are loud. This option states the opposite.",
+                                        "id": "Respons pria 'Don't they!' adalah ekspresi persetujuan, yang berarti dia setuju dengan pernyataan wanita bahwa pesta-pesta itu berisik. Pilihan ini menyatakan sebaliknya."
+                                    }
+                                },
+                                {
+                                    "text": "He says that the neighbors don't have many parties.",
+                                    "reason": {
+                                        "en": "The man's response 'Don't they!' is an expression of agreement with the woman's statement about the loudness of the parties. This option discusses the frequency of parties, which is not the focus of the man's agreement.",
+                                        "id": "Respons pria 'Don't they!' adalah ekspresi persetujuan dengan pernyataan wanita tentang kebisingan pesta. Pilihan ini membahas frekuensi pesta, yang bukan fokus persetujuan pria tersebut."
+                                    }
+                                },
+                                {
+                                    "text": "He agrees that the upstairs neighbors are noisy.",
+                                    "reason": {
+                                        "en": "The phrase 'Don't they!' is a common way to express agreement with a negative statement. The woman made a negative statement ('Don't they always have such loud parties'), and the man's response indicates he agrees with her observation that the neighbors are noisy.",
+                                        "id": "Frasa 'Don't they!' adalah cara umum untuk menyatakan persetujuan dengan pernyataan negatif. Wanita itu membuat pernyataan negatif ('Bukankah mereka selalu mengadakan pesta yang begitu keras'), dan respons pria itu menunjukkan bahwa dia setuju dengan pengamatannya bahwa tetangga-tetangga itu berisik."
+                                    }
+                                },
+                                {
+                                    "text": "The loud parties don't bother him.",
+                                    "reason": {
+                                        "en": "The man's response 'Don't they!' is an expression of agreement with the woman's statement about the loudness of the parties. This option suggests he is not bothered, which is not directly implied by his agreement.",
+                                        "id": "Respons pria 'Don't they!' adalah ekspresi persetujuan dengan pernyataan wanita tentang kebisingan pesta. Pilihan ini menyarankan bahwa dia tidak terganggu, yang tidak secara langsung tersirat dari persetujuannya."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 11: Listen for Expressions of Agreement",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-11-08.mp3",
+                            "passage": "(man) This meal is really delicious!\n(woman) Isn't it!",
+                            "question": "8. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "She doesn't like this meal too much.",
+                                    "reason": {
+                                        "en": "The woman uses an affirmative question ('Isn't it!') to agree with the man's positive statement ('This meal is really delicious!'). This option states the opposite of agreement.",
+                                        "id": "Wanita itu menggunakan pertanyaan afirmatif ('Isn't it!') untuk menyetujui pernyataan positif pria ('This meal is really delicious!'). Pilihan ini menyatakan kebalikan dari persetujuan."
+                                    }
+                                },
+                                {
+                                    "text": "This food tastes wonderful to her.",
+                                    "reason": {
+                                        "en": "The woman uses an affirmative question ('Isn't it!') to agree with the man's positive statement ('This meal is really delicious!'). This implies she also finds the meal wonderful.",
+                                        "id": "Wanita itu menggunakan pertanyaan afirmatif ('Isn't it!') untuk menyetujui pernyataan positif pria ('This meal is really delicious!'). Ini menyiratkan bahwa dia juga menganggap makanan itu luar biasa."
+                                    }
+                                },
+                                {
+                                    "text": "She's not sure if she likes it.",
+                                    "reason": {
+                                        "en": "The woman uses an affirmative question ('Isn't it!') to agree with the man's positive statement ('This meal is really delicious!'). This option suggests uncertainty, which is contrary to the expression of agreement.",
+                                        "id": "Wanita itu menggunakan pertanyaan afirmatif ('Isn't it!') untuk menyetujui pernyataan positif pria ('This meal is really delicious!'). Pilihan ini menunjukkan ketidakpastian, yang bertentangan dengan ekspresi persetujuan."
+                                    }
+                                },
+                                {
+                                    "text": "She can't stand this meal.",
+                                    "reason": {
+                                        "en": "The woman uses an affirmative question ('Isn't it!') to agree with the man's positive statement ('This meal is really delicious!'). This option states strong dislike, which is the opposite of agreement.",
+                                        "id": "Wanita itu menggunakan pertanyaan afirmatif ('Isn't it!') untuk menyetujui pernyataan positif pria ('This meal is really delicious!'). Pilihan ini menyatakan ketidaksukaan yang kuat, yang merupakan kebalikan dari persetujuan."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 11: Listen for Expressions of Agreement",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-11-09.mp3",
+                            "passage": "(man) I can't imagine what he was thinking about when he bought that car.\n(woman) Neither can I!",
+                            "question": "9. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "She agrees that getting the car was not a good idea.",
+                                    "reason": {
+                                        "en": "The woman uses the phrase 'Neither can I!' which is an expression of agreement. It means she shares the man's sentiment that the purchase of the car was questionable. This aligns with the idea that she agrees it was not a good idea.",
+                                        "id": "Wanita menggunakan frasa 'Neither can I!' yang merupakan ekspresi persetujuan. Ini berarti dia berbagi sentimen pria itu bahwa pembelian mobil itu dipertanyakan. Hal ini sejalan dengan gagasan bahwa dia setuju bahwa itu bukanlah ide yang bagus."
+                                    }
+                                },
+                                {
+                                    "text": "She imagines that she would like to have a similar car.",
+                                    "reason": {
+                                        "en": "The phrase 'Neither can I!' indicates agreement with the man's disbelief or questioning of the purchase, not a desire to own a similar car.",
+                                        "id": "Frasa 'Neither can I!' menunjukkan persetujuan dengan ketidakpercayaan atau pertanyaan pria itu tentang pembelian tersebut, bukan keinginan untuk memiliki mobil serupa."
+                                    }
+                                },
+                                {
+                                    "text": "She thinks that the man is mistaken about the car.",
+                                    "reason": {
+                                        "en": "The woman's statement 'Neither can I!' expresses agreement with the man's thought process, not a disagreement or a belief that he is mistaken.",
+                                        "id": "Pernyataan wanita 'Neither can I!' mengungkapkan persetujuan dengan proses berpikir pria itu, bukan ketidaksepakatan atau keyakinan bahwa dia salah."
+                                    }
+                                },
+                                {
+                                    "text": "She thinks the man has no imagination.",
+                                    "reason": {
+                                        "en": "The phrase 'Neither can I!' is an expression of agreement with the man's sentiment about the car purchase, not a comment on his imagination.",
+                                        "id": "Frasa 'Neither can I!' adalah ekspresi persetujuan dengan sentimen pria itu tentang pembelian mobil, bukan komentar tentang imajinasinya."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 11: Listen for Expressions of Agreement",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-11-10.mp3",
+                            "passage": "(woman) This should be a two-semester course.\n(man) One semester is just not enough time to learn all the material.",
+                            "question": "10. You can say that again! WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "He would like the woman to repeat what she said.",
+                                    "reason": {
+                                        "en": "The man is not asking the woman to repeat herself. The idiom 'You can say that again!' means strong agreement.",
+                                        "id": "Pria itu tidak meminta wanita itu mengulang perkataannya. Idiom 'You can say that again!' berarti persetujuan yang kuat."
+                                    }
+                                },
+                                {
+                                    "text": "He thinks that one semester is enough time for the course.",
+                                    "reason": {
+                                        "en": "The man's statement 'One semester is just not enough time to learn all the material' directly contradicts this option. He disagrees with the idea that one semester is enough.",
+                                        "id": "Pernyataan pria itu 'Satu semester saja tidak cukup waktu untuk mempelajari semua materi' secara langsung bertentangan dengan pilihan ini. Dia tidak setuju dengan gagasan bahwa satu semester sudah cukup."
+                                    }
+                                },
+                                {
+                                    "text": "He also thinks that the course should be extended.",
+                                    "reason": {
+                                        "en": "The idiom 'You can say that again!' is used to express strong agreement. The man agrees with the woman's implied statement that the course should be longer than one semester, as he explicitly states that one semester is not enough time.",
+                                        "id": "Idiom 'You can say that again!' digunakan untuk mengekspresikan persetujuan yang kuat. Pria itu setuju dengan pernyataan tersirat wanita bahwa kursus tersebut seharusnya lebih lama dari satu semester, karena dia secara eksplisit menyatakan bahwa satu semester tidak cukup waktu."
+                                    }
+                                },
+                                {
+                                    "text": "He would like to take the course two semesters from now.",
+                                    "reason": {
+                                        "en": "The dialogue is about the duration of a course, not about when the man wants to take it.",
+                                        "id": "Dialog tersebut adalah tentang durasi kursus, bukan tentang kapan pria itu ingin mengikutinya."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 11: Listen for Expressions of Agreement",
+                            "_is_evaluated": true
+                        }
+                    ],
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-11.mp3",
+                    "groups": [],
+                    "passage": "",
+                    "audioUrl": "",
+                    "durationSeconds": 0
+                },
+                {
+                    "title": "SKILL 12: LISTEN FOR EXPRESSIONS OF UNCERTAINTY AND SUGGESTION ",
+                    "instruction": "TOEFL EXERCISE 12: In this exercise, listen carefully to each short dialogue and question on the recording, and then choose the best answer to the question. You should be particularly careful of expressions of uncertainty and suggestion.",
+                    "questions": [
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-12-01.mp3",
+                            "passage": "(woman) Are we supposed to read all ten chap ters before the exam?\n(man) As far as I can tell, we are.",
+                            "question": "1. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "He's sure about which chapters they are to read.",
+                                    "reason": {
+                                        "en": "The man does not express certainty about the chapters, only about the assignment itself. The phrase 'As far as I can tell' indicates uncertainty about the specifics, not the overall task.",
+                                        "id": "Pria itu tidak mengungkapkan kepastian tentang bab-babnya, hanya tentang tugas itu sendiri. Frasa 'Sejauh yang saya tahu' menunjukkan ketidakpastian tentang spesifikasinya, bukan tugas keseluruhannya."
+                                    }
+                                },
+                                {
+                                    "text": "He thinks he knows what the assignment is.",
+                                    "reason": {
+                                        "en": "The man's response, 'As far as I can tell, we are,' directly addresses the woman's question about the reading assignment for the exam, indicating he believes he understands what is required.",
+                                        "id": "Tanggapan pria itu, 'Sejauh yang saya tahu, kita harus,' secara langsung menjawab pertanyaan wanita tentang tugas membaca untuk ujian, yang menunjukkan bahwa dia percaya dia mengerti apa yang dibutuhkan."
+                                    }
+                                },
+                                {
+                                    "text": "He has to tell her how far she should go.",
+                                    "reason": {
+                                        "en": "The man is not telling the woman how far she should read; he is responding to her question about the scope of the reading assignment.",
+                                        "id": "Pria itu tidak memberi tahu wanita itu sejauh mana dia harus membaca; dia menanggapi pertanyaannya tentang cakupan tugas membaca."
+                                    }
+                                },
+                                {
+                                    "text": "The professor told them to read the chapters after the exam.",
+                                    "reason": {
+                                        "en": "The man's statement implies the reading is for the exam, not after it. The phrase 'before the exam' in the woman's question sets the context.",
+                                        "id": "Pernyataan pria itu menyiratkan bahwa membaca adalah untuk ujian, bukan setelahnya. Frasa 'sebelum ujian' dalam pertanyaan wanita menetapkan konteksnya."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 11: Listen for Expressions of Agreement",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-12-02.mp3",
+                            "passage": "(man) You're out of apple pie!\n(woman) Sorry. Why not try the cherry pie?",
+                            "question": "2. WHAT DOES THE WOMAN SUG GEST?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "The man should take the pie out.",
+                                    "reason": {
+                                        "en": "The woman does not suggest taking the pie out. She suggests trying the cherry pie as an alternative.",
+                                        "id": "Wanita tersebut tidak menyarankan untuk mengeluarkan pai. Dia menyarankan untuk mencoba pai ceri sebagai alternatif."
+                                    }
+                                },
+                                {
+                                    "text": "The man should try something else.",
+                                    "reason": {
+                                        "en": "The woman suggests trying the cherry pie because the apple pie is unavailable. This implies the man should try something else.",
+                                        "id": "Wanita tersebut menyarankan untuk mencoba pai ceri karena pai apel tidak tersedia. Ini menyiratkan bahwa pria itu harus mencoba sesuatu yang lain."
+                                    }
+                                },
+                                {
+                                    "text": "The man shouldn't try cherry pie.",
+                                    "reason": {
+                                        "en": "The woman suggests the cherry pie, implying it is a good alternative, not something the man should avoid.",
+                                        "id": "Wanita tersebut menyarankan pai ceri, menyiratkan bahwa itu adalah alternatif yang baik, bukan sesuatu yang harus dihindari pria itu."
+                                    }
+                                },
+                                {
+                                    "text": "The man should feel sorry.",
+                                    "reason": {
+                                        "en": "While the woman says 'Sorry,' it is an apology for the lack of apple pie, not a suggestion for the man to feel sorry.",
+                                        "id": "Meskipun wanita itu berkata 'Maaf,' itu adalah permintaan maaf atas kurangnya pai apel, bukan saran agar pria itu merasa bersalah."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 12: Listen for Expressions of Uncertainty and Suggestion",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-12-03.mp3",
+                            "passage": "(woman) Do you know when the movie starts?\n(man) It starts at 8:00, doesn't it?",
+                            "question": "3. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "He knows the movie starts at 8:00.",
+                                    "reason": {
+                                        "en": "The man uses a tag question ('doesn't it?') which indicates uncertainty, not certainty. He is seeking confirmation, not stating a fact he knows.",
+                                        "id": "Pria itu menggunakan pertanyaan tag ('doesn't it?') yang menunjukkan ketidakpastian, bukan kepastian. Dia mencari konfirmasi, bukan menyatakan fakta yang dia ketahui."
+                                    }
+                                },
+                                {
+                                    "text": "He is not quite sure when the movie begins.",
+                                    "reason": {
+                                        "en": "The man uses a tag question ('doesn't it?'). Tag questions are used to express uncertainty and to seek confirmation from the listener. This implies he is not completely sure about the movie's start time.",
+                                        "id": "Pria itu menggunakan pertanyaan tag ('doesn't it?'). Pertanyaan tag digunakan untuk mengekspresikan ketidakpastian dan mencari konfirmasi dari pendengar. Ini menyiratkan bahwa dia tidak sepenuhnya yakin tentang waktu mulai film."
+                                    }
+                                },
+                                {
+                                    "text": "He thinks the start of the movie has been changed.",
+                                    "reason": {
+                                        "en": "There is no indication in the dialogue that the man thinks the start time has been changed. The tag question is about the stated time of 8:00.",
+                                        "id": "Tidak ada indikasi dalam dialog bahwa pria itu berpikir waktu mulai telah diubah. Pertanyaan tag adalah tentang waktu yang disebutkan yaitu 8:00."
+                                    }
+                                },
+                                {
+                                    "text": "He will start the movie himself at 8:00.",
+                                    "reason": {
+                                        "en": "The dialogue is about the movie's start time, not about the man starting the movie himself. The phrase 'starts at 8:00' refers to the movie's schedule.",
+                                        "id": "Dialog tersebut adalah tentang waktu mulai film, bukan tentang pria itu sendiri yang memulai film. Frasa 'starts at 8:00' mengacu pada jadwal film."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 12: Listen for Expressions of Uncertainty and Suggestion",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-12-04.mp3",
+                            "passage": "(woman) We can't leave now. We have to do the dishes.\n(man) Let's leave the dishes until later.",
+                            "question": "4. WHAT DOES THE MAN SUGGEST?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Not doing the dishes now .",
+                                    "reason": {
+                                        "en": "The man's suggestion is 'Let's leave the dishes until later,' which directly implies not doing the dishes now.",
+                                        "id": "Saran pria adalah 'Mari kita tinggalkan cucian piring nanti,' yang secara langsung menyiratkan untuk tidak mencuci piring sekarang."
+                                    }
+                                },
+                                {
+                                    "text": "Leaving the house with the dishes .",
+                                    "reason": {
+                                        "en": "The man suggests leaving the dishes, not leaving the house with them.",
+                                        "id": "Pria itu menyarankan untuk meninggalkan cucian piring, bukan meninggalkan rumah bersamanya."
+                                    }
+                                },
+                                {
+                                    "text": "Leaving later so that they can do the dishes now .",
+                                    "reason": {
+                                        "en": "The man suggests leaving the dishes until later, which is the opposite of leaving later to do them now.",
+                                        "id": "Pria itu menyarankan untuk meninggalkan cucian piring nanti, yang merupakan kebalikan dari pergi nanti untuk melakukannya sekarang."
+                                    }
+                                },
+                                {
+                                    "text": "Washing the dishes before they leave .",
+                                    "reason": {
+                                        "en": "The man suggests leaving the dishes until later, directly contradicting the idea of washing them before they leave.",
+                                        "id": "Pria itu menyarankan untuk meninggalkan cucian piring nanti, yang secara langsung bertentangan dengan gagasan mencucinya sebelum mereka pergi."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 12: Listen for Expressions of Uncertainty and Suggestion",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-12-05.mp3",
+                            "passage": "(man) Do you think Matt has enough talent for the role?\n(woman) As far as I can tell.",
+                            "question": "5. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "She's told Matt he'll go far.",
+                                    "reason": {
+                                        "en": "The woman's statement 'As far as I can tell' is an expression of agreement, not a direct statement about Matt's future success. This option introduces information not present in the dialogue.",
+                                        "id": "Pernyataan wanita 'Sejauh yang saya tahu' adalah ekspresi persetujuan, bukan pernyataan langsung tentang kesuksesan Matt di masa depan. Pilihan ini memperkenalkan informasi yang tidak ada dalam dialog."
+                                    }
+                                },
+                                {
+                                    "text": "Matt has far from enough talent.",
+                                    "reason": {
+                                        "en": "The phrase 'As far as I can tell' indicates a positive assessment, not a lack of talent. This option directly contradicts the woman's implied meaning.",
+                                        "id": "Frasa 'Sejauh yang saya tahu' menunjukkan penilaian positif, bukan kekurangan bakat. Pilihan ini secara langsung bertentangan dengan makna tersirat wanita tersebut."
+                                    }
+                                },
+                                {
+                                    "text": "She told Matt to roll farther.",
+                                    "reason": {
+                                        "en": "This option misinterprets 'role' as 'roll' and 'talent' as 'far,' which is a phonetic trap and not related to the dialogue's meaning.",
+                                        "id": "Pilihan ini salah menafsirkan 'role' sebagai 'roll' dan 'talent' sebagai 'far,' yang merupakan jebakan fonetik dan tidak berhubungan dengan makna dialog."
+                                    }
+                                },
+                                {
+                                    "text": "She believes Matt has the ability for the part.",
+                                    "reason": {
+                                        "en": "The woman's statement 'As far as I can tell' is a way of expressing agreement or belief based on her current observation. It implies that, in her opinion, Matt possesses the necessary ability for the part.",
+                                        "id": "Pernyataan wanita 'Sejauh yang saya tahu' adalah cara untuk mengekspresikan persetujuan atau keyakinan berdasarkan pengamatannya saat ini. Ini menyiratkan bahwa, menurut pendapatnya, Matt memiliki kemampuan yang diperlukan untuk peran tersebut."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 11: Listen for Expressions of Agreement",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-12-06.mp3",
+                            "passage": "(woman) Did you hear that Mary's in the hospi tal with a broken leg?\n(man) Let's go visit her.",
+                            "question": "6. WHAT DOES THE MAN SUGGEST?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "They should go to the hospital.",
+                                    "reason": {
+                                        "en": "The man's response, 'Let's go visit her,' is a direct suggestion to go to the hospital, agreeing with the implied need to see Mary after hearing she is hospitalized. This aligns with the context of the conversation and the woman's implied concern.",
+                                        "id": "Respons pria, 'Ayo kita jenguk dia,' adalah saran langsung untuk pergi ke rumah sakit, setuju dengan kebutuhan tersirat untuk menemui Mary setelah mendengar dia dirawat di rumah sakit. Ini selaras dengan konteks percakapan dan kepedulian tersirat wanita tersebut."
+                                    }
+                                },
+                                {
+                                    "text": "Mary should visit the man.",
+                                    "reason": {
+                                        "en": "The man's suggestion is for 'them' (himself and the woman) to visit Mary, not for Mary to visit the man. This option misinterprets the subject of the proposed action.",
+                                        "id": "Saran pria adalah agar 'mereka' (dirinya dan wanita) menjenguk Mary, bukan agar Mary menjenguk pria tersebut. Pilihan ini salah menafsirkan subjek dari tindakan yang diusulkan."
+                                    }
+                                },
+                                {
+                                    "text": "The woman should try not to break her leg.",
+                                    "reason": {
+                                        "en": "The conversation is about Mary's broken leg, not about the woman breaking her leg. The man's suggestion is a response to the news about Mary.",
+                                        "id": "Percakapan ini tentang kaki Mary yang patah, bukan tentang wanita yang kakinya patah. Saran pria adalah respons terhadap berita tentang Mary."
+                                    }
+                                },
+                                {
+                                    "text": "They should go on a trip with Mary.",
+                                    "reason": {
+                                        "en": "There is no mention of a trip in the dialogue. The man's suggestion is to visit Mary in the hospital.",
+                                        "id": "Tidak ada penyebutan tentang perjalanan dalam dialog tersebut. Saran pria adalah untuk menjenguk Mary di rumah sakit."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 11: Listen for Expressions of Agreement",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-12-07.mp3",
+                            "passage": "(man) Where are the children?\n(woman) They've gone to the park to play ball, haven't they?",
+                            "question": "7. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "She knows where the children are.",
+                                    "reason": {
+                                        "en": "The woman uses a tag question ('haven't they?') which implies she is seeking confirmation, not stating knowledge. Therefore, she does not necessarily know where the children are.",
+                                        "id": "Wanita itu menggunakan pertanyaan tag ('haven't they?') yang menyiratkan dia mencari konfirmasi, bukan menyatakan pengetahuan. Oleh karena itu, dia tidak serta merta tahu di mana anak-anak itu berada."
+                                    }
+                                },
+                                {
+                                    "text": "The children have finished playing ball.",
+                                    "reason": {
+                                        "en": "The phrase 'to play ball' indicates an ongoing or intended activity, not a completed one. The tag question seeks confirmation about their current location and activity.",
+                                        "id": "Frasa 'to play ball' menunjukkan aktivitas yang sedang berlangsung atau yang dimaksudkan, bukan yang sudah selesai. Pertanyaan tag mencari konfirmasi tentang lokasi dan aktivitas mereka saat ini."
+                                    }
+                                },
+                                {
+                                    "text": "She's going to the park to find the children.",
+                                    "reason": {
+                                        "en": "The woman's statement is a question seeking confirmation, not an action she is taking. There is no indication she is going to the park.",
+                                        "id": "Pernyataan wanita itu adalah pertanyaan yang mencari konfirmasi, bukan tindakan yang dia ambil. Tidak ada indikasi dia akan pergi ke taman."
+                                    }
+                                },
+                                {
+                                    "text": "She believes that the children are in the park.",
+                                    "reason": {
+                                        "en": "The woman's use of the tag question 'haven't they?' after stating 'They've gone to the park to play ball' indicates she believes this to be true and is seeking confirmation. This aligns with Skill 11, which discusses expressions of agreement and seeking confirmation.",
+                                        "id": "Penggunaan pertanyaan tag oleh wanita itu 'haven't they?' setelah menyatakan 'They've gone to the park to play ball' menunjukkan bahwa dia percaya hal itu benar dan sedang mencari konfirmasi. Hal ini sejalan dengan Skill 11, yang membahas ekspresi persetujuan dan pencarian konfirmasi."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 11: Listen for Expressions of Agreement",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-12-08.mp3",
+                            "passage": "(man) I need some graph paper for my math assignment.\n(woman) I'm all out. Why don't you check with",
+                            "question": "8. Tom next door? WHAT DOES THE WOMAN SUG GEST?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "The man should try to borrow some from a neighbor.",
+                                    "reason": {
+                                        "en": "The woman's suggestion, 'Why don't you check with Tom next door?', directly implies that the man should ask Tom for the graph paper, which is a form of borrowing from a neighbor.",
+                                        "id": "Saran wanita, 'Kenapa kamu tidak bertanya pada Tom di sebelah?', secara langsung menyiratkan bahwa pria itu harus meminta kertas grafik kepada Tom, yang merupakan bentuk meminjam dari tetangga."
+                                    }
+                                },
+                                {
+                                    "text": "The man should take a check to Tom.",
+                                    "reason": {
+                                        "en": "The phrase 'check with Tom' refers to asking Tom if he has graph paper, not to giving Tom a check (a financial instrument).",
+                                        "id": "Frasa 'check with Tom' merujuk pada bertanya kepada Tom apakah dia punya kertas grafik, bukan memberikan cek (instrumen keuangan) kepada Tom."
+                                    }
+                                },
+                                {
+                                    "text": "The man should work on his math assignment with Tom.",
+                                    "reason": {
+                                        "en": "The dialogue is about needing graph paper for a math assignment, not about working on the assignment together. The suggestion is specifically about obtaining the paper.",
+                                        "id": "Dialog tersebut tentang kebutuhan kertas grafik untuk tugas matematika, bukan tentang mengerjakan tugas bersama. Saran tersebut secara spesifik tentang mendapatkan kertas tersebut."
+                                    }
+                                },
+                                {
+                                    "text": "The man should check behind the door.",
+                                    "reason": {
+                                        "en": "The phrase 'check with Tom next door' indicates asking a neighbor, not looking behind a physical door.",
+                                        "id": "Frasa 'check with Tom next door' menunjukkan bertanya kepada tetangga, bukan mencari di balik pintu fisik."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 12: Listen for Expressions of Uncertainty and Suggestion",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-12-09.mp3",
+                            "passage": "(woman) Is the utilities bill due on the first or the fifteenth?\n(man) On the fifteenth, as far as I know.",
+                            "question": "9. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "He thinks the bill is due in the middle of the month.",
+                                    "reason": {
+                                        "en": "The man says 'as far as I know,' which indicates uncertainty. He is suggesting that the fifteenth is the likely due date, implying it's in the middle of the month.",
+                                        "id": "Pria itu berkata 'sejauh yang saya tahu,' yang menunjukkan ketidakpastian. Dia menyarankan bahwa tanggal lima belas adalah tanggal jatuh tempo yang mungkin, menyiratkan bahwa itu ada di pertengahan bulan."
+                                    }
+                                },
+                                {
+                                    "text": "The bill is approximately fifteen dollars.",
+                                    "reason": {
+                                        "en": "The dialogue is about the due date of a bill, not its amount. The number 'fifteenth' refers to the day, not the cost.",
+                                        "id": "Dialog tersebut adalah tentang tanggal jatuh tempo tagihan, bukan jumlahnya. Angka 'lima belas' mengacu pada hari, bukan biaya."
+                                    }
+                                },
+                                {
+                                    "text": "He knows when they should pay the bill.",
+                                    "reason": {
+                                        "en": "The man expresses uncertainty with 'as far as I know,' meaning he does not definitively know when the bill is due.",
+                                        "id": "Pria itu mengungkapkan ketidakpastian dengan 'sejauh yang saya tahu,' yang berarti dia tidak tahu secara pasti kapan tagihan jatuh tempo."
+                                    }
+                                },
+                                {
+                                    "text": "The bill is going to be fifteen days late.",
+                                    "reason": {
+                                        "en": "The dialogue is about the due date, not about being late. The fifteenth is presented as the due date, not as a delay.",
+                                        "id": "Dialog tersebut adalah tentang tanggal jatuh tempo, bukan tentang keterlambatan. Tanggal lima belas disajikan sebagai tanggal jatuh tempo, bukan sebagai penundaan."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 12: Listen for Expressions of Uncertainty and Suggestion",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-12-10.mp3",
+                            "passage": "(man)  We need to decide whether or not we are going to buy that house.\n(woman) It's such a big decision. Let's sleep on it before we decide.",
+                            "question": "10. WHAT DOES THE WOMAN SUG GEST?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "They should postpone their decision until morning.",
+                                    "reason": {
+                                        "en": "The woman says, 'Let's sleep on it before we decide.' This is a common idiom that means to delay making a decision until the next day, implying they should postpone their decision until morning.",
+                                        "id": "Wanita itu berkata, 'Let's sleep on it before we decide.' Ini adalah idiom umum yang berarti menunda pengambilan keputusan hingga hari berikutnya, menyiratkan bahwa mereka harus menunda keputusan mereka sampai pagi."
+                                    }
+                                },
+                                {
+                                    "text": "They should go to sleep in the new house.",
+                                    "reason": {
+                                        "en": "The idiom 'sleep on it' does not mean to literally sleep in the new house. It is a figurative expression for delaying a decision.",
+                                        "id": "Idiom 'sleep on it' tidak berarti secara harfiah tidur di rumah baru. Ini adalah ungkapan kiasan untuk menunda keputusan."
+                                    }
+                                },
+                                {
+                                    "text": "They should not buy such a big house.",
+                                    "reason": {
+                                        "en": "The woman's statement is about delaying the decision, not about the size of the house. The dialogue does not express an opinion on whether the house is too big.",
+                                        "id": "Pernyataan wanita itu adalah tentang menunda keputusan, bukan tentang ukuran rumah. Dialog tersebut tidak mengungkapkan pendapat apakah rumah itu terlalu besar."
+                                    }
+                                },
+                                {
+                                    "text": "They should decide where to go to sleep.",
+                                    "reason": {
+                                        "en": "The phrase 'sleep on it' is an idiom for delaying a decision, not a literal suggestion to decide where to sleep.",
+                                        "id": "Frasa 'sleep on it' adalah idiom untuk menunda keputusan, bukan saran harfiah untuk memutuskan di mana harus tidur."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 12: Listen for Expressions of Uncertainty and Suggestion",
+                            "_is_evaluated": true
+                        }
+                    ],
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-12.mp3",
+                    "groups": [],
+                    "passage": "",
+                    "audioUrl": "",
+                    "durationSeconds": 0
+                },
+                {
+                    "title": "SKILL 13: LISTEN FOR EMPHATIC EXPRESSIONS OF SURPRISE ",
+                    "instruction": "TOEFL EXERCISE 13: In this exercise, listen carefully to each short dialogue and question on the recording, and then choose the best answer to the question. You should be particularly careful of expressions of emphatic surprise.",
+                    "questions": [
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-13-01.mp3",
+                            "passage": "(man)         Greg should be here any moment.\n(woman)       Then, he is coming to the party!",
+                            "question": "1.       WHAT HAD THE WOMAN ASSUMED?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "Greg always comes to parties.",
+                                    "reason": {
+                                        "en": "The woman's statement 'Then, he is coming to the party!' is a reaction to the man's statement that Greg should be there soon. It does not imply anything about Greg's usual attendance at parties.",
+                                        "id": "Pernyataan wanita 'Kalau begitu, dia datang ke pesta!' adalah reaksi terhadap pernyataan pria bahwa Greg seharusnya segera ada di sana. Pernyataan itu tidak menyiratkan apa pun tentang kehadiran Greg yang biasa di pesta."
+                                    }
+                                },
+                                {
+                                    "text": "Greg would come to the party later.",
+                                    "reason": {
+                                        "en": "The woman's surprise indicates she did not expect Greg to come at all, or at least not at this time. Her statement implies the opposite of him coming later.",
+                                        "id": "Kejutan wanita itu menunjukkan bahwa dia tidak menduga Greg akan datang sama sekali, atau setidaknya tidak pada waktu ini. Pernyataannya menyiratkan kebalikan dari dia datang nanti."
+                                    }
+                                },
+                                {
+                                    "text": "Greg was unable to attend the party.",
+                                    "reason": {
+                                        "en": "The woman's surprised tone and statement 'Then, he is coming to the party!' suggest that she previously believed Greg would not be able to attend. The man's statement that Greg should be there soon contradicts her prior assumption.",
+                                        "id": "Nada terkejut wanita itu dan pernyataannya 'Kalau begitu, dia datang ke pesta!' menunjukkan bahwa dia sebelumnya percaya Greg tidak akan bisa hadir. Pernyataan pria bahwa Greg seharusnya segera ada di sana bertentangan dengan asumsi sebelumnya."
+                                    }
+                                },
+                                {
+                                    "text": "Greg would stay at the party for only a moment.",
+                                    "reason": {
+                                        "en": "The dialogue focuses on whether Greg is coming to the party, not on how long he will stay. Her surprise is about his attendance, not the duration.",
+                                        "id": "Dialog tersebut berfokus pada apakah Greg datang ke pesta, bukan pada berapa lama dia akan tinggal. Kejutannya adalah tentang kehadirannya, bukan durasinya."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 13: Listen for Emphatic Expressions of Surprise",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-13-02.mp3",
+                            "passage": "(woman)       My motorcycle is over there. That's how I got to school today.\n(man)         So you can ride a motorcycle.",
+                            "question": "2.       WHAT HAD THE MAN ASSUMED?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "The woman always rode her motorcycle to school.",
+                                    "reason": {
+                                        "en": "The man's statement 'So you can ride a motorcycle' is a conclusion based on the woman's statement about riding her motorcycle to school. It does not imply that he assumed she *always* rode it.",
+                                        "id": "Pernyataan pria 'Jadi kamu bisa naik motor' adalah kesimpulan berdasarkan pernyataan wanita tentang mengendarai motornya ke sekolah. Ini tidak menyiratkan bahwa dia berasumsi wanita itu *selalu* mengendarainya."
+                                    }
+                                },
+                                {
+                                    "text": "The woman was not coming to school today.",
+                                    "reason": {
+                                        "en": "The woman's statement indicates she *did* come to school by motorcycle, directly contradicting the assumption that she was not coming.",
+                                        "id": "Pernyataan wanita menunjukkan bahwa dia *datang* ke sekolah dengan motor, secara langsung bertentangan dengan asumsi bahwa dia tidak datang."
+                                    }
+                                },
+                                {
+                                    "text": "The woman was an expert motorcycle rider.",
+                                    "reason": {
+                                        "en": "The man's statement 'So you can ride a motorcycle' is a simple conclusion that she has the ability to ride, not an assumption about her level of expertise.",
+                                        "id": "Pernyataan pria 'Jadi kamu bisa naik motor' adalah kesimpulan sederhana bahwa dia memiliki kemampuan untuk mengendarai, bukan asumsi tentang tingkat keahliannya."
+                                    }
+                                },
+                                {
+                                    "text": "The woman did not know how to ride a motorcycle.",
+                                    "reason": {
+                                        "en": "The man's statement 'So you can ride a motorcycle' is a direct inference from the woman's statement that she rode her motorcycle to school. This implies that before she said this, he might have assumed she *could not* ride a motorcycle, or at least was unaware of her ability.",
+                                        "id": "Pernyataan pria 'Jadi kamu bisa naik motor' adalah kesimpulan langsung dari pernyataan wanita bahwa dia mengendarai motornya ke sekolah. Ini menyiratkan bahwa sebelum dia mengatakan ini, dia mungkin berasumsi bahwa dia *tidak bisa* mengendarai motor, atau setidaknya tidak menyadari kemampuannya."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 11: Listen for Expressions of Agreement",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-13-03.mp3",
+                            "passage": "(man)         I'm having a few friends over for din ner tonight. Would you like to come?\n(woman)       So you do know how to cook!",
+                            "question": "3.       WHAT HAD THE WOMAN ASSUMED?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "The man was not a very good cook.",
+                                    "reason": {
+                                        "en": "The woman's response, \"So you do know how to cook!\" implies surprise and suggests that she previously believed the man was not a good cook. This is a direct inference from her statement.",
+                                        "id": "Respons wanita, \"Jadi kamu tahu cara memasak!\" menyiratkan keterkejutan dan menunjukkan bahwa sebelumnya dia percaya pria itu bukan koki yang baik. Ini adalah kesimpulan langsung dari pernyataannya."
+                                    }
+                                },
+                                {
+                                    "text": "The man never invited friends over for dinner.",
+                                    "reason": {
+                                        "en": "The dialogue does not provide any information about whether the man frequently or infrequently invites friends over. The woman's surprise is specifically about his cooking ability.",
+                                        "id": "Dialog tidak memberikan informasi apa pun tentang apakah pria itu sering atau jarang mengundang teman. Kejutan wanita itu secara khusus tentang kemampuannya memasak."
+                                    }
+                                },
+                                {
+                                    "text": "The man would never invite him over for dinner.",
+                                    "reason": {
+                                        "en": "The woman's statement is a reaction to the invitation, not a reflection of her assumption about whether she would be invited.",
+                                        "id": "Pernyataan wanita itu adalah reaksi terhadap undangan, bukan cerminan dari asumsinya tentang apakah dia akan diundang."
+                                    }
+                                },
+                                {
+                                    "text": "The man was an excellent cook.",
+                                    "reason": {
+                                        "en": "If the woman assumed the man was an excellent cook, her response would likely be different, perhaps expressing anticipation rather than surprise at his ability to cook.",
+                                        "id": "Jika wanita itu berasumsi pria itu adalah koki yang sangat baik, responsnya kemungkinan akan berbeda, mungkin mengungkapkan antisipasi daripada keterkejutan atas kemampuannya memasak."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 13: Listen for Emphatic Expressions of Surprise",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-13-04.mp3",
+                            "passage": "(woman)       I'm so tired from all that exercise.\n(man)         Then, you did run three miles this morning.",
+                            "question": "4.       WHAT HAD THE MAN ASSUMED?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "The woman had run more than three miles.",
+                                    "reason": {
+                                        "en": "The man's statement confirms the woman ran three miles, not more than three miles. Therefore, this is not what the man assumed.",
+                                        "id": "Pernyataan pria itu mengkonfirmasi bahwa wanita itu berlari tiga mil, bukan lebih dari tiga mil. Oleh karena itu, ini bukanlah yang diasumsikan pria itu."
+                                    }
+                                },
+                                {
+                                    "text": "The woman always got lots of exercise.",
+                                    "reason": {
+                                        "en": "The man's statement is about a single instance of exercise ('this morning'), not a general habit ('always'). Therefore, this is not what the man assumed.",
+                                        "id": "Pernyataan pria itu adalah tentang satu kejadian olahraga ('pagi ini'), bukan kebiasaan umum ('selalu'). Oleh karena itu, ini bukanlah yang diasumsikan pria itu."
+                                    }
+                                },
+                                {
+                                    "text": "The woman ran for three hours in the morning.",
+                                    "reason": {
+                                        "en": "The woman mentions 'three miles,' not 'three hours.' The man's statement confirms the distance, not the duration. Therefore, this is not what the man assumed.",
+                                        "id": "Wanita itu menyebutkan 'tiga mil', bukan 'tiga jam'. Pernyataan pria itu mengkonfirmasi jarak, bukan durasi. Oleh karena itu, ini bukanlah yang diasumsikan pria itu."
+                                    }
+                                },
+                                {
+                                    "text": "The woman had not gotten much exercise.",
+                                    "reason": {
+                                        "en": "The woman says she is 'tired from all that exercise.' The man's response, 'Then, you did run three miles this morning,' implies he is confirming her statement and perhaps surprised by her tiredness, suggesting he might have assumed she hadn't exercised much or that the exercise wouldn't make her tired. The phrase 'Then' indicates a conclusion drawn from her statement of tiredness, implying he inferred she had exercised.",
+                                        "id": "Wanita itu berkata dia 'lelah dari semua olahraga itu'. Respons pria itu, 'Kalau begitu, kamu memang berlari tiga mil pagi ini,' menyiratkan bahwa dia mengkonfirmasi pernyataannya dan mungkin terkejut dengan kelelahannya, menunjukkan bahwa dia mungkin berasumsi dia tidak banyak berolahraga atau bahwa olahraga itu tidak akan membuatnya lelah. Frasa 'Kalau begitu' menunjukkan kesimpulan yang ditarik dari pernyataannya tentang kelelahan, menyiratkan bahwa dia menyimpulkan dia telah berolahraga."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 11: Listen for Expressions of Agreement",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-13-05.mp3",
+                            "passage": "(man)         I just spent five hours working on my research project.\n(woman)       Bob, you were in the library.",
+                            "question": "5.       WHAT HADTHE WOMAN ASSUMED ABOUT BOB?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "He had been somewhere else.",
+                                    "reason": {
+                                        "en": "The woman's statement 'Bob, you were in the library' implies that she assumed he was somewhere else, as his actual location (working on his project for five hours) was different from her assumption. The surprise in her tone suggests her assumption was incorrect.",
+                                        "id": "Pernyataan wanita 'Bob, kamu ada di perpustakaan' menyiratkan bahwa dia berasumsi dia berada di tempat lain, karena lokasi sebenarnya (mengerjakan proyeknya selama lima jam) berbeda dari asumsinya. Kejutan dalam nadanya menunjukkan bahwa asumsinya salah."
+                                    }
+                                },
+                                {
+                                    "text": "He had been in the library.",
+                                    "reason": {
+                                        "en": "The woman's statement is a direct observation or a question based on an assumption, not an indication that she assumed he was in the library. Her tone suggests surprise, meaning her assumption was likely different from where he actually was.",
+                                        "id": "Pernyataan wanita adalah observasi langsung atau pertanyaan berdasarkan asumsi, bukan indikasi bahwa dia berasumsi dia ada di perpustakaan. Nada bicaranya menunjukkan kejutan, yang berarti asumsinya kemungkinan berbeda dari tempat dia sebenarnya."
+                                    }
+                                },
+                                {
+                                    "text": "He had been working on his research project.",
+                                    "reason": {
+                                        "en": "The woman's statement is about his location, not about what he was doing. While she might have known he had a project, her surprise is directed at his location, implying she thought he was elsewhere.",
+                                        "id": "Pernyataan wanita adalah tentang lokasinya, bukan tentang apa yang dia lakukan. Meskipun dia mungkin tahu dia punya proyek, kejutan yang dia rasakan ditujukan pada lokasinya, menyiratkan bahwa dia mengira dia berada di tempat lain."
+                                    }
+                                },
+                                {
+                                    "text": "He would start working on his project in five hours.",
+                                    "reason": {
+                                        "en": "The dialogue is about what Bob *has done* (spent five hours working), not about a future plan. The woman's statement is a reaction to his past action, not a prediction about his future actions.",
+                                        "id": "Dialog tersebut adalah tentang apa yang *telah dilakukan* Bob (menghabiskan lima jam bekerja), bukan tentang rencana masa depan. Pernyataan wanita adalah reaksi terhadap tindakan masa lalunya, bukan prediksi tentang tindakan masa depannya."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 13: Listen for Emphatic Expressions of Surprise",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-13-06.mp3",
+                            "passage": "(man)         I just finished carrying the last piece of furniture.\n(woman)       Then, you have moved into a new apartment!",
+                            "question": "6.       WHAT HAD THE WOMAN ASSUMED ABOUT THE MAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "He had changed apartments.",
+                                    "reason": {
+                                        "en": "The woman's statement implies the man has moved, not necessarily changed apartments, and the dialogue doesn't specify if it's a new apartment or not.",
+                                        "id": "Pernyataan wanita menyiratkan bahwa pria itu telah pindah, belum tentu pindah apartemen, dan dialog tidak merinci apakah itu apartemen baru atau bukan."
+                                    }
+                                },
+                                {
+                                    "text": "He did not like his new apartment.",
+                                    "reason": {
+                                        "en": "The dialogue provides no information about the man's feelings towards his new apartment.",
+                                        "id": "Dialog tidak memberikan informasi tentang perasaan pria itu terhadap apartemen barunya."
+                                    }
+                                },
+                                {
+                                    "text": "He was still in his old apartment.",
+                                    "reason": {
+                                        "en": "The woman's exclamation, 'Then, you have moved into a new apartment!' is a direct response to the man finishing carrying furniture, implying she assumed he was still in his old apartment and is now surprised he has moved into a new one.",
+                                        "id": "Seruan wanita, 'Kalau begitu, kamu sudah pindah ke apartemen baru!' adalah respons langsung terhadap pria yang selesai memindahkan perabotan, menyiratkan bahwa dia berasumsi pria itu masih di apartemen lamanya dan sekarang terkejut dia telah pindah ke apartemen baru."
+                                    }
+                                },
+                                {
+                                    "text": "He had moved from a house to an apartment.",
+                                    "reason": {
+                                        "en": "The dialogue does not mention anything about the man moving from a house to an apartment; it only refers to moving furniture.",
+                                        "id": "Dialog tidak menyebutkan apa pun tentang pria itu pindah dari rumah ke apartemen; itu hanya merujuk pada pemindahan perabotan."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 11: Listen for Expressions of Agreement",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-13-07.mp3",
+                            "passage": "(woman)       Would you like to share some of this piece of chocolate cake?\n(man)         So you do eat sweets.",
+                            "question": "7.       WHAT HAD THE MAN ASSUMED?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "The woman did not like desserts.",
+                                    "reason": {
+                                        "en": "The man's statement 'So you do eat sweets' implies that he previously believed the woman did not eat sweets. The woman offering him cake contradicts this assumption.",
+                                        "id": "Pernyataan pria 'Jadi kamu makan makanan manis' menyiratkan bahwa dia sebelumnya percaya wanita itu tidak makan makanan manis. Tawaran wanita itu untuk memberinya kue bertentangan dengan asumsi ini."
+                                    }
+                                },
+                                {
+                                    "text": "The woman ate sweets regularly.",
+                                    "reason": {
+                                        "en": "The man's statement does not provide enough information to conclude that the woman eats sweets regularly. It only suggests he was surprised she eats them at all.",
+                                        "id": "Pernyataan pria tersebut tidak memberikan informasi yang cukup untuk menyimpulkan bahwa wanita itu makan makanan manis secara teratur. Ini hanya menunjukkan bahwa dia terkejut dia memakannya sama sekali."
+                                    }
+                                },
+                                {
+                                    "text": "The woman would not share her chocolate cake.",
+                                    "reason": {
+                                        "en": "The woman is offering to share the cake, which is the opposite of not sharing. The man's comment is a reaction to her eating sweets, not about her willingness to share.",
+                                        "id": "Wanita itu menawarkan untuk berbagi kue, yang merupakan kebalikan dari tidak berbagi. Komentar pria itu adalah reaksi terhadap dia makan makanan manis, bukan tentang kesediaannya untuk berbagi."
+                                    }
+                                },
+                                {
+                                    "text": "The woman had eaten his piece of cake.",
+                                    "reason": {
+                                        "en": "There is no information in the dialogue to suggest that the woman ate the man's piece of cake. The conversation is about the woman offering her cake.",
+                                        "id": "Tidak ada informasi dalam dialog yang menunjukkan bahwa wanita itu memakan potongan kue pria itu. Percakapan ini tentang wanita yang menawarkan kuenya."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 11: Listen for Expressions of Agreement",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-13-08.mp3",
+                            "passage": "(man)         I'm studying now for my driver's license test.\n(woman)       Then, you will take the test this after noon.",
+                            "question": "8.       WHAT HAD THE WOMAN ASSUMED?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "The man was going to study hard.",
+                                    "reason": {
+                                        "en": "The woman's statement implies the opposite of what the man is doing. She is surprised that he is studying now, suggesting she thought he would not take the test.",
+                                        "id": "Pernyataan wanita menyiratkan kebalikan dari apa yang dilakukan pria itu. Dia terkejut bahwa dia belajar sekarang, menunjukkan bahwa dia pikir dia tidak akan mengikuti tes."
+                                    }
+                                },
+                                {
+                                    "text": "The man already had a driver's license.",
+                                    "reason": {
+                                        "en": "The man states he is studying for his driver's license test, not that he already has one.",
+                                        "id": "Pria itu menyatakan bahwa dia sedang belajar untuk tes SIM-nya, bukan bahwa dia sudah memilikinya."
+                                    }
+                                },
+                                {
+                                    "text": "The man would not take the test.",
+                                    "reason": {
+                                        "en": "The woman's surprised tone and statement 'Then, you will take the test this afternoon' implies she assumed he was studying *because* he was taking it soon, and her surprise suggests she might have assumed he wasn't going to take it at all, or at least not so soon. The phrasing 'Then, you will take the test this afternoon' is a reaction to his studying, implying a contrast to a previous assumption.",
+                                        "id": "Nada terkejut wanita itu dan pernyataannya 'Kalau begitu, kamu akan mengikuti tes sore ini' menyiratkan bahwa dia berasumsi dia belajar *karena* dia akan segera mengikutinya, dan keterkejutannya menunjukkan bahwa dia mungkin berasumsi dia tidak akan mengikutinya sama sekali, atau setidaknya tidak begitu cepat. Frasa 'Kalau begitu, kamu akan mengikuti tes sore ini' adalah reaksi terhadap studinya, menyiratkan kontras dengan asumsi sebelumnya."
+                                    }
+                                },
+                                {
+                                    "text": "The man had already taken the test.",
+                                    "reason": {
+                                        "en": "The man is studying *for* the test, indicating he has not yet taken it.",
+                                        "id": "Pria itu sedang belajar *untuk* tes, yang menunjukkan bahwa dia belum mengikutinya."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 13: Listen for Emphatic Expressions of Surprise",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-13-09.mp3",
+                            "passage": "(woman)       I'm heading off to physics class now.\n(man)         Then you did register for that course!",
+                            "question": "9.       WHAT HAD THE MAN ASSUMED ABOUT THE WOMAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "She had registered in physics.",
+                                    "reason": {
+                                        "en": "The man's statement 'Then you did register for that course!' implies that he previously believed the opposite. If he thought she had registered, he would not express surprise or make this statement as a conclusion.",
+                                        "id": "Pernyataan pria 'Kalau begitu kamu mendaftar untuk mata kuliah itu!' menyiratkan bahwa dia sebelumnya percaya sebaliknya. Jika dia mengira dia sudah mendaftar, dia tidak akan mengungkapkan keterkejutan atau membuat pernyataan ini sebagai kesimpulan."
+                                    }
+                                },
+                                {
+                                    "text": "She would go to physics class later.",
+                                    "reason": {
+                                        "en": "The dialogue focuses on registration, not on the timing of attending the class. The man's surprise is about her enrollment, not her future attendance.",
+                                        "id": "Dialog berfokus pada pendaftaran, bukan pada waktu menghadiri kelas. Kejutan pria itu adalah tentang pendaftarannya, bukan kehadirannya di masa depan."
+                                    }
+                                },
+                                {
+                                    "text": "She had already taken a physics class.",
+                                    "reason": {
+                                        "en": "The man's statement implies a previous assumption that she had NOT registered. If he thought she had already taken the class, his statement would not make sense in this context.",
+                                        "id": "Pernyataan pria itu menyiratkan asumsi sebelumnya bahwa dia TIDAK mendaftar. Jika dia mengira dia sudah mengambil kelas itu, pernyataannya tidak akan masuk akal dalam konteks ini."
+                                    }
+                                },
+                                {
+                                    "text": "She had not enrolled in physics.",
+                                    "reason": {
+                                        "en": "The man's surprised tone and the phrase 'Then you did register...' indicate that he had assumed she had NOT enrolled in the course. His statement is a realization that his assumption was incorrect.",
+                                        "id": "Nada terkejut pria itu dan frasa 'Kalau begitu kamu mendaftar...' menunjukkan bahwa dia berasumsi bahwa dia TIDAK mendaftar di mata kuliah itu. Pernyataannya adalah kesadaran bahwa asumsinya salah."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 11: Listen for Expressions of Agreement",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-13-10.mp3",
+                            "passage": "(woman)       The plumber just left.\n(man)         Then the pipes have been cleared.",
+                            "question": "10.      WHAT HAD THE MAN ASSUMED?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "The pipes were not clear.",
+                                    "reason": {
+                                        "en": "The man's statement 'Then the pipes have been cleared' implies that he expected the pipes to be cleared *after* the plumber left. This means he assumed they were *not* clear before the plumber's visit. The surprise in his tone suggests this was the expected outcome of the plumber's visit.",
+                                        "id": "Pernyataan pria 'Then the pipes have been cleared' menyiratkan bahwa dia mengharapkan pipa-pipa tersebut dibersihkan *setelah* tukang ledeng pergi. Ini berarti dia berasumsi bahwa pipa-pipa tersebut *tidak* bersih sebelum tukang ledeng berkunjung. Kejutan dalam nada suaranya menunjukkan bahwa ini adalah hasil yang diharapkan dari kunjungan tukang ledeng."
+                                    }
+                                },
+                                {
+                                    "text": "The plumber would be late.",
+                                    "reason": {
+                                        "en": "There is no information in the dialogue to suggest the man assumed the plumber would be late.",
+                                        "id": "Tidak ada informasi dalam dialog yang menunjukkan pria itu berasumsi tukang ledeng akan terlambat."
+                                    }
+                                },
+                                {
+                                    "text": "The plumber had already cleared the pipes.",
+                                    "reason": {
+                                        "en": "The man's statement implies the opposite: that the pipes were *not* clear before the plumber's visit and that the plumber's job was to clear them.",
+                                        "id": "Pernyataan pria itu menyiratkan sebaliknya: bahwa pipa-pipa tersebut *tidak* bersih sebelum kunjungan tukang ledeng dan bahwa pekerjaan tukang ledeng adalah membersihkannya."
+                                    }
+                                },
+                                {
+                                    "text": "The pipes did not need to be cleared.",
+                                    "reason": {
+                                        "en": "The man's statement directly contradicts this assumption; he is confirming that the pipes *have been* cleared.",
+                                        "id": "Pernyataan pria itu secara langsung bertentangan dengan asumsi ini; dia mengonfirmasi bahwa pipa-pipa tersebut *telah* dibersihkan."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 13: Listen for Emphatic Expressions of Surprise",
+                            "_is_evaluated": true
+                        }
+                    ],
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-13.mp3",
+                    "groups": [],
+                    "passage": "",
+                    "audioUrl": "",
+                    "durationSeconds": 0
+                }
+            ],
+            "instruction": "Expressions of agreement are common in the short dialogues, so you should become familiar with them. The following example shows agreement with a positive statement. ",
+            "directionAudioUrl": ""
+        },
+        {
+            "title": "Review SKILLS 1-13",
+            "type": "listening",
+            "durationMinutes": 25,
+            "parts": [
+                {
+                    "title": "SKILLS 11-13",
+                    "instruction": "",
+                    "questions": [
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-11-13-01.mp3",
+                            "passage": "(man) The phone bill is certainly high this month!\n(woman) I'll say!",
+                            "question": "1. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "She plans to talk a lot this month.",
+                                    "reason": {
+                                        "en": "The woman's statement 'I'll say!' is an expression of agreement, not a statement about her future phone usage.",
+                                        "id": "Pernyataan wanita 'I'll say!' adalah ekspresi persetujuan, bukan pernyataan tentang penggunaan teleponnya di masa depan."
+                                    }
+                                },
+                                {
+                                    "text": "She has a lot to say about the phone bill.",
+                                    "reason": {
+                                        "en": "While the woman might have a lot to say, her phrase 'I'll say!' in this context specifically means agreement with the man's observation about the high phone bill.",
+                                        "id": "Meskipun wanita itu mungkin banyak bicara, frasa 'I'll say!' dalam konteks ini secara khusus berarti persetujuan dengan pengamatan pria tentang tagihan telepon yang tinggi."
+                                    }
+                                },
+                                {
+                                    "text": "The bill is high because she has a lot to say.",
+                                    "reason": {
+                                        "en": "The woman's agreement is with the man's statement about the bill being high, not a cause-and-effect relationship where her talking caused the high bill.",
+                                        "id": "Persetujuan wanita itu adalah dengan pernyataan pria bahwa tagihan itu tinggi, bukan hubungan sebab-akibat di mana perkataannya menyebabkan tagihan tinggi."
+                                    }
+                                },
+                                {
+                                    "text": "She agrees with the man.",
+                                    "reason": {
+                                        "en": "The expression 'I'll say!' is a common idiom used to express strong agreement with a previous statement. The woman is agreeing with the man that the phone bill is high.",
+                                        "id": "Ungkapan 'I'll say!' adalah idiom umum yang digunakan untuk menyatakan persetujuan kuat dengan pernyataan sebelumnya. Wanita itu setuju dengan pria bahwa tagihan telepon itu tinggi."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 11: Listen for Expressions of Agreement",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-11-13-02.mp3",
+                            "passage": "(woman) I saw Bill in calculus class this morn ing.\n(man) Then he's not sick anymore.",
+                            "question": "2. WHAT HADTHE MAN ASSUMED?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "Bill had never really been sick.",
+                                    "reason": {
+                                        "en": "The man's statement 'Then he's not sick anymore' implies that he believed Bill *was* sick. This option suggests Bill was never sick, which contradicts the implication.",
+                                        "id": "Pernyataan pria 'Kalau begitu dia tidak sakit lagi' menyiratkan bahwa dia percaya Bill *memang* sakit. Pilihan ini menyarankan Bill tidak pernah sakit, yang bertentangan dengan implikasinya."
+                                    }
+                                },
+                                {
+                                    "text": "Bill was too sick to come to class.",
+                                    "reason": {
+                                        "en": "The man's statement 'Then he's not sick anymore' directly implies that he previously assumed Bill *was* sick and therefore unable to attend class. The phrase 'not sick anymore' indicates a change from a previous state of sickness.",
+                                        "id": "Pernyataan pria 'Kalau begitu dia tidak sakit lagi' secara langsung menyiratkan bahwa sebelumnya dia berasumsi Bill *sedang* sakit dan oleh karena itu tidak dapat hadir di kelas. Frasa 'tidak sakit lagi' menunjukkan perubahan dari keadaan sakit sebelumnya."
+                                    }
+                                },
+                                {
+                                    "text": "Bill was sick of calculus class.",
+                                    "reason": {
+                                        "en": "The dialogue is about Bill's health, not his feelings about calculus class. This option introduces an irrelevant topic.",
+                                        "id": "Dialog tersebut adalah tentang kesehatan Bill, bukan perasaannya tentang kelas kalkulus. Pilihan ini memperkenalkan topik yang tidak relevan."
+                                    }
+                                },
+                                {
+                                    "text": "Bill had forgotten about the calculus class that morning.",
+                                    "reason": {
+                                        "en": "The dialogue focuses on Bill's sickness, not his memory of the class. The man's statement implies he expected Bill to be absent due to illness, not forgetfulness.",
+                                        "id": "Dialog tersebut berfokus pada penyakit Bill, bukan ingatannya tentang kelas. Pernyataan pria itu menyiratkan bahwa dia mengharapkan Bill absen karena sakit, bukan karena lupa."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 7: Listen for Negative Expressions",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-11-13-03.mp3",
+                            "passage": "(man) I don't know how I'm going to get this paper done by Monday.\n(woman) Why not stay home tonight instead of going out?",
+                            "question": "3. WHAT DOES THE WOMAN SUG GEST?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "The man should go out tonight.",
+                                    "reason": {
+                                        "en": "The woman suggests the opposite of going out. The man is worried about finishing his paper, and she proposes he stay home to work on it.",
+                                        "id": "Wanita itu menyarankan kebalikan dari pergi keluar. Pria itu khawatir tentang menyelesaikan makalahnya, dan dia menyarankan agar dia tinggal di rumah untuk mengerjakannya."
+                                    }
+                                },
+                                {
+                                    "text": "The man should stay home and relax.",
+                                    "reason": {
+                                        "en": "While staying home is part of the suggestion, the primary purpose is to work on the paper, not just to relax.",
+                                        "id": "Meskipun tinggal di rumah adalah bagian dari saran, tujuan utamanya adalah untuk mengerjakan makalah, bukan hanya untuk bersantai."
+                                    }
+                                },
+                                {
+                                    "text": "The man should work on the paper tonight.",
+                                    "reason": {
+                                        "en": "The woman's suggestion, 'Why not stay home tonight instead of going out?', directly implies that the man should use the time at home to work on his paper, which is the source of his concern.",
+                                        "id": "Saran wanita itu, 'Mengapa tidak tinggal di rumah malam ini daripada pergi keluar?', secara langsung menyiratkan bahwa pria itu harus menggunakan waktu di rumah untuk mengerjakan makalahnya, yang merupakan sumber kekhawatirannya."
+                                    }
+                                },
+                                {
+                                    "text": "The man should go out Monday instead.",
+                                    "reason": {
+                                        "en": "The suggestion is about staying home *tonight* to address the Monday deadline, not about postponing the outing to Monday.",
+                                        "id": "Saran tersebut adalah tentang tinggal di rumah *malam ini* untuk mengatasi tenggat waktu hari Senin, bukan tentang menunda acara ke hari Senin."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 12: Listen for Expressions of Uncertainty and Suggestion",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-11-13-04.mp3",
+                            "passage": "(woman) The cafeteria is closed in the morn ings.\n(man) So, the cafeteria doesn't serve break fast!",
+                            "question": "4. WHAT HAD THE MAN ASSUMED?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "The cafeteria was open in the morning.",
+                                    "reason": {
+                                        "en": "The man's statement 'So, the cafeteria doesn't serve breakfast!' is a conclusion drawn from the woman's statement that the cafeteria is closed in the mornings. This implies that he had previously assumed it would be open and serve breakfast.",
+                                        "id": "Pernyataan pria 'Jadi, kafetaria tidak menyajikan sarapan!' adalah kesimpulan yang ditarik dari pernyataan wanita bahwa kafetaria tutup di pagi hari. Ini menyiratkan bahwa dia sebelumnya berasumsi kafetaria akan buka dan menyajikan sarapan."
+                                    }
+                                },
+                                {
+                                    "text": "The cafeteria did not serve breakfast.",
+                                    "reason": {
+                                        "en": "The man's statement is a conclusion based on the cafeteria being closed in the morning, not a pre-existing belief that it didn't serve breakfast.",
+                                        "id": "Pernyataan pria adalah kesimpulan berdasarkan kafetaria yang tutup di pagi hari, bukan keyakinan yang sudah ada sebelumnya bahwa kafetaria tidak menyajikan sarapan."
+                                    }
+                                },
+                                {
+                                    "text": "The breakfast in the cafeteria was not very tasty.",
+                                    "reason": {
+                                        "en": "There is no mention of the taste of the breakfast in the dialogue.",
+                                        "id": "Tidak ada penyebutan tentang rasa sarapan dalam dialog."
+                                    }
+                                },
+                                {
+                                    "text": "The woman never ate breakfast in the cafeteria.",
+                                    "reason": {
+                                        "en": "The dialogue does not provide information about whether the woman eats breakfast in the cafeteria.",
+                                        "id": "Dialog tidak memberikan informasi tentang apakah wanita itu sarapan di kafetaria."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 14: Listen for Wishes",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-11-13-05.mp3",
+                            "passage": "(woman) Do you think we can park in that lot without getting a ticket?\n(man) As far as I know.",
+                            "question": "5. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "He believes that it is acceptable to park there.",
+                                    "reason": {
+                                        "en": "The man's response, 'As far as I know,' indicates his belief that parking there is acceptable, aligning with the woman's question about getting a ticket. This is a form of agreement or qualified affirmation.",
+                                        "id": "Respons pria, 'Sejauh yang saya tahu,' menunjukkan keyakinannya bahwa parkir di sana dapat diterima, sejalan dengan pertanyaan wanita tentang mendapatkan tiket. Ini adalah bentuk persetujuan atau penegasan yang berkualifikasi."
+                                    }
+                                },
+                                {
+                                    "text": "The parking lot is too far from their destination.",
+                                    "reason": {
+                                        "en": "The dialogue does not mention the distance to their destination, making this option irrelevant.",
+                                        "id": "Dialog tidak menyebutkan jarak ke tujuan mereka, membuat opsi ini tidak relevan."
+                                    }
+                                },
+                                {
+                                    "text": "He knows that they won't get a ticket.",
+                                    "reason": {
+                                        "en": "While 'As far as I know' implies a belief, it doesn't express absolute certainty ('He knows that they won't get a ticket'). It suggests a level of uncertainty or assumption.",
+                                        "id": "Meskipun 'Sejauh yang saya tahu' menyiratkan keyakinan, itu tidak mengungkapkan kepastian mutlak ('Dia tahu bahwa mereka tidak akan mendapat tiket'). Ini menunjukkan tingkat ketidakpastian atau asumsi."
+                                    }
+                                },
+                                {
+                                    "text": "He knows where the parking lot is.",
+                                    "reason": {
+                                        "en": "The dialogue is about the acceptability of parking, not about the man's knowledge of the parking lot's location.",
+                                        "id": "Dialog ini adalah tentang penerimaan parkir, bukan tentang pengetahuan pria tentang lokasi tempat parkir."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 11: Listen for Expressions of Agreement",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-11-13-06.mp3",
+                            "passage": "(woman) I'm so glad to be finished with that class!\n(man) You can say that again!",
+                            "question": "6. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "He would be glad to say it over again.",
+                                    "reason": {
+                                        "en": "The man is not saying he wants to repeat the woman's words. He is using an idiom to express agreement.",
+                                        "id": "Pria itu tidak mengatakan dia ingin mengulang kata-kata wanita itu. Dia menggunakan idiom untuk mengekspresikan persetujuan."
+                                    }
+                                },
+                                {
+                                    "text": "He would like the woman to repeat what she said.",
+                                    "reason": {
+                                        "en": "The man is not asking the woman to repeat herself. He is agreeing with her statement.",
+                                        "id": "Pria itu tidak meminta wanita itu untuk mengulang perkataannya. Dia setuju dengan pernyataannya."
+                                    }
+                                },
+                                {
+                                    "text": "He says that he would like to take the class again.",
+                                    "reason": {
+                                        "en": "The idiom 'You can say that again' means agreement, not a desire to repeat the class.",
+                                        "id": "Idiom 'You can say that again' berarti persetujuan, bukan keinginan untuk mengulang kelas."
+                                    }
+                                },
+                                {
+                                    "text": "He's happy the class is over, too.",
+                                    "reason": {
+                                        "en": "The expression 'You can say that again' is an idiom used to strongly agree with what the previous speaker said. The woman is glad the class is finished, and the man agrees with her.",
+                                        "id": "Ekspresi 'You can say that again' adalah idiom yang digunakan untuk sangat setuju dengan apa yang dikatakan pembicara sebelumnya. Wanita itu senang kelasnya selesai, dan pria itu setuju dengannya."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 11: Listen for Expressions of Agreement",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-11-13-07.mp3",
+                            "passage": "(woman) I couldn't finish any of the math prob lems that Professor Allen assigned for today.\n(man) Neither could I.",
+                            "question": "7. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "He finished all the problems.",
+                                    "reason": {
+                                        "en": "The man says 'Neither could I,' which is a negative statement, meaning he also could not finish the problems. This option states the opposite.",
+                                        "id": "Pria itu berkata 'Neither could I,' yang merupakan pernyataan negatif, artinya dia juga tidak bisa menyelesaikan soal. Pilihan ini menyatakan sebaliknya."
+                                    }
+                                },
+                                {
+                                    "text": "He doesn't believe what the woman said.",
+                                    "reason": {
+                                        "en": "The man's statement 'Neither could I' expresses agreement with the woman's difficulty, not disbelief.",
+                                        "id": "Pernyataan pria itu 'Neither could I' mengungkapkan persetujuan dengan kesulitan wanita itu, bukan ketidakpercayaan."
+                                    }
+                                },
+                                {
+                                    "text": "He was able to finish some of the problems.",
+                                    "reason": {
+                                        "en": "The phrase 'Neither could I' indicates that he was also unable to finish, not that he finished some.",
+                                        "id": "Frasa 'Neither could I' menunjukkan bahwa dia juga tidak dapat menyelesaikan, bukan bahwa dia menyelesaikan sebagian."
+                                    }
+                                },
+                                {
+                                    "text": "Both he and the woman were unsuccessful on the math problems.",
+                                    "reason": {
+                                        "en": "The phrase 'Neither could I' is a negative agreement, meaning the man also could not finish the math problems, just like the woman.",
+                                        "id": "Frasa 'Neither could I' adalah persetujuan negatif, yang berarti pria itu juga tidak dapat menyelesaikan soal matematika, sama seperti wanita itu."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 7: Listen for Negative Expressions",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-11-13-08.mp3",
+                            "passage": "(man) I just got back from the post office.\n(woman) Then, you did remember to mail the package!",
+                            "question": "8. WHAT HAD THE WOMAN ASSUMED?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "The man had mailed the package.",
+                                    "reason": {
+                                        "en": "The woman's statement 'Then, you did remember to mail the package!' implies that she had assumed the opposite, that the man had forgotten. If she had assumed he remembered, she would have said something like 'Good, you remembered.'",
+                                        "id": "Pernyataan wanita 'Kalau begitu, kamu ingat mengirim paket!' menyiratkan bahwa dia berasumsi sebaliknya, yaitu pria itu lupa. Jika dia berasumsi dia ingat, dia akan mengatakan sesuatu seperti 'Bagus, kamu ingat.'"
+                                    }
+                                },
+                                {
+                                    "text": "The man had forgotten to go to the post office.",
+                                    "reason": {
+                                        "en": "The woman's statement 'Then, you did remember to mail the package!' directly contradicts the assumption that the man had forgotten. Her statement confirms he remembered.",
+                                        "id": "Pernyataan wanita 'Kalau begitu, kamu ingat mengirim paket!' secara langsung bertentangan dengan asumsi bahwa pria itu lupa. Pernyataannya mengkonfirmasi bahwa dia ingat."
+                                    }
+                                },
+                                {
+                                    "text": "The man had given the package to the woman to mail.",
+                                    "reason": {
+                                        "en": "There is no information in the dialogue to suggest that the man gave the package to the woman to mail.",
+                                        "id": "Tidak ada informasi dalam dialog yang menunjukkan bahwa pria itu memberikan paket itu kepada wanita untuk dikirim."
+                                    }
+                                },
+                                {
+                                    "text": "The man remembered the package after he went to the post office.",
+                                    "reason": {
+                                        "en": "The dialogue indicates the man did remember and went to the post office. The woman's statement confirms this, rather than suggesting an assumption about him remembering *after* going.",
+                                        "id": "Dialog tersebut menunjukkan bahwa pria itu ingat dan pergi ke kantor pos. Pernyataan wanita mengkonfirmasi hal ini, daripada menyarankan asumsi tentang dia ingat *setelah* pergi."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 7: Listen for Negative Expressions",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-11-13-09.mp3",
+                            "passage": "(woman) I'm afraid there won't be enough space in my car.\n(man) Let's take my car instead; it's bigger than yours.",
+                            "question": "9. WHAT DOES THE MAN SUGGEST?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "They should take both cars.",
+                                    "reason": {
+                                        "en": "The man suggests taking his car because it is bigger, not that they should take both cars. This option does not reflect the man's suggestion.",
+                                        "id": "Pria itu menyarankan untuk membawa mobilnya karena lebih besar, bukan bahwa mereka harus membawa kedua mobil. Pilihan ini tidak mencerminkan saran pria itu."
+                                    }
+                                },
+                                {
+                                    "text": "The woman should try not to be afraid.",
+                                    "reason": {
+                                        "en": "The man's suggestion is practical, not a response to the woman's fear. He offers a solution to the space problem, not advice about her emotions.",
+                                        "id": "Saran pria itu bersifat praktis, bukan tanggapan terhadap ketakutan wanita itu. Dia menawarkan solusi untuk masalah ruang, bukan nasihat tentang emosinya."
+                                    }
+                                },
+                                {
+                                    "text": "The woman should buy a bigger car.",
+                                    "reason": {
+                                        "en": "The man offers his car as a solution, he does not suggest the woman should buy a new car. This is an inference not supported by the dialogue.",
+                                        "id": "Pria itu menawarkan mobilnya sebagai solusi, dia tidak menyarankan wanita itu untuk membeli mobil baru. Ini adalah kesimpulan yang tidak didukung oleh dialog."
+                                    }
+                                },
+                                {
+                                    "text": "They should go together in his car.",
+                                    "reason": {
+                                        "en": "The man's statement 'Let's take my car instead; it's bigger than yours' directly proposes that they use his car because it offers more space, implying they will go together in it. This aligns with the skill of listening for expressions of agreement and suggestions.",
+                                        "id": "Pernyataan pria itu 'Mari kita bawa mobilku saja; mobilku lebih besar dari mobilmu' secara langsung mengusulkan agar mereka menggunakan mobilnya karena menawarkan lebih banyak ruang, menyiratkan bahwa mereka akan pergi bersama di dalamnya. Hal ini sejalan dengan keterampilan mendengarkan ekspresi persetujuan dan saran."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 11: Listen for Expressions of Agreement",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-11-13-10.mp3",
+                            "passage": "(woman) These muffins taste really great.\n(man) They were freshly made this morning, weren't they?",
+                            "question": "10. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "He wants to know if the muffins taste good.",
+                                    "reason": {
+                                        "en": "The man is not asking if they taste good; he is commenting on their freshness, implying agreement with the woman's positive assessment.",
+                                        "id": "Pria itu tidak bertanya apakah rasanya enak; dia mengomentari kesegarannya, menyiratkan persetujuan dengan penilaian positif wanita itu."
+                                    }
+                                },
+                                {
+                                    "text": "He thinks the muffins were recently prepared.",
+                                    "reason": {
+                                        "en": "The man uses a tag question ('weren't they?') to confirm his belief that the muffins were recently prepared, agreeing with the woman's implied positive statement about their taste.",
+                                        "id": "Pria itu menggunakan pertanyaan tag ('bukankah begitu?') untuk mengkonfirmasi keyakinannya bahwa muffin tersebut baru saja disiapkan, setuju dengan pernyataan positif tersirat wanita itu tentang rasanya."
+                                    }
+                                },
+                                {
+                                    "text": "The muffins are not really fresh.",
+                                    "reason": {
+                                        "en": "The tag question 'weren't they?' is used to confirm a belief, not to express doubt. The man implies the muffins ARE fresh.",
+                                        "id": "Pertanyaan tag 'bukankah begitu?' digunakan untuk mengkonfirmasi keyakinan, bukan untuk menyatakan keraguan. Pria itu menyiratkan bahwa muffin tersebut MEMANG segar."
+                                    }
+                                },
+                                {
+                                    "text": "He's sure that the muffins were just made.",
+                                    "reason": {
+                                        "en": "While the man believes the muffins were just made, the tag question expresses a request for confirmation rather than stating certainty. The primary function here is agreement on freshness.",
+                                        "id": "Meskipun pria itu percaya muffin tersebut baru saja dibuat, pertanyaan tag tersebut mengungkapkan permintaan konfirmasi daripada menyatakan kepastian. Fungsi utamanya di sini adalah persetujuan mengenai kesegaran."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 11: Listen for Expressions of Agreement",
+                            "_is_evaluated": true
+                        }
+                    ],
+                    "groups": [],
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-11-13.mp3",
+                    "passage": "",
+                    "audioUrl": "",
+                    "durationSeconds": 0
+                },
+                {
+                    "title": "SKILLS 01-13",
+                    "instruction": "",
+                    "questions": [
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-13-01.mp3",
+                            "passage": "(man)  Here are all your phone messages.\n(woman) I need to respond to these right away.",
+                            "question": "1. WHAT WILL THE WOMAN PROBA BLY DO NEXT?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "Write a message to the man .",
+                                    "reason": {
+                                        "en": "The woman says she needs to respond to the messages, not write a message to the man.",
+                                        "id": "Wanita itu mengatakan dia perlu menanggapi pesan-pesan itu, bukan menulis pesan kepada pria itu."
+                                    }
+                                },
+                                {
+                                    "text": "Make some phone calls .",
+                                    "reason": {
+                                        "en": "The woman states, 'I need to respond to these right away,' implying she will make phone calls to address the messages.",
+                                        "id": "Wanita itu menyatakan, 'Saya perlu menanggapi ini segera,' menyiratkan bahwa dia akan melakukan panggilan telepon untuk menangani pesan-pesan tersebut."
+                                    }
+                                },
+                                {
+                                    "text": "Respond to the man's questions .",
+                                    "reason": {
+                                        "en": "The woman's statement is about responding to messages, not answering the man's questions.",
+                                        "id": "Pernyataan wanita itu adalah tentang menanggapi pesan, bukan menjawab pertanyaan pria itu."
+                                    }
+                                },
+                                {
+                                    "text": "Get a new phone installed .",
+                                    "reason": {
+                                        "en": "There is no indication in the dialogue that the woman needs a new phone installed.",
+                                        "id": "Tidak ada indikasi dalam dialog bahwa wanita itu membutuhkan telepon baru yang dipasang."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 1: Focus on the Last Line",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-13-02.mp3",
+                            "passage": "(man)  Can we meet next Tuesday at 3:00?\n(woman) I'll have to check my calendar.",
+                            "question": "2. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "She's not sure if she's free.",
+                                    "reason": {
+                                        "en": "The woman's response, 'I'll have to check my calendar,' indicates that she is not certain about her availability at the proposed time. This directly aligns with the meaning of uncertainty. This skill focuses on understanding expressions that convey doubt or a need for verification.",
+                                        "id": "Respons wanita, 'I'll have to check my calendar,' menunjukkan bahwa dia tidak yakin tentang ketersediaannya pada waktu yang diusulkan. Ini secara langsung selaras dengan makna ketidakpastian. Skill ini berfokus pada pemahaman ekspresi yang menyampaikan keraguan atau kebutuhan untuk verifikasi."
+                                    }
+                                },
+                                {
+                                    "text": "She's marked it on her calendar.",
+                                    "reason": {
+                                        "en": "The woman says she needs to check her calendar, not that she has already marked the meeting. This option misinterprets the meaning of 'check my calendar.'",
+                                        "id": "Wanita mengatakan dia perlu memeriksa kalendernya, bukan bahwa dia sudah menandai pertemuan tersebut. Pilihan ini salah menafsirkan arti 'check my calendar.'"
+                                    }
+                                },
+                                {
+                                    "text": "She'll write a check for the calendar.",
+                                    "reason": {
+                                        "en": "The dialogue is about scheduling a meeting, not about writing a check for a calendar. This option is irrelevant to the conversation.",
+                                        "id": "Dialog tersebut adalah tentang menjadwalkan pertemuan, bukan tentang menulis cek untuk kalender. Pilihan ini tidak relevan dengan percakapan."
+                                    }
+                                },
+                                {
+                                    "text": "Her calendar says she has to have a meeting at 3:00.",
+                                    "reason": {
+                                        "en": "The woman's statement implies she *might* have a conflict or needs to confirm her availability. It does not state that her calendar *says* she has to have a meeting at 3:00; she needs to check it first.",
+                                        "id": "Pernyataan wanita itu menyiratkan bahwa dia *mungkin* memiliki konflik atau perlu mengkonfirmasi ketersediaannya. Itu tidak menyatakan bahwa kalendernya *mengatakan* dia harus mengadakan pertemuan pada pukul 3:00; dia perlu memeriksanya terlebih dahulu."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 12: Listen for Expressions of Uncertainty and Suggestion",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-13-03.mp3",
+                            "passage": "(woman) Did you have enough to pay for the bicycle?\n(man) Only barely.",
+                            "question": "3. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "He barely rode the bicycle.",
+                                    "reason": {
+                                        "en": "The man states he 'barely' had enough money to pay for the bicycle, not that he barely rode it.",
+                                        "id": "Pria itu menyatakan bahwa dia 'hampir tidak' punya cukup uang untuk membayar sepeda, bukan bahwa dia hampir tidak mengendarainya."
+                                    }
+                                },
+                                {
+                                    "text": "He didn't have enough money.",
+                                    "reason": {
+                                        "en": "The man implies he *did* have enough money, but just barely. This option suggests he did not have enough.",
+                                        "id": "Pria itu menyiratkan bahwa dia *memang* punya cukup uang, tetapi hanya sedikit. Pilihan ini menyarankan bahwa dia tidak punya cukup."
+                                    }
+                                },
+                                {
+                                    "text": "The bicycle didn't need to be paid for.",
+                                    "reason": {
+                                        "en": "The dialogue clearly indicates the bicycle needed to be paid for.",
+                                        "id": "Dialog tersebut dengan jelas menunjukkan bahwa sepeda itu perlu dibayar."
+                                    }
+                                },
+                                {
+                                    "text": "He paid for the bicycle.",
+                                    "reason": {
+                                        "en": "The phrase 'Only barely' implies that he did have enough money, but it was a very small amount. Therefore, he paid for it, but with difficulty.",
+                                        "id": "Frasa 'Hanya sedikit' menyiratkan bahwa dia punya cukup uang, tetapi jumlahnya sangat sedikit. Oleh karena itu, dia membayarnya, tetapi dengan susah payah."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 2: Choose Answers with Synonyms",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-13-04.mp3",
+                            "passage": "(man)  Did the television get fixed?\n(woman) I had Bob look at it, and now it works.",
+                            "question": "4. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "She fixed the television.",
+                                    "reason": {
+                                        "en": "The woman states that she 'had Bob look at it,' implying that Bob performed the action, not herself. This contradicts the idea that she fixed it.",
+                                        "id": "Wanita itu menyatakan bahwa dia 'meminta Bob memeriksanya', menyiratkan bahwa Bob yang melakukan tindakan itu, bukan dirinya. Ini bertentangan dengan gagasan bahwa dia yang memperbaikinya."
+                                    }
+                                },
+                                {
+                                    "text": "Bob made the television work.",
+                                    "reason": {
+                                        "en": "The last line of the dialogue, 'I had Bob look at it, and now it works,' directly implies that Bob's action resulted in the television working. This aligns with the meaning that Bob made the television work.",
+                                        "id": "Baris terakhir dialog, 'Saya meminta Bob memeriksanya, dan sekarang ia berfungsi,' secara langsung menyiratkan bahwa tindakan Bob membuat televisi berfungsi. Ini sejalan dengan makna bahwa Bob membuat televisi berfungsi."
+                                    }
+                                },
+                                {
+                                    "text": "The woman looked at Bob on television.",
+                                    "reason": {
+                                        "en": "The dialogue is about a television that was broken and then fixed. There is no mention of Bob being on television or the woman looking at him.",
+                                        "id": "Dialog tersebut adalah tentang televisi yang rusak dan kemudian diperbaiki. Tidak ada penyebutan Bob berada di televisi atau wanita itu melihatnya."
+                                    }
+                                },
+                                {
+                                    "text": "Bob works for the woman.",
+                                    "reason": {
+                                        "en": "While it's possible Bob works for the woman, the dialogue focuses on the repair of the television. The statement 'I had Bob look at it' doesn't necessarily imply an employment relationship; it could be a favor or a service.",
+                                        "id": "Meskipun mungkin Bob bekerja untuk wanita itu, dialog tersebut berfokus pada perbaikan televisi. Pernyataan 'Saya meminta Bob memeriksanya' tidak serta merta menyiratkan hubungan kerja; itu bisa jadi bantuan atau layanan."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 1: Focus on the Last Line",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-13-05.mp3",
+                            "passage": "(man)  Did your new assistant do a good job today?\n(woman) I couldn't say that he was helpful.",
+                            "question": "5. WHAT DOES THE WOMAN SAY ABOUT THE ASSISTANT?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "He helped her say what she couldn't say.",
+                                    "reason": {
+                                        "en": "The woman's statement 'I couldn't say that he was helpful' is a negative statement. This option misinterprets the meaning of 'helpful' and the negative structure.",
+                                        "id": "Pernyataan wanita 'I couldn't say that he was helpful' adalah pernyataan negatif. Opsi ini salah menafsirkan makna 'helpful' dan struktur negatifnya."
+                                    }
+                                },
+                                {
+                                    "text": "She was unable to say anything about him.",
+                                    "reason": {
+                                        "en": "The woman does not say she was unable to say anything about him. She expresses an opinion about his helpfulness, albeit negatively.",
+                                        "id": "Wanita itu tidak mengatakan bahwa dia tidak bisa mengatakan apa pun tentang dia. Dia mengungkapkan pendapat tentang tingkat bantuannya, meskipun secara negatif."
+                                    }
+                                },
+                                {
+                                    "text": "He hasn't helped her very much.",
+                                    "reason": {
+                                        "en": "The phrase 'I couldn't say that he was helpful' implies that the speaker did not find him to be helpful. This is equivalent to saying he hasn't helped her very much. This aligns with Skill 7, where a negative statement often implies the opposite positive meaning.",
+                                        "id": "Frasa 'I couldn't say that he was helpful' menyiratkan bahwa pembicara tidak menganggapnya membantu. Ini setara dengan mengatakan dia tidak banyak membantunya. Ini selaras dengan Skill 7, di mana pernyataan negatif sering kali menyiratkan makna positif yang berlawanan."
+                                    }
+                                },
+                                {
+                                    "text": "What he said was very helpful.",
+                                    "reason": {
+                                        "en": "The woman's statement is negative ('I couldn't say that he was helpful'), directly contradicting this option which states he was very helpful.",
+                                        "id": "Pernyataan wanita itu negatif ('I couldn't say that he was helpful'), secara langsung bertentangan dengan opsi ini yang menyatakan bahwa dia sangat membantu."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 7: Listen for Negative Expressions",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-13-06.mp3",
+                            "passage": "(man)  Walk-through registration took me three hours to complete.\n(woman) Why not try registering by mail next semester?",
+                            "question": "6. WHAT DOES THE WOMAN SUG GEST?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "The man should spend more time on registration.",
+                                    "reason": {
+                                        "en": "The woman's suggestion is to register by mail, which implies a different method, not spending more time.",
+                                        "id": "Saran wanita tersebut adalah mendaftar melalui pos, yang menyiratkan metode yang berbeda, bukan menghabiskan lebih banyak waktu."
+                                    }
+                                },
+                                {
+                                    "text": "The man should walk more quickly through registration.",
+                                    "reason": {
+                                        "en": "The woman's suggestion is about the method of registration, not the speed at which the man walks.",
+                                        "id": "Saran wanita tersebut adalah tentang metode pendaftaran, bukan kecepatan pria itu berjalan."
+                                    }
+                                },
+                                {
+                                    "text": "The man should send in his registration materials.",
+                                    "reason": {
+                                        "en": "The woman explicitly suggests 'registering by mail,' which means sending in registration materials.",
+                                        "id": "Wanita itu secara eksplisit menyarankan 'mendaftar melalui pos', yang berarti mengirimkan materi pendaftaran."
+                                    }
+                                },
+                                {
+                                    "text": "The man should try to avoid registering next semester.",
+                                    "reason": {
+                                        "en": "The woman is suggesting an alternative method for registration, not avoiding it altogether.",
+                                        "id": "Wanita itu menyarankan metode alternatif untuk pendaftaran, bukan menghindarinya sama sekali."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 12: Listen for Expressions of Uncertainty and Suggestion",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-13-07.mp3",
+                            "passage": "(woman) Were you able to get in touch with\n(man) Paula?",
+                            "question": "7. I wasn't able to give her a call because her number was unlisted. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "He couldn't find Paula's phone number, so he didn't call her.",
+                                    "reason": {
+                                        "en": "The man states he 'wasn't able to give her a call because her number was unlisted.' This directly implies he could not find her number, and therefore could not call her. Option [0] accurately paraphrases this.",
+                                        "id": "Pria itu menyatakan bahwa dia 'tidak dapat meneleponnya karena nomornya tidak terdaftar.' Ini secara langsung menyiratkan bahwa dia tidak dapat menemukan nomornya, dan oleh karena itu tidak meneleponnya. Pilihan [0] secara akurat memparafrasekan ini."
+                                    }
+                                },
+                                {
+                                    "text": "He couldn't give Paula the list over the phone.",
+                                    "reason": {
+                                        "en": "The dialogue is about a phone call, not a list. The word 'unlisted' refers to the phone number, not a document.",
+                                        "id": "Dialog tersebut adalah tentang panggilan telepon, bukan daftar. Kata 'unlisted' mengacu pada nomor telepon, bukan dokumen."
+                                    }
+                                },
+                                {
+                                    "text": "When he went to call Paula, he couldn't find the list.",
+                                    "reason": {
+                                        "en": "The dialogue does not mention going to call Paula or a list being involved in the attempt to call.",
+                                        "id": "Dialog tersebut tidak menyebutkan pergi menelepon Paula atau daftar yang terlibat dalam upaya menelepon."
+                                    }
+                                },
+                                {
+                                    "text": "He couldn't recollect the number that was on the list.",
+                                    "reason": {
+                                        "en": "The reason given is that the number was 'unlisted,' not that he couldn't remember it from a list.",
+                                        "id": "Alasan yang diberikan adalah bahwa nomor tersebut 'tidak terdaftar,' bukan bahwa dia tidak dapat mengingatnya dari daftar."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 1: Focus on the Last Line",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-13-08.mp3",
+                            "passage": "(man)  Did you have a problem when you arrived at the train station?\n(woman) There was nowhere to store my lug gage.",
+                            "question": "8. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "She couldn't take her luggage to the store.",
+                                    "reason": {
+                                        "en": "The woman states she had nowhere to store her luggage, implying she did not store it at a store. The option mentions 'store' twice, which is a misinterpretation.",
+                                        "id": "Wanita itu menyatakan bahwa dia tidak punya tempat untuk menyimpan barang bawaannya, menyiratkan bahwa dia tidak menyimpannya di toko. Pilihan ini menyebutkan 'toko' dua kali, yang merupakan salah tafsir."
+                                    }
+                                },
+                                {
+                                    "text": "She stored her luggage at the train station.",
+                                    "reason": {
+                                        "en": "The woman explicitly states 'There was nowhere to store my luggage,' meaning she was unable to store it. This option claims she did store it, which contradicts the dialogue.",
+                                        "id": "Wanita itu secara eksplisit menyatakan 'Tidak ada tempat untuk menyimpan barang bawaan saya,' yang berarti dia tidak dapat menyimpannya. Pilihan ini mengklaim dia menyimpannya, yang bertentangan dengan dialog."
+                                    }
+                                },
+                                {
+                                    "text": "She carried her luggage from the train station to the store.",
+                                    "reason": {
+                                        "en": "The dialogue is about storing luggage, not about carrying it to a store. This option introduces an irrelevant action and location.",
+                                        "id": "Dialog tersebut adalah tentang menyimpan barang bawaan, bukan membawanya ke toko. Pilihan ini memperkenalkan tindakan dan lokasi yang tidak relevan."
+                                    }
+                                },
+                                {
+                                    "text": "There were no lockers for her bags.",
+                                    "reason": {
+                                        "en": "The woman's statement 'There was nowhere to store my luggage' directly implies that there were no available storage facilities, such as lockers, for her bags at the train station.",
+                                        "id": "Pernyataan wanita itu 'Tidak ada tempat untuk menyimpan barang bawaan saya' secara langsung menyiratkan bahwa tidak ada fasilitas penyimpanan yang tersedia, seperti loker, untuk tasnya di stasiun kereta."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 1: Focus on the Last Line",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-13-09.mp3",
+                            "passage": "(woman) I just sent in my forms to the psychol ogy department.\n(man) So you are going to major in psychol ogy!",
+                            "question": "9. WHAT HAD THE MAN ASSUMED?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "The woman had taken a different major.",
+                                    "reason": {
+                                        "en": "The man's statement, 'So you are going to major in psychology!', is a direct response to the woman's statement, 'I just sent in my forms to the psychology department.' The man is inferring from her action that she has chosen psychology. The option that she had taken a different major is the opposite of what the man assumed based on her sending in the forms to the psychology department.",
+                                        "id": "Pernyataan pria, 'Jadi kamu akan mengambil jurusan psikologi!', adalah respons langsung terhadap pernyataan wanita, 'Saya baru saja mengirimkan formulir saya ke departemen psikologi.' Pria itu menyimpulkan dari tindakannya bahwa dia telah memilih psikologi. Pilihan bahwa dia mengambil jurusan yang berbeda adalah kebalikan dari apa yang diasumsikan pria itu berdasarkan dia mengirimkan formulir ke departemen psikologi."
+                                    }
+                                },
+                                {
+                                    "text": "The woman had chosen psychology as a major.",
+                                    "reason": {
+                                        "en": "The man's statement is an assumption based on the woman sending in her forms to the psychology department. While this is what the man assumed, the question asks what the man assumed, and option 0 represents the correct inference of his assumption in contrast to the woman's actual action.",
+                                        "id": "Pernyataan pria itu adalah asumsi berdasarkan wanita yang mengirimkan formulirnya ke departemen psikologi. Meskipun inilah yang diasumsikan pria itu, pertanyaan itu menanyakan apa yang diasumsikan pria itu, dan opsi 0 mewakili kesimpulan yang benar dari asumsinya dibandingkan dengan tindakan sebenarnya wanita itu."
+                                    }
+                                },
+                                {
+                                    "text": "The woman was uninformed.",
+                                    "reason": {
+                                        "en": "There is no indication in the dialogue that the woman was uninformed. The man's statement is an assumption about her major, not about her knowledge.",
+                                        "id": "Tidak ada indikasi dalam dialog bahwa wanita itu tidak terinformasi. Pernyataan pria itu adalah asumsi tentang jurusannya, bukan tentang pengetahuannya."
+                                    }
+                                },
+                                {
+                                    "text": "The woman needed to see a psychiatrist.",
+                                    "reason": {
+                                        "en": "There is no mention or implication that the woman needed to see a psychiatrist. The dialogue is about academic majors.",
+                                        "id": "Tidak ada penyebutan atau implikasi bahwa wanita itu perlu menemui psikiater. Dialog ini tentang jurusan akademik."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 1: Focus on the Last Line",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-01-13-10.mp3",
+                            "passage": "(man) That exam couldn't have been more difficult!\n(woman) I'll say!",
+                            "question": "10.  WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "She would like the man to repeat what he said.",
+                                    "reason": {
+                                        "en": "The woman is not asking the man to repeat himself. She is agreeing with his statement about the exam's difficulty.",
+                                        "id": "Wanita tersebut tidak meminta pria itu mengulang perkataannya. Dia setuju dengan pernyataannya tentang kesulitan ujian."
+                                    }
+                                },
+                                {
+                                    "text": "She thinks the exam could have been a little more difficult.",
+                                    "reason": {
+                                        "en": "The woman's statement 'I'll say!' is an expression of strong agreement, meaning she agrees that the exam was very difficult, not that it could have been more difficult.",
+                                        "id": "Pernyataan wanita 'I'll say!' adalah ungkapan persetujuan yang kuat, yang berarti dia setuju bahwa ujian itu sangat sulit, bukan bahwa ujian itu bisa lebih sulit."
+                                    }
+                                },
+                                {
+                                    "text": "She shares the same opinion of the exam as the man.",
+                                    "reason": {
+                                        "en": "The idiom 'I'll say!' is used to express strong agreement. The woman is agreeing with the man's statement that the exam was extremely difficult.",
+                                        "id": "Idiom 'I'll say!' digunakan untuk mengungkapkan persetujuan yang kuat. Wanita itu setuju dengan pernyataan pria bahwa ujian itu sangat sulit."
+                                    }
+                                },
+                                {
+                                    "text": "She believes that the exam was easy.",
+                                    "reason": {
+                                        "en": "The woman's statement 'I'll say!' directly contradicts the idea that the exam was easy. It indicates strong agreement with the man's assessment of difficulty.",
+                                        "id": "Pernyataan wanita 'I'll say!' secara langsung bertentangan dengan gagasan bahwa ujian itu mudah. Ini menunjukkan persetujuan yang kuat dengan penilaian pria tentang kesulitan."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "Listening Part A - Skill 11: Listen for Expressions of Agreement",
+                            "_is_evaluated": true
+                        }
+                    ],
+                    "groups": [],
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/listening-skills/short-dialog/exercise-direction-01-13.mp3",
+                    "passage": "",
+                    "audioUrl": "",
+                    "durationSeconds": 0
+                }
+            ],
+            "instruction": "",
+            "directionAudioUrl": ""
+        }
+    ]
+}
