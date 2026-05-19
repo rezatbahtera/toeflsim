@@ -1,0 +1,2079 @@
+{
+    "title": "POST-TEST (Paper) ",
+    "sections": [
+        {
+            "title": "SECTION 1 LISTENING COMPREHENSION",
+            "type": "listening",
+            "durationMinutes": 25,
+            "parts": [
+                {
+                    "title": "Part A",
+                    "instruction": "Directions: In Part A you will hear short conversations between two people. After each conversation, \nyou will hear a question about the conversation. The conversations and questions will not be \nrepeated. After you hear a question, read the four possible answers in your test book and choose the \nbest answer. Then, on your answer sheet, find the number of the question and fill in the space that \ncorresponds to the letter of the answer you have chosen.",
+                    "questions": [
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-a/post-test-dialog-01.mp3",
+                            "passage": "(woman) Are the exams corrected yet?\n(man)No, but they'll be corrected by noon.",
+                            "question": "1. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "He'll correct the exams this afternoon.",
+                                    "reason": {
+                                        "en": "This option is incorrect because it misinterprets the timeframe and the action; the man states the exams will be finished by noon, not that he will start correcting them in the afternoon.",
+                                        "id": "Opsi ini salah karena menyalahartikan kerangka waktu dan tindakan; pria tersebut menyatakan ujian akan selesai pada siang hari, bukan bahwa dia akan mulai mengoreksinya di sore hari."
+                                    }
+                                },
+                                {
+                                    "text": "The exam will be at noon.",
+                                    "reason": {
+                                        "en": "This option is incorrect as it confuses the time of completion with the time the exam itself takes place.",
+                                        "id": "Opsi ini salah karena mencampuradukkan waktu penyelesaian dengan waktu pelaksanaan ujian itu sendiri."
+                                    }
+                                },
+                                {
+                                    "text": "He will collect the exams at 12:00.",
+                                    "reason": {
+                                        "en": "This option is incorrect because it uses the word 'collect,' which is not synonymous with 'corrected' (graded).",
+                                        "id": "Opsi ini salah karena menggunakan kata 'collect' (mengumpulkan), yang bukan sinonim dari 'corrected' (dikoreksi/dinilai)."
+                                    }
+                                },
+                                {
+                                    "text": "The tests will be graded by noon.",
+                                    "reason": {
+                                        "en": "This option is correct because it uses the synonym 'graded' for 'corrected' and accurately reflects the timeframe 'by noon' mentioned in the dialogue.",
+                                        "id": "Opsi ini benar karena menggunakan sinonim 'graded' untuk 'corrected' dan secara akurat mencerminkan kerangka waktu 'by noon' yang disebutkan dalam dialog."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 2: Choose Answers with Synonyms",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-a/post-test-dialog-02.mp3",
+                            "passage": "(woman) Has Martha's visa arrived yet?\n(man)I think it arrived last month.",
+                            "question": "2. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "Martha applied for a visa last month.",
+                                    "reason": {
+                                        "en": "This option incorrectly assumes the action of applying happened last month, whereas the dialogue states the visa arrived.",
+                                        "id": "Opsi ini secara keliru mengasumsikan tindakan melamar terjadi bulan lalu, padahal dialog menyatakan visa tersebut telah tiba."
+                                    }
+                                },
+                                {
+                                    "text": "Martha's visa will last for only a month.",
+                                    "reason": {
+                                        "en": "This option misinterprets the time reference 'last month' as the duration of the visa, which is not supported by the dialogue.",
+                                        "id": "Opsi ini salah menafsirkan referensi waktu 'bulan lalu' sebagai durasi visa, yang tidak didukung oleh dialog."
+                                    }
+                                },
+                                {
+                                    "text": "Martha arrived last month without her visa.",
+                                    "reason": {
+                                        "en": "This option incorrectly suggests Martha herself arrived last month, while the subject of the dialogue is the visa.",
+                                        "id": "Opsi ini secara keliru menyarankan Martha sendiri yang tiba bulan lalu, padahal subjek dialog adalah visa tersebut."
+                                    }
+                                },
+                                {
+                                    "text": "One month ago Martha got her visa.",
+                                    "reason": {
+                                        "en": "This is the correct answer as it uses a synonym ('got' for 'arrived') to paraphrase the man's statement that the visa arrived last month.",
+                                        "id": "Ini adalah jawaban yang benar karena menggunakan sinonim ('got' untuk 'arrived') untuk memparafrase pernyataan pria tersebut bahwa visa tiba bulan lalu."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "SECTION ONE — LISTENING - Skill 2: Choose Answers with Synonyms",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-a/post-test-dialog-03.mp3",
+                            "passage": "(man)What did the professor do in the first lass? I missed it because I was late.\n(woman) She outlined the course requirements.",
+                            "question": "3. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "The professor described what the students should do.",
+                                    "reason": {
+                                        "en": "The woman states the professor 'outlined the course requirements.' This is synonymous with 'described what the students should do' in the context of a syllabus or course expectations.",
+                                        "id": "Wanita tersebut menyatakan bahwa profesor 'menguraikan persyaratan kursus.' Ini sinonim dengan 'menjelaskan apa yang harus dilakukan siswa' dalam konteks silabus atau ekspektasi mata kuliah."
+                                    }
+                                },
+                                {
+                                    "text": "There was a long line to register for the required class.",
+                                    "reason": {
+                                        "en": "This option uses the word 'line' and 'register' to create a trap based on the word 'requirements' and 'class', which is irrelevant to the dialogue.",
+                                        "id": "Opsi ini menggunakan kata 'line' dan 'register' untuk membuat jebakan berdasarkan kata 'requirements' dan 'class', yang tidak relevan dengan dialog."
+                                    }
+                                },
+                                {
+                                    "text": "It is a requirement for each professor to teach at least one course.",
+                                    "reason": {
+                                        "en": "This option uses words from the dialogue ('requirement', 'professor', 'course') to create a confusing statement that does not reflect the meaning of the conversation.",
+                                        "id": "Opsi ini menggunakan kata-kata dari dialog ('requirement', 'professor', 'course') untuk membuat pernyataan membingungkan yang tidak mencerminkan makna percakapan."
+                                    }
+                                },
+                                {
+                                    "text": "The professor required the class to prepare an outline.",
+                                    "reason": {
+                                        "en": "This option is a 'similar sound' or 'surface-level' trap, incorrectly using the word 'outline' as a verb for the students to perform, rather than the professor's action.",
+                                        "id": "Opsi ini adalah jebakan 'bunyi serupa' atau 'tingkat permukaan', yang secara keliru menggunakan kata 'outline' sebagai kata kerja yang harus dilakukan siswa, bukan tindakan profesor."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 2: Choose Answers with Synonyms",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-a/post-test-dialog-04.mp3",
+                            "passage": "(woman) How did Chuck look when you visited him in the hospital?\n(man)He's looked better.",
+                            "question": "4. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "Chuck had improved.",
+                                    "reason": {
+                                        "en": "This option is incorrect because it suggests an improvement, which is the opposite of the man's intended meaning.",
+                                        "id": "Opsi ini salah karena menyiratkan adanya perbaikan kondisi, yang merupakan kebalikan dari maksud pria tersebut."
+                                    }
+                                },
+                                {
+                                    "text": "This visit was better than the last.",
+                                    "reason": {
+                                        "en": "This option is incorrect as it misinterprets the comparison of the man's health with a previous visit.",
+                                        "id": "Opsi ini salah karena salah menafsirkan perbandingan kesehatan pria tersebut dengan kunjungan sebelumnya."
+                                    }
+                                },
+                                {
+                                    "text": "Chuck looked at him in the hospital.",
+                                    "reason": {
+                                        "en": "This option is incorrect because it uses similar-sounding words ('looked') to create a trap, which is a common distractor in Part A.",
+                                        "id": "Opsi ini salah karena menggunakan kata yang terdengar mirip ('looked') untuk membuat jebakan, yang merupakan pengecoh umum di Bagian A."
+                                    }
+                                },
+                                {
+                                    "text": "Chuck didn't seem to be doing very well.",
+                                    "reason": {
+                                        "en": "The man's statement 'He's looked better' is a negative expression implying that Chuck's current state is not good; therefore, he did not seem to be doing well.",
+                                        "id": "Pernyataan pria tersebut 'He's looked better' adalah ekspresi negatif yang menyiratkan bahwa kondisi Chuck saat ini tidak baik; oleh karena itu, dia tampak tidak sehat."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "SECTION ONE — LISTENING - Skill 7: Listen for Negative Expressions",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-a/post-test-dialog-05.mp3",
+                            "passage": "(man)How much was tuition increased for next month?\n(woman) More than I can afford.",
+                            "question": "5. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "She thinks the tuition should be raised.",
+                                    "reason": {
+                                        "en": "This option is incorrect because the woman expresses concern about the cost, not an opinion on whether it should be raised.",
+                                        "id": "Opsi ini salah karena wanita tersebut mengungkapkan kekhawatiran tentang biaya, bukan opini apakah biaya tersebut harus dinaikkan."
+                                    }
+                                },
+                                {
+                                    "text": "The semesters tuition is quite affordable.",
+                                    "reason": {
+                                        "en": "This option contradicts the woman's statement that the tuition is 'more than I can afford'.",
+                                        "id": "Opsi ini bertentangan dengan pernyataan wanita tersebut bahwa biaya kuliah 'lebih dari yang mampu ia bayar'."
+                                    }
+                                },
+                                {
+                                    "text": "She doesn't have enough money for her school fees.",
+                                    "reason": {
+                                        "en": "This is the correct answer. The phrase 'more than I can afford' is a synonym for not having enough money to cover the required fees.",
+                                        "id": "Ini adalah jawaban yang benar. Frasa 'more than I can afford' adalah sinonim dari tidak memiliki cukup uang untuk menutupi biaya yang diperlukan."
+                                    }
+                                },
+                                {
+                                    "text": "She has more than enough for tuition.",
+                                    "reason": {
+                                        "en": "This option is the opposite of the woman's meaning, as she clearly states she cannot afford the increase.",
+                                        "id": "Opsi ini adalah kebalikan dari maksud wanita tersebut, karena ia dengan jelas menyatakan bahwa ia tidak mampu membayar kenaikan tersebut."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "SECTION ONE — LISTENING - Skill 2: Choose Answers with Synonyms",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-a/post-test-dialog-06.mp3",
+                            "passage": "(woman) How were the grades on the history exam.\n(man)No one got above a C.",
+                            "question": "6. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "He thinks he got a good grade.",
+                                    "reason": {
+                                        "en": "This is incorrect because 'No one got above a C' implies that the grades were low, not good.",
+                                        "id": "Ini salah karena 'No one got above a C' menyiratkan bahwa nilai-nilainya rendah, bukan bagus."
+                                    }
+                                },
+                                {
+                                    "text": "The history grades were all C or above.",
+                                    "reason": {
+                                        "en": "This contradicts the dialogue, which states that no one achieved a grade higher than a C.",
+                                        "id": "Ini bertentangan dengan dialog, yang menyatakan bahwa tidak ada seorang pun yang mencapai nilai lebih tinggi dari C."
+                                    }
+                                },
+                                {
+                                    "text": "No one got history grades.",
+                                    "reason": {
+                                        "en": "This is incorrect because the dialogue confirms that grades were given, but they were all C or lower.",
+                                        "id": "Ini salah karena dialog mengonfirmasi bahwa nilai diberikan, tetapi semuanya adalah C atau lebih rendah."
+                                    }
+                                },
+                                {
+                                    "text": "There were no high scores.",
+                                    "reason": {
+                                        "en": "This is correct because 'No one got above a C' is a negative expression meaning that all scores were C or lower, which is synonymous with having no high scores.",
+                                        "id": "Ini benar karena 'No one got above a C' adalah ekspresi negatif yang berarti semua nilai adalah C atau lebih rendah, yang sinonim dengan tidak adanya nilai tinggi."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 7: Listen for Negative Expressions",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-a/post-test-dialog-07.mp3",
+                            "passage": "(woman) You know, this is the second time this week that you've been late to class!\n(man)It was impossible to find a place to park before the ten o'clock class!",
+                            "question": "7. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "The parking lots were full before 10:00.",
+                                    "reason": {
+                                        "en": "The man states it was impossible to find a place to park, which is synonymous with the parking lots being full. This aligns with Skill 2 (synonyms) and Skill 1 (focus on the last line).",
+                                        "id": "Pria tersebut menyatakan bahwa mustahil untuk menemukan tempat parkir, yang bersinonim dengan tempat parkir yang penuh. Ini sesuai dengan Skill 2 (sinonim) dan Skill 1 (fokus pada baris terakhir)."
+                                    }
+                                },
+                                {
+                                    "text": "It was impossible to start class by 10:00.",
+                                    "reason": {
+                                        "en": "This is an incorrect interpretation; the man is explaining his lateness, not commenting on the ability to start the class itself.",
+                                        "id": "Ini adalah interpretasi yang salah; pria tersebut menjelaskan keterlambatannya, bukan mengomentari kemampuan untuk memulai kelas itu sendiri."
+                                    }
+                                },
+                                {
+                                    "text": "He parked the car before class at 10:00.",
+                                    "reason": {
+                                        "en": "This contradicts the dialogue, as the man explicitly states he could not find a place to park, meaning he did not park before the class.",
+                                        "id": "Ini bertentangan dengan dialog, karena pria tersebut secara eksplisit menyatakan dia tidak dapat menemukan tempat parkir, yang berarti dia tidak parkir sebelum kelas."
+                                    }
+                                },
+                                {
+                                    "text": "The possibility of finding a place to park increased.",
+                                    "reason": {
+                                        "en": "This is incorrect because the man implies the opposite; the difficulty of finding a spot caused his lateness, not an increase in availability.",
+                                        "id": "Ini salah karena pria tersebut menyiratkan kebalikannya; kesulitan menemukan tempat parkir menyebabkan keterlambatannya, bukan peningkatan ketersediaan."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "SECTION ONE — LISTENING - Skill 2: Choose Answers with Synonyms",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-a/post-test-dialog-08.mp3",
+                            "passage": "(man)Can I help you find something?\n(woman) Yes, thank you. I need to get a new rug.",
+                            "question": "8. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "She's found a new ring.",
+                                    "reason": {
+                                        "en": "This is a 'Similar Sound' trap. 'Ring' sounds like 'rug' but has a completely different meaning.",
+                                        "id": "Ini adalah jebakan 'Similar Sound'. 'Ring' terdengar mirip dengan 'rug' tetapi memiliki arti yang sangat berbeda."
+                                    }
+                                },
+                                {
+                                    "text": "She needs to help him find something.",
+                                    "reason": {
+                                        "en": "This misinterprets the dialogue; the woman is the one seeking help, not the one providing it.",
+                                        "id": "Ini salah mengartikan dialog; wanita tersebut adalah pihak yang mencari bantuan, bukan yang memberikan bantuan."
+                                    }
+                                },
+                                {
+                                    "text": "She's shopping for a carpet.",
+                                    "reason": {
+                                        "en": "Correct. 'Rug' is a synonym for 'carpet', and the context of the dialogue indicates she is shopping.",
+                                        "id": "Benar. 'Rug' adalah sinonim dari 'carpet', dan konteks dialog menunjukkan bahwa dia sedang berbelanja."
+                                    }
+                                },
+                                {
+                                    "text": "She's thankful she has a rag.",
+                                    "reason": {
+                                        "en": "This is a 'Similar Sound' trap. 'Rag' sounds like 'rug' and is used to confuse the listener.",
+                                        "id": "Ini adalah jebakan 'Similar Sound'. 'Rag' terdengar mirip dengan 'rug' dan digunakan untuk membingungkan pendengar."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 2: Choose Answers with Synonyms",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-a/post-test-dialog-09.mp3",
+                            "passage": "(woman) I'd like to open an account.\n(man)Would you like a savings account or an interest-bearing checking account?",
+                            "question": "9. WHERE DOES THIS CONVERSA TION PROBABLY TAKE PLACE?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "In a department store.",
+                                    "reason": {
+                                        "en": "A department store is a retail establishment, not a place where one opens financial accounts.",
+                                        "id": "Toko serba ada adalah tempat ritel, bukan tempat untuk membuka rekening keuangan."
+                                    }
+                                },
+                                {
+                                    "text": "In a bank.",
+                                    "reason": {
+                                        "en": "The mention of 'savings account' and 'interest-bearing checking account' are specific vocabulary cues that identify a bank as the setting.",
+                                        "id": "Penyebutan 'rekening tabungan' dan 'rekening giro berbunga' adalah petunjuk kosakata spesifik yang mengidentifikasi bank sebagai tempat kejadian."
+                                    }
+                                },
+                                {
+                                    "text": "In an accounting firm.",
+                                    "reason": {
+                                        "en": "An accounting firm deals with financial records and tax preparation, not the opening of personal bank accounts.",
+                                        "id": "Firma akuntansi berurusan dengan catatan keuangan dan persiapan pajak, bukan pembukaan rekening bank pribadi."
+                                    }
+                                },
+                                {
+                                    "text": "In a checkout line.",
+                                    "reason": {
+                                        "en": "A checkout line is where customers pay for goods, which is unrelated to the process of opening a new bank account.",
+                                        "id": "Antrean kasir adalah tempat pelanggan membayar barang, yang tidak berhubungan dengan proses pembukaan rekening bank baru."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "SECTION ONE — LISTENING - Skill 4: Draw Conclusions about Who, What, Where",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-a/post-test-dialog-10.mp3",
+                            "passage": "(woman) Why does Jane spend so much time in San Francisco?\n(man)She has a cousin there, so she likes to visit, especially during the holidays.",
+                            "question": "10.WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Jane usually visits San Francisco for her vacations.",
+                                    "reason": {
+                                        "en": "The man states that Jane visits her cousin in San Francisco, especially during the holidays. This paraphrases to Jane usually visiting San Francisco for her vacations.",
+                                        "id": "Pria tersebut menyatakan bahwa Jane mengunjungi sepupunya di San Francisco, terutama saat liburan. Ini merupakan parafrasa dari Jane biasanya mengunjungi San Francisco untuk liburannya."
+                                    }
+                                },
+                                {
+                                    "text": "Jane's cousin often visits San Francisco.",
+                                    "reason": {
+                                        "en": "This option incorrectly identifies the cousin as the one visiting San Francisco, whereas the dialogue states Jane is the one visiting.",
+                                        "id": "Opsi ini secara keliru mengidentifikasi sepupu sebagai orang yang mengunjungi San Francisco, padahal dialog menyatakan Jane-lah yang berkunjung."
+                                    }
+                                },
+                                {
+                                    "text": "Whenever there's a holiday, Jane's cousin goes to San Francisco.",
+                                    "reason": {
+                                        "en": "This option incorrectly suggests the cousin is the one traveling to San Francisco during holidays, which contradicts the dialogue.",
+                                        "id": "Opsi ini secara keliru menyarankan sepupunya yang bepergian ke San Francisco saat liburan, yang bertentangan dengan dialog."
+                                    }
+                                },
+                                {
+                                    "text": "Whenever there's a holiday, Jane leaves San Francisco.",
+                                    "reason": {
+                                        "en": "This option incorrectly suggests Jane leaves San Francisco during holidays, while the dialogue states she visits during those times.",
+                                        "id": "Opsi ini secara keliru menyarankan Jane meninggalkan San Francisco saat liburan, padahal dialog menyatakan dia berkunjung pada waktu tersebut."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 2: Choose Answers with Synonyms",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-a/post-test-dialog-11.mp3",
+                            "passage": "(woman) Are you really hungry?\n(man)I feel like I haven't eaten in weeks.",
+                            "question": "11.WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "He'd really like to have something to eat.",
+                                    "reason": {
+                                        "en": "The man uses the idiomatic expression 'I feel like I haven't eaten in weeks' to emphasize that he is extremely hungry. Option 0 correctly paraphrases this as a desire to have something to eat.",
+                                        "id": "Pria tersebut menggunakan ungkapan idiomatik 'I feel like I haven't eaten in weeks' untuk menekankan bahwa dia sangat lapar. Opsi 0 secara tepat memparafrasekan ini sebagai keinginan untuk makan sesuatu."
+                                    }
+                                },
+                                {
+                                    "text": "Because he's weak, he can't eat.",
+                                    "reason": {
+                                        "en": "This option incorrectly interprets the idiom literally, assuming physical weakness prevents him from eating, which is not the intended meaning.",
+                                        "id": "Opsi ini secara keliru menafsirkan idiom tersebut secara harfiah, dengan asumsi kelemahan fisik mencegahnya makan, yang bukan merupakan makna yang dimaksudkan."
+                                    }
+                                },
+                                {
+                                    "text": "It's been weeks since he's had anything to eat.",
+                                    "reason": {
+                                        "en": "This is a trap answer that takes the speaker's hyperbolic statement literally. The man is not stating a factual duration of time, but expressing the intensity of his hunger.",
+                                        "id": "Ini adalah jawaban jebakan yang menafsirkan pernyataan hiperbolis pembicara secara harfiah. Pria tersebut tidak menyatakan durasi waktu yang faktual, melainkan mengungkapkan intensitas rasa laparnya."
+                                    }
+                                },
+                                {
+                                    "text": "He hasn't felt like eating for weeks.",
+                                    "reason": {
+                                        "en": "This option contradicts the meaning of the dialogue, as the man is expressing a strong desire to eat, not a lack of appetite.",
+                                        "id": "Opsi ini bertentangan dengan makna dialog, karena pria tersebut mengungkapkan keinginan kuat untuk makan, bukan kurangnya nafsu makan."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 17: Listen for Idioms",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-a/post-test-dialog-12.mp3",
+                            "passage": "(man)The traffic outside is really loud!\n(woman) I'll say!",
+                            "question": "12. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "Traffic should not be allowed.",
+                                    "reason": {
+                                        "en": "This option is incorrect because it interprets the dialogue literally and adds an opinion not expressed by the speakers.",
+                                        "id": "Opsi ini salah karena menafsirkan dialog secara harfiah dan menambahkan opini yang tidak diungkapkan oleh pembicara."
+                                    }
+                                },
+                                {
+                                    "text": "She thinks that the traffic should stay Outside.",
+                                    "reason": {
+                                        "en": "This option is incorrect as it misinterprets the idiom 'I'll say' as a literal statement about location.",
+                                        "id": "Opsi ini salah karena menyalahartikan idiom 'I'll say' sebagai pernyataan harfiah tentang lokasi."
+                                    }
+                                },
+                                {
+                                    "text": "She agrees that the traffic is noisy.",
+                                    "reason": {
+                                        "en": "This is correct. The expression 'I'll say!' is a common idiom used to express strong agreement with the previous speaker's statement.",
+                                        "id": "Ini benar. Ekspresi 'I'll say!' adalah idiom umum yang digunakan untuk menyatakan persetujuan kuat terhadap pernyataan pembicara sebelumnya."
+                                    }
+                                },
+                                {
+                                    "text": "She'll stay outside with the man.",
+                                    "reason": {
+                                        "en": "This option is incorrect because it confuses the word 'outside' in the dialogue with a physical action of staying there.",
+                                        "id": "Opsi ini salah karena mengacaukan kata 'outside' dalam dialog dengan tindakan fisik untuk tetap berada di sana."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 11: Listen for Expressions of Agreement",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-a/post-test-dialog-13.mp3",
+                            "passage": "(woman) Have you seen the headlines yet\ntoday?\nI haven't had a chance to read a word.",
+                            "question": "13.WHAT ARE THEY PROBABLY DIS CUSSING?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "The headings for today's reading assignment.",
+                                    "reason": {
+                                        "en": "This option is a trap using the word 'headings' which sounds similar to 'headlines' but refers to a different context.",
+                                        "id": "Opsi ini adalah jebakan yang menggunakan kata 'headings' yang terdengar mirip dengan 'headlines' namun merujuk pada konteks yang berbeda."
+                                    }
+                                },
+                                {
+                                    "text": "The chance to make the headlines.",
+                                    "reason": {
+                                        "en": "This option uses the word 'headlines' from the dialogue but creates a nonsensical meaning regarding the chance to make them.",
+                                        "id": "Opsi ini menggunakan kata 'headlines' dari dialog namun menciptakan makna yang tidak masuk akal mengenai kesempatan untuk membuatnya."
+                                    }
+                                },
+                                {
+                                    "text": "Her reading ability.",
+                                    "reason": {
+                                        "en": "This option misinterprets the phrase 'read a word' as a literal comment on her ability to read, rather than an idiom for not having read anything yet.",
+                                        "id": "Opsi ini salah mengartikan frasa 'read a word' sebagai komentar harfiah tentang kemampuan membacanya, alih-alih sebagai idiom yang berarti belum membaca apa pun."
+                                    }
+                                },
+                                {
+                                    "text": "The daily newspaper.",
+                                    "reason": {
+                                        "en": "The term 'headlines' is a direct reference to the news, and the context of reading them today logically points to the daily newspaper.",
+                                        "id": "Istilah 'headlines' adalah rujukan langsung ke berita, dan konteks membacanya hari ini secara logis merujuk pada surat kabar harian."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 4: Draw Conclusions about Who, What, Where",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-a/post-test-dialog-14.mp3",
+                            "passage": "(man)I'm not ready yet, and it's going to take me a while longer.\n(woman) You'd better hurry. Take five minutes too long, and you'll miss the bus.",
+                            "question": "14. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "The bus trip is only five minutes long.",
+                                    "reason": {
+                                        "en": "[please evaluate-manual] Based on the passage, this option is factually incorrect as it misinterprets the woman's warning about time as the duration of the bus trip, but it is marked as the correct index.",
+                                        "id": "[please evaluate-manual] Berdasarkan teks, opsi ini secara faktual salah karena menyalahartikan peringatan wanita tersebut tentang waktu sebagai durasi perjalanan bus, namun ini ditandai sebagai index yang benar."
+                                    }
+                                },
+                                {
+                                    "text": "The man missed the bus by five minutes.",
+                                    "reason": {
+                                        "en": "The dialogue is in the present tense regarding a future possibility; the man has not missed the bus yet.",
+                                        "id": "Dialog tersebut menggunakan bentuk waktu sekarang mengenai kemungkinan di masa depan; pria tersebut belum ketinggalan bus."
+                                    }
+                                },
+                                {
+                                    "text": "The man should hurry to catch the bus.",
+                                    "reason": {
+                                        "en": "The woman explicitly tells the man 'You'd better hurry' to avoid missing the bus, which is the logical inference of the dialogue.",
+                                        "id": "Wanita tersebut secara eksplisit mengatakan kepada pria itu 'You'd better hurry' agar tidak ketinggalan bus, yang merupakan kesimpulan logis dari dialog tersebut."
+                                    }
+                                },
+                                {
+                                    "text": "The bus was five minutes late.",
+                                    "reason": {
+                                        "en": "The dialogue does not mention the bus being late; it discusses the man's potential to miss the bus due to his own delay.",
+                                        "id": "Dialog tersebut tidak menyebutkan bus terlambat; dialog tersebut membahas potensi pria itu ketinggalan bus karena keterlambatannya sendiri."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 1: Focus on the Last Line",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-a/post-test-dialog-15.mp3",
+                            "passage": "(man)I think it's impossible for me to pass this class.\n(woman) You should never say \"impossible.\"",
+                            "question": "15. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "It's not possible to pass the class.",
+                                    "reason": {
+                                        "en": "This option repeats the man's negative sentiment and contradicts the woman's advice to avoid the word 'impossible'.",
+                                        "id": "Opsi ini mengulangi sentimen negatif pria tersebut dan bertentangan dengan saran wanita untuk menghindari kata 'mustahil'."
+                                    }
+                                },
+                                {
+                                    "text": "She'll definitely fail.",
+                                    "reason": {
+                                        "en": "This is a misinterpretation of the woman's encouragement; she is not predicting failure, but rather challenging the man's defeatist attitude.",
+                                        "id": "Ini adalah salah tafsir dari dorongan wanita tersebut; dia tidak memprediksi kegagalan, melainkan menantang sikap pesimis pria itu."
+                                    }
+                                },
+                                {
+                                    "text": "It's always possible.",
+                                    "reason": {
+                                        "en": "The woman advises against using the word 'impossible', which implies that there is always a possibility of success.",
+                                        "id": "Wanita tersebut menyarankan untuk tidak menggunakan kata 'mustahil', yang menyiratkan bahwa selalu ada kemungkinan untuk berhasil."
+                                    }
+                                },
+                                {
+                                    "text": "She shouldn't say anything about the class.",
+                                    "reason": {
+                                        "en": "This is a literal and incorrect interpretation of the woman's advice; she is telling him not to label the situation as impossible, not to remain silent.",
+                                        "id": "Ini adalah interpretasi harfiah yang salah dari saran wanita tersebut; dia menyuruh pria itu untuk tidak melabeli situasi sebagai mustahil, bukan untuk tetap diam."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 1: Focus on the Last Line",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-a/post-test-dialog-16.mp3",
+                            "passage": "(Man)  Why were you thanking Tom?\n(Man)  He lent me enough money to pay the rent.",
+                            "question": "16.WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "She gave Tom money to pay the rent.",
+                                    "reason": {
+                                        "en": "This option incorrectly identifies the woman as the lender, whereas the dialogue states Tom lent the money to her.",
+                                        "id": "Opsi ini secara keliru mengidentifikasi wanita tersebut sebagai pemberi pinjaman, padahal dialog menyatakan Tom yang meminjamkan uang kepadanya."
+                                    }
+                                },
+                                {
+                                    "text": "She was given money for the rent.",
+                                    "reason": {
+                                        "en": "This is the correct answer. The dialogue uses an active voice ('He lent me'), which is correctly paraphrased in the passive voice ('She was given money').",
+                                        "id": "Ini adalah jawaban yang benar. Dialog menggunakan kalimat aktif ('He lent me'), yang diparafrasekan dengan benar ke dalam kalimat pasif ('She was given money')."
+                                    }
+                                },
+                                {
+                                    "text": "Tom borrowed money for the rent.",
+                                    "reason": {
+                                        "en": "This option incorrectly suggests Tom is the borrower, while the dialogue confirms he is the lender.",
+                                        "id": "Opsi ini secara keliru menyarankan Tom adalah peminjam, sementara dialog mengonfirmasi bahwa dia adalah pemberi pinjaman."
+                                    }
+                                },
+                                {
+                                    "text": "She had some money to lend.",
+                                    "reason": {
+                                        "en": "This option is incorrect because the woman is the one who needed the money, not the one who had money to lend.",
+                                        "id": "Opsi ini salah karena wanita tersebut adalah pihak yang membutuhkan uang, bukan pihak yang memiliki uang untuk dipinjamkan."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 5: Listen for Who and What in Passives",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-a/post-test-dialog-17.mp3",
+                            "passage": "(woman) Are you enjoying the dessert?\n(man)Never have I tasted such delicious  cake!",
+                            "question": "17.WHAT DOES THE MAN SAY ABOUT THE CAKE?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "The cake is extremely good.",
+                                    "reason": {
+                                        "en": "The man uses an emphatic inversion 'Never have I tasted such delicious cake,' which is a superlative way of saying the cake is the best he has ever had, meaning it is extremely good.",
+                                        "id": "Pria tersebut menggunakan inversi penekanan 'Never have I tasted such delicious cake,' yang merupakan cara superlatif untuk mengatakan bahwa kue tersebut adalah yang terbaik yang pernah ia rasakan, yang berarti kue itu sangat enak."
+                                    }
+                                },
+                                {
+                                    "text": "He never tasted the cake.",
+                                    "reason": {
+                                        "en": "This option misinterprets the negative structure 'Never have I tasted' as a literal statement that he has not eaten the cake, ignoring the emphatic meaning of the sentence.",
+                                        "id": "Opsi ini salah mengartikan struktur negatif 'Never have I tasted' sebagai pernyataan harfiah bahwa ia belum memakan kue tersebut, mengabaikan makna penekanan dari kalimat tersebut."
+                                    }
+                                },
+                                {
+                                    "text": "He wished he hadn't tasted the cake.",
+                                    "reason": {
+                                        "en": "This option incorrectly introduces a 'wish' or regret, whereas the man is actually expressing high praise and satisfaction with the dessert.",
+                                        "id": "Opsi ini secara keliru memasukkan unsur 'keinginan' atau penyesalan, padahal pria tersebut sebenarnya sedang mengungkapkan pujian tinggi dan kepuasan terhadap hidangan penutup tersebut."
+                                    }
+                                },
+                                {
+                                    "text": "The cake has never been very good.",
+                                    "reason": {
+                                        "en": "This option incorrectly interprets the negative word 'never' as a description of the cake's quality over time, rather than as part of an emphatic expression of the man's current experience.",
+                                        "id": "Opsi ini secara keliru menafsirkan kata negatif 'never' sebagai deskripsi kualitas kue dari waktu ke waktu, alih-alih sebagai bagian dari ekspresi penekanan atas pengalaman pria tersebut saat ini."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 15: Listen for Untrue Conditions / Skill 17: Listen for Idioms (Inversion)",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-a/post-test-dialog-18.mp3",
+                            "passage": "(man)Why are you so late getting here?\n(woman) Oh, I ran into my cousin Carl, and we  stayed and talked for a while.",
+                            "question": "18.WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "At the corner she ran into another car.",
+                                    "reason": {
+                                        "en": "This option uses the word 'ran into' literally as a car accident, which is a trap based on surface-level interpretation.",
+                                        "id": "Opsi ini menggunakan kata 'ran into' secara harfiah sebagai kecelakaan mobil, yang merupakan jebakan berdasarkan interpretasi permukaan."
+                                    }
+                                },
+                                {
+                                    "text": "She ran to Carl because she cared.",
+                                    "reason": {
+                                        "en": "This option uses similar-sounding words like 'ran' and 'cared' to create a trap, which is incorrect according to Skill 3.",
+                                        "id": "Opsi ini menggunakan kata-kata yang terdengar mirip seperti 'ran' dan 'cared' untuk membuat jebakan, yang tidak tepat menurut Skill 3."
+                                    }
+                                },
+                                {
+                                    "text": "She unexpectedly met one of her relatives.",
+                                    "reason": {
+                                        "en": "The phrasal verb 'ran into' means to meet someone unexpectedly. 'Cousin' is a synonym for 'relative'. This correctly paraphrases the dialogue.",
+                                        "id": "Frasa kerja 'ran into' berarti bertemu seseorang secara tidak terduga. 'Cousin' adalah sinonim untuk 'relative'. Ini memparafrasekan dialog dengan benar."
+                                    }
+                                },
+                                {
+                                    "text": "Carl was running from place to place.",
+                                    "reason": {
+                                        "en": "This option misinterprets the phrasal verb 'ran into' as physical running, which is a common distractor in idiom questions.",
+                                        "id": "Opsi ini menyalahartikan frasa kerja 'ran into' sebagai berlari secara fisik, yang merupakan pengecoh umum dalam pertanyaan idiom."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "SECTION ONE — LISTENING - Skill 16: Listen for Two- and Three-Part Verbs",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-a/post-test-dialog-19.mp3",
+                            "passage": "(woman) Do you know where Debbie is?\n(man)Her purse is still here, so she must still  be in the apartment.",
+                            "question": "19.WHAT DOES THE MAN SAY ABOUT DEBBIE?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "She shouldn't leave her purse here.",
+                                    "reason": {
+                                        "en": "This option is incorrect because it interprets the man's statement as a suggestion or criticism, which is not supported by the dialogue.",
+                                        "id": "Opsi ini salah karena menginterpretasikan pernyataan pria tersebut sebagai saran atau kritik, yang tidak didukung oleh dialog."
+                                    }
+                                },
+                                {
+                                    "text": "She's probably in the apartment.",
+                                    "reason": {
+                                        "en": "This is the correct answer. The man uses the modal 'must' to draw a logical conclusion based on the evidence (the purse is still there), inferring that Debbie is likely still in the apartment.",
+                                        "id": "Ini adalah jawaban yang benar. Pria tersebut menggunakan modal 'must' untuk menarik kesimpulan logis berdasarkan bukti (dompetnya masih ada), menyimpulkan bahwa Debbie kemungkinan besar masih berada di apartemen."
+                                    }
+                                },
+                                {
+                                    "text": "Her purse must not be in the apartment.",
+                                    "reason": {
+                                        "en": "This option contradicts the man's statement, as he explicitly mentions that the purse is still in the apartment.",
+                                        "id": "Opsi ini bertentangan dengan pernyataan pria tersebut, karena ia secara eksplisit menyebutkan bahwa dompetnya masih ada di apartemen."
+                                    }
+                                },
+                                {
+                                    "text": "She left without taking her purse.",
+                                    "reason": {
+                                        "en": "This option is incorrect because the man's observation that the purse is still there implies that she has not left the apartment.",
+                                        "id": "Opsi ini salah karena pengamatan pria tersebut bahwa dompetnya masih ada di sana menyiratkan bahwa dia belum meninggalkan apartemen."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 4: Draw Conclusions about Who, What, Where",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-a/post-test-dialog-20.mp3",
+                            "passage": "(man)Do you know when rent is due?\n(woman) The landlord collects it on the first of the month, without fail.",
+                            "question": "20.WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "The landlord failed to collect rent on the first of last month.",
+                                    "reason": {
+                                        "en": "This option incorrectly interprets the phrase 'without fail' as a past event, whereas the dialogue refers to a recurring requirement.",
+                                        "id": "Opsi ini salah menginterpretasikan frasa 'without fail' sebagai kejadian masa lalu, padahal dialog merujuk pada kewajiban yang berulang."
+                                    }
+                                },
+                                {
+                                    "text": "The tenants absolutely must pay rent at the beginning of the month.",
+                                    "reason": {
+                                        "en": "This is the correct answer. It paraphrases 'collects it on the first of the month, without fail' as a mandatory requirement for tenants to pay at the beginning of the month.",
+                                        "id": "Ini adalah jawaban yang benar. Opsi ini memparafrasekan 'collects it on the first of the month, without fail' sebagai kewajiban mutlak bagi penyewa untuk membayar di awal bulan."
+                                    }
+                                },
+                                {
+                                    "text": "The landlord will not fail to collect your rent on the first of next month.",
+                                    "reason": {
+                                        "en": "This option focuses on the landlord's action rather than the requirement for the tenants, and it adds unnecessary future-tense specificity not present in the dialogue.",
+                                        "id": "Opsi ini berfokus pada tindakan pemilik rumah daripada kewajiban penyewa, dan menambahkan spesifikasi waktu masa depan yang tidak ada dalam dialog."
+                                    }
+                                },
+                                {
+                                    "text": "It is important to call the landlord about rent on the first of the month.",
+                                    "reason": {
+                                        "en": "This option introduces the idea of 'calling' the landlord, which is not mentioned or implied in the original conversation.",
+                                        "id": "Opsi ini memperkenalkan ide untuk 'menelepon' pemilik rumah, yang tidak disebutkan atau tersirat dalam percakapan asli."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "SECTION ONE — LISTENING - Skill 2: Choose Answers with Synonyms",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-a/post-test-dialog-21.mp3",
+                            "passage": "(woman) My car is making some funny noises.\n(man)Why not take it to a mechanic?",
+                            "question": "21.WHAT DOES THE MAN SUGGEST TO THE WOMAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "Taking the car out for a test drive.",
+                                    "reason": {
+                                        "en": "This option is incorrect because it suggests a test drive, which is not mentioned in the dialogue.",
+                                        "id": "Opsi ini salah karena menyarankan uji coba berkendara, yang tidak disebutkan dalam dialog."
+                                    }
+                                },
+                                {
+                                    "text": "Listening to the noises.",
+                                    "reason": {
+                                        "en": "This option is incorrect as it misinterprets the woman's statement about the car making noises as a suggestion to listen to them.",
+                                        "id": "Opsi ini salah karena menyalahartikan pernyataan wanita tentang mobil yang mengeluarkan suara sebagai saran untuk mendengarkannya."
+                                    }
+                                },
+                                {
+                                    "text": "Fixing the car herself.",
+                                    "reason": {
+                                        "en": "This option is incorrect because the man suggests taking the car to a professional, not fixing it herself.",
+                                        "id": "Opsi ini salah karena pria tersebut menyarankan untuk membawa mobil ke profesional, bukan memperbaikinya sendiri."
+                                    }
+                                },
+                                {
+                                    "text": "Getting the car repaired.",
+                                    "reason": {
+                                        "en": "This option is correct because 'taking it to a mechanic' is a synonym for 'getting the car repaired'.",
+                                        "id": "Opsi ini benar karena 'membawanya ke mekanik' adalah sinonim dari 'memperbaiki mobil'."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 2: Choose Answers with Synonyms",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-a/post-test-dialog-22.mp3",
+                            "passage": "(man)Martha's holding down two jobs at the same time.\n(woman) She'd better take it easy.",
+                            "question": "22.WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "Martha s jobs are easy.",
+                                    "reason": {
+                                        "en": "This option incorrectly interprets the idiom 'take it easy' as a literal description of the difficulty of the jobs.",
+                                        "id": "Opsi ini secara keliru menafsirkan idiom 'take it easy' sebagai deskripsi harfiah mengenai tingkat kesulitan pekerjaan tersebut."
+                                    }
+                                },
+                                {
+                                    "text": "It's easy to hold two jobs.",
+                                    "reason": {
+                                        "en": "This option is a distractor that uses the word 'easy' from the idiom to create a false statement about the nature of holding two jobs.",
+                                        "id": "Opsi ini adalah pengecoh yang menggunakan kata 'easy' dari idiom tersebut untuk membuat pernyataan yang salah mengenai sifat memegang dua pekerjaan."
+                                    }
+                                },
+                                {
+                                    "text": "It's better for Martha to have two jobs.",
+                                    "reason": {
+                                        "en": "This option contradicts the woman's advice, as 'take it easy' implies a need for rest, not an endorsement of the current workload.",
+                                        "id": "Opsi ini bertentangan dengan saran wanita tersebut, karena 'take it easy' menyiratkan kebutuhan untuk beristirahat, bukan dukungan terhadap beban kerja saat ini."
+                                    }
+                                },
+                                {
+                                    "text": "Martha should slow down.",
+                                    "reason": {
+                                        "en": "The idiom 'take it easy' means to relax or slow down. Therefore, the woman is suggesting that Martha should reduce her pace.",
+                                        "id": "Idiom 'take it easy' berarti bersantai atau melambat. Oleh karena itu, wanita tersebut menyarankan agar Martha mengurangi kecepatannya."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 17: Listen for Idioms",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-a/post-test-dialog-23.mp3",
+                            "passage": "(woman) Did you get to the airport in plenty of time?\n(man)There was scarcely enough time to get\nthere.",
+                            "question": "23.WHAT DOES THE MAN IMPLY?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "The plane took off just after he arrived.",
+                                    "reason": {
+                                        "en": "[please evaluate-manual] Based on the passage, this option contradicts the text, but assuming it is correct, the phrase 'scarcely enough time' implies that he arrived at the very last moment, barely making it before the plane departed.",
+                                        "id": "[please evaluate-manual] Berdasarkan teks, opsi ini bertentangan dengan teks, namun dengan asumsi ini benar, frasa 'scarcely enough time' menyiratkan bahwa dia tiba di saat-saat terakhir, nyaris tidak sempat sebelum pesawat berangkat."
+                                    }
+                                },
+                                {
+                                    "text": "He arrived just after the plane took off.",
+                                    "reason": {
+                                        "en": "This option suggests he missed the flight, which is a possible interpretation of 'scarcely enough time' in some contexts, but it is not the intended answer according to the provided key.",
+                                        "id": "Opsi ini menyarankan dia ketinggalan pesawat, yang merupakan interpretasi yang mungkin dari 'scarcely enough time' dalam beberapa konteks, namun ini bukan jawaban yang dimaksud menurut kunci yang diberikan."
+                                    }
+                                },
+                                {
+                                    "text": "He wasn't in time to catch the plane.",
+                                    "reason": {
+                                        "en": "This option implies he failed to catch the plane, which contradicts the implication of 'scarcely enough' (meaning he had just enough, though very little).",
+                                        "id": "Opsi ini menyiratkan dia gagal mengejar pesawat, yang bertentangan dengan implikasi 'scarcely enough' (berarti dia punya cukup waktu, meskipun sangat sedikit)."
+                                    }
+                                },
+                                {
+                                    "text": "He arrived too late to catch the plane.",
+                                    "reason": {
+                                        "en": "This option is synonymous with missing the flight, which is logically inconsistent with the speaker having 'scarcely enough' time to get there.",
+                                        "id": "Opsi ini sinonim dengan ketinggalan pesawat, yang secara logis tidak konsisten dengan pembicara yang memiliki 'scarcely enough' waktu untuk sampai di sana."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 9: Listen for 'Almost Negative' Expressions",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-a/post-test-dialog-24.mp3",
+                            "passage": "(woman) You should put some money in the\n(man)parking meter.\nParking fees aren't necessary on the\nweekend, are they?",
+                            "question": "24.WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "He agrees with the woman's suggestion.",
+                                    "reason": {
+                                        "en": "The man is questioning the necessity of the fee, not agreeing with the woman's suggestion to pay.",
+                                        "id": "Pria tersebut mempertanyakan perlunya biaya parkir, bukan menyetujui saran wanita tersebut untuk membayar."
+                                    }
+                                },
+                                {
+                                    "text": "Parking is not free on the weekend.",
+                                    "reason": {
+                                        "en": "This statement contradicts the man's implication that parking is free on the weekend.",
+                                        "id": "Pernyataan ini bertentangan dengan implikasi pria tersebut bahwa parkir gratis di akhir pekan."
+                                    }
+                                },
+                                {
+                                    "text": "It is not necessary for them to park.",
+                                    "reason": {
+                                        "en": "The conversation is about the payment of the parking fee, not about the necessity of parking the vehicle itself.",
+                                        "id": "Percakapan tersebut mengenai pembayaran biaya parkir, bukan mengenai perlunya memarkir kendaraan itu sendiri."
+                                    }
+                                },
+                                {
+                                    "text": "He thinks they don't have to pay.",
+                                    "reason": {
+                                        "en": "The man uses a negative question ('aren't necessary... are they?') to express his belief that payment is not required on the weekend.",
+                                        "id": "Pria tersebut menggunakan pertanyaan negatif ('aren't necessary... are they?') untuk mengungkapkan keyakinannya bahwa pembayaran tidak diperlukan pada akhir pekan."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 7: Listen for Negative Expressions",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-a/post-test-dialog-25.mp3",
+                            "passage": "(MAN) How is your boss feeling about his retirement?\n(WOMEN) Oh, he isn't too unhappy to be retiing.",
+                            "question": "25. WHAT DOES THE WOMAN IMPLY ABOUT HER BOSS?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "He is eager to leave his job.",
+                                    "reason": {
+                                        "en": "The phrase 'isn't too unhappy' is a double negative construction. It implies that he is actually quite happy or at least content about retiring, which aligns with being eager to leave his job.",
+                                        "id": "Frasa 'isn't too unhappy' adalah konstruksi negasi ganda. Ini menyiratkan bahwa dia sebenarnya cukup senang atau setidaknya puas untuk pensiun, yang selaras dengan keinginan untuk meninggalkan pekerjaannya."
+                                    }
+                                },
+                                {
+                                    "text": "He is unhappy at the thought of retiring.",
+                                    "reason": {
+                                        "en": "This option contradicts the meaning of the double negative 'isn't too unhappy', which suggests he is not unhappy.",
+                                        "id": "Opsi ini bertentangan dengan makna negasi ganda 'isn't too unhappy', yang menyiratkan bahwa dia tidak merasa tidak bahagia."
+                                    }
+                                },
+                                {
+                                    "text": "He couldn't be unhappier about retiring.",
+                                    "reason": {
+                                        "en": "This option uses a superlative that incorrectly interprets the double negative as an expression of extreme sadness.",
+                                        "id": "Opsi ini menggunakan superlatif yang secara keliru menafsirkan negasi ganda sebagai ekspresi kesedihan yang ekstrem."
+                                    }
+                                },
+                                {
+                                    "text": "He is retiring too soon.",
+                                    "reason": {
+                                        "en": "The dialogue does not mention the timing of the retirement, only the boss's feelings about it.",
+                                        "id": "Dialog tersebut tidak menyebutkan waktu pensiun, hanya perasaan bos tentang hal tersebut."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 8: Double Negative",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-a/post-test-dialog-26.mp3",
+                            "passage": "(MAN) Oh, I see you have a new car.\n(WOMEN) Oh, he isn't too unhappy to be retiing.",
+                            "question": "26. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "He got the car he really wanted.",
+                                    "reason": {
+                                        "en": "This option is incorrect because it assumes the man is satisfied with the car, which is not supported by the dialogue.",
+                                        "id": "Opsi ini salah karena mengasumsikan pria tersebut puas dengan mobilnya, yang tidak didukung oleh dialog."
+                                    }
+                                },
+                                {
+                                    "text": "He didn't get a new car.",
+                                    "reason": {
+                                        "en": "This option is incorrect as it contradicts the man's statement that he has a new car.",
+                                        "id": "Opsi ini salah karena bertentangan dengan pernyataan pria tersebut bahwa dia memiliki mobil baru."
+                                    }
+                                },
+                                {
+                                    "text": "The car that he got was not his first choice.",
+                                    "reason": {
+                                        "en": "[please evaluate-manual] Based on the provided text, the dialogue between the man and the woman appears to be mismatched (the woman's response about retirement does not logically follow the man's comment about a car). Assuming the intended context implies the man is not fully satisfied with his choice, this option is selected as the correct answer.",
+                                        "id": "[please evaluate-manual] Berdasarkan teks yang diberikan, dialog antara pria dan wanita tampak tidak sinkron (tanggapan wanita tentang pensiun tidak mengikuti komentar pria tentang mobil secara logis). Dengan asumsi konteks yang dimaksud menyiratkan pria tersebut tidak sepenuhnya puas dengan pilihannya, opsi ini dipilih sebagai jawaban yang benar."
+                                    }
+                                },
+                                {
+                                    "text": "He didn't really want a new car.",
+                                    "reason": {
+                                        "en": "This option is incorrect because the man acknowledges having a new car, implying he did want or need one.",
+                                        "id": "Opsi ini salah karena pria tersebut mengakui memiliki mobil baru, yang menyiratkan dia memang menginginkan atau membutuhkannya."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 1: Focus on the Last Line",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-a/post-test-dialog-27.mp3",
+                            "passage": "(WOMEN)Did you hear the president's announcement this morning?\n(MAN) Yes, the president appointed Mr. Drew head of the newly formed commission.",
+                            "question": "27. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "Mr. Drew pointedly asked the president about the committee.",
+                                    "reason": {
+                                        "en": "This option uses the word 'pointedly' which sounds similar to 'appointed' but changes the meaning entirely, acting as a similar-sound trap.",
+                                        "id": "Opsi ini menggunakan kata 'pointedly' yang terdengar mirip dengan 'appointed' namun mengubah maknanya secara keseluruhan, berfungsi sebagai jebakan bunyi yang mirip."
+                                    }
+                                },
+                                {
+                                    "text": "The president pointed to Mr. Drew's head.",
+                                    "reason": {
+                                        "en": "This option misinterprets the word 'head' as a physical body part rather than a leadership position, which is a surface-level interpretation error.",
+                                        "id": "Opsi ini menyalahartikan kata 'head' sebagai bagian tubuh fisik alih-alih posisi kepemimpinan, yang merupakan kesalahan interpretasi tingkat permukaan."
+                                    }
+                                },
+                                {
+                                    "text": "Mr. Drew became head of the new commission.",
+                                    "reason": {
+                                        "en": "This is the correct answer as it paraphrases the dialogue using synonyms: 'appointed... head' becomes 'became head'.",
+                                        "id": "Ini adalah jawaban yang benar karena memparafrasekan dialog menggunakan sinonim: 'appointed... head' menjadi 'became head'."
+                                    }
+                                },
+                                {
+                                    "text": "Mr. Drew was committed to the president's appointments.",
+                                    "reason": {
+                                        "en": "This option uses the word 'committed' which sounds like 'commission' but is contextually irrelevant to the information provided in the dialogue.",
+                                        "id": "Opsi ini menggunakan kata 'committed' yang terdengar seperti 'commission' namun secara konteks tidak relevan dengan informasi yang diberikan dalam dialog."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "SECTION ONE — LISTENING - Skill 2: Choose Answers with Synonyms",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-a/post-test-dialog-28.mp3",
+                            "passage": "(MAN) Were you upset by what Richard said to vou?\n(WOMAN) I couldn't have been more infuriated!",
+                            "question": "28. WHAT DOES THE WOMAN MEAN?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "She felt inferior.",
+                                    "reason": {
+                                        "en": "This option is a trap based on similar sounds; 'inferior' sounds somewhat like 'infuriated' but has a completely different meaning.",
+                                        "id": "Opsi ini adalah jebakan berdasarkan kemiripan bunyi; 'inferior' terdengar agak mirip dengan 'infuriated' namun memiliki arti yang sangat berbeda."
+                                    }
+                                },
+                                {
+                                    "text": "She wasn't furious.",
+                                    "reason": {
+                                        "en": "This option incorrectly interprets the negative structure. The phrase 'couldn't have been more' is a superlative expression, not a literal negation of the feeling.",
+                                        "id": "Opsi ini salah menginterpretasikan struktur negatif. Frasa 'couldn't have been more' adalah ekspresi superlatif, bukan negasi harfiah dari perasaan tersebut."
+                                    }
+                                },
+                                {
+                                    "text": "She felt there should have been more fairness.",
+                                    "reason": {
+                                        "en": "This option is a distractor that attempts to link the word 'infuriated' to the concept of 'fairness' without any contextual basis in the dialogue.",
+                                        "id": "Opsi ini adalah pengecoh yang mencoba menghubungkan kata 'infuriated' dengan konsep 'keadilan' tanpa dasar kontekstual dalam dialog."
+                                    }
+                                },
+                                {
+                                    "text": "She was extremely angry.",
+                                    "reason": {
+                                        "en": "The expression 'couldn't have been more [adjective]' is a negative comparative structure that carries a superlative meaning, indicating the highest possible degree of the feeling (extremely angry).",
+                                        "id": "Ekspresi 'couldn't have been more [adjective]' adalah struktur komparatif negatif yang membawa makna superlatif, menunjukkan tingkat tertinggi dari perasaan tersebut (sangat marah)."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "SECTION ONE — LISTENING - Skill 10: Listen for Negatives with Comparatives",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-a/post-test-dialog-29.mp3",
+                            "passage": "(MAN) Let me just get these last plates put away. Then, I'll be ready to go.\n(WOMAN) So you did do the dishes.",
+                            "question": "29. WHAT HAD THE WOMAN ASSUMED?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "The man would do the dishes.",
+                                    "reason": {
+                                        "en": "This option is incorrect because the woman's surprise ('So you did do the dishes') implies she previously thought the opposite would happen, not that she expected him to do them.",
+                                        "id": "Opsi ini salah karena ekspresi terkejut wanita tersebut ('So you did do the dishes') menyiratkan bahwa dia sebelumnya berpikir hal sebaliknya akan terjadi, bukan bahwa dia mengharapkan pria itu melakukannya."
+                                    }
+                                },
+                                {
+                                    "text": "The plates did not need to be washed.",
+                                    "reason": {
+                                        "en": "This option is irrelevant to the dialogue, as the conversation focuses on the action of doing the dishes rather than the necessity of washing the plates.",
+                                        "id": "Opsi ini tidak relevan dengan dialog, karena percakapan berfokus pada tindakan mencuci piring, bukan pada kebutuhan untuk mencuci piring tersebut."
+                                    }
+                                },
+                                {
+                                    "text": "The man would not be ready to go.",
+                                    "reason": {
+                                        "en": "This option is incorrect because the woman's comment is specifically about the dishes, not about the man's readiness to leave.",
+                                        "id": "Opsi ini salah karena komentar wanita tersebut secara spesifik mengenai piring, bukan mengenai kesiapan pria itu untuk pergi."
+                                    }
+                                },
+                                {
+                                    "text": "The dishes would not be done.",
+                                    "reason": {
+                                        "en": "This is the correct answer. The woman's use of 'did do' indicates that she had previously assumed the man would not complete the task of doing the dishes.",
+                                        "id": "Ini adalah jawaban yang benar. Penggunaan kata 'did do' oleh wanita tersebut menunjukkan bahwa dia sebelumnya berasumsi pria itu tidak akan menyelesaikan tugas mencuci piring."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 7: Listen for Negative Expressions",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-a/post-test-dialog-30.mp3",
+                            "passage": "(WOMAN) Why did you get that kind of fruit?\n(MAN) I wouldn't have bought these cherries had I known that grapes were so cheap.",
+                            "question": "30. WHAT DOES THE MAN MEAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "He knew that grapes were cheaper than cherries.",
+                                    "reason": {
+                                        "en": "This contradicts the man's statement. He explicitly says he would have acted differently if he had known the price, implying he did not have that knowledge.",
+                                        "id": "Ini bertentangan dengan pernyataan pria tersebut. Dia secara eksplisit mengatakan dia akan bertindak berbeda jika dia tahu harganya, yang menyiratkan dia tidak memiliki pengetahuan tersebut."
+                                    }
+                                },
+                                {
+                                    "text": "He didn't know that grapes were cheaper than cherries.",
+                                    "reason": {
+                                        "en": "The man uses an untrue condition ('had I known'), which implies the opposite of reality: he did not know that grapes were cheaper at the time of purchase.",
+                                        "id": "Pria tersebut menggunakan pengandaian yang tidak nyata ('had I known'), yang menyiratkan kebalikan dari kenyataan: dia tidak tahu bahwa anggur lebih murah pada saat pembelian."
+                                    }
+                                },
+                                {
+                                    "text": "He bought grapes because they were cheaper than cherries.",
+                                    "reason": {
+                                        "en": "This is incorrect because the man states he bought cherries, not grapes, because he was unaware of the price difference.",
+                                        "id": "Ini salah karena pria tersebut menyatakan dia membeli ceri, bukan anggur, karena dia tidak mengetahui perbedaan harganya."
+                                    }
+                                },
+                                {
+                                    "text": "He didn't buy either grapes or cherries because of the price.",
+                                    "reason": {
+                                        "en": "This is incorrect because the man clearly states he bought the cherries.",
+                                        "id": "Ini salah karena pria tersebut dengan jelas menyatakan dia membeli ceri."
+                                    }
+                                }
+                            ],
+                            "groupId": null,
+                            "tested_skill": "SECTION ONE — LISTENING - Skill 15: Listen for Untrue Conditions",
+                            "_is_evaluated": true
+                        }
+                    ],
+                    "groups": [],
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/postest-part-a.mp3",
+                    "passage": "",
+                    "audioUrl": "",
+                    "durationSeconds": 0
+                },
+                {
+                    "title": "Part B",
+                    "instruction": "Directions: In this part of the test, you will hear longer conversations. After each conversation, you will hear several questions. The conversations and questions will not be repeated. \n\nAfter you hear a question, read the four possible answers in your test book and choose the best answer. Then, on your answer sheet, find the number of the question and fill in the space that corresponds to the letter of the answer you have chosen. \n\nRemember, you are not allowed to take notes or write in your test book.",
+                    "questions": [
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-b/post-test-soal-31.mp3",
+                            "passage": "",
+                            "question": "31. WHAT IS THE WOMAN PLANNING TO DO SATURDAY?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "Attend a football game alone.",
+                                    "reason": {
+                                        "en": "The woman is going to the football game with a group of friends, not alone.",
+                                        "id": "Wanita tersebut akan pergi ke pertandingan sepak bola bersama sekelompok teman, bukan sendirian."
+                                    }
+                                },
+                                {
+                                    "text": "Go to a sporting event.",
+                                    "reason": {
+                                        "en": "The woman confirms she wants to go to the football game, which is a sporting event.",
+                                        "id": "Wanita tersebut mengonfirmasi bahwa ia ingin pergi ke pertandingan sepak bola, yang merupakan sebuah acara olahraga."
+                                    }
+                                },
+                                {
+                                    "text": "Eat in the cafeteria and study.",
+                                    "reason": {
+                                        "en": "While they are eating at the cafeteria, the primary plan for Saturday night is the game, and studying is not mentioned for Saturday.",
+                                        "id": "Meskipun mereka akan makan di kafetaria, rencana utama untuk Sabtu malam adalah pertandingan, dan belajar tidak disebutkan untuk hari Sabtu."
+                                    }
+                                },
+                                {
+                                    "text": "See a play.",
+                                    "reason": {
+                                        "en": "The woman considers seeing a play on Sunday afternoon, not Saturday.",
+                                        "id": "Wanita tersebut mempertimbangkan untuk menonton pertunjukan drama pada hari Minggu sore, bukan hari Sabtu."
+                                    }
+                                }
+                            ],
+                            "groupId": "g_tfs1ce6op",
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 21: Draw Conclusions about Who, What, When, Where",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-b/post-test-soal-32.mp3",
+                            "passage": "",
+                            "question": "32. WHY DOES THE MAN WANT TO GO TO THE FOOTBALL GAME?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "It's the final game of the season.",
+                                    "reason": {
+                                        "en": "The text mentions it is the biggest game of the season, but it does not explicitly state it is the final game.",
+                                        "id": "Teks menyebutkan bahwa itu adalah pertandingan terbesar musim ini, namun tidak secara eksplisit menyatakan bahwa itu adalah pertandingan terakhir."
+                                    }
+                                },
+                                {
+                                    "text": "It's better than the drama department's play.",
+                                    "reason": {
+                                        "en": "The man does not compare the football game to the drama department's play; the woman is the one considering the play.",
+                                        "id": "Pria tersebut tidak membandingkan pertandingan sepak bola dengan drama departemen seni; wanita itulah yang sedang mempertimbangkan drama tersebut."
+                                    }
+                                },
+                                {
+                                    "text": "It's a very important game.",
+                                    "reason": {
+                                        "en": "The woman states that it is the biggest game of the season, which implies it is a very important game, and the man agrees to go.",
+                                        "id": "Wanita tersebut menyatakan bahwa itu adalah pertandingan terbesar musim ini, yang menyiratkan bahwa itu adalah pertandingan yang sangat penting, dan pria tersebut setuju untuk pergi."
+                                    }
+                                },
+                                {
+                                    "text": "It's close to the cafeteria.",
+                                    "reason": {
+                                        "en": "The cafeteria is mentioned as the meeting place for dinner, not as a reason for the importance or appeal of the game itself.",
+                                        "id": "Kafetaria disebutkan sebagai tempat pertemuan untuk makan malam, bukan sebagai alasan pentingnya atau daya tarik pertandingan itu sendiri."
+                                    }
+                                }
+                            ],
+                            "groupId": "g_tfs1ce6op",
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 20: Determine the Topic / Skill 22: Listen for Answers in Order",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-b/post-test-soal-33.mp3",
+                            "passage": "",
+                            "question": "33. WHAT IS AT THE SAME TIME AS THE MUSIC DEPARTMENT'S CONCERT?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "A play.",
+                                    "reason": {
+                                        "en": "The woman explicitly states, 'The music department is sponsoring a concert then... But there's also a play being presented by the drama department that I really wanted to see. It's too bad those two events are at the same time.'",
+                                        "id": "Wanita tersebut secara eksplisit menyatakan, 'Departemen musik mensponsori konser saat itu... Tapi ada juga pertunjukan drama yang dipresentasikan oleh departemen drama yang sangat ingin saya tonton. Sayang sekali kedua acara itu berlangsung pada waktu yang sama.'"
+                                    }
+                                },
+                                {
+                                    "text": "A game.",
+                                    "reason": {
+                                        "en": "The football game is scheduled for Saturday night, not Sunday afternoon when the concert takes place.",
+                                        "id": "Pertandingan sepak bola dijadwalkan pada Sabtu malam, bukan Minggu sore saat konser berlangsung."
+                                    }
+                                },
+                                {
+                                    "text": "A study group meeting.",
+                                    "reason": {
+                                        "en": "The conversation mentions studying, but there is no mention of a study group meeting occurring at the same time as the concert.",
+                                        "id": "Percakapan menyebutkan tentang belajar, tetapi tidak ada penyebutan mengenai pertemuan kelompok belajar yang terjadi pada waktu yang sama dengan konser."
+                                    }
+                                },
+                                {
+                                    "text": "Dinner in the cafeteria.",
+                                    "reason": {
+                                        "en": "Dinner in the cafeteria is planned for Saturday at six o'clock, which is a different time and event from the Sunday afternoon concert.",
+                                        "id": "Makan malam di kafetaria direncanakan pada hari Sabtu pukul enam, yang merupakan waktu dan acara yang berbeda dari konser Minggu sore."
+                                    }
+                                }
+                            ],
+                            "groupId": "g_tfs1ce6op",
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 22: Listen for Answers in Order",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-b/post-test-soal-34.mp3",
+                            "passage": "",
+                            "question": "34. WHEN DOES THE MAN PLAN TO STUDY?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "Saturday night.",
+                                    "reason": {
+                                        "en": "The man is attending the football game on Saturday night, not studying.",
+                                        "id": "Pria tersebut berencana menghadiri pertandingan sepak bola pada Sabtu malam, bukan belajar."
+                                    }
+                                },
+                                {
+                                    "text": "After dinner in the cafeteria.",
+                                    "reason": {
+                                        "en": "The man mentions meeting for dinner at the cafeteria at six o'clock, which is part of the plan to attend the game.",
+                                        "id": "Pria tersebut menyebutkan akan bertemu untuk makan malam di kafetaria pukul enam, yang merupakan bagian dari rencana untuk pergi ke pertandingan."
+                                    }
+                                },
+                                {
+                                    "text": "Sunday afternoon.",
+                                    "reason": {
+                                        "en": "Sunday afternoon is when the woman is deciding between the concert and the play, not when the man plans to study.",
+                                        "id": "Minggu sore adalah waktu di mana wanita tersebut harus memilih antara konser atau pertunjukan drama, bukan waktu belajar pria tersebut."
+                                    }
+                                },
+                                {
+                                    "text": "Maybe next weekend.",
+                                    "reason": {
+                                        "en": "The woman concludes the conversation by saying she might study the weekend after this one, which aligns with the man's concern about her lack of study time.",
+                                        "id": "Wanita tersebut mengakhiri percakapan dengan mengatakan bahwa dia mungkin akan belajar pada akhir pekan setelah akhir pekan ini, yang selaras dengan kekhawatiran pria tersebut mengenai kurangnya waktu belajar."
+                                    }
+                                }
+                            ],
+                            "groupId": "g_tfs1ce6op",
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 22: Listen for Answers in Order",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-b/post-test-soal-35.mp3",
+                            "passage": "",
+                            "question": "35. WHAT ARE THE MAN AND WOMAN DISCUSSING?",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Trash orbiting Earth.",
+                                    "reason": {
+                                        "en": "The conversation explicitly discusses '3,000 tons of metal out there in space' and 'orbiting junk,' which directly matches the topic of trash orbiting Earth.",
+                                        "id": "Percakapan secara eksplisit membahas '3.000 ton logam di luar angkasa' dan 'sampah yang mengorbit,' yang secara langsung sesuai dengan topik sampah yang mengorbit Bumi."
+                                    }
+                                },
+                                {
+                                    "text": "A trip by an astronaut to the Moon.",
+                                    "reason": {
+                                        "en": "The conversation mentions space missions, but it does not focus on a specific trip by an astronaut to the Moon.",
+                                        "id": "Percakapan menyebutkan misi luar angkasa, tetapi tidak berfokus pada perjalanan spesifik seorang astronot ke Bulan."
+                                    }
+                                },
+                                {
+                                    "text": "The overabundance of garbage on Earth.",
+                                    "reason": {
+                                        "en": "The speakers are discussing garbage in space, not the overabundance of garbage on the surface of the Earth.",
+                                        "id": "Para pembicara membahas sampah di luar angkasa, bukan kelebihan sampah di permukaan Bumi."
+                                    }
+                                },
+                                {
+                                    "text": "Becoming space scientists.",
+                                    "reason": {
+                                        "en": "The speakers mention space scientists as the people studying the problem, but they are not discussing becoming scientists themselves.",
+                                        "id": "Para pembicara menyebutkan ilmuwan luar angkasa sebagai orang yang mempelajari masalah tersebut, tetapi mereka tidak sedang mendiskusikan keinginan untuk menjadi ilmuwan."
+                                    }
+                                }
+                            ],
+                            "groupId": "g_b0uwltwmh",
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 20: Determine the Topic",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-b/post-test-soal-36.mp3",
+                            "passage": "",
+                            "question": "36. WHERE DID THE WOMAN LEARN ABOUT THIS PROBLEM?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "From a lecture.",
+                                    "reason": {
+                                        "en": "The passage does not mention a lecture as the source of the woman's information.",
+                                        "id": "Percakapan tidak menyebutkan kuliah sebagai sumber informasi wanita tersebut."
+                                    }
+                                },
+                                {
+                                    "text": "In a magazine article.",
+                                    "reason": {
+                                        "en": "There is no mention of a magazine article in the conversation.",
+                                        "id": "Tidak ada penyebutan artikel majalah dalam percakapan tersebut."
+                                    }
+                                },
+                                {
+                                    "text": "In a book.",
+                                    "reason": {
+                                        "en": "The woman does not refer to a book as the source of her knowledge.",
+                                        "id": "Wanita tersebut tidak merujuk pada buku sebagai sumber pengetahuannya."
+                                    }
+                                },
+                                {
+                                    "text": "On a television program.",
+                                    "reason": {
+                                        "en": "The woman explicitly states in the first line, 'I saw a television program about it last night,' which directly answers the question.",
+                                        "id": "Wanita tersebut secara eksplisit menyatakan pada baris pertama, 'I saw a television program about it last night,' yang menjawab pertanyaan tersebut secara langsung."
+                                    }
+                                }
+                            ],
+                            "groupId": "g_b0uwltwmh",
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 20: Determine the Topic / Skill 22: Listen for Answers in Order",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-b/post-test-soal-37.mp3",
+                            "passage": "",
+                            "question": "37. APPROXIMATELY HOW MUCH METAL IS IN ORBIT IN SPACE?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "17,000 pounds.",
+                                    "reason": {
+                                        "en": "This option incorrectly uses the speed mentioned in the dialogue (17,000 miles per hour) as a weight measurement.",
+                                        "id": "Opsi ini secara keliru menggunakan kecepatan yang disebutkan dalam dialog (17.000 mil per jam) sebagai satuan berat."
+                                    }
+                                },
+                                {
+                                    "text": "3,000 tons.",
+                                    "reason": {
+                                        "en": "The dialogue explicitly states, 'there's about 3,000 tons of metal out there in space,' which directly matches this option.",
+                                        "id": "Dialog secara eksplisit menyatakan, 'ada sekitar 3.000 ton logam di luar sana di ruang angkasa,' yang secara langsung cocok dengan opsi ini."
+                                    }
+                                },
+                                {
+                                    "text": "3,000 pounds.",
+                                    "reason": {
+                                        "en": "This option uses the correct numerical value (3,000) but provides the wrong unit of measurement (pounds instead of tons).",
+                                        "id": "Opsi ini menggunakan nilai numerik yang benar (3.000) tetapi memberikan satuan ukuran yang salah (pon alih-alih ton)."
+                                    }
+                                },
+                                {
+                                    "text": "300 tons.",
+                                    "reason": {
+                                        "en": "This option provides an incorrect numerical value (300) and does not match the information provided in the audio.",
+                                        "id": "Opsi ini memberikan nilai numerik yang salah (300) dan tidak sesuai dengan informasi yang diberikan dalam audio."
+                                    }
+                                }
+                            ],
+                            "groupId": "g_b0uwltwmh",
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 22: Listen for Answers in Order",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-b/post-test-soal-38.mp3",
+                            "passage": "",
+                            "question": "38. WHAT DOES THE WOMAN HOPE WILL HAPPEN?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "She will be able to travel in space.",
+                                    "reason": {
+                                        "en": "The woman does not express a desire to travel in space; this is not mentioned in the conversation.",
+                                        "id": "Wanita tersebut tidak menyatakan keinginan untuk bepergian ke luar angkasa; hal ini tidak disebutkan dalam percakapan."
+                                    }
+                                },
+                                {
+                                    "text": "The problem will take care of itself.",
+                                    "reason": {
+                                        "en": "The woman explicitly states that scientists are currently studying the problem, implying that active intervention is needed rather than the problem solving itself.",
+                                        "id": "Wanita tersebut secara eksplisit menyatakan bahwa para ilmuwan sedang mempelajari masalah ini, yang menyiratkan bahwa intervensi aktif diperlukan daripada membiarkan masalah tersebut selesai dengan sendirinya."
+                                    }
+                                },
+                                {
+                                    "text": "Scientists will find solutions to theproblem.",
+                                    "reason": {
+                                        "en": "The woman says, 'hopefully, they'll be able to find solutions before the problem gets too much worse,' which directly matches this option.",
+                                        "id": "Wanita tersebut mengatakan, 'semoga mereka dapat menemukan solusi sebelum masalahnya menjadi jauh lebih buruk,' yang secara langsung sesuai dengan pilihan ini."
+                                    }
+                                },
+                                {
+                                    "text": "The junk will fall to Earth.",
+                                    "reason": {
+                                        "en": "The conversation discusses the junk orbiting the Earth, but the woman does not express a hope that it will fall to Earth.",
+                                        "id": "Percakapan tersebut membahas sampah yang mengorbit Bumi, namun wanita tersebut tidak menyatakan harapan agar sampah itu jatuh ke Bumi."
+                                    }
+                                }
+                            ],
+                            "groupId": "g_b0uwltwmh",
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 22: Listen for Answers in Order",
+                            "_is_evaluated": true
+                        }
+                    ],
+                    "groups": [
+                        {
+                            "id": "g_tfs1ce6op",
+                            "passage": "Questions 31-34\n\n(narrator)    Listen to a conversation between two friends who are making plans.\n(woman)       Do you have any plans this weekend? There's so much to choose from on campus that I'm not sure what I'm going to do.\n(man)         The football game's on Saturday night, and I'm going with a group of friends. Do you want to go with us?\n(woman)       Of course I'd like to go to the football game: it's the biggest game of the sea son. And it sounds like fun to go with a large group of people.\n(man)         Good. We'll be meeting at the cafete ria for dinner at six o'clock on Satur day night, and then we'll go on to the game together.\n(woman)       That takes care of my plans for Satur day night. But now I need to make a decision about Sunday afternoon. The music department is sponsoring a concert then, and I'd really like to hear that concert. But there's also a play being presented by the drama department that I really wanted to see. It's too bad those two events are at the same time.\n(man)         You know, if you go to the game on Saturday night and a concert or play on Sunday, that doesn't leave much time for studying.\n(woman)       Oh, well. Maybe I can do that the weekend after this one.",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-b/post-test-passage-31-34.mp3",
+                            "label": "Q31-34"
+                        },
+                        {
+                            "id": "g_b0uwltwmh",
+                            "passage": "Questions 35-38\n\n(narrator)    I saw a television program about it last night, and according to the program, there's about 3,000 tons of metal out there in space, traveling at speeds around 17,000 miles per hour.\n(man)         Where did all this garbage come from?\n(woman)       Well, it comes from all those space missions that have gone up since 1957. Every time a rocket ship goes up into space, it leaves a lot behind, and this stuff goes into orbit around the Earth: booster rockets, solar panels, remnants of satellites, and even nuclear reactors.\n(man)         Isn't it dangerous to have all this stuff out there?\n(woman)       Some space scientists are worried about possible collisions between this orbiting junk and spaceships, particu larly manned spacecrafts; however, so far there haven't been any such acci dents.\n(man)         Well, I hope that they're going to do something about this, both for the sake of safety and for the sake of the environment.\n(woman)       Me, too. I know that right now the problem is being studied by numer ous scientists; hopefully, they'll be able to find solutions before the prob lem gets too much worse.",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-b/post-test-passage-35-38.mp3",
+                            "label": "Q35-38"
+                        }
+                    ],
+                    "passage": "",
+                    "audioUrl": "",
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/postest-part-b.mp3",
+                    "durationSeconds": 0
+                },
+                {
+                    "title": "Part C",
+                    "instruction": "Directions: In this part of the test, you will hear several talks. After each talk, you will hear some \nquestions. The talks and questions will not be repeated. \nAfter you hear a question, read the four possible answers in your test book and choose the best \nanswer. Then, on your answer sheet, find the number of the question and fill in the space that \ncorresponds to the letter of the answer you have chosen. \nHere is an example. \nOn the recording, you hear: \n(narrator) Listen to an instructor talk to his class about painting. \n(man) Artist Grant Wood was a guiding force in the school'of painting known as American \nregionalist, a style reflecting the distinctive characteristics of art from rural areas of \nthe United States. Wood began drawing animals on the family farm at the age of three, \nand when he was thirty-eight one of his paintings received a remarkable amount of \n. public notice and acclaim. This painting, called \"American Gothic,\" is a starkly \nsimple depiction of a serious couple staring directly out at the viewer. \n\nNow listen to a sample question.\n(narrator) What style of painting is known as American regionalist?\n\nIn your test book, you read:\n(A) Art from America s inner cities\n(B) Art from the central region of the United States \n(C) Art from various urban areas in the United States \n(D) Art from rural sections of America \n\nThe best answer to the question \"What style of painting is known as American regionalist?\" is (D), \"Art from rural sections of America.\" Therefore, the correct choice is (D). \n\nNow listen to another sample question.\n(narrator) What is the name of Wood's most successful painting? \nIn your test book, you read:\n(A) \"American Regionalist\"\n(B) \"The Family Farm in Iowa\"\n(C) \"American Gothic\" \n(D) \"A Serious Couple\" \n\nThe best answer to the question, \"What is the name of Wood's most successful painting?\" is (C), \"American Gothic.\" Therefore, the correct choice is (C). \n\nRemember, you are not allowed to take notes or write in your test book.",
+                    "questions": [
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-c/post-test-soal-39.mp3",
+                            "passage": "",
+                            "question": "39.  WHEN DOES THIS TALK PROBABLY TAKE PLACE?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "On the first day of class",
+                                    "reason": {
+                                        "en": "The professor mentions that the paper is due in two weeks and asks for outlines by Friday, which implies the course is already well underway, not just beginning.",
+                                        "id": "Profesor menyebutkan bahwa makalah dikumpulkan dalam dua minggu dan meminta kerangka karangan pada hari Jumat, yang menyiratkan bahwa perkuliahan sudah berjalan cukup lama, bukan baru dimulai."
+                                    }
+                                },
+                                {
+                                    "text": "In the middle of the semester",
+                                    "reason": {
+                                        "en": "The professor is assigning a research paper with a two-week deadline, which is a typical activity for the middle of a semester.",
+                                        "id": "Profesor memberikan tugas makalah penelitian dengan tenggat waktu dua minggu, yang merupakan aktivitas umum di pertengahan semester."
+                                    }
+                                },
+                                {
+                                    "text": "At the end of class",
+                                    "reason": {
+                                        "en": "The speaker says 'Before I start today's sociology lecture', indicating the talk is happening at the beginning of the class, not the end.",
+                                        "id": "Pembicara mengatakan 'Sebelum saya memulai kuliah sosiologi hari ini', yang menunjukkan bahwa pembicaraan terjadi di awal kelas, bukan di akhir."
+                                    }
+                                },
+                                {
+                                    "text": "In the final week of the semester",
+                                    "reason": {
+                                        "en": "A research paper assignment with a two-week deadline is unlikely to be given in the final week of the semester, as there would not be enough time for research and writing.",
+                                        "id": "Tugas makalah penelitian dengan tenggat waktu dua minggu tidak mungkin diberikan pada minggu terakhir semester, karena tidak akan ada cukup waktu untuk riset dan penulisan."
+                                    }
+                                }
+                            ],
+                            "groupId": "g_htkopq98a",
+                            "tested_skill": "SECTION ONE — LISTENING - Skill 21: Draw Conclusions about Who, What, When, Where",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-c/post-test-soal-40.mp3",
+                            "passage": "",
+                            "question": "40.  WHEN IS THE PAPER DUE?",
+                            "correctIndex": 2,
+                            "options": [
+                                {
+                                    "text": "Later today",
+                                    "reason": {
+                                        "en": "This is incorrect as the professor mentions the deadline is not today.",
+                                        "id": "Ini salah karena profesor menyebutkan tenggat waktu bukan hari ini."
+                                    }
+                                },
+                                {
+                                    "text": "By Friday of this week",
+                                    "reason": {
+                                        "en": "This is incorrect; Friday is the deadline for the outlines, not the final paper.",
+                                        "id": "Ini salah; hari Jumat adalah tenggat waktu untuk kerangka (outlines), bukan makalah akhir."
+                                    }
+                                },
+                                {
+                                    "text": "In two weeks",
+                                    "reason": {
+                                        "en": "This is correct. The professor explicitly states, 'The paper itself is due in two weeks.'",
+                                        "id": "Ini benar. Profesor secara eksplisit menyatakan, 'Makalah itu sendiri harus dikumpulkan dalam dua minggu.'"
+                                    }
+                                },
+                                {
+                                    "text": "In three weeks",
+                                    "reason": {
+                                        "en": "This is incorrect as the professor does not mention a three-week timeframe.",
+                                        "id": "Ini salah karena profesor tidak menyebutkan jangka waktu tiga minggu."
+                                    }
+                                }
+                            ],
+                            "groupId": "g_htkopq98a",
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 22: Listen for Answers in Order",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-c/post-test-soal-41.mp3",
+                            "passage": "",
+                            "question": "41.  WHAT TYPES OF REFERENCES SHOULD BE USED IN WRITING THE PAPER?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "Journal and magazine articles",
+                                    "reason": {
+                                        "en": "This option is incorrect because it mentions magazines, which are not specified in the lecture requirements.",
+                                        "id": "Opsi ini salah karena menyebutkan majalah, yang tidak disebutkan dalam persyaratan kuliah."
+                                    }
+                                },
+                                {
+                                    "text": "Books from outside the library",
+                                    "reason": {
+                                        "en": "This option is incorrect because the professor specifically instructs students to spend time in the library to find sources, not outside of it.",
+                                        "id": "Opsi ini salah karena profesor secara spesifik menginstruksikan mahasiswa untuk menghabiskan waktu di perpustakaan untuk mencari sumber, bukan di luar perpustakaan."
+                                    }
+                                },
+                                {
+                                    "text": "Books listed in student journals",
+                                    "reason": {
+                                        "en": "This option is incorrect as it misinterprets the source requirements and suggests books are listed in student journals.",
+                                        "id": "Opsi ini salah karena salah menafsirkan persyaratan sumber dan menyarankan bahwa buku terdaftar di dalam jurnal mahasiswa."
+                                    }
+                                },
+                                {
+                                    "text": "Both books and journals",
+                                    "reason": {
+                                        "en": "This option is correct because the professor explicitly states, 'I would like you to have at least three books and at least three recent journal articles as sources.'",
+                                        "id": "Opsi ini benar karena profesor secara eksplisit menyatakan, 'Saya ingin Anda memiliki setidaknya tiga buku dan setidaknya tiga artikel jurnal terbaru sebagai sumber.'"
+                                    }
+                                }
+                            ],
+                            "groupId": "g_htkopq98a",
+                            "tested_skill": "SECTION ONE — LISTENING - Skill 24: Anticipate the Questions",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-c/post-test-soal-42.mp3",
+                            "passage": "",
+                            "question": "42.  HOW MANY TOTAL PAGES SHOULD BE IN THE PAPER, INCLUDING THE TITLE PAGE AND THE REFERENCE LIST?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "Two",
+                                    "reason": {
+                                        "en": "This number is not mentioned in the lecture as a component of the paper's length.",
+                                        "id": "Angka ini tidak disebutkan dalam perkuliahan sebagai komponen panjang makalah."
+                                    }
+                                },
+                                {
+                                    "text": "Three",
+                                    "reason": {
+                                        "en": "This number corresponds only to the required number of journal articles, not the total page count.",
+                                        "id": "Angka ini hanya merujuk pada jumlah artikel jurnal yang diminta, bukan total jumlah halaman."
+                                    }
+                                },
+                                {
+                                    "text": "Five",
+                                    "reason": {
+                                        "en": "This represents only the length of the composition part of the paper, excluding the title page and reference list.",
+                                        "id": "Ini hanya mewakili panjang bagian isi makalah, tidak termasuk halaman judul dan daftar pustaka."
+                                    }
+                                },
+                                {
+                                    "text": "Seven",
+                                    "reason": {
+                                        "en": "The professor specifies five pages of composition, plus a title page (1) and a reference list (1), totaling seven pages.",
+                                        "id": "Profesor menetapkan lima halaman isi, ditambah satu halaman judul (1) dan satu halaman daftar pustaka (1), sehingga totalnya menjadi tujuh halaman."
+                                    }
+                                }
+                            ],
+                            "groupId": "g_htkopq98a",
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 24: Anticipate the Questions",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-c/post-test-soal-43.mp3",
+                            "passage": "",
+                            "question": "43.  IN WHAT SEASON OF THE YEAR WILL THE TRIP TAKE PLACE?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "In winter",
+                                    "reason": {
+                                        "en": "The speaker explicitly states that the temperature mentioned is for the springtime, not winter.",
+                                        "id": "Pembicara secara eksplisit menyatakan bahwa suhu yang disebutkan adalah untuk musim semi, bukan musim dingin."
+                                    }
+                                },
+                                {
+                                    "text": "In spring",
+                                    "reason": {
+                                        "en": "The speaker clearly mentions, 'This is the average daily temperature in the springtime, when we will be there.'",
+                                        "id": "Pembicara dengan jelas menyebutkan, 'Ini adalah suhu harian rata-rata di musim semi, saat kita akan berada di sana.'"
+                                    }
+                                },
+                                {
+                                    "text": "In summer",
+                                    "reason": {
+                                        "en": "The speaker notes that it gets a few degrees warmer in the summer, but confirms the trip is in the spring.",
+                                        "id": "Pembicara mencatat bahwa suhu menjadi sedikit lebih hangat di musim panas, namun mengonfirmasi bahwa perjalanan dilakukan di musim semi."
+                                    }
+                                },
+                                {
+                                    "text": "In fall",
+                                    "reason": {
+                                        "en": "There is no mention of the fall season in the talk regarding the timing of the trip.",
+                                        "id": "Tidak ada penyebutan musim gugur dalam pembicaraan mengenai waktu perjalanan tersebut."
+                                    }
+                                }
+                            ],
+                            "groupId": "g_s8u6lkbey",
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 23: Anticipate the Topic of a Talk",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-c/post-test-soal-44.mp3",
+                            "passage": "",
+                            "question": "44.  WHAT IS THE WEATHER LIKE IN HAWAII?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "Seasonable, with warm summers and cold winters",
+                                    "reason": {
+                                        "en": "This is incorrect because the speaker explicitly states that the temperature in Hawaii remains constant, with only minor variations between seasons.",
+                                        "id": "Ini salah karena pembicara secara eksplisit menyatakan bahwa suhu di Hawaii tetap konstan, dengan hanya sedikit variasi antar musim."
+                                    }
+                                },
+                                {
+                                    "text": "Fairly constant and moderate",
+                                    "reason": {
+                                        "en": "This is correct. The speaker mentions that the temperature is 'constant and moderate' due to the trade winds, which keep the climate stable throughout the year.",
+                                        "id": "Ini benar. Pembicara menyebutkan bahwa suhu 'konstan dan moderat' karena adanya angin pasat, yang menjaga iklim tetap stabil sepanjang tahun."
+                                    }
+                                },
+                                {
+                                    "text": "Very humid",
+                                    "reason": {
+                                        "en": "This is incorrect because the speaker states that the trade winds actually 'keep the humidity down,' making the weather more pleasant.",
+                                        "id": "Ini salah karena pembicara menyatakan bahwa angin pasat justru 'menjaga kelembapan tetap rendah,' membuat cuaca menjadi lebih nyaman."
+                                    }
+                                },
+                                {
+                                    "text": "Extremely hot year-round",
+                                    "reason": {
+                                        "en": "This is incorrect because the speaker describes the temperature as moderate (around 80 degrees Fahrenheit), not extremely hot.",
+                                        "id": "Ini salah karena pembicara menggambarkan suhu sebagai moderat (sekitar 80 derajat Fahrenheit), bukan sangat panas."
+                                    }
+                                }
+                            ],
+                            "groupId": "g_s8u6lkbey",
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 25: Determine the Topic",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-c/post-test-soal-45.mp3",
+                            "passage": "",
+                            "question": "45.  WHAT IS TRUE ABOUT THE TRADE WINDS?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "They come from the Southwest.",
+                                    "reason": {
+                                        "en": "The passage states that the trade winds blow in on the northeast side of the islands, not the Southwest.",
+                                        "id": "Teks menyatakan bahwa angin pasat bertiup dari sisi timur laut pulau, bukan dari arah barat daya."
+                                    }
+                                },
+                                {
+                                    "text": "They come most days of the year.",
+                                    "reason": {
+                                        "en": "The passage explicitly mentions that the trade winds blow through the islands an average of slightly more than 300 days per year, which confirms they occur most days.",
+                                        "id": "Teks secara eksplisit menyebutkan bahwa angin pasat bertiup melalui pulau-pulau rata-rata lebih dari 300 hari per tahun, yang mengonfirmasi bahwa angin tersebut terjadi hampir setiap hari."
+                                    }
+                                },
+                                {
+                                    "text": "They are the hardest during the night.",
+                                    "reason": {
+                                        "en": "The passage notes that the trade winds are strongest during the heat of the afternoon, not during the night.",
+                                        "id": "Teks mencatat bahwa angin pasat paling kuat terjadi pada saat panas di sore hari, bukan pada malam hari."
+                                    }
+                                },
+                                {
+                                    "text": "They increase the humidity.",
+                                    "reason": {
+                                        "en": "The passage states that the trade winds keep the humidity down, which is the opposite of increasing it.",
+                                        "id": "Teks menyatakan bahwa angin pasat menjaga kelembapan tetap rendah, yang merupakan kebalikan dari meningkatkannya."
+                                    }
+                                }
+                            ],
+                            "groupId": "g_s8u6lkbey",
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 24: Anticipate the Questions / Skill 27: Listen for Answers in Order",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-c/post-test-soal-46.mp3",
+                            "passage": "",
+                            "question": "WHAT WILL THE PEOPLE LISTENING TO THE \nTALK PROBABLY BE DOING SOON?",
+                            "correctIndex": 0,
+                            "groupId": "g_s8u6lkbey",
+                            "options": [
+                                {
+                                    "text": "Preparing for a trip",
+                                    "reason": {
+                                        "en": "The speaker explicitly addresses the audience as those 'taking part in the trip to Hawaii next week' and provides information to help them decide 'what types of clothes you should be packing.' This confirms they are preparing for an upcoming trip.",
+                                        "id": "Pembicara secara eksplisit menyapa audiens sebagai mereka yang 'akan mengikuti perjalanan ke Hawaii minggu depan' dan memberikan informasi untuk membantu mereka memutuskan 'jenis pakaian apa yang harus dikemas.' Ini mengonfirmasi bahwa mereka sedang bersiap untuk perjalanan yang akan datang."
+                                    }
+                                },
+                                {
+                                    "text": "Writing a report about the weather ",
+                                    "reason": {
+                                        "en": "There is no indication that the listeners are tasked with writing a report; the talk is informational, intended to help them prepare for their personal travel.",
+                                        "id": "Tidak ada indikasi bahwa pendengar ditugaskan untuk menulis laporan; pembicaraan ini bersifat informatif, ditujukan untuk membantu mereka bersiap untuk perjalanan pribadi mereka."
+                                    }
+                                },
+                                {
+                                    "text": "Beginning a study of the weather ",
+                                    "reason": {
+                                        "en": "The listeners are travelers, not students or researchers beginning a formal study of meteorology or weather patterns.",
+                                        "id": "Para pendengar adalah wisatawan, bukan siswa atau peneliti yang memulai studi formal tentang meteorologi atau pola cuaca."
+                                    }
+                                },
+                                {
+                                    "text": "Buying warm clothes for a trip",
+                                    "reason": {
+                                        "en": "The passage mentions the temperature is around 80 degrees Fahrenheit (26 degrees Celsius), which is warm. Buying 'warm' clothes would be inappropriate for this climate.",
+                                        "id": "Teks menyebutkan suhu sekitar 80 derajat Fahrenheit (26 derajat Celsius), yang berarti hangat. Membeli pakaian 'hangat' tidak akan tepat untuk iklim tersebut."
+                                    }
+                                }
+                            ],
+                            "tested_skill": "SECTION ONE — LISTENING - Skill 23: Anticipate the Topic of a Talk",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-c/post-test-soal-47.mp3",
+                            "passage": "",
+                            "question": "47.  THIS LECTURE WOULD PROBABLY BE A PART OF WHICH COURSE?",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "Modern American Authors",
+                                    "reason": {
+                                        "en": "While Whitman is a modern American author, the lecture focuses on his specific 19th-century works and historical context, making this title too broad.",
+                                        "id": "Meskipun Whitman adalah penulis Amerika modern, kuliah ini berfokus pada karya-karya abad ke-19 dan konteks sejarahnya, sehingga judul ini terlalu luas."
+                                    }
+                                },
+                                {
+                                    "text": "United States History",
+                                    "reason": {
+                                        "en": "Although the lecture mentions Abraham Lincoln and American democracy, the primary subject is a collection of poetry, not political or social history.",
+                                        "id": "Meskipun kuliah ini menyebutkan Abraham Lincoln dan demokrasi Amerika, subjek utamanya adalah kumpulan puisi, bukan sejarah politik atau sosial."
+                                    }
+                                },
+                                {
+                                    "text": "American Democracy",
+                                    "reason": {
+                                        "en": "Democracy is a theme within the poems, but the lecture is clearly an analysis of literary works rather than a political science course.",
+                                        "id": "Demokrasi adalah tema dalam puisi-puisi tersebut, namun kuliah ini jelas merupakan analisis karya sastra, bukan mata kuliah ilmu politik."
+                                    }
+                                },
+                                {
+                                    "text": "Nineteenth-Century American Literature",
+                                    "reason": {
+                                        "en": "The lecture analyzes Walt Whitman's 'Leaves of Grass', a seminal work published in the 19th century, which fits perfectly within a literature course of that period.",
+                                        "id": "Kuliah ini menganalisis 'Leaves of Grass' karya Walt Whitman, sebuah karya penting yang diterbitkan pada abad ke-19, yang sangat cocok dengan mata kuliah sastra periode tersebut."
+                                    }
+                                }
+                            ],
+                            "groupId": "g_s8u6lkbfy",
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 26: Draw Conclusions about Who, What, When, Where",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-c/post-test-soal-48.mp3",
+                            "passage": "",
+                            "question": "48.  WHAT IS THE MOST COMMON THEME IN LEAVES OF GRASS?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "The death of Abraham Lincoln",
+                                    "reason": {
+                                        "en": "This is a specific detail mentioned in the lecture regarding a single poem added to a later edition, not the main theme of the entire collection.",
+                                        "id": "Ini adalah detail spesifik yang disebutkan dalam kuliah mengenai satu puisi yang ditambahkan pada edisi selanjutnya, bukan tema utama dari keseluruhan koleksi."
+                                    }
+                                },
+                                {
+                                    "text": "The beauty of American democracy",
+                                    "reason": {
+                                        "en": "The lecture explicitly states that the collection is a celebration of America and shows reverence for the goals of American democracy, identifying this as the core theme.",
+                                        "id": "Kuliah secara eksplisit menyatakan bahwa koleksi tersebut adalah perayaan Amerika dan menunjukkan penghormatan terhadap tujuan demokrasi Amerika, yang mengidentifikasikannya sebagai tema utama."
+                                    }
+                                },
+                                {
+                                    "text": "The raising of plants",
+                                    "reason": {
+                                        "en": "This is a distractor based on the literal interpretation of the title 'Leaves of Grass', which is a common trap in listening comprehension.",
+                                        "id": "Ini adalah pengecoh berdasarkan interpretasi harfiah dari judul 'Leaves of Grass', yang merupakan jebakan umum dalam pemahaman mendengarkan."
+                                    }
+                                },
+                                {
+                                    "text": "The maturity of poetry",
+                                    "reason": {
+                                        "en": "While the lecture mentions that the collection grew and matured, this refers to the publication history, not the thematic content of the poems.",
+                                        "id": "Meskipun kuliah menyebutkan bahwa koleksi tersebut tumbuh dan matang, ini merujuk pada sejarah publikasi, bukan konten tematik dari puisi-puisi tersebut."
+                                    }
+                                }
+                            ],
+                            "groupId": "g_s8u6lkbfy",
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 25: Determine the Topic",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-c/post-test-soal-49.mp3",
+                            "passage": "",
+                            "question": "49.  WHAT BEST DESCRIBES LEAVES OF GRASS}",
+                            "correctIndex": 3,
+                            "options": [
+                                {
+                                    "text": "It's a poem about the author.",
+                                    "reason": {
+                                        "en": "This is incorrect because 'Song of Myself' is only one poem within the collection, not the entire volume.",
+                                        "id": "Ini salah karena 'Song of Myself' hanyalah satu puisi di dalam koleksi tersebut, bukan keseluruhan volume."
+                                    }
+                                },
+                                {
+                                    "text": "It's a poem about Abraham Lincoln.",
+                                    "reason": {
+                                        "en": "This is incorrect because the collection is not about Lincoln; only one specific poem in a later edition reflects on his death.",
+                                        "id": "Ini salah karena koleksi tersebut bukan tentang Lincoln; hanya satu puisi spesifik di edisi selanjutnya yang merefleksikan kematiannya."
+                                    }
+                                },
+                                {
+                                    "text": "It's a collection of twelve poems that remained unchanged.",
+                                    "reason": {
+                                        "en": "This contradicts the text, which states that several editions appeared throughout Whitman's lifetime with additional poems.",
+                                        "id": "Ini bertentangan dengan teks, yang menyatakan bahwa beberapa edisi muncul sepanjang masa hidup Whitman dengan tambahan puisi."
+                                    }
+                                },
+                                {
+                                    "text": "It's a volume of poetry that grew with its author.",
+                                    "reason": {
+                                        "en": "This is correct as the text explicitly states, 'Leaves of Grass grew and matured right along with Whitman.'",
+                                        "id": "Ini benar karena teks secara eksplisit menyatakan, 'Leaves of Grass grew and matured right along with Whitman.'"
+                                    }
+                                }
+                            ],
+                            "groupId": "g_s8u6lkbfy",
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 25: Determine the Topic",
+                            "_is_evaluated": true
+                        },
+                        {
+                            "timeLimitSeconds": 12,
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-c/post-test-soal-50.mp3",
+                            "passage": "",
+                            "question": "50.  WHICH IS THE LONGEST AND BEST-KNOWN POEM BYWHITMAN?",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "\"Leaves of Grass\"",
+                                    "reason": {
+                                        "en": "Leaves of Grass is the title of the entire collection of poems, not an individual poem.",
+                                        "id": "Leaves of Grass adalah judul dari keseluruhan kumpulan puisi, bukan judul puisi tunggal."
+                                    }
+                                },
+                                {
+                                    "text": "\"Song of Myself\"",
+                                    "reason": {
+                                        "en": "The text explicitly states that 'The longest and best-known poem in Leaves of Grass is \"Song of Myself\"'.",
+                                        "id": "Teks secara eksplisit menyatakan bahwa 'Puisi terpanjang dan paling terkenal dalam Leaves of Grass adalah \"Song of Myself\"'."
+                                    }
+                                },
+                                {
+                                    "text": "\"When Lilacs Last in the Dooryard Bloomed\"",
+                                    "reason": {
+                                        "en": "This poem was added to a later edition and is not identified as the longest or best-known poem.",
+                                        "id": "Puisi ini ditambahkan pada edisi yang lebih baru dan tidak diidentifikasi sebagai puisi terpanjang atau paling terkenal."
+                                    }
+                                },
+                                {
+                                    "text": "\"American Democracy\"",
+                                    "reason": {
+                                        "en": "American Democracy is mentioned as a theme or goal within the poems, not as a title of a poem.",
+                                        "id": "American Democracy disebutkan sebagai tema atau tujuan di dalam puisi-puisi tersebut, bukan sebagai judul puisi."
+                                    }
+                                }
+                            ],
+                            "groupId": "g_s8u6lkbfy",
+                            "tested_skill": "SECTION ONE - LISTENING - Skill 24: Anticipate the Questions",
+                            "_is_evaluated": true
+                        }
+                    ],
+                    "groups": [
+                        {
+                            "id": "g_htkopq98a",
+                            "passage": "Questions 39-42\n\n(narrator)    Listen to a sociology professor talk to her class.\n(woman)       Before I start today's sociology lec ture, I'd like to talk with you about the papers that you should be working on. As you know, the topic for the paper is the relationship between gun control and violence. The paper itself is due in two weeks, but I would like to see your oudines by Friday of this week so that I can be sure that you are on the right track with the assign ment.\n              You need to do some research for this paper, so you should be spending some time in the library. I would like you to have at least three books and at least three recent journal articles as sources.\n              The paper should be five pages long; in addition to the five pages of com position, you should have a tide page and a one-page reference list of the sources that you used in preparing the paper.",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-c/post-test-passage-39-42.mp3",
+                            "label": "Q39-42"
+                        },
+                        {
+                            "id": "g_s8u6lkbey",
+                            "passage": "Questions 43-46\n\n(narrator)    Listen to a talk about Hawaii.\n(woman)\tFor those of you taking part in the trip to Hawaii next week, I'd like to give you a litde information about the weather that you can expect there. You can expect the average daily tem perature there to be about 80 degrees Fahrenheit or 26 degrees Celsius. This is the average daily temperature in the springtime, when we will be there; it is interesting to note that it only gets a few degrees warmer in the summer and a few degrees cooler in the win ter. One important factor that keeps the temperature so constant and moder ate in Hawaii is the trade winds. These are winds that blow in on the north east, or windward, side of the islands on an almost daily basis; the trade winds blow through the islands an average of slighdy more than 300 days per year, and they are the strongest during the heat of the afternoon and turn into a cooling breeze in the evening. The trade winds also keep the humidity down, which makes the weather even more pleasant. I hope this information will help you to understand the weather conditions that you're going to encounter next week on your trip; it should also help you decide what types of clothes you should be packing for your trip.",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-c/post-test-passage-43-46.mp3",
+                            "label": "Q43-46"
+                        },
+                        {
+                            "id": "g_s8u6lkbfy",
+                            "passage": "Questions 43-46\n(narrator) Listen to an instructor talk to her class about Walt Whitman. \n(woman) The topic of today's lecture is Walt Whitman, an American poet and author of the renowned collection of poems Leaves of Grass. This volume of poems is a celebration of America, full of pride in the United States and reverence for the goals of American democracy. \n\nWhitman began writing Leaves of Grass in the middle of the nineteenth century, and the first edition appeared in 1855 with only twelve poems. Several other editions of Leaves of Grass appeared throughout Whitman's lifetime with additional poems; Leaves of Grass grew and matured right along with Whitman. \n\nThe longest and best-known poem in Leaves of Grass is \"Song of Myself,\" which appeared in the first edition. The poem \"When Lilacs Last in the Dooryard Bloomed\" was added to a later edition. This poem was written at the time of Abraham Lincoln's death in 1865 and contained Whitman's reflections on that event. Lincoln's death occurred in April, in the spring, in a season of new life. This poem reflects that spring can be at the same time a period of death and a period of rebirth. ",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/part-c/post-test-passage-47-50.mp3",
+                            "label": "Q47-50"
+                        }
+                    ],
+                    "passage": "",
+                    "audioUrl": "",
+                    "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/postest-part-c.mp3",
+                    "durationSeconds": 0
+                }
+            ],
+            "instruction": "In this section of the test, you will have an opportunity to demonstrate your ability to understand conversations and talks in English. There are three parts to this section. Answer all the questions on the basis of what is stated or implied by the speakers you hear. Do not take notes or write in your test book at any time. Do not turn the pages until you are told to do so.",
+            "directionAudioUrl": "https://storage.googleapis.com/toeflsim-audio/post-test/postest-section.mp3"
+        }
+    ]
+}
