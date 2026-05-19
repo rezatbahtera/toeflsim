@@ -2,12 +2,12 @@
     "title": "STRUCTURE SENTENCESWITH ONE CLAUSE",
     "sections": [
         {
-            "title": "SKILL I: BE SURE THE SENTENCE HAS A SUBJECT AND A VERB ",
+            "title": "SENTENCESWITH ONE CLAUSE ",
             "type": "structure",
             "durationMinutes": 25,
             "parts": [
                 {
-                    "title": "EXERCISE 1",
+                    "title": "SKILL I: BE SURE THE SENTENCE HAS A SUBJECT AND A VERB ",
                     "instruction": "Pilih (A) Correct dan (B) Incorrect ",
                     "questions": [
                         {
@@ -373,6 +373,1137 @@
                                 },
                                 {
                                     "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "title": "SKILL 2: BE CAREFUL OF OBJECTS OF PREPOSITIONS ",
+                    "instruction": "",
+                    "questions": [
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "The interviews by radio broadcasters were carried live by the station.",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "in the last possible moment before takeoff took his seat in the airplane.",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "At the neighborhood flower shop, flowers in quantities of a dozen or a half dozen can be delivered for free.",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "The progressive reading methods at this school are given credit for the improved test scores.",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "For the last three years at various hospitals in the county has been practicing medicine.",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "In the past a career in politics was not considered acceptable in some circles.",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "Shopping in the downtown area of the city it has improved a lot in recent years.",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "At the building site the carpenters with the most experience were given the most intricate work.",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "For the fever and headache took two aspirin tablets.",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "The report with complete documentation was delivered at the conference.",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "title": "SKILL 3: BE CAREFUL OF APPOSITIVES ",
+                    "instruction": "",
+                    "questions": [
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "The son of the previous owneiy the new owner is undertaking some fairly broad changes in management policy.",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "CORRECT",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "INCORRECT",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "Last semester, a friend, graduated cum laude from the university.",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "CORRECT",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "INCORRECT",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "Valentine's Day, February 14, is a special holiday for sweethearts.",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "CORRECT",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "INCORRECT",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "At long last, the chief executive officer, has decided to step down.",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "CORRECT",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "INCORRECT",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "Tonight's supper, leftovers from last night, did not taste any better tonight than last night.",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "CORRECT",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "INCORRECT",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "The only entrance to the closet, the door was kept locked at all times.",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "CORRECT",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "INCORRECT",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "In the cold of winter, a wall heating unit, would not turn on.",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "CORRECT",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "INCORRECT",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "The new tile pattern, yellow flowers on a white background, really brightens up the room.",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "CORRECT",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "INCORRECT",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "The high-powered computer the most powerful machine of its type, was finally readied for use.",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "CORRECT",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "INCORRECT",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "A longtime friend and confidant, the psychologist was often invited over for Sunday dinner.",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "CORRECT",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "INCORRECT",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "-",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "groups": []
+                },
+                {
+                    "title": "SKILL 4: BE CAREFUL OF PRESENT PARTICIPLES ",
+                    "instruction": "",
+                    "questions": [
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "The companies offering the lowest prices will have the most customers.",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "Those travelers are ompleting their trip on Delta should report to Gate Three.",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "The artisans were demonstrating various handicrafts at booths throughout the fair.",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "The fraternities are giving the wildest parties attract the most new pledges.",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "The first team winning four games is awarded the championship.",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "The speaker was trying to make his point was often interrupted vociferously.",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "The fruits were rotting because of the moisture in the crates carrying them to market.",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "Any students desiring official transcripts should complete the appropriate form.",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "The advertisements were announcing the half-day sale received a lot of attention.",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "The spices flavoring the meal were quite distinctive.",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
                                     "reason": {
                                         "en": "Incorrect.",
                                         "id": "Salah."
