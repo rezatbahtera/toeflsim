@@ -1733,7 +1733,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/pretest/pretest-c-parts/pretest-c-question-43.mp3",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/partc/complate-partc-soal43.mp3",
                             "passage": "",
                             "question": "43. IN WHICH COURSE WOULD THIS LECTURE MOST PROBABLY BE GIVEN?",
                             "correctIndex": 2,
@@ -1773,7 +1773,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/pretest/pretest-c-parts/pretest-c-question-44.mp3",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/partc/complate-partc-soal44.mp3",
                             "passage": "",
                             "question": "44. WHAT IS THE MOST LIKELY MEANING OF THE EXPRESSION \"TO CLIP ALONG\"?",
                             "correctIndex": 1,
@@ -1813,7 +1813,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/pretest/pretest-c-parts/pretest-c-question-45.mp3",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/partc/complate-partc-soal45.mp3",
                             "passage": "",
                             "question": "45. WHAT WERE CLIPPER SHIPS FIRST USED FOR IN THE UNITED STATES?",
                             "correctIndex": 3,
@@ -1853,7 +1853,7 @@
                         },
                         {
                             "timeLimitSeconds": 12,
-                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/pretest/pretest-c-parts/pretest-c-question-46.mp3",
+                            "audioUrl": "https://storage.googleapis.com/toeflsim-audio/complete-test/partc/complate-partc-soal46.mp3",
                             "passage": "",
                             "question": "46. WHAT DOES THE PROFESSOR REMIND THE STUDENTS ABOUT?",
                             "correctIndex": 3,
