@@ -20,32 +20,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence lacks a subject. 'Last week' is an adverbial phrase of time, not a subject.",
+                                        "id": "Opsi ini salah karena kalimat tersebut tidak memiliki subjek. 'Last week' adalah frasa keterangan waktu, bukan subjek."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This option is correct because the sentence is grammatically incomplete. It contains a verb ('went fishing') but lacks a subject (e.g., 'I' or 'He').",
+                                        "id": "Opsi ini benar karena kalimat tersebut secara tata bahasa tidak lengkap. Kalimat ini mengandung kata kerja ('went fishing') tetapi tidak memiliki subjek (seperti 'I' atau 'He')."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 1: Be Sure the Sentence Has a Subject and a Verb",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -57,32 +59,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is grammatically correct. It contains a clear subject ('A schedule of the day's events') and a complete verb phrase ('can be obtained').",
+                                        "id": "Kalimat tersebut secara tata bahasa benar. Kalimat ini memiliki subjek yang jelas ('A schedule of the day's events') dan frasa kata kerja yang lengkap ('can be obtained')."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence already satisfies the requirement of having both a subject and a verb.",
+                                        "id": "Opsi ini salah karena kalimat tersebut sudah memenuhi syarat memiliki subjek dan kata kerja."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 1: Be Sure the Sentence Has a Subject and a Verb",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -94,32 +98,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence is missing a main verb.",
+                                        "id": "Opsi ini salah karena kalimat tersebut tidak memiliki kata kerja utama."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This option is correct. The sentence 'A job on the day shift or the night shift at the plant available' lacks a verb. To be grammatically correct, it should be 'A job... is available'.",
+                                        "id": "Opsi ini benar. Kalimat 'A job on the day shift or the night shift at the plant available' tidak memiliki kata kerja. Agar benar secara tata bahasa, seharusnya menjadi 'A job... is available'."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 1: Be Sure the Sentence Has a Subject and a Verb",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -131,32 +137,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence contains a grammatical error in the verb phrase.",
+                                        "id": "Opsi ini salah karena kalimat tersebut mengandung kesalahan tata bahasa pada frasa kata kerja."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is incorrect because the verb phrase 'has provides' is grammatically invalid. After the auxiliary verb 'has', the past participle form 'provided' must be used, not the base form 'provides'.",
+                                        "id": "Kalimat tersebut salah karena frasa kata kerja 'has provides' tidak valid secara tata bahasa. Setelah kata kerja bantu 'has', bentuk past participle 'provided' harus digunakan, bukan bentuk dasar 'provides'."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 1: Be Sure the Sentence Has a Subject and a Verb",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -168,32 +176,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "[please evaluate-manual] This option is marked as incorrect by the key, but the sentence 'The box can be opened only with a special screwdriver' is grammatically correct. It contains a subject ('The box') and a complete passive verb phrase ('can be opened').",
+                                        "id": "[please evaluate-manual] Opsi ini ditandai salah oleh kunci jawaban, namun kalimat 'The box can be opened only with a special screwdriver' secara tata bahasa sudah benar. Kalimat ini memiliki subjek ('The box') dan frasa kata kerja pasif yang lengkap ('can be opened')."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The key indicates this is incorrect, likely due to a mismatch in the provided answer key logic, as the sentence is actually a complete and grammatically sound structure.",
+                                        "id": "Kunci jawaban menunjukkan ini salah, kemungkinan karena ketidaksesuaian logika kunci jawaban yang diberikan, karena kalimat tersebut sebenarnya adalah struktur yang lengkap dan benar secara tata bahasa."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 1: Be Sure the Sentence Has a Subject and a Verb",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -205,32 +215,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence is grammatically flawed due to a double subject.",
+                                        "id": "Opsi ini salah karena kalimat tersebut cacat secara tata bahasa akibat penggunaan subjek ganda."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This option is correct. The sentence contains a double subject: 'The assigned text' and 'it'. According to Skill 1, a sentence must have one subject and one verb; having both 'The assigned text' and 'it' as subjects makes the sentence grammatically incorrect.",
+                                        "id": "Opsi ini benar. Kalimat tersebut mengandung subjek ganda: 'The assigned text' dan 'it'. Berdasarkan Skill 1, sebuah kalimat harus memiliki satu subjek dan satu kata kerja; penggunaan 'The assigned text' dan 'it' secara bersamaan sebagai subjek membuat kalimat tersebut salah secara tata bahasa."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 1: Be Sure the Sentence Has a Subject and a Verb",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -242,32 +254,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is correct because it contains a clear subject ('The papers') and a complete verb phrase ('should be emptied'). The phrase 'in the wastebasket' is a prepositional phrase modifying the subject, and 'into the trash can outside' is a prepositional phrase indicating location.",
+                                        "id": "Kalimat tersebut benar karena memiliki subjek yang jelas ('The papers') dan frasa kata kerja yang lengkap ('should be emptied'). Frasa 'in the wastebasket' adalah frasa preposisional yang menjelaskan subjek, dan 'into the trash can outside' adalah frasa preposisional yang menunjukkan keterangan tempat."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence already possesses a valid subject and verb structure, making it grammatically sound.",
+                                        "id": "Opsi ini salah karena kalimat tersebut sudah memiliki struktur subjek dan kata kerja yang valid, sehingga secara tata bahasa sudah tepat."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 1: Be Sure the Sentence Has a Subject and a Verb",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -279,32 +293,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence lacks a main verb.",
+                                        "id": "Opsi ini salah karena kalimat tersebut tidak memiliki kata kerja utama."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This option is correct because the sentence is a fragment; it contains a noun phrase ('Departure') and prepositional phrases, but it lacks a conjugated verb to make it a complete sentence.",
+                                        "id": "Opsi ini benar karena kalimat tersebut adalah fragmen; kalimat ini mengandung frasa kata benda ('Departure') dan frasa preposisi, namun tidak memiliki kata kerja terkonjugasi untuk menjadikannya kalimat yang lengkap."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 1: Be Sure the Sentence Has a Subject and a Verb",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -316,32 +332,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence lacks a subject. 'Yesterday' is an adverb of time, not a subject.",
+                                        "id": "Opsi ini salah karena kalimat tersebut tidak memiliki subjek. 'Yesterday' adalah keterangan waktu, bukan subjek."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This option is correct. The sentence is incomplete because it contains a verb ('found') but lacks a subject to perform the action.",
+                                        "id": "Opsi ini benar. Kalimat tersebut tidak lengkap karena mengandung kata kerja ('found') tetapi tidak memiliki subjek yang melakukan tindakan tersebut."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 1: Be Sure the Sentence Has a Subject and a Verb",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -353,32 +371,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence contains a grammatical error in the verb phrase.",
+                                        "id": "Opsi ini salah karena kalimat tersebut mengandung kesalahan tata bahasa pada frasa kata kerja."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is incorrect because it uses a double verb structure 'is processes'. The verb should either be 'is processing' (present continuous) or simply 'processes' (simple present).",
+                                        "id": "Kalimat tersebut salah karena menggunakan struktur kata kerja ganda 'is processes'. Kata kerjanya seharusnya 'is processing' (present continuous) atau cukup 'processes' (simple present)."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 1: Be Sure the Sentence Has a Subject and a Verb",
+                            "_is_evaluated": true
                         }
                     ],
                     "groups": []
@@ -397,32 +417,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is grammatically correct. The subject is 'The interviews' (plural), and the verb is 'were carried' (passive voice, plural). 'by radio broadcasters' is a prepositional phrase, and 'by the station' is another prepositional phrase; neither contains the subject.",
+                                        "id": "Kalimat tersebut secara tata bahasa benar. Subjeknya adalah 'The interviews' (jamak), dan kata kerjanya adalah 'were carried' (kalimat pasif, jamak). 'by radio broadcasters' adalah frasa preposisional, dan 'by the station' adalah frasa preposisional lainnya; tidak ada satu pun yang mengandung subjek."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure already satisfies the requirement of having a subject ('The interviews') and a verb ('were carried').",
+                                        "id": "Opsi ini salah karena struktur kalimat sudah memenuhi syarat memiliki subjek ('The interviews') dan kata kerja ('were carried')."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 2: Be Careful of Objects of Prepositions",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -434,32 +456,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence lacks a subject. The phrase 'in the last possible moment' is a prepositional phrase, and 'before takeoff' is another prepositional phrase; neither can function as the subject of the sentence.",
+                                        "id": "Opsi ini salah karena kalimat tersebut tidak memiliki subjek. Frasa 'in the last possible moment' adalah frasa preposisi, dan 'before takeoff' juga merupakan frasa preposisi; keduanya tidak dapat berfungsi sebagai subjek kalimat."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This option is correct because the sentence is grammatically incomplete. It contains prepositional phrases ('in the last possible moment', 'before takeoff') and a verb ('took'), but it is missing a subject (e.g., 'The passenger') to perform the action.",
+                                        "id": "Opsi ini benar karena kalimat tersebut secara tata bahasa tidak lengkap. Kalimat ini mengandung frasa preposisi ('in the last possible moment', 'before takeoff') dan kata kerja ('took'), tetapi kehilangan subjek (misalnya, 'The passenger') untuk melakukan tindakan tersebut."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 2: Be Careful of Objects of Prepositions",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -471,32 +495,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is grammatically correct. The subject is 'flowers', and the verb is 'can be delivered'. The phrases 'At the neighborhood flower shop' and 'in quantities of a dozen or a half dozen' are prepositional phrases that do not contain the subject.",
+                                        "id": "Kalimat tersebut secara tata bahasa sudah benar. Subjeknya adalah 'flowers', dan kata kerjanya adalah 'can be delivered'. Frasa 'At the neighborhood flower shop' dan 'in quantities of a dozen or a half dozen' adalah frasa preposisional yang tidak mengandung subjek."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure follows the rules of English grammar, correctly identifying the subject and verb while properly using prepositional phrases.",
+                                        "id": "Opsi ini salah karena struktur kalimat tersebut mengikuti aturan tata bahasa Inggris, dengan mengidentifikasi subjek dan kata kerja secara tepat serta menggunakan frasa preposisional dengan benar."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 2: Be Careful of Objects of Prepositions",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -508,32 +534,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is grammatically correct. The subject is 'methods' (plural), and the verb is 'are given' (plural). The phrase 'at this school' is a prepositional phrase, and 'at this school' does not contain the subject.",
+                                        "id": "Kalimat tersebut secara tata bahasa sudah benar. Subjeknya adalah 'methods' (jamak), dan kata kerjanya adalah 'are given' (jamak). Frasa 'at this school' adalah frasa preposisi, dan 'at this school' tidak mengandung subjek."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure follows the rules of subject-verb agreement and correctly identifies the subject 'methods' separate from the prepositional phrase.",
+                                        "id": "Opsi ini salah karena struktur kalimat mengikuti aturan kesesuaian subjek-kata kerja dan mengidentifikasi subjek 'methods' secara benar terpisah dari frasa preposisi."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 2: Be Careful of Objects of Prepositions",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -545,32 +573,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence lacks a subject. 'For the last three years' and 'at various hospitals in the county' are both prepositional phrases, which cannot function as the subject.",
+                                        "id": "Opsi ini salah karena kalimat tersebut tidak memiliki subjek. 'For the last three years' dan 'at various hospitals in the county' keduanya adalah frasa preposisional, yang tidak dapat berfungsi sebagai subjek."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This option is correct because the sentence is grammatically incomplete. It contains prepositional phrases but lacks a subject to perform the action 'has been practicing'.",
+                                        "id": "Opsi ini benar karena kalimat tersebut secara tata bahasa tidak lengkap. Kalimat ini mengandung frasa preposisional tetapi tidak memiliki subjek untuk melakukan tindakan 'has been practicing'."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 2: Be Careful of Objects of Prepositions",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -582,32 +612,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is grammatically correct. It contains a clear subject ('a career') and a verb ('was not considered'). The phrase 'in politics' is a prepositional phrase acting as an adjective, and 'in some circles' is a prepositional phrase acting as an adverbial of place; neither contains the subject.",
+                                        "id": "Kalimat tersebut secara tata bahasa sudah benar. Kalimat ini memiliki subjek yang jelas ('a career') dan kata kerja ('was not considered'). Frasa 'in politics' adalah frasa preposisional yang berfungsi sebagai kata sifat, dan 'in some circles' adalah frasa preposisional yang berfungsi sebagai keterangan tempat; tidak ada satu pun yang mengandung subjek."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure follows standard English grammar rules, including proper subject-verb agreement and correct placement of prepositional phrases.",
+                                        "id": "Opsi ini salah karena struktur kalimat tersebut mengikuti aturan tata bahasa Inggris standar, termasuk kesesuaian subjek-kata kerja yang tepat dan penempatan frasa preposisional yang benar."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 2: Be Careful of Objects of Prepositions",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -619,32 +651,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence contains a grammatical error.",
+                                        "id": "Opsi ini salah karena kalimat tersebut mengandung kesalahan tata bahasa."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is incorrect because it contains a double subject. 'Shopping' is the subject, but the pronoun 'it' is redundant and unnecessary. Additionally, 'in the downtown area of the city' is a prepositional phrase that does not contain the subject.",
+                                        "id": "Kalimat ini salah karena mengandung subjek ganda. 'Shopping' adalah subjeknya, sehingga kata ganti 'it' menjadi redundan dan tidak diperlukan. Selain itu, 'in the downtown area of the city' adalah frasa preposisi yang tidak mengandung subjek."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 2: Be Careful of Objects of Prepositions",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -656,32 +690,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is grammatically correct. The subject is 'carpenters' and the verb is 'were given'. The phrase 'at the building site' is a prepositional phrase, and 'with the most experience' is another prepositional phrase modifying 'carpenters'. Neither contains the subject.",
+                                        "id": "Kalimat tersebut secara tata bahasa benar. Subjeknya adalah 'carpenters' dan kata kerjanya adalah 'were given'. Frasa 'at the building site' adalah frasa preposisional, dan 'with the most experience' adalah frasa preposisional lain yang menjelaskan 'carpenters'. Tidak ada satu pun dari frasa tersebut yang mengandung subjek."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure follows the rules of English grammar, containing a clear subject and verb.",
+                                        "id": "Opsi ini salah karena struktur kalimat tersebut mengikuti aturan tata bahasa Inggris, dengan memiliki subjek dan kata kerja yang jelas."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 2: Be Careful of Objects of Prepositions",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -693,32 +729,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence lacks a subject.",
+                                        "id": "Opsi ini salah karena kalimat tersebut tidak memiliki subjek."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This sentence is incorrect because 'For the fever and headache' is a prepositional phrase, not a subject. The sentence needs a subject (e.g., 'He' or 'She') before the verb 'took'.",
+                                        "id": "Kalimat ini salah karena 'For the fever and headache' adalah frasa preposisional, bukan subjek. Kalimat ini membutuhkan subjek (contoh: 'He' atau 'She') sebelum kata kerja 'took'."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 2: Be Careful of Objects of Prepositions",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -730,32 +768,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is correct because it contains a clear subject ('The report') and a verb ('was delivered'). The phrase 'with complete documentation' is a prepositional phrase acting as an modifier, and 'at the conference' is another prepositional phrase indicating location; neither contains the subject.",
+                                        "id": "Kalimat tersebut benar karena memiliki subjek yang jelas ('The report') dan kata kerja ('was delivered'). Frasa 'with complete documentation' adalah frasa preposisional yang berfungsi sebagai penjelas, dan 'at the conference' adalah frasa preposisional lain yang menunjukkan lokasi; keduanya tidak mengandung subjek."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure follows the grammatical rules for a single clause sentence, having both a subject and a verb.",
+                                        "id": "Opsi ini salah karena struktur kalimat tersebut sudah mengikuti aturan tata bahasa untuk kalimat dengan satu klausa, yaitu memiliki subjek dan kata kerja."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 2: Be Careful of Objects of Prepositions",
+                            "_is_evaluated": true
                         }
                     ],
                     "groups": []
@@ -774,32 +814,34 @@
                                 {
                                     "text": "CORRECT",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is grammatically correct. 'The son of the previous owner' acts as an appositive phrase renaming the subject 'the new owner', and the sentence contains a clear subject ('the new owner') and a verb ('is undertaking').",
+                                        "id": "Kalimat tersebut secara tata bahasa benar. 'The son of the previous owner' berfungsi sebagai frasa apositif yang menjelaskan subjek 'the new owner', dan kalimat tersebut memiliki subjek ('the new owner') serta kata kerja ('is undertaking') yang jelas."
                                     }
                                 },
                                 {
                                     "text": "INCORRECT",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure follows the rules for appositives correctly, making the 'INCORRECT' label invalid.",
+                                        "id": "Opsi ini salah karena struktur kalimat mengikuti aturan apositif dengan benar, sehingga label 'INCORRECT' tidak valid."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 3: Be Careful of Appositives",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -811,32 +853,34 @@
                                 {
                                     "text": "CORRECT",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence is grammatically flawed.",
+                                        "id": "Opsi ini salah karena kalimat tersebut memiliki cacat tata bahasa."
                                     }
                                 },
                                 {
                                     "text": "INCORRECT",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is incorrect because it lacks a subject. 'A friend' is an appositive renaming a missing subject, and 'graduated' is the verb. The structure requires a subject before the appositive (e.g., 'My friend, a classmate, graduated...').",
+                                        "id": "Kalimat ini salah karena tidak memiliki subjek. 'A friend' adalah aposisi yang menjelaskan subjek yang hilang, dan 'graduated' adalah kata kerjanya. Struktur ini memerlukan subjek sebelum aposisi (contoh: 'My friend, a classmate, graduated...')."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 3: Be Careful of Appositives",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -848,32 +892,34 @@
                                 {
                                     "text": "CORRECT",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is grammatically correct. 'Valentine's Day' is the subject, 'February 14' is the appositive renaming the subject, and 'is' is the main verb.",
+                                        "id": "Kalimat tersebut secara tata bahasa sudah benar. 'Valentine's Day' adalah subjek, 'February 14' adalah aposisi yang menjelaskan kembali subjek, dan 'is' adalah kata kerja utama."
                                     }
                                 },
                                 {
                                     "text": "INCORRECT",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure follows the rules for appositives correctly, meaning it is not an error.",
+                                        "id": "Pilihan ini salah karena struktur kalimat tersebut mengikuti aturan aposisi dengan benar, sehingga tidak terdapat kesalahan."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 3: Be Careful of Appositives",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -885,32 +931,34 @@
                                 {
                                     "text": "CORRECT",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence contains a grammatical error regarding the use of commas with the appositive.",
+                                        "id": "Opsi ini salah karena kalimat tersebut mengandung kesalahan tata bahasa terkait penggunaan koma dengan aposisi."
                                     }
                                 },
                                 {
                                     "text": "INCORRECT",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This option is correct. The sentence is grammatically incorrect because the appositive 'the chief executive officer' is set off by only one comma instead of two, or it is incorrectly placed, creating a separation between the subject and the verb that is not properly punctuated.",
+                                        "id": "Opsi ini benar. Kalimat tersebut secara tata bahasa salah karena aposisi 'the chief executive officer' hanya dipisahkan oleh satu koma, bukan dua, atau penempatannya salah sehingga menciptakan pemisahan antara subjek dan kata kerja yang tidak diberi tanda baca dengan benar."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 3: Be Careful of Appositives",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -922,32 +970,34 @@
                                 {
                                     "text": "CORRECT",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is grammatically correct. 'Tonight's supper' is the subject, 'leftovers from last night' is the appositive renaming the subject, and 'did not taste' is the verb.",
+                                        "id": "Kalimat tersebut secara tata bahasa benar. 'Tonight's supper' adalah subjek, 'leftovers from last night' adalah aposisi yang menjelaskan subjek, dan 'did not taste' adalah kata kerjanya."
                                     }
                                 },
                                 {
                                     "text": "INCORRECT",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure follows the rules for appositives correctly, meaning it is not an error.",
+                                        "id": "Opsi ini salah karena struktur kalimat mengikuti aturan aposisi dengan benar, sehingga tidak terdapat kesalahan."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 3: Be Careful of Appositives",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -959,32 +1009,34 @@
                                 {
                                     "text": "CORRECT",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "[please evaluate-manual] Based on the provided key, this is marked as correct; however, grammatically, this sentence is incorrect because 'the door' is the subject, and 'the only entrance to the closet' acts as an appositive that does not logically rename 'the door' in this context, creating a dangling or illogical appositive structure.",
+                                        "id": "[please evaluate-manual] Berdasarkan kunci yang diberikan, ini ditandai benar; namun, secara tata bahasa, kalimat ini salah karena 'the door' adalah subjek, dan 'the only entrance to the closet' berfungsi sebagai aposisi yang tidak secara logis menamai ulang 'the door' dalam konteks ini, sehingga menciptakan struktur aposisi yang menggantung atau tidak logis."
                                     }
                                 },
                                 {
                                     "text": "INCORRECT",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is marked as incorrect by the key, even though the sentence structure is flawed due to the illogical relationship between the appositive and the subject.",
+                                        "id": "Opsi ini ditandai sebagai salah oleh kunci jawaban, meskipun struktur kalimatnya cacat karena hubungan yang tidak logis antara aposisi dan subjek."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 3: Be Careful of Appositives",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -996,32 +1048,34 @@
                                 {
                                     "text": "CORRECT",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence is grammatically flawed due to the unnecessary comma usage.",
+                                        "id": "Opsi ini salah karena kalimat tersebut cacat secara tata bahasa akibat penggunaan koma yang tidak perlu."
                                     }
                                 },
                                 {
                                     "text": "INCORRECT",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is incorrect because there is no appositive present to justify the commas. The phrase 'a wall heating unit' is the subject of the sentence, and it should not be separated from its verb 'would not turn on' by a comma.",
+                                        "id": "Kalimat tersebut salah karena tidak ada aposisi yang membenarkan penggunaan koma. Frasa 'a wall heating unit' adalah subjek kalimat, dan tidak boleh dipisahkan dari kata kerjanya 'would not turn on' dengan koma."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 3: Be Careful of Appositives",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1033,32 +1087,34 @@
                                 {
                                     "text": "CORRECT",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is grammatically correct. 'The new tile pattern' is the subject, 'really brightens up' is the verb, and 'yellow flowers on a white background' is a correctly placed appositive that renames the subject.",
+                                        "id": "Kalimat tersebut secara tata bahasa benar. 'The new tile pattern' adalah subjek, 'really brightens up' adalah kata kerja, dan 'yellow flowers on a white background' adalah aposisi yang ditempatkan dengan benar untuk menjelaskan subjek."
                                     }
                                 },
                                 {
                                     "text": "INCORRECT",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure follows all grammatical rules regarding subjects, verbs, and appositives.",
+                                        "id": "Opsi ini salah karena struktur kalimat tersebut telah mengikuti semua aturan tata bahasa mengenai subjek, kata kerja, dan aposisi."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 3: Be Careful of Appositives",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1070,32 +1126,34 @@
                                 {
                                     "text": "CORRECT",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence is grammatically incomplete as an appositive structure.",
+                                        "id": "Opsi ini salah karena kalimat tersebut secara tata bahasa tidak lengkap sebagai struktur aposisi."
                                     }
                                 },
                                 {
                                     "text": "INCORRECT",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is incorrect because the appositive phrase 'the most powerful machine of its type' is missing a closing comma after 'type' to properly set it off from the rest of the sentence.",
+                                        "id": "Kalimat tersebut salah karena frasa aposisi 'the most powerful machine of its type' tidak memiliki koma penutup setelah kata 'type' untuk memisahkannya dengan benar dari bagian kalimat lainnya."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 3: Be Careful of Appositives",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1107,32 +1165,34 @@
                                 {
                                     "text": "CORRECT",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is grammatically correct. 'A longtime friend and confidant' is an appositive phrase that renames the subject 'the psychologist', and the sentence contains a clear subject ('the psychologist') and a verb ('was invited').",
+                                        "id": "Kalimat tersebut secara tata bahasa benar. 'A longtime friend and confidant' adalah frasa apositif yang menamai ulang subjek 'the psychologist', dan kalimat tersebut memiliki subjek ('the psychologist') serta kata kerja ('was invited') yang jelas."
                                     }
                                 },
                                 {
                                     "text": "INCORRECT",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure follows the rules for appositives correctly, meaning it is not an error.",
+                                        "id": "Opsi ini salah karena struktur kalimat mengikuti aturan apositif dengan benar, yang berarti tidak ada kesalahan."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "-",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 3: Be Careful of Appositives",
+                            "_is_evaluated": true
                         }
                     ],
                     "groups": []
@@ -1151,32 +1211,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is correct. 'Offering' is a present participle acting as an adjective modifying 'companies', and 'will have' is the main verb of the sentence.",
+                                        "id": "Kalimat tersebut benar. 'Offering' adalah present participle yang berfungsi sebagai kata sifat untuk menerangkan 'companies', dan 'will have' adalah kata kerja utama dalam kalimat tersebut."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure is grammatically sound and follows the rules for present participles used as adjectives.",
+                                        "id": "Opsi ini salah karena struktur kalimatnya sudah tepat secara tata bahasa dan mengikuti aturan penggunaan present participle sebagai kata sifat."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak relevan."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak relevan."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 4: BE CAREFUL OF PRESENT PARTICIPLES",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1188,32 +1250,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence is grammatically flawed.",
+                                        "id": "Opsi ini salah karena kalimat tersebut memiliki kesalahan tata bahasa."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is incorrect because 'completing' is a present participle used as an adjective modifying 'travelers', but the sentence lacks a main verb. It should be 'Those travelers completing their trip on Delta should report...' (where 'should report' is the main verb) or 'Those travelers are completing their trip on Delta' (where 'are completing' is the main verb).",
+                                        "id": "Kalimat tersebut salah karena 'completing' adalah present participle yang berfungsi sebagai kata sifat untuk menerangkan 'travelers', namun kalimat tersebut kekurangan kata kerja utama. Seharusnya menjadi 'Those travelers completing their trip on Delta should report...' (di mana 'should report' adalah kata kerja utama) atau 'Those travelers are completing their trip on Delta' (di mana 'are completing' adalah kata kerja utama)."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 4: BE CAREFUL OF PRESENT PARTICIPLES",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1225,32 +1289,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is grammatically correct. It contains a subject 'The artisans' and a complete verb phrase 'were demonstrating', where 'demonstrating' is a present participle acting as part of the verb because it is preceded by the auxiliary verb 'were'.",
+                                        "id": "Kalimat tersebut secara tata bahasa benar. Kalimat ini memiliki subjek 'The artisans' dan frasa kata kerja lengkap 'were demonstrating', di mana 'demonstrating' adalah present participle yang berfungsi sebagai bagian dari kata kerja karena didahului oleh kata kerja bantu 'were'."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure is already complete and follows standard English grammar rules.",
+                                        "id": "Opsi ini salah karena struktur kalimat sudah lengkap dan mengikuti aturan tata bahasa Inggris standar."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 4: BE CAREFUL OF PRESENT PARTICIPLES",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1262,32 +1328,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence is grammatically flawed.",
+                                        "id": "Opsi ini salah karena kalimat tersebut memiliki kesalahan tata bahasa."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is incorrect because it contains two main verbs ('are giving' and 'attract') without a proper connector. 'Giving' is a present participle here, but the sentence lacks a relative pronoun (like 'that' or 'which') to make 'that are giving' a correct adjective clause, or it needs to be restructured to have only one main verb.",
+                                        "id": "Kalimat tersebut salah karena mengandung dua kata kerja utama ('are giving' dan 'attract') tanpa kata penghubung yang tepat. 'Giving' di sini adalah present participle, namun kalimat tersebut kekurangan kata ganti relatif (seperti 'that' atau 'which') untuk membuat 'that are giving' menjadi klausa kata sifat yang benar, atau kalimat tersebut perlu disusun ulang agar hanya memiliki satu kata kerja utama."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 4: BE CAREFUL OF PRESENT PARTICIPLES",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1299,32 +1367,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is correct. 'Winning' is a present participle acting as an adjective modifying 'team'. The main verb of the sentence is 'is awarded'.",
+                                        "id": "Kalimat tersebut benar. 'Winning' adalah present participle yang berfungsi sebagai kata sifat yang menjelaskan 'team'. Kata kerja utama dari kalimat tersebut adalah 'is awarded'."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure is grammatically sound according to the rules of present participles.",
+                                        "id": "Opsi ini salah karena struktur kalimat sudah tepat secara tata bahasa sesuai dengan aturan present participle."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 4: BE CAREFUL OF PRESENT PARTICIPLES",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1336,32 +1406,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "[please evaluate-manual] Based on the provided key, this sentence is marked as correct. However, grammatically, the sentence 'The speaker was trying to make his point was often interrupted vociferously' contains two verbs ('was trying' and 'was interrupted') without a connector, making it technically incorrect as a single clause structure.",
+                                        "id": "[please evaluate-manual] Berdasarkan kunci yang diberikan, kalimat ini ditandai benar. Namun, secara tata bahasa, kalimat 'The speaker was trying to make his point was often interrupted vociferously' mengandung dua kata kerja ('was trying' dan 'was interrupted') tanpa kata penghubung, sehingga secara teknis salah sebagai struktur klausa tunggal."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is marked incorrect by the key, though the sentence structure is actually flawed due to the presence of two verbs without a connector.",
+                                        "id": "Opsi ini ditandai salah oleh kunci jawaban, meskipun struktur kalimatnya sebenarnya cacat karena adanya dua kata kerja tanpa kata penghubung."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 4: BE CAREFUL OF PRESENT PARTICIPLES",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1373,32 +1445,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence is grammatically flawed.",
+                                        "id": "Opsi ini salah karena kalimat tersebut memiliki kesalahan tata bahasa."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is incorrect because 'carrying' is a present participle used as an adjective modifying 'crates'. However, the sentence structure is confusing; it should be 'crates that were carrying' or 'crates carrying' if the context is clear. More importantly, in the context of Skill 4, the sentence lacks a clear main verb structure if 'carrying' is misinterpreted as the main verb.",
+                                        "id": "Kalimat tersebut salah karena 'carrying' adalah present participle yang berfungsi sebagai kata sifat yang menerangkan 'crates'. Namun, struktur kalimatnya membingungkan; seharusnya 'crates that were carrying' atau 'crates carrying' jika konteksnya jelas. Lebih penting lagi, dalam konteks Skill 4, kalimat ini kekurangan struktur kata kerja utama yang jelas jika 'carrying' disalahartikan sebagai kata kerja utama."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 4: BE CAREFUL OF PRESENT PARTICIPLES",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1410,32 +1484,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is correct because 'desiring' is a present participle acting as an adjective modifying the noun 'students'. The main verb of the sentence is 'should complete'.",
+                                        "id": "Kalimat ini benar karena 'desiring' adalah present participle yang berfungsi sebagai kata sifat yang menjelaskan kata benda 'students'. Kata kerja utama dari kalimat tersebut adalah 'should complete'."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure is grammatically sound; there is no error in the usage of the present participle.",
+                                        "id": "Opsi ini salah karena struktur kalimatnya sudah benar secara tata bahasa; tidak ada kesalahan dalam penggunaan present participle."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 4: BE CAREFUL OF PRESENT PARTICIPLES",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1447,32 +1523,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence is grammatically flawed.",
+                                        "id": "Opsi ini salah karena kalimat tersebut memiliki kesalahan tata bahasa."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is incorrect because it lacks a main verb. 'Announcing' is a present participle acting as an adjective modifying 'advertisements', but the sentence needs a main verb for the subject 'advertisements'. It should be 'The advertisements announcing the half-day sale were receiving a lot of attention' or 'The advertisements were announcing...'.",
+                                        "id": "Kalimat tersebut salah karena tidak memiliki kata kerja utama. 'Announcing' adalah present participle yang berfungsi sebagai kata sifat yang menjelaskan 'advertisements', namun kalimat tersebut membutuhkan kata kerja utama untuk subjek 'advertisements'. Seharusnya menjadi 'The advertisements announcing the half-day sale were receiving a lot of attention' atau 'The advertisements were announcing...'."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 4: BE CAREFUL OF PRESENT PARTICIPLES",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1484,32 +1562,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is correct. 'Flavoring' is a present participle acting as an adjective modifying the noun 'spices', and 'were' serves as the main verb of the sentence.",
+                                        "id": "Kalimat tersebut benar. 'Flavoring' adalah present participle yang berfungsi sebagai kata sifat untuk menjelaskan kata benda 'spices', dan 'were' berfungsi sebagai kata kerja utama dalam kalimat tersebut."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure is grammatically sound and follows the rules for present participles as adjectives.",
+                                        "id": "Opsi ini salah karena struktur kalimatnya sudah benar secara tata bahasa dan mengikuti aturan penggunaan present participle sebagai kata sifat."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 4: BE CAREFUL OF PRESENT PARTICIPLES",
+                            "_is_evaluated": true
                         }
                     ],
                     "groups": []
@@ -1528,32 +1608,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence is grammatically flawed.",
+                                        "id": "Opsi ini salah karena kalimat tersebut memiliki kesalahan tata bahasa."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is incorrect because it contains two main verbs ('was offered' and 'was not accepted') without a connector. To be correct, 'was offered' should be reduced to a past participle phrase ('The money offered by the client was not accepted') or joined by a relative pronoun ('The money that was offered by the client was not accepted').",
+                                        "id": "Kalimat ini salah karena mengandung dua kata kerja utama ('was offered' dan 'was not accepted') tanpa kata penghubung. Agar benar, 'was offered' seharusnya direduksi menjadi frasa past participle ('The money offered by the client was not accepted') atau dihubungkan dengan kata ganti relatif ('The money that was offered by the client was not accepted')."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO - STRUCTURE & WRITTEN EXPRESSION - SKILL 5: BE CAREFUL OF PAST PARTICIPLES",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1565,32 +1647,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is grammatically correct. 'Listed' is a past participle acting as an adjective modifying 'The car', and 'had stalled' is the correct past perfect verb phrase for the sentence.",
+                                        "id": "Kalimat tersebut secara tata bahasa benar. 'Listed' adalah past participle yang berfungsi sebagai kata sifat yang menerangkan 'The car', dan 'had stalled' adalah frasa kata kerja past perfect yang tepat untuk kalimat tersebut."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure is valid; there is no grammatical error in the use of the past participle or the main verb.",
+                                        "id": "Opsi ini salah karena struktur kalimatnya valid; tidak ada kesalahan tata bahasa dalam penggunaan past participle maupun kata kerja utamanya."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak relevan."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak relevan."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO - STRUCTURE & WRITTEN EXPRESSION - SKILL 5: BE CAREFUL OF PAST PARTICIPLES",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1602,32 +1686,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence is grammatically flawed.",
+                                        "id": "Opsi ini salah karena kalimat tersebut memiliki kesalahan tata bahasa."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is incorrect because it contains two main verbs ('were taught' and 'will be') without a proper connector. 'Taught' here is a past participle acting as an adjective, but it lacks the necessary passive construction or relative pronoun (e.g., 'that were taught').",
+                                        "id": "Kalimat ini salah karena mengandung dua kata kerja utama ('were taught' dan 'will be') tanpa kata penghubung yang tepat. 'Taught' di sini adalah past participle yang berfungsi sebagai kata sifat, namun kekurangan konstruksi pasif atau kata ganti relatif yang diperlukan (contoh: 'that were taught')."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 5: BE CAREFUL OF PAST PARTICIPLES",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1639,32 +1725,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is correct because 'were baked' is a complete passive verb phrase where 'were' is the auxiliary verb and 'baked' is the past participle.",
+                                        "id": "Kalimat tersebut benar karena 'were baked' adalah frasa kata kerja pasif yang lengkap, di mana 'were' adalah kata kerja bantu dan 'baked' adalah past participle."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure follows the standard rules for a passive voice construction.",
+                                        "id": "Opsi ini salah karena struktur kalimat tersebut mengikuti aturan standar untuk konstruksi kalimat pasif."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak relevan."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak relevan."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 5: BE CAREFUL OF PAST PARTICIPLES",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1676,32 +1764,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence is grammatically flawed.",
+                                        "id": "Opsi ini salah karena kalimat tersebut memiliki kesalahan tata bahasa."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is incorrect because it contains two main verbs ('were reached' and 'were under') without a connector. To be correct, 'were reached' should be a reduced adjective clause ('reached by the sailors'), or a connector should be added.",
+                                        "id": "Kalimat ini salah karena mengandung dua kata kerja utama ('were reached' dan 'were under') tanpa kata penghubung. Agar benar, 'were reached' seharusnya menjadi klausa adjektiva yang disingkat ('reached by the sailors'), atau perlu ditambahkan kata penghubung."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak relevan."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak relevan."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 5: BE CAREFUL OF PAST PARTICIPLES",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1713,32 +1803,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is correct. 'Suspected' is a past participle acting as an adjective modifying 'Those', and 'were arrested' is the main verb phrase in the passive voice.",
+                                        "id": "Kalimat tersebut benar. 'Suspected' adalah past participle yang berfungsi sebagai kata sifat yang menerangkan 'Those', dan 'were arrested' adalah frasa kata kerja utama dalam bentuk pasif."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure follows standard grammatical rules for a passive construction with a reduced relative clause.",
+                                        "id": "Opsi ini salah karena struktur kalimat mengikuti aturan tata bahasa standar untuk konstruksi pasif dengan klausa relatif yang diringkas."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 5: BE CAREFUL OF PAST PARTICIPLES",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1750,32 +1842,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence is grammatically flawed.",
+                                        "id": "Opsi ini salah karena kalimat tersebut memiliki kesalahan tata bahasa."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is incorrect because 'served' is a past participle acting as an adjective, but the sentence lacks a main verb. It should be 'The pizza served in this restaurant is...' (where 'served' is a reduced relative clause) or 'The pizza is served in this restaurant' (if it were two separate clauses, but here it functions as a single clause structure).",
+                                        "id": "Kalimat ini salah karena 'served' adalah past participle yang berfungsi sebagai kata sifat, namun kalimat tersebut kekurangan kata kerja utama. Seharusnya menjadi 'The pizza served in this restaurant is...' (di mana 'served' adalah reduced relative clause) atau 'The pizza is served in this restaurant' (jika itu adalah dua klausa terpisah, namun di sini strukturnya adalah klausa tunggal)."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 5: BE CAREFUL OF PAST PARTICIPLES",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1787,32 +1881,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence is grammatically flawed.",
+                                        "id": "Opsi ini salah karena kalimat tersebut memiliki kesalahan tata bahasa."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is incorrect because it lacks a proper verb structure. 'Listed' is a past participle acting as an adjective here, but the sentence lacks a main verb. It should be 'The courses listed on the second page of the brochure have several prerequisites' (if 'listed' is an adjective) or 'The courses are listed...' (if 'are listed' is the passive verb). As written, 'are listed' creates a double verb conflict.",
+                                        "id": "Kalimat ini salah karena tidak memiliki struktur kata kerja yang tepat. 'Listed' di sini adalah past participle yang berfungsi sebagai kata sifat, namun kalimat ini kekurangan kata kerja utama. Seharusnya 'The courses listed on the second page of the brochure have several prerequisites' (jika 'listed' sebagai kata sifat) atau 'The courses are listed...' (jika 'are listed' sebagai kata kerja pasif). Dalam bentuk yang tertulis, 'are listed' menciptakan konflik kata kerja ganda."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 5: BE CAREFUL OF PAST PARTICIPLES",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1824,32 +1920,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is correct because 'were invited' is a complete passive verb construction where 'were' is the auxiliary verb and 'invited' is the past participle.",
+                                        "id": "Kalimat tersebut benar karena 'were invited' adalah konstruksi kata kerja pasif yang lengkap, di mana 'were' adalah kata kerja bantu dan 'invited' adalah past participle."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure is grammatically sound and contains no errors.",
+                                        "id": "Opsi ini salah karena struktur kalimat tersebut sudah benar secara tata bahasa dan tidak mengandung kesalahan."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak relevan."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak relevan."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO - STRUCTURE & WRITTEN EXPRESSION - SKILL 5: BE CAREFUL OF PAST PARTICIPLES",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1861,32 +1959,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is grammatically correct. 'Paid' is a past participle acting as an adjective modifying 'bills', and 'will be credited' is the main verb phrase of the sentence.",
+                                        "id": "Kalimat tersebut secara tata bahasa benar. 'Paid' adalah past participle yang berfungsi sebagai kata sifat yang menerangkan 'bills', dan 'will be credited' adalah frasa kata kerja utama dari kalimat tersebut."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure follows the rules for reduced adjective clauses correctly.",
+                                        "id": "Opsi ini salah karena struktur kalimat mengikuti aturan klausa kata sifat yang diperpendek (reduced adjective clause) dengan benar."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 5: BE CAREFUL OF PAST PARTICIPLES",
+                            "_is_evaluated": true
                         }
                     ],
                     "groups": []
@@ -1905,32 +2005,34 @@
                                 {
                                     "text": "it flowed",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option creates a double subject ('The North Platte River' and 'it') and uses a verb that is not properly connected, making the sentence grammatically incorrect.",
+                                        "id": "Opsi ini menciptakan subjek ganda ('The North Platte River' dan 'it') dan menggunakan kata kerja yang tidak terhubung dengan benar, sehingga kalimat menjadi tidak gramatikal."
                                     }
                                 },
                                 {
                                     "text": "flows",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This is the correct answer because the sentence requires a main verb to complete the subject 'The North Platte River'. 'Flows' functions as the singular present tense verb.",
+                                        "id": "Ini adalah jawaban yang benar karena kalimat tersebut memerlukan kata kerja utama untuk melengkapi subjek 'The North Platte River'. 'Flows' berfungsi sebagai kata kerja bentuk present tunggal."
                                     }
                                 },
                                 {
                                     "text": "flowing",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "A present participle ('flowing') cannot function as the main verb of a sentence without a helping verb (like 'is' or 'was').",
+                                        "id": "Present participle ('flowing') tidak dapat berfungsi sebagai kata kerja utama dalam kalimat tanpa kata kerja bantu (seperti 'is' atau 'was')."
                                     }
                                 },
                                 {
                                     "text": "with flowing water from",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option creates a prepositional phrase that leaves the sentence without a main verb, resulting in an incomplete sentence structure.",
+                                        "id": "Opsi ini menciptakan frasa preposisional yang membuat kalimat tidak memiliki kata kerja utama, sehingga struktur kalimat menjadi tidak lengkap."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 1: Be Sure the Sentence Has a Subject and a Verb",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1942,32 +2044,34 @@
                                 {
                                     "text": "The city of",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This option provides the necessary subject 'The city of' to complete the sentence structure, where 'Biloxi' acts as an appositive renaming 'The city of'.",
+                                        "id": "Opsi ini menyediakan subjek yang diperlukan 'The city of' untuk melengkapi struktur kalimat, di mana 'Biloxi' berfungsi sebagai aposisi yang mengganti nama 'The city of'."
                                     }
                                 },
                                 {
                                     "text": "Located in",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This creates a sentence fragment because 'Located in' is a past participle phrase and does not function as a subject.",
+                                        "id": "Ini menciptakan fragmen kalimat karena 'Located in' adalah frasa partisip lampau dan tidak berfungsi sebagai subjek."
                                     }
                                 },
                                 {
                                     "text": "It is in",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This is incorrect because it creates two subjects ('It' and 'Biloxi') and two verbs ('is' and 'received') without a proper connector, violating the one-clause rule.",
+                                        "id": "Ini salah karena menciptakan dua subjek ('It' dan 'Biloxi') dan dua kata kerja ('is' dan 'received') tanpa konektor yang tepat, melanggar aturan satu klausa."
                                     }
                                 },
                                 {
                                     "text": "The tour included",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This creates a sentence with two subjects and two verbs ('The tour'/'Biloxi' and 'included'/'received') without a connector, which is grammatically incorrect for a single clause.",
+                                        "id": "Ini menciptakan kalimat dengan dua subjek dan dua kata kerja ('The tour'/'Biloxi' dan 'included'/'received') tanpa konektor, yang secara tata bahasa salah untuk satu klausa."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 1: Be Sure the Sentence Has a Subject and a Verb",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1979,32 +2083,34 @@
                                 {
                                     "text": "can contain",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This is the correct choice because the sentence needs a main verb to complete the subject 'A pride of lions'. 'Can contain' functions as the verb phrase.",
+                                        "id": "Ini adalah pilihan yang benar karena kalimat membutuhkan kata kerja utama untuk melengkapi subjek 'A pride of lions'. 'Can contain' berfungsi sebagai frasa kata kerja."
                                     }
                                 },
                                 {
                                     "text": "it contains",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This is incorrect because it creates a double subject. 'A pride of lions' is already the subject, so adding 'it' is redundant and grammatically incorrect.",
+                                        "id": "Ini salah karena menciptakan subjek ganda. 'A pride of lions' sudah menjadi subjek, jadi menambahkan 'it' adalah redundan dan salah secara tata bahasa."
                                     }
                                 },
                                 {
                                     "text": "contain",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This is incorrect because 'contain' is a plural verb, but the subject 'A pride' is singular. It also lacks the necessary modal or auxiliary structure to fit the sentence flow.",
+                                        "id": "Ini salah karena 'contain' adalah kata kerja jamak, sedangkan subjek 'A pride' adalah tunggal. Pilihan ini juga kekurangan struktur modal atau bantu yang diperlukan agar sesuai dengan alur kalimat."
                                     }
                                 },
                                 {
                                     "text": "containing",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This is incorrect because 'containing' is a present participle. It cannot function as the main verb of a sentence without an auxiliary verb (like 'is containing').",
+                                        "id": "Ini salah karena 'containing' adalah present participle. Kata ini tidak dapat berfungsi sebagai kata kerja utama kalimat tanpa kata kerja bantu (seperti 'is containing')."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 1: Be Sure the Sentence Has a Subject and a Verb",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -2016,32 +2122,34 @@
                                 {
                                     "text": "The",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option provides only a subject ('The tea plant') but leaves the sentence without a main verb, as 'are' is already present in the sentence.",
+                                        "id": "Opsi ini hanya menyediakan subjek ('The tea plant') namun membuat kalimat tidak memiliki kata kerja utama, karena 'are' sudah ada di dalam kalimat."
                                     }
                                 },
                                 {
                                     "text": "On the",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option creates a prepositional phrase at the beginning, which cannot function as the subject of the sentence.",
+                                        "id": "Opsi ini menciptakan frasa preposisional di awal, yang tidak dapat berfungsi sebagai subjek kalimat."
                                     }
                                 },
                                 {
                                     "text": "Having flowers the",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option creates a participial phrase that lacks a clear subject, leaving the sentence grammatically incomplete.",
+                                        "id": "Opsi ini menciptakan frasa partisipial yang tidak memiliki subjek yang jelas, sehingga kalimat menjadi tidak lengkap secara tata bahasa."
                                     }
                                 },
                                 {
                                     "text": "The flowers of the",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This option correctly provides a subject ('The flowers of the tea plant') to agree with the plural verb 'are'.",
+                                        "id": "Opsi ini dengan tepat menyediakan subjek ('The flowers of the tea plant') agar sesuai dengan kata kerja jamak 'are'."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 1: Be Sure the Sentence Has a Subject and a Verb",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -2053,32 +2161,34 @@
                                 {
                                     "text": "are a family of",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option creates a sentence with a subject ('The tetracyclines') and a verb ('are'), but it leaves the phrase 'used to treat infections' as a dangling modifier or creates a redundant structure. However, the prompt requires an appositive structure.",
+                                        "id": "Opsi ini menciptakan kalimat dengan subjek ('The tetracyclines') dan kata kerja ('are'), namun menyisakan frasa 'used to treat infections' sebagai modifier yang menggantung atau menciptakan struktur yang redundan."
                                     }
                                 },
                                 {
                                     "text": "being a family",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option uses a present participle ('being') which cannot function as the main verb of the sentence, leaving the sentence without a finite verb.",
+                                        "id": "Opsi ini menggunakan present participle ('being') yang tidak dapat berfungsi sebagai kata kerja utama kalimat, sehingga kalimat tersebut tidak memiliki kata kerja utama."
                                     }
                                 },
                                 {
                                     "text": "a family of",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "[please evaluate-manual] Based on the structure of the sentence, 'The tetracyclines' is the subject and 'used to treat infections' is a reduced adjective clause. This option provides the necessary appositive noun phrase to complete the sentence correctly.",
+                                        "id": "[please evaluate-manual] Berdasarkan struktur kalimat, 'The tetracyclines' adalah subjek dan 'used to treat infections' adalah reduced adjective clause. Opsi ini menyediakan frasa kata benda apositif yang diperlukan untuk melengkapi kalimat dengan benar."
                                     }
                                 },
                                 {
                                     "text": "their family is",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option creates a run-on or a double subject structure ('The tetracyclines... their family is'), which is grammatically incorrect.",
+                                        "id": "Opsi ini menciptakan struktur kalimat yang rancu atau subjek ganda ('The tetracyclines... their family is'), yang secara tata bahasa tidak tepat."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 1: Be Sure the Sentence Has a Subject and a Verb",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -2090,32 +2200,34 @@
                                 {
                                     "text": "it is",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Adding 'it is' creates a second subject and verb without a connector, resulting in a run-on sentence.",
+                                        "id": "Menambahkan 'it is' menciptakan subjek dan kata kerja kedua tanpa kata penghubung, sehingga kalimat menjadi tidak gramatikal (run-on)."
                                     }
                                 },
                                 {
                                     "text": "there is",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Adding 'there is' creates a second clause without a connector, which is grammatically incorrect for a single-clause sentence.",
+                                        "id": "Menambahkan 'there is' menciptakan klausa kedua tanpa kata penghubung, yang secara tata bahasa salah untuk kalimat dengan satu klausa."
                                     }
                                 },
                                 {
                                     "text": "is",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The word 'is' correctly completes the sentence by providing the necessary verb for the subject 'Any possible academic assistance'.",
+                                        "id": "Kata 'is' melengkapi kalimat dengan benar dengan menyediakan kata kerja yang diperlukan untuk subjek 'Any possible academic assistance'."
                                     }
                                 },
                                 {
                                     "text": "as",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Adding 'as' creates a dependent clause structure that lacks a main verb for the sentence.",
+                                        "id": "Menambahkan 'as' menciptakan struktur klausa dependen yang tidak memiliki kata kerja utama untuk kalimat tersebut."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 1: Be Sure the Sentence Has a Subject and a Verb",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -2127,32 +2239,34 @@
                                 {
                                     "text": "became",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This is the correct grammatical choice. 'Henry Adams' is the subject, 'born in Boston' is an appositive phrase, and 'became' is the main verb required to complete the sentence.",
+                                        "id": "Ini adalah pilihan gramatikal yang benar. 'Henry Adams' adalah subjek, 'born in Boston' adalah frasa apositif, dan 'became' adalah kata kerja utama yang diperlukan untuk melengkapi kalimat."
                                     }
                                 },
                                 {
                                     "text": "and became",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This is incorrect because adding 'and' creates a coordinate structure that lacks a second subject or creates a fragment, violating the requirement for a single main verb.",
+                                        "id": "Ini salah karena menambahkan 'and' menciptakan struktur koordinat yang kekurangan subjek kedua atau menciptakan fragmen, yang melanggar persyaratan untuk satu kata kerja utama."
                                     }
                                 },
                                 {
                                     "text": "he was",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "[please evaluate-manual] This option is grammatically incorrect because it introduces a redundant subject 'he' after the appositive, resulting in a double subject for the same verb.",
+                                        "id": "[please evaluate-manual] Pilihan ini salah secara tata bahasa karena memperkenalkan subjek redundan 'he' setelah apositif, yang mengakibatkan subjek ganda untuk kata kerja yang sama."
                                     }
                                 },
                                 {
                                     "text": "and he became",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This is incorrect because it introduces a conjunction and a redundant subject, which is unnecessary and grammatically improper for this sentence structure.",
+                                        "id": "Ini salah karena memperkenalkan konjungsi dan subjek redundan, yang tidak perlu dan tidak tepat secara tata bahasa untuk struktur kalimat ini."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 3: Be Careful of Appositives",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -2164,32 +2278,34 @@
                                 {
                                     "text": "the ocean tides are",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option creates a sentence with two subjects ('The major cause' and 'the ocean tides') and two verbs ('are' and the implied verb), which is grammatically incorrect.",
+                                        "id": "Opsi ini menciptakan kalimat dengan dua subjek ('The major cause' dan 'the ocean tides') serta dua kata kerja, yang secara tata bahasa tidak tepat."
                                     }
                                 },
                                 {
                                     "text": "of ocean tides is",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This is the correct choice. 'Of ocean tides' is a prepositional phrase modifying 'The major cause' (the subject), and 'is' serves as the necessary main verb for the sentence.",
+                                        "id": "Ini adalah pilihan yang benar. 'Of ocean tides' adalah frasa preposisi yang menjelaskan 'The major cause' (subjek), dan 'is' berfungsi sebagai kata kerja utama yang diperlukan untuk kalimat tersebut."
                                     }
                                 },
                                 {
                                     "text": "of the tides in the ocean",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option provides a prepositional phrase but fails to provide the main verb 'is', leaving the sentence without a predicate.",
+                                        "id": "Opsi ini menyediakan frasa preposisi tetapi gagal menyediakan kata kerja utama 'is', sehingga kalimat tersebut tidak memiliki predikat."
                                     }
                                 },
                                 {
                                     "text": "the oceans' tides",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option creates a noun phrase that acts as an appositive or a second subject, but it lacks the necessary verb to complete the sentence structure.",
+                                        "id": "Opsi ini menciptakan frasa kata benda yang bertindak sebagai aposisi atau subjek kedua, tetapi tidak memiliki kata kerja yang diperlukan untuk melengkapi struktur kalimat."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 1: Be Sure the Sentence Has a Subject and a Verb",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -2201,32 +2317,34 @@
                                 {
                                     "text": "was",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option provides only a verb ('was') but lacks a subject, leaving the sentence incomplete.",
+                                        "id": "Opsi ini hanya menyediakan kata kerja ('was') tetapi tidak memiliki subjek, sehingga kalimat menjadi tidak lengkap."
                                     }
                                 },
                                 {
                                     "text": "was photography",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option creates an inverted structure that is grammatically incorrect in this context because the introductory phrase 'Still a novelty...' modifies the subject 'photography'.",
+                                        "id": "Opsi ini menciptakan struktur inversi yang secara tata bahasa tidak tepat dalam konteks ini karena frasa pembuka 'Still a novelty...' memodifikasi subjek 'photography'."
                                     }
                                 },
                                 {
                                     "text": "it was photography",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option creates a redundant subject ('it' and 'photography') and results in a run-on structure.",
+                                        "id": "Opsi ini menciptakan subjek yang redundan ('it' dan 'photography') dan menghasilkan struktur kalimat yang tidak efektif."
                                     }
                                 },
                                 {
                                     "text": "photography was",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This option correctly provides both a subject ('photography') and a verb ('was'), completing the sentence structure where the introductory phrase acts as an appositive/adjective phrase modifying the subject.",
+                                        "id": "Opsi ini dengan tepat menyediakan subjek ('photography') dan kata kerja ('was'), melengkapi struktur kalimat di mana frasa pembuka berfungsi sebagai frasa apositif/adjektiva yang memodifikasi subjek."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 1: Be Sure the Sentence Has a Subject and a Verb",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -2238,32 +2356,34 @@
                                 {
                                     "text": "airs",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This is the correct choice because the sentence requires a main verb. 'A computerized map' is the subject, and 'airs' functions as the singular verb that agrees with the subject.",
+                                        "id": "Ini adalah pilihan yang benar karena kalimat tersebut membutuhkan kata kerja utama. 'A computerized map' adalah subjeknya, dan 'airs' berfungsi sebagai kata kerja tunggal yang sesuai dengan subjek tersebut."
                                     }
                                 },
                                 {
                                     "text": "airing",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This is incorrect because 'airing' is a present participle and cannot function as the main verb of a sentence without a helping verb.",
+                                        "id": "Ini salah karena 'airing' adalah present participle dan tidak dapat berfungsi sebagai kata kerja utama dalam kalimat tanpa kata kerja bantu."
                                     }
                                 },
                                 {
                                     "text": "air",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This is incorrect because 'air' is a plural verb form, which does not agree with the singular subject 'A computerized map'.",
+                                        "id": "Ini salah karena 'air' adalah bentuk kata kerja jamak, yang tidak sesuai dengan subjek tunggal 'A computerized map'."
                                     }
                                 },
                                 {
                                     "text": "to air",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This is incorrect because 'to air' is an infinitive and cannot function as the main verb of the sentence.",
+                                        "id": "Ini salah karena 'to air' adalah bentuk infinitive dan tidak dapat berfungsi sebagai kata kerja utama dalam kalimat."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 1: Be Sure the Sentence Has a Subject and a Verb",
+                            "_is_evaluated": true
                         }
                     ],
                     "groups": []

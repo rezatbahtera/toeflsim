@@ -20,32 +20,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is grammatically correct because it uses the coordinate connector 'and' to join two independent clauses, each with its own subject and verb, preceded by a comma.",
+                                        "id": "Kalimat tersebut benar secara tata bahasa karena menggunakan kata hubung koordinatif 'and' untuk menggabungkan dua klausa independen, yang masing-masing memiliki subjek dan kata kerja sendiri, serta didahului oleh tanda koma."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure follows the rules for coordinate connectors correctly.",
+                                        "id": "Opsi ini salah karena struktur kalimat tersebut sudah mengikuti aturan penggunaan kata hubung koordinatif dengan benar."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 6: USE COORDINATE CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -57,32 +59,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence is grammatically flawed.",
+                                        "id": "Opsi ini salah karena kalimat tersebut memiliki kesalahan tata bahasa."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is incorrect because the pronoun 'no' is used incorrectly as a subject. It should be 'none' to function as a pronoun representing 'no rain'.",
+                                        "id": "Kalimat tersebut salah karena kata ganti 'no' digunakan secara tidak tepat sebagai subjek. Seharusnya menggunakan 'none' untuk berfungsi sebagai kata ganti yang mewakili 'no rain'."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 6: USE COORDINATE CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -94,32 +98,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence is a comma splice, which is grammatically invalid.",
+                                        "id": "Opsi ini salah karena kalimat tersebut merupakan comma splice, yang secara tata bahasa tidak valid."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This option is correct. The sentence contains two independent clauses joined only by a comma, which is a run-on error. It requires a coordinate connector (like 'and' or 'but') or a semicolon to be grammatically correct.",
+                                        "id": "Opsi ini benar. Kalimat tersebut berisi dua klausa independen yang hanya dihubungkan oleh koma, yang merupakan kesalahan run-on. Kalimat ini memerlukan kata hubung koordinat (seperti 'and' atau 'but') atau titik koma agar benar secara tata bahasa."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO - SKILL 6: USE COORDINATE CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -131,32 +137,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence lacks a coordinate connector to join the two independent clauses.",
+                                        "id": "Opsi ini salah karena kalimat tersebut tidak memiliki kata hubung koordinatif untuk menggabungkan dua klausa independen."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This is correct because the sentence contains two independent clauses ('the quality of the print was not good' and 'I changed the typewriter ribbon') that are not joined by a coordinate connector (and, but, or, so, yet) and a comma.",
+                                        "id": "Ini benar karena kalimat tersebut mengandung dua klausa independen ('the quality of the print was not good' dan 'I changed the typewriter ribbon') yang tidak dihubungkan oleh kata hubung koordinatif (and, but, or, so, yet) dan tanda koma."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 6: USE COORDINATE CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -168,32 +176,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is grammatically correct. It uses the coordinate connector 'or' to join two independent clauses ('The lifeguard will warn you about the riptides' and 'she may require you to get out of the water'), and it correctly includes a comma before the connector.",
+                                        "id": "Kalimat tersebut secara tata bahasa benar. Kalimat ini menggunakan kata hubung koordinatif 'or' untuk menggabungkan dua klausa independen ('The lifeguard will warn you about the riptides' dan 'she may require you to get out of the water'), serta menyertakan koma sebelum kata hubung dengan tepat."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure follows the rules for coordinate connectors perfectly.",
+                                        "id": "Opsi ini salah karena struktur kalimat sudah mengikuti aturan kata hubung koordinatif dengan sempurna."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO - SKILL 6: USE COORDINATE CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -205,32 +215,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence is grammatically flawed.",
+                                        "id": "Opsi ini salah karena kalimat tersebut memiliki kesalahan tata bahasa."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is incorrect because the second clause 'is not close to being finished today' lacks a subject. Coordinate connectors like 'yet' must join two complete clauses, each containing its own subject and verb.",
+                                        "id": "Kalimat tersebut salah karena klausa kedua 'is not close to being finished today' tidak memiliki subjek. Kata hubung koordinatif seperti 'yet' harus menghubungkan dua klausa lengkap yang masing-masing memiliki subjek dan kata kerja sendiri."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak relevan."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak relevan."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 6: USE COORDINATE CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -242,32 +254,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is grammatically correct because it uses a coordinate connector 'so' to join two independent clauses, preceded by a comma.",
+                                        "id": "Kalimat tersebut benar secara tata bahasa karena menggunakan kata hubung koordinatif 'so' untuk menggabungkan dua klausa independen, yang didahului oleh tanda koma."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure already follows the rule for coordinate connectors.",
+                                        "id": "Opsi ini salah karena struktur kalimat sudah mengikuti aturan untuk kata hubung koordinatif."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 6: USE COORDINATE CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -279,32 +293,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is grammatically correct. It uses the coordinate connector 'but' to join two independent clauses ('The missing wallet was found' and 'the cash and credit cards had been removed'), preceded by a comma as required by Skill 6.",
+                                        "id": "Kalimat tersebut secara tata bahasa benar. Kalimat ini menggunakan kata hubung koordinat 'but' untuk menggabungkan dua klausa independen ('The missing wallet was found' dan 'the cash and credit cards had been removed'), yang didahului oleh koma sesuai dengan aturan Skill 6."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure follows the rules for coordinate connectors perfectly.",
+                                        "id": "Pilihan ini salah karena struktur kalimat tersebut sudah mengikuti aturan untuk kata hubung koordinat dengan sempurna."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Pilihan ini tidak relevan."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Pilihan ini tidak relevan."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 6: USE COORDINATE CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -316,32 +332,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure is flawed.",
+                                        "id": "Opsi ini salah karena struktur kalimatnya cacat."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is incorrect because it uses 'or' as a coordinate connector without a preceding comma, and the structure implies a choice between two independent clauses that requires a proper conjunction pattern (e.g., 'Either... or...').",
+                                        "id": "Kalimat ini salah karena menggunakan 'or' sebagai kata hubung koordinat tanpa koma sebelumnya, dan strukturnya menyiratkan pilihan antara dua klausa independen yang memerlukan pola konjungsi yang tepat (contoh: 'Either... or...')."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 6: USE COORDINATE CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -353,32 +371,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence contains two independent clauses joined only by a comma, which creates a comma splice error.",
+                                        "id": "Opsi ini salah karena kalimat tersebut berisi dua klausa independen yang hanya dihubungkan oleh koma, yang menciptakan kesalahan comma splice."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This option is correct. The sentence is grammatically flawed because it lacks a coordinate connector (such as 'and', 'but', 'or', 'so', or 'yet') to join the two independent clauses.",
+                                        "id": "Opsi ini benar. Kalimat tersebut cacat secara tata bahasa karena tidak memiliki kata hubung koordinatif (seperti 'and', 'but', 'or', 'so', atau 'yet') untuk menggabungkan dua klausa independen tersebut."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 6: USE COORDINATE CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         }
                     ],
                     "groups": []
@@ -397,32 +417,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is grammatically correct. It uses the adverb time connector 'Since' at the beginning of the sentence, followed by a comma to separate the dependent clause ('Since the bank closes in less than an hour') from the independent clause ('the deposits need to be tallied immediately').",
+                                        "id": "Kalimat tersebut secara tata bahasa benar. Kalimat ini menggunakan konektor waktu 'Since' di awal kalimat, diikuti dengan koma untuk memisahkan klausa dependen ('Since the bank closes in less than an hour') dari klausa independen ('the deposits need to be tallied immediately')."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure follows the rules for adverb time connectors perfectly.",
+                                        "id": "Opsi ini salah karena struktur kalimat sudah mengikuti aturan konektor waktu adverbia dengan sempurna."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 7: USE ADVERB TIME AND CAUSE CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -434,32 +456,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence is grammatically incomplete.",
+                                        "id": "Opsi ini salah karena kalimat tersebut tidak lengkap secara tata bahasa."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This option is correct because the sentence lacks a subject for the second clause. The adverb connector 'before' requires a subject and a verb (e.g., 'before they are admitted').",
+                                        "id": "Opsi ini benar karena kalimat tersebut kekurangan subjek untuk klausa kedua. Konektor keterangan 'before' memerlukan subjek dan kata kerja (contoh: 'before they are admitted')."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 7: USE ADVERB TIME AND CAUSE CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -471,32 +495,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is grammatically correct. It contains two clauses: 'The citizens are becoming more and more incensed about traffic accidents' (independent clause) and 'whenever the accidents occur at that intersection' (adverb clause of time). The connector 'whenever' is used correctly to join these clauses.",
+                                        "id": "Kalimat tersebut secara tata bahasa sudah benar. Kalimat ini mengandung dua klausa: 'The citizens are becoming more and more incensed about traffic accidents' (klausa independen) dan 'whenever the accidents occur at that intersection' (klausa keterangan waktu). Kata penghubung 'whenever' digunakan dengan tepat untuk menggabungkan klausa-klausa tersebut."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure follows the rules for adverb connectors correctly, making the sentence valid.",
+                                        "id": "Opsi ini salah karena struktur kalimat sudah mengikuti aturan penggunaan kata penghubung keterangan dengan benar, sehingga kalimat tersebut valid."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 7: USE ADVERB TIME AND CAUSE CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -508,32 +534,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence contains two independent clauses joined only by a comma, which is a comma splice error.",
+                                        "id": "Opsi ini salah karena kalimat tersebut mengandung dua klausa independen yang hanya dihubungkan oleh koma, yang merupakan kesalahan comma splice."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This option is correct because the sentence is a run-on/comma splice. It requires a connector (such as 'after' or 'when') to properly join the two clauses, or a semicolon to separate them.",
+                                        "id": "Opsi ini benar karena kalimat tersebut adalah run-on/comma splice. Kalimat ini memerlukan konektor (seperti 'after' atau 'when') untuk menghubungkan kedua klausa dengan benar, atau titik koma untuk memisahkannya."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 7: USE ADVERB TIME AND CAUSE CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -545,32 +573,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is grammatically correct. It uses 'now that' as an adverb connector to join two clauses: 'We can start the conference' and 'all the participants have arrived'. The connector is placed in the middle of the sentence, which follows the standard pattern for adverb clauses.",
+                                        "id": "Kalimat tersebut secara tata bahasa benar. Kalimat ini menggunakan 'now that' sebagai konektor keterangan untuk menggabungkan dua klausa: 'We can start the conference' dan 'all the participants have arrived'. Konektor ditempatkan di tengah kalimat, yang mengikuti pola standar untuk klausa keterangan."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure is already valid; there is no error in the subject-verb agreement or the use of the connector.",
+                                        "id": "Opsi ini salah karena struktur kalimat sudah valid; tidak ada kesalahan dalam kesesuaian subjek-kata kerja maupun penggunaan konektor."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 7: USE ADVERB TIME AND CAUSE CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -582,32 +612,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence is grammatically incomplete.",
+                                        "id": "Opsi ini salah karena kalimat tersebut tidak lengkap secara tata bahasa."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is incorrect because it lacks a main verb. The phrase 'quite vulnerable' is an adjective phrase, not a verb. It should be 'The building is quite vulnerable...'.",
+                                        "id": "Kalimat tersebut salah karena tidak memiliki kata kerja utama. Frasa 'quite vulnerable' adalah frasa kata sifat, bukan kata kerja. Seharusnya 'The building is quite vulnerable...'."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 7: USE ADVERB TIME AND CAUSE CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -619,32 +651,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence is grammatically incomplete.",
+                                        "id": "Opsi ini salah karena kalimat tersebut tidak lengkap secara tata bahasa."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This option is correct. The sentence is missing a subject in the main clause. After the adverb connector 'Once', the clause 'the address label... is typed' is complete, but the main clause 'can be sent to the mail room' lacks a subject (it should be 'it can be sent').",
+                                        "id": "Opsi ini benar. Kalimat tersebut kehilangan subjek pada klausa utama. Setelah konektor adverbia 'Once', klausa 'the address label... is typed' sudah lengkap, namun klausa utama 'can be sent to the mail room' tidak memiliki subjek (seharusnya 'it can be sent')."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO - Skill 7: Use Adverb Time and Cause Connectors Correctly",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -656,32 +690,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is grammatically correct. It uses the adverb cause connector 'Because' at the beginning of the sentence, followed by a comma to separate the dependent clause ('Because the recent change in work shifts was not posted') from the independent clause ('several workers missed their shifts').",
+                                        "id": "Kalimat tersebut secara tata bahasa benar. Kalimat ini menggunakan konektor sebab 'Because' di awal kalimat, diikuti dengan koma untuk memisahkan klausa dependen ('Because the recent change in work shifts was not posted') dari klausa independen ('several workers missed their shifts')."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure follows the rules for adverb connectors correctly.",
+                                        "id": "Opsi ini salah karena struktur kalimat sudah mengikuti aturan konektor adverbia dengan benar."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 7: USE ADVERB TIME AND CAUSE CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -693,32 +729,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is grammatically correct. It uses the adverb connector 'as long as' to join two clauses: 'The mother is going to be quite upset with her son' (independent clause) and 'he misbehaves so much' (adverb clause).",
+                                        "id": "Kalimat tersebut secara tata bahasa benar. Kalimat ini menggunakan konektor adverbia 'as long as' untuk menghubungkan dua klausa: 'The mother is going to be quite upset with her son' (klausa independen) dan 'he misbehaves so much' (klausa adverbia)."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure follows the rules for adverb connectors correctly.",
+                                        "id": "Opsi ini salah karena struktur kalimat tersebut sudah mengikuti aturan penggunaan konektor adverbia dengan benar."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 7: USE ADVERB TIME AND CAUSE CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -730,32 +768,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence is grammatically flawed regarding punctuation.",
+                                        "id": "Opsi ini salah karena kalimat tersebut memiliki kesalahan tata bahasa terkait tanda baca."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is incorrect because it uses an adverb connector ('Inasmuch as') at the beginning of the sentence without a comma to separate the two clauses. According to Skill 7, when an adverb connector starts a sentence, a comma is required in the middle.",
+                                        "id": "Kalimat ini salah karena menggunakan konektor adverbia ('Inasmuch as') di awal kalimat tanpa tanda koma untuk memisahkan kedua klausa. Berdasarkan Skill 7, ketika konektor adverbia memulai kalimat, tanda koma diperlukan di tengah kalimat."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 7: USE ADVERB TIME AND CAUSE CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         }
                     ],
                     "groups": []
@@ -774,32 +814,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is grammatically correct. It contains two clauses: 'It is impossible to enter that program' (independent clause) and 'you lack experience as a teacher' (dependent clause), correctly joined by the adverb connector 'if'.",
+                                        "id": "Kalimat tersebut secara tata bahasa benar. Kalimat ini mengandung dua klausa: 'It is impossible to enter that program' (klausa independen) dan 'you lack experience as a teacher' (klausa dependen), yang dihubungkan dengan benar oleh konektor adverbia 'if'."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure follows the rules for adverb connectors correctly.",
+                                        "id": "Opsi ini salah karena struktur kalimat mengikuti aturan untuk konektor adverbia dengan benar."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 8: USE OTHER ADVERB CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -811,32 +853,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence lacks a connector to join the two independent clauses.",
+                                        "id": "Opsi ini salah karena kalimat tersebut tidak memiliki kata penghubung untuk menggabungkan dua klausa independen."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This option is correct because the sentence is a run-on. It contains two independent clauses ('The commandant left strict orders...' and 'several soldiers left the post...') without a proper adverb connector (such as 'although' or 'even though') to join them.",
+                                        "id": "Opsi ini benar karena kalimat tersebut adalah run-on. Kalimat ini mengandung dua klausa independen ('The commandant left strict orders...' dan 'several soldiers left the post...') tanpa kata penghubung adverbia yang tepat (seperti 'although' atau 'even though') untuk menggabungkannya."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 8: USE OTHER ADVERB CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -848,32 +892,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence is grammatically incomplete.",
+                                        "id": "Opsi ini salah karena kalimat tersebut secara tata bahasa tidak lengkap."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This option is correct because the sentence is missing a verb for the subject 'he or she'. The clause 'unless he or she the education requirements' lacks a verb to make it a complete dependent clause.",
+                                        "id": "Opsi ini benar karena kalimat tersebut kehilangan kata kerja untuk subjek 'he or she'. Klausa 'unless he or she the education requirements' tidak memiliki kata kerja untuk menjadikannya klausa dependen yang lengkap."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO - STRUCTURE & WRITTEN EXPRESSION - SKILL 8: USE OTHER ADVERB CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -885,32 +931,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is grammatically correct. It uses the adverb connector 'While' at the beginning of the sentence to introduce a dependent clause, followed by a comma and an independent clause.",
+                                        "id": "Kalimat tersebut secara tata bahasa benar. Kalimat ini menggunakan konektor adverbia 'While' di awal kalimat untuk memperkenalkan klausa dependen, diikuti oleh koma dan klausa independen."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure follows the standard rule for adverb connectors: [Connector + Subject + Verb], [Subject + Verb].",
+                                        "id": "Opsi ini salah karena struktur kalimat tersebut mengikuti aturan standar untuk konektor adverbia: [Konektor + Subjek + Kata Kerja], [Subjek + Kata Kerja]."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 8: USE OTHER ADVERB CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -922,32 +970,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence is grammatically incomplete.",
+                                        "id": "Opsi ini salah karena kalimat tersebut secara tata bahasa tidak lengkap."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is incorrect because the adverb connector 'wherever' is a connector that must be followed by a subject and a verb. In this sentence, the subject is missing after 'wherever'. It should be 'wherever you need to go'.",
+                                        "id": "Kalimat tersebut salah karena kata penghubung keterangan 'wherever' harus diikuti oleh subjek dan kata kerja. Dalam kalimat ini, subjek hilang setelah 'wherever'. Seharusnya menjadi 'wherever you need to go'."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 8: USE OTHER ADVERB CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -959,32 +1009,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is grammatically correct. It uses the adverb connector 'whether' to introduce a clause of condition/contrast, correctly joining the independent clause 'I will wait here in the airport with you' with the dependent clause 'whether the plane leaves on time or not'.",
+                                        "id": "Kalimat tersebut secara tata bahasa benar. Kalimat ini menggunakan konektor adverbia 'whether' untuk memperkenalkan klausa kondisi/kontras, yang menghubungkan klausa independen 'I will wait here in the airport with you' dengan klausa dependen 'whether the plane leaves on time or not' secara tepat."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure follows the rules for adverb connectors, which allow the connector to appear in the middle of the sentence without a comma.",
+                                        "id": "Opsi ini salah karena struktur kalimat mengikuti aturan untuk konektor adverbia, yang mengizinkan konektor muncul di tengah kalimat tanpa memerlukan koma."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 8: USE OTHER ADVERB CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -996,32 +1048,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence is grammatically flawed.",
+                                        "id": "Opsi ini salah karena kalimat tersebut memiliki kesalahan tata bahasa."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is incorrect because it lacks a verb in the main clause. 'Providing' acts as a conditional connector, but the main clause 'your application still acceptable' is missing a linking verb (is). It should be 'your application is still acceptable'.",
+                                        "id": "Kalimat tersebut salah karena tidak memiliki kata kerja pada klausa utama. 'Providing' berfungsi sebagai konektor kondisional, namun klausa utama 'your application still acceptable' kehilangan kata kerja penghubung (is). Seharusnya menjadi 'your application is still acceptable'."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 8: USE OTHER ADVERB CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1033,32 +1087,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence lacks a comma after the introductory adverb clause.",
+                                        "id": "Opsi ini salah karena kalimat tersebut tidak memiliki koma setelah klausa adverbia pembuka."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This option is correct because the sentence contains an adverb clause ('As the nurse already explained') at the beginning, which requires a comma before the main clause ('all visitors must leave the hospital room now').",
+                                        "id": "Opsi ini benar karena kalimat tersebut mengandung klausa adverbia ('As the nurse already explained') di awal, yang memerlukan koma sebelum klausa utama ('all visitors must leave the hospital room now')."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 8: USE OTHER ADVERB CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1070,32 +1126,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is grammatically correct. 'In that' is a valid adverbial connector used to explain the reason or the specific way in which the main clause is true. It correctly joins the independent clause 'This exam will be more difficult than usual' with the dependent clause 'it covers two chapters instead of one'.",
+                                        "id": "Kalimat tersebut secara tata bahasa benar. 'In that' adalah konektor adverbial yang valid yang digunakan untuk menjelaskan alasan atau cara spesifik di mana klausa utama itu benar. Konektor ini menghubungkan klausa independen 'This exam will be more difficult than usual' dengan klausa dependen 'it covers two chapters instead of one' dengan tepat."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure follows the rules for adverb connectors, where the connector 'in that' properly introduces a clause that explains the preceding statement.",
+                                        "id": "Opsi ini salah karena struktur kalimat mengikuti aturan untuk konektor adverbial, di mana konektor 'in that' dengan tepat memperkenalkan klausa yang menjelaskan pernyataan sebelumnya."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 8: USE OTHER ADVERB CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1107,32 +1165,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is grammatically correct. It uses the adverb connector 'Though' at the beginning of the sentence to introduce a dependent clause, followed by a comma and an independent clause ('everyone got to the church on time for the wedding').",
+                                        "id": "Kalimat tersebut secara tata bahasa benar. Kalimat ini menggunakan konektor adverbia 'Though' di awal kalimat untuk memperkenalkan klausa dependen, diikuti oleh koma dan klausa independen ('everyone got to the church on time for the wedding')."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure follows the standard rule for adverb connectors: [Connector + Subject + Verb], [Subject + Verb].",
+                                        "id": "Opsi ini salah karena struktur kalimat mengikuti aturan standar untuk konektor adverbia: [Konektor + Subjek + Kata Kerja], [Subjek + Kata Kerja]."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 8: USE OTHER ADVERB CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         }
                     ],
                     "groups": []
@@ -1151,32 +1211,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is grammatically correct. It uses the adverb time connector 'until' to join two clauses: 'the registrar makes a decision about your status' and 'you must stay in an unclassified category'. Since the connector is at the beginning of the sentence, the comma correctly separates the two clauses.",
+                                        "id": "Kalimat tersebut secara tata bahasa benar. Kalimat ini menggunakan konektor waktu 'until' untuk menggabungkan dua klausa: 'the registrar makes a decision about your status' dan 'you must stay in an unclassified category'. Karena konektor berada di awal kalimat, tanda koma digunakan dengan tepat untuk memisahkan kedua klausa tersebut."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure follows the rules for adverb time connectors correctly.",
+                                        "id": "Opsi ini salah karena struktur kalimat sudah mengikuti aturan penggunaan konektor waktu dengan benar."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 7: USE ADVERB TIME AND CAUSE CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1188,32 +1250,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure is flawed.",
+                                        "id": "Opsi ini salah karena struktur kalimatnya cacat."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is incorrect because it begins with the coordinate connector 'Or' without a preceding clause to connect to, which violates the rule that coordinate connectors must join two equal clauses.",
+                                        "id": "Kalimat ini salah karena dimulai dengan kata hubung koordinat 'Or' tanpa klausa sebelumnya untuk dihubungkan, yang melanggar aturan bahwa kata hubung koordinat harus menghubungkan dua klausa yang setara."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 6: USE COORDINATE CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1225,32 +1289,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence is grammatically incomplete.",
+                                        "id": "Opsi ini salah karena kalimat tersebut tidak lengkap secara tata bahasa."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This option is correct. The sentence lacks a verb in the adverb clause 'in case a problem with the children'. It should be 'in case there is a problem' or 'in case of a problem'.",
+                                        "id": "Opsi ini benar. Kalimat tersebut kekurangan kata kerja pada klausa adverbial 'in case a problem with the children'. Seharusnya menjadi 'in case there is a problem' atau 'in case of a problem'."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak relevan."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak relevan."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "Section Two - Skill 6-8: Connect Multiple Clauses Correctly",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1262,32 +1328,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence is grammatically flawed.",
+                                        "id": "Opsi ini salah karena kalimat tersebut memiliki cacat tata bahasa."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is incorrect because it is missing the necessary connector 'as' to form the phrase 'as soon as'. The current structure 'as soon it is' is grammatically incomplete.",
+                                        "id": "Kalimat tersebut salah karena kehilangan kata penghubung 'as' yang diperlukan untuk membentuk frasa 'as soon as'. Struktur 'as soon it is' saat ini tidak lengkap secara tata bahasa."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "Section Two - Skill 7: Use Adverb Time and Cause Connectors Correctly",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1299,32 +1367,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is correct because it uses the adverb time connector 'Whenever' to join two clauses. Since the connector is at the beginning of the sentence, a comma is correctly used to separate the dependent clause from the independent clause.",
+                                        "id": "Kalimat ini benar karena menggunakan konektor waktu 'Whenever' untuk menggabungkan dua klausa. Karena konektor berada di awal kalimat, tanda koma digunakan dengan tepat untuk memisahkan klausa dependen dari klausa independen."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure follows the grammatical rules for adverb clauses correctly.",
+                                        "id": "Opsi ini salah karena struktur kalimat tersebut sudah mengikuti aturan tata bahasa untuk klausa adverbia dengan benar."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak relevan."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak relevan."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 7: USE ADVERB TIME AND CAUSE CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1336,32 +1406,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence contains a comma splice error.",
+                                        "id": "Opsi ini salah karena kalimat tersebut mengandung kesalahan comma splice."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This sentence is incorrect because it joins two independent clauses with only a comma. According to Skill 6, you must use a coordinate connector (and, but, or, so, yet) or a semicolon to join two independent clauses.",
+                                        "id": "Kalimat ini salah karena menggabungkan dua klausa independen hanya dengan koma. Menurut Skill 6, Anda harus menggunakan kata hubung koordinat (and, but, or, so, yet) atau titik koma untuk menggabungkan dua klausa independen."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable as it is an empty choice.",
+                                        "id": "Opsi ini tidak berlaku karena merupakan pilihan kosong."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable as it is an empty choice.",
+                                        "id": "Opsi ini tidak berlaku karena merupakan pilihan kosong."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "Section Two - Skills 6-8: Connect Multiple Clauses Correctly",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1373,32 +1445,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is correct. It uses the adverb connector 'Whereas' at the beginning of the sentence to join two clauses, followed by a comma to separate the dependent clause from the independent clause.",
+                                        "id": "Kalimat tersebut benar. Kalimat ini menggunakan konektor adverbia 'Whereas' di awal kalimat untuk menghubungkan dua klausa, diikuti dengan koma untuk memisahkan klausa dependen dari klausa independen."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure follows the rules for adverb connectors correctly.",
+                                        "id": "Opsi ini salah karena struktur kalimat mengikuti aturan konektor adverbia dengan benar."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "Section Two - Skill 8: Use Other Adverb Connectors Correctly",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1410,32 +1484,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is grammatically correct. It uses the coordinate connector 'so' preceded by a comma to join two independent clauses: 'Trash will be collected in the morning' and 'you should put the trash cans out tonight'.",
+                                        "id": "Kalimat tersebut secara tata bahasa benar. Kalimat ini menggunakan kata hubung koordinatif 'so' yang didahului oleh koma untuk menggabungkan dua klausa independen: 'Trash will be collected in the morning' dan 'you should put the trash cans out tonight'."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure follows the rules for coordinate connectors perfectly.",
+                                        "id": "Opsi ini salah karena struktur kalimat tersebut sudah mengikuti aturan untuk kata hubung koordinatif dengan sempurna."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 6: USE COORDINATE CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1447,32 +1523,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence is grammatically flawed.",
+                                        "id": "Opsi ini salah karena kalimat tersebut memiliki kesalahan tata bahasa."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is incorrect because the adverb connector 'while' is followed by a verb 'is snowing' without a subject. It should be 'while it is snowing' or 'while snowing'.",
+                                        "id": "Kalimat tersebut salah karena kata penghubung keterangan 'while' diikuti oleh kata kerja 'is snowing' tanpa subjek. Seharusnya 'while it is snowing' atau 'while snowing'."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak berlaku."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is not applicable.",
+                                        "id": "Opsi ini tidak berlaku."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "Section Two - Skill 7: Use Adverb Time and Cause Connectors Correctly",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1484,32 +1562,34 @@
                                 {
                                     "text": "Correct",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "The sentence is grammatically correct. It contains two clauses: 'We did not go out to dinner tonight' (independent) and 'I would have preferred not to cook' (dependent), correctly joined by the adverb connector 'even though'.",
+                                        "id": "Kalimat tersebut secara tata bahasa benar. Kalimat ini mengandung dua klausa: 'We did not go out to dinner tonight' (independen) dan 'I would have preferred not to cook' (dependen), yang dihubungkan dengan benar oleh konektor adverbia 'even though'."
                                     }
                                 },
                                 {
                                     "text": "InCorrect",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because the sentence structure follows the rules for adverb connectors correctly, making it a valid sentence.",
+                                        "id": "Opsi ini salah karena struktur kalimat mengikuti aturan konektor adverbia dengan benar, sehingga menjadikannya kalimat yang valid."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 },
                                 {
                                     "text": "",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Not applicable.",
+                                        "id": "Tidak tersedia."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "Section Two - Skills 6-8: Connect Multiple Clauses Correctly",
+                            "_is_evaluated": true
                         }
                     ],
                     "groups": []
@@ -1536,32 +1616,34 @@
                                 {
                                     "text": "their",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option creates a comma splice, as it attempts to join two independent clauses without a coordinating conjunction.",
+                                        "id": "Opsi ini menciptakan comma splice, karena mencoba menggabungkan dua klausa independen tanpa kata hubung koordinatif."
                                     }
                                 },
                                 {
                                     "text": "with their",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is grammatically incorrect because 'with their' creates a prepositional phrase that leaves the second clause without a subject-verb structure.",
+                                        "id": "Opsi ini salah secara tata bahasa karena 'with their' membentuk frasa preposisional yang membuat klausa kedua tidak memiliki struktur subjek-predikat."
                                     }
                                 },
                                 {
                                     "text": "because their",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because 'because' is an adverb connector that would require a different sentence structure to maintain logical flow and grammatical correctness.",
+                                        "id": "Opsi ini salah karena 'because' adalah kata hubung keterangan yang memerlukan struktur kalimat berbeda untuk menjaga alur logika dan kebenaran tata bahasa."
                                     }
                                 },
                                 {
                                     "text": "but their",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This is the correct choice because 'but' is a coordinate connector used to join two independent clauses, correctly linking the two complete thoughts.",
+                                        "id": "Ini adalah pilihan yang benar karena 'but' adalah kata hubung koordinatif yang digunakan untuk menggabungkan dua klausa independen, menghubungkan dua pemikiran lengkap dengan tepat."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "Section Two — Structure & Written Expression - Skill 6: Use Coordinate Connectors Correctly",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1573,32 +1655,34 @@
                                 {
                                     "text": "not wanting the story in the papers",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is a phrase, not a complete clause, and lacks the necessary subject and verb to function as an adverbial clause of cause.",
+                                        "id": "Opsi ini adalah frasa, bukan klausa lengkap, dan tidak memiliki subjek serta kata kerja yang diperlukan untuk berfungsi sebagai klausa keterangan sebab."
                                     }
                                 },
                                 {
                                     "text": "the story in the papers the superintendent did not want",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option contains a confusing word order that does not form a grammatically correct adverbial clause.",
+                                        "id": "Opsi ini mengandung urutan kata yang membingungkan yang tidak membentuk klausa keterangan yang benar secara tata bahasa."
                                     }
                                 },
                                 {
                                     "text": "the public to hear the story",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option does not logically complete the passive construction 'were prevented from speaking' in the context of the superintendent's motivation.",
+                                        "id": "Opsi ini tidak melengkapi konstruksi pasif 'were prevented from speaking' secara logis dalam konteks motivasi pengawas (superintendent)."
                                     }
                                 },
                                 {
                                     "text": "the superintendent did not want the story in the papers",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This option correctly provides a complete clause (subject 'the superintendent' and verb 'did not want') to explain the cause of the action, following the rules for adverb connectors.",
+                                        "id": "Opsi ini dengan tepat menyediakan klausa lengkap (subjek 'the superintendent' dan kata kerja 'did not want') untuk menjelaskan penyebab tindakan tersebut, sesuai dengan aturan untuk kata hubung keterangan."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO - STRUCTURE & WRITTEN EXPRESSION - Skill 7: USE ADVERB TIME AND CAUSE CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1610,32 +1694,34 @@
                                 {
                                     "text": "it was an extraordinary number",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option creates a redundant clause structure ('it was') that does not fit the grammatical requirement of the sentence after the relative pronoun 'where'.",
+                                        "id": "Opsi ini menciptakan struktur klausa yang berlebihan ('it was') yang tidak sesuai dengan kebutuhan tata bahasa kalimat setelah kata ganti relatif 'where'."
                                     }
                                 },
                                 {
                                     "text": "there was an extraordinary number",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option includes 'there was', which creates an unnecessary existential clause that disrupts the flow and grammatical structure of the sentence.",
+                                        "id": "Opsi ini menyertakan 'there was', yang menciptakan klausa eksistensial yang tidak perlu yang mengganggu alur dan struktur tata bahasa kalimat."
                                     }
                                 },
                                 {
                                     "text": "an extraordinary number",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This is the correct choice. It functions as the subject of the clause 'an extraordinary number of important events took place', fitting perfectly after 'where'.",
+                                        "id": "Ini adalah pilihan yang benar. Frasa ini berfungsi sebagai subjek dari klausa 'an extraordinary number of important events took place', yang sangat pas setelah kata 'where'."
                                     }
                                 },
                                 {
                                     "text": "an extraordinary number existed",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option adds the verb 'existed', which is redundant because the verb 'took place' is already present in the clause.",
+                                        "id": "Opsi ini menambahkan kata kerja 'existed', yang berlebihan karena kata kerja 'took place' sudah ada di dalam klausa tersebut."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 1: Be Sure the Sentence Has a Subject and a Verb",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1647,32 +1733,34 @@
                                 {
                                     "text": "Pumps have",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option creates two independent clauses without a connector, resulting in a run-on sentence.",
+                                        "id": "Opsi ini menciptakan dua klausa independen tanpa kata penghubung, sehingga menghasilkan kalimat yang tidak gramatikal (run-on)."
                                     }
                                 },
                                 {
                                     "text": "As pumps have",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This is correct because 'As' acts as an adverb connector of cause, creating a dependent clause followed by a comma and an independent clause.",
+                                        "id": "Ini benar karena 'As' berfungsi sebagai kata penghubung keterangan sebab, membentuk klausa dependen yang diikuti oleh koma dan klausa independen."
                                     }
                                 },
                                 {
                                     "text": "So pumps have",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "The word 'So' is a coordinate connector that should be placed between two clauses, not at the beginning of the sentence in this structure.",
+                                        "id": "Kata 'So' adalah kata penghubung koordinat yang seharusnya diletakkan di antara dua klausa, bukan di awal kalimat dalam struktur ini."
                                     }
                                 },
                                 {
                                     "text": "With pumps",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "The word 'With' is a preposition, not a connector, and it would leave the clause without a proper subject-verb structure for the first part.",
+                                        "id": "Kata 'With' adalah preposisi, bukan kata penghubung, dan akan membuat klausa tersebut tidak memiliki struktur subjek-predikat yang tepat untuk bagian pertama."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 7: USE ADVERB TIME AND CAUSE CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1684,32 +1772,34 @@
                                 {
                                     "text": "they are",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option creates a run-on sentence because it lacks a coordinate connector to join the two independent clauses.",
+                                        "id": "Opsi ini menciptakan kalimat run-on karena tidak memiliki kata hubung koordinatif untuk menggabungkan dua klausa independen."
                                     }
                                 },
                                 {
                                     "text": "are",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because it lacks a subject for the second clause and a proper connector.",
+                                        "id": "Opsi ini salah karena tidak memiliki subjek untuk klausa kedua dan kata hubung yang tepat."
                                     }
                                 },
                                 {
                                     "text": "yet they",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is missing the verb 'are' required to complete the second independent clause.",
+                                        "id": "Opsi ini kekurangan kata kerja 'are' yang diperlukan untuk melengkapi klausa independen kedua."
                                     }
                                 },
                                 {
                                     "text": "yet they are",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This is correct because 'yet' acts as a coordinate connector joining two independent clauses, each containing a subject and a verb.",
+                                        "id": "Ini benar karena 'yet' berfungsi sebagai kata hubung koordinatif yang menggabungkan dua klausa independen, yang masing-masing memiliki subjek dan kata kerja."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 6: USE COORDINATE CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1721,32 +1811,34 @@
                                 {
                                     "text": "target monarchs",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option creates a fragment because it lacks a conjunction to connect the two clauses.",
+                                        "id": "Opsi ini menciptakan fragmen karena tidak memiliki kata hubung untuk menghubungkan kedua klausa."
                                     }
                                 },
                                 {
                                     "text": "target since monarchs",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "[please evaluate-manual] Based on the structure of the sentence, 'since' acts as an adverb connector of cause, which correctly links the main clause to the dependent clause 'monarchs migrate'.",
+                                        "id": "[please evaluate-manual] Berdasarkan struktur kalimat, 'since' berfungsi sebagai kata hubung keterangan sebab, yang menghubungkan klausa utama dengan klausa dependen 'monarchs migrate' secara tepat."
                                     }
                                 },
                                 {
                                     "text": "target since monarchs are",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is grammatically redundant because it adds 'are' which creates a subject-verb agreement error within the dependent clause structure.",
+                                        "id": "Opsi ini redundan secara tata bahasa karena menambahkan 'are' yang menciptakan kesalahan kesesuaian subjek-kata kerja dalam struktur klausa dependen."
                                     }
                                 },
                                 {
                                     "text": "target",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incomplete as it fails to provide the necessary connector to join the two clauses.",
+                                        "id": "Opsi ini tidak lengkap karena gagal menyediakan kata hubung yang diperlukan untuk menggabungkan kedua klausa."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "Section Two — Structure & Written Expression - Skill 6-8: Connect Multiple Clauses Correctly",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1758,32 +1850,34 @@
                                 {
                                     "text": "Neural theories",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option creates a sentence fragment because it lacks a connector to join the two clauses, resulting in two independent clauses without a conjunction.",
+                                        "id": "Opsi ini menciptakan fragmen kalimat karena tidak memiliki kata penghubung untuk menggabungkan dua klausa, sehingga menghasilkan dua klausa independen tanpa konjungsi."
                                     }
                                 },
                                 {
                                     "text": "A neural theory",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option also fails to provide a connector, leaving the sentence with two clauses that are not correctly joined.",
+                                        "id": "Opsi ini juga gagal menyediakan kata penghubung, sehingga kalimat memiliki dua klausa yang tidak digabungkan dengan benar."
                                     }
                                 },
                                 {
                                     "text": "Although neural theories",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This is correct. 'Although' is an adverb connector that correctly joins the two clauses. Since the connector is at the beginning of the sentence, a comma is used to separate the clauses.",
+                                        "id": "Ini benar. 'Although' adalah kata penghubung keterangan yang menggabungkan dua klausa dengan tepat. Karena kata penghubung berada di awal kalimat, tanda koma digunakan untuk memisahkan klausa tersebut."
                                     }
                                 },
                                 {
                                     "text": "However neural theories",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "'However' is a transition word, not a subordinating conjunction. It cannot be used to join two clauses within a single sentence in this manner.",
+                                        "id": "'However' adalah kata transisi, bukan konjungsi subordinatif. Kata ini tidak dapat digunakan untuk menggabungkan dua klausa dalam satu kalimat dengan cara seperti ini."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - SKILL 8: USE OTHER ADVERB CONNECTORS CORRECTLY",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1795,32 +1889,34 @@
                                 {
                                     "text": "A home is",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option creates a sentence fragment because it lacks a connector to join the two clauses, resulting in a run-on structure.",
+                                        "id": "Opsi ini menciptakan fragmen kalimat karena tidak memiliki kata penghubung untuk menggabungkan dua klausa, sehingga menghasilkan struktur yang tidak tepat."
                                     }
                                 },
                                 {
                                     "text": "A home is bought",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option lacks a subordinating conjunction to establish the adverbial relationship between the two clauses.",
+                                        "id": "Opsi ini kekurangan kata hubung subordinatif untuk membangun hubungan keterangan antara kedua klausa tersebut."
                                     }
                                 },
                                 {
                                     "text": "When a home",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incomplete because it lacks the necessary verb 'is' to form a passive construction with the participle 'bought'.",
+                                        "id": "Opsi ini tidak lengkap karena kekurangan kata kerja 'is' yang diperlukan untuk membentuk konstruksi pasif dengan partisip 'bought'."
                                     }
                                 },
                                 {
                                     "text": "When a home is bought",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This is the correct answer. It uses the adverb connector 'When' to introduce a dependent clause, followed by the passive verb 'is bought', which correctly modifies the subject 'a home'.",
+                                        "id": "Ini adalah jawaban yang benar. Opsi ini menggunakan kata hubung keterangan 'When' untuk memperkenalkan klausa dependen, diikuti oleh kata kerja pasif 'is bought', yang memodifikasi subjek 'a home' dengan tepat."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "Section Two — Structure & Written Expression - Skill 7: Use Adverb Time and Cause Connectors Correctly",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1832,32 +1928,34 @@
                                 {
                                     "text": "it",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because it lacks a verb. The clause 'If ultraviolet radiation enters the Earth's atmosphere' is an adverb clause, and the main clause requires both a subject and a verb.",
+                                        "id": "Opsi ini salah karena tidak memiliki kata kerja. Klausa 'If ultraviolet radiation enters the Earth's atmosphere' adalah klausa adverbia, dan klausa utama memerlukan subjek serta kata kerja."
                                     }
                                 },
                                 {
                                     "text": "it is",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This option is correct. It provides the subject 'it' and the verb 'is' (passive voice 'is blocked') to complete the main clause following the introductory adverb clause.",
+                                        "id": "Opsi ini benar. Opsi ini menyediakan subjek 'it' dan kata kerja 'is' (bentuk pasif 'is blocked') untuk melengkapi klausa utama setelah klausa adverbia pembuka."
                                     }
                                 },
                                 {
                                     "text": "so it is",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because 'so' is a coordinate connector. Using 'so' here would create a redundant structure, as the sentence already begins with the adverb connector 'If'.",
+                                        "id": "Opsi ini salah karena 'so' adalah kata hubung koordinatif. Menggunakan 'so' di sini akan menciptakan struktur yang berlebihan, karena kalimat sudah dimulai dengan kata hubung adverbia 'If'."
                                     }
                                 },
                                 {
                                     "text": "then it",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because 'then' is an adverb of time, not a connector. It does not function to join the two clauses correctly in this grammatical structure.",
+                                        "id": "Opsi ini salah karena 'then' adalah kata keterangan waktu, bukan kata hubung. Kata ini tidak berfungsi untuk menggabungkan kedua klausa dengan benar dalam struktur tata bahasa ini."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "Section Two — Structure & Written Expression - Skill 6: Use Coordinate Connectors Correctly / Skill 7: Use Adverb Time and Cause Connectors Correctly",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1869,32 +1967,34 @@
                                 {
                                     "text": "in",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "The preposition 'in' alone cannot connect two independent clauses or function as a conjunction to link the main clause to the following explanation.",
+                                        "id": "Preposisi 'in' saja tidak dapat menghubungkan dua klausa independen atau berfungsi sebagai konjungsi untuk menghubungkan klausa utama dengan penjelasan berikutnya."
                                     }
                                 },
                                 {
                                     "text": "so",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "[please evaluate-manual] While 'so' is a coordinate connector, it indicates a result or consequence, which does not logically fit the context of explaining why the chromosome is unusual.",
+                                        "id": "[please evaluate-manual] Meskipun 'so' adalah konektor koordinat, ia menunjukkan hasil atau konsekuensi, yang secara logis tidak sesuai dengan konteks penjelasan mengapa kromosom tersebut tidak biasa."
                                     }
                                 },
                                 {
                                     "text": "and",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "The coordinate connector 'and' is used to join two equal elements, but it does not establish the necessary relationship to explain the reason for the chromosome being unusual.",
+                                        "id": "Konektor koordinat 'and' digunakan untuk menggabungkan dua elemen yang setara, namun tidak membangun hubungan yang diperlukan untuk menjelaskan alasan mengapa kromosom tersebut tidak biasa."
                                     }
                                 },
                                 {
                                     "text": "in that",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "The phrase 'in that' is the correct idiomatic structure used to introduce a clause that explains or specifies the reason for a preceding statement.",
+                                        "id": "Frasa 'in that' adalah struktur idiomatis yang benar yang digunakan untuk memperkenalkan klausa yang menjelaskan atau merinci alasan dari pernyataan sebelumnya."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "Section Two — Structure & Written Expression - Skill 9: Use Noun Clause Connectors Correctly",
+                            "_is_evaluated": true
                         }
                     ],
                     "groups": []
@@ -1913,32 +2013,34 @@
                                 {
                                     "text": "functional harmony",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option lacks a verb, leaving the sentence incomplete.",
+                                        "id": "Opsi ini tidak memiliki kata kerja, sehingga kalimat menjadi tidak lengkap."
                                     }
                                 },
                                 {
                                     "text": "functional harmony is",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option provides a subject and a verb, but the verb 'is' is singular, which disagrees with the plural subject 'The three basic chords'.",
+                                        "id": "Opsi ini menyediakan subjek dan kata kerja, namun kata kerja 'is' berbentuk tunggal, yang tidak sesuai dengan subjek jamak 'The three basic chords'."
                                     }
                                 },
                                 {
                                     "text": "functional harmony are",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This option correctly provides the subject 'functional harmony' and the plural verb 'are' to agree with the plural subject 'The three basic chords'.",
+                                        "id": "Opsi ini dengan tepat menyediakan subjek 'functional harmony' dan kata kerja jamak 'are' agar sesuai dengan subjek jamak 'The three basic chords'."
                                     }
                                 },
                                 {
                                     "text": "functional harmony they are",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option creates a redundant subject ('they') after the main subject has already been established, making the sentence grammatically incorrect.",
+                                        "id": "Opsi ini menciptakan subjek berlebih ('they') setelah subjek utama sudah ditetapkan, sehingga membuat kalimat menjadi tidak gramatikal."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "Section Two - Skill 1: Be Sure the Sentence Has a Subject and a Verb",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1950,32 +2052,34 @@
                                 {
                                     "text": "The",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option creates a sentence fragment because 'The Hale Telescope' would act as the subject, but the rest of the sentence lacks a main verb that logically connects to the subject.",
+                                        "id": "Opsi ini menciptakan fragmen kalimat karena 'The Hale Telescope' akan berfungsi sebagai subjek, namun sisa kalimat tidak memiliki kata kerja utama yang terhubung secara logis dengan subjek tersebut."
                                     }
                                 },
                                 {
                                     "text": "With the",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This is correct. 'With the Hale Telescope' is a prepositional phrase that functions as an introductory adverbial phrase, leaving the main clause 'scientists can photograph objects...' grammatically complete.",
+                                        "id": "Ini benar. 'With the Hale Telescope' adalah frasa preposisional yang berfungsi sebagai frasa keterangan pembuka, sehingga klausa utama 'scientists can photograph objects...' menjadi lengkap secara tata bahasa."
                                     }
                                 },
                                 {
                                     "text": "They use the",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option creates a run-on or comma splice error. It introduces a new subject and verb ('They use') without a proper connector to join it to the following clause.",
+                                        "id": "Opsi ini menciptakan kesalahan run-on atau comma splice. Opsi ini memperkenalkan subjek dan kata kerja baru ('They use') tanpa konektor yang tepat untuk menggabungkannya dengan klausa berikutnya."
                                     }
                                 },
                                 {
                                     "text": "It is the",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because it creates a redundant subject-verb structure ('It is the Hale Telescope... scientists can...'), which lacks a conjunction to link the two independent clauses.",
+                                        "id": "Opsi ini salah karena menciptakan struktur subjek-kata kerja yang redundan ('It is the Hale Telescope... scientists can...'), yang tidak memiliki kata hubung untuk menyambungkan kedua klausa independen tersebut."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "Section Two — Structure & Written Expression - Skill 2: Be Careful of Objects of Prepositions",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -1987,32 +2091,34 @@
                                 {
                                     "text": "is definitely",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option lacks a subject. 'Is definitely' provides a verb phrase but leaves the sentence without a subject to perform the action.",
+                                        "id": "Opsi ini tidak memiliki subjek. 'Is definitely' menyediakan frasa kata kerja tetapi membuat kalimat tidak memiliki subjek untuk melakukan tindakan."
                                     }
                                 },
                                 {
                                     "text": "because of",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option creates a prepositional phrase ('because of...'), which cannot function as the subject of the sentence.",
+                                        "id": "Opsi ini menciptakan frasa preposisional ('because of...'), yang tidak dapat berfungsi sebagai subjek kalimat."
                                     }
                                 },
                                 {
                                     "text": "it is",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This is the correct answer because it provides the necessary subject ('it') and verb ('is') to complete the independent clause.",
+                                        "id": "Ini adalah jawaban yang benar karena menyediakan subjek ('it') dan kata kerja ('is') yang diperlukan untuk melengkapi klausa independen."
                                     }
                                 },
                                 {
                                     "text": "is",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option provides only a verb ('is') without a subject, failing to satisfy the requirement that every sentence must have a subject.",
+                                        "id": "Opsi ini hanya menyediakan kata kerja ('is') tanpa subjek, sehingga gagal memenuhi persyaratan bahwa setiap kalimat harus memiliki subjek."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "Section Two — Structure & Written Expression - Skill 1: Be Sure the Sentence Has a Subject and a Verb",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -2024,32 +2130,34 @@
                                 {
                                     "text": "the lottery committee",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option creates a comma splice because it joins two independent clauses without a coordinating conjunction.",
+                                        "id": "Opsi ini menciptakan comma splice karena menggabungkan dua klausa independen tanpa kata hubung koordinatif."
                                     }
                                 },
                                 {
                                     "text": "so the lottery committee and",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because it includes an unnecessary 'and' after the committee, which disrupts the sentence structure.",
+                                        "id": "Opsi ini salah karena menyertakan kata 'and' yang tidak perlu setelah committee, yang merusak struktur kalimat."
                                     }
                                 },
                                 {
                                     "text": "so the lottery committee",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This is correct because 'so' acts as a coordinate connector joining two independent clauses, following the pattern: [Clause 1], [coordinate connector] [Clause 2].",
+                                        "id": "Ini benar karena 'so' berfungsi sebagai kata hubung koordinatif yang menggabungkan dua klausa independen, mengikuti pola: [Klausa 1], [kata hubung koordinatif] [Klausa 2]."
                                     }
                                 },
                                 {
                                     "text": "the lottery committee made",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because it creates a run-on sentence by placing a subject and verb without a connector between the two clauses.",
+                                        "id": "Opsi ini salah karena menciptakan kalimat run-on dengan menempatkan subjek dan kata kerja tanpa kata hubung di antara kedua klausa tersebut."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "Section Two — Structure & Written Expression - Skill 6: Use Coordinate Connectors Correctly",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -2061,32 +2169,34 @@
                                 {
                                     "text": "it appears",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This option is correct because the sentence requires a subject ('it') and a verb ('appears') to complete the main clause after the introductory adverbial phrase.",
+                                        "id": "Opsi ini benar karena kalimat tersebut memerlukan subjek ('it') dan kata kerja ('appears') untuk melengkapi klausa utama setelah frasa adverbial pembuka."
                                     }
                                 },
                                 {
                                     "text": "but it appears",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This is incorrect because adding 'but' creates a redundant connector; the sentence already has an introductory structure that does not require a coordinate connector here.",
+                                        "id": "Ini salah karena penambahan 'but' menciptakan konjungsi yang berlebihan; kalimat tersebut sudah memiliki struktur pembuka yang tidak memerlukan konjungsi koordinat di sini."
                                     }
                                 },
                                 {
                                     "text": "appears",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This is incorrect because the sentence would lack a subject for the verb 'appears', violating the requirement that every clause must have a subject.",
+                                        "id": "Ini salah karena kalimat tersebut akan kekurangan subjek untuk kata kerja 'appears', melanggar aturan bahwa setiap klausa harus memiliki subjek."
                                     }
                                 },
                                 {
                                     "text": "despite it",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This is incorrect because 'despite' is a preposition, not a conjunction, and it would leave the main clause without a subject and a verb.",
+                                        "id": "Ini salah karena 'despite' adalah preposisi, bukan konjungsi, dan akan membuat klausa utama kehilangan subjek dan kata kerja."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "SECTION TWO — STRUCTURE & WRITTEN EXPRESSION - Skill 1: Be Sure the Sentence Has a Subject and a Verb",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -2098,32 +2208,34 @@
                                 {
                                     "text": "it",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "The pronoun 'it' cannot function as a connector to join two clauses; using it here creates a run-on sentence.",
+                                        "id": "Kata ganti 'it' tidak dapat berfungsi sebagai penghubung untuk menggabungkan dua klausa; menggunakannya di sini menciptakan kalimat yang tidak gramatikal (run-on)."
                                     }
                                 },
                                 {
                                     "text": "when",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "While 'when' is a connector, the resulting clause 'when entered' lacks a subject, making it grammatically incomplete.",
+                                        "id": "Meskipun 'when' adalah penghubung, klausa yang dihasilkan 'when entered' tidak memiliki subjek, sehingga secara tata bahasa tidak lengkap."
                                     }
                                 },
                                 {
                                     "text": "after the comet came into it",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is wordy and redundant, as 'the comet' is already mentioned in the main clause, making the structure awkward.",
+                                        "id": "Opsi ini bertele-tele dan redundan, karena 'the comet' sudah disebutkan di klausa utama, membuat strukturnya menjadi canggung."
                                     }
                                 },
                                 {
                                     "text": "once the comet",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "[please evaluate-manual] 'Once' functions as an adverbial connector of time. However, the sentence requires a subject for the verb 'entered'. This option is grammatically incomplete as it lacks the subject 'the comet' after the connector.",
+                                        "id": "[please evaluate-manual] 'Once' berfungsi sebagai penghubung keterangan waktu. Namun, kalimat ini memerlukan subjek untuk kata kerja 'entered'. Opsi ini secara tata bahasa tidak lengkap karena kekurangan subjek 'the comet' setelah penghubung."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "Section Two — Structure & Written Expression - Skill 7: Use Adverb Time and Cause Connectors Correctly",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -2135,32 +2247,34 @@
                                 {
                                     "text": "enters",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option creates a sentence with two main verbs ('enters' and 'is deluged') without a connector, which is grammatically incorrect.",
+                                        "id": "Opsi ini menciptakan kalimat dengan dua kata kerja utama ('enters' dan 'is deluged') tanpa kata penghubung, yang secara tata bahasa tidak tepat."
                                     }
                                 },
                                 {
                                     "text": "it enters",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option creates a clause ('it enters') but lacks a connector to join it to the main clause, resulting in a run-on sentence structure.",
+                                        "id": "Opsi ini menciptakan klausa ('it enters') tetapi tidak memiliki kata penghubung untuk menggabungkannya ke klausa utama, sehingga menghasilkan struktur kalimat yang tidak tepat."
                                     }
                                 },
                                 {
                                     "text": "entering",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This is the correct answer. 'Entering' acts as a reduced adjective clause (shortened from 'that enters'), modifying the subject 'Each object'.",
+                                        "id": "Ini adalah jawaban yang benar. 'Entering' berfungsi sebagai klausa kata sifat yang diperpendek (dari 'that enters'), yang menerangkan subjek 'Each object'."
                                     }
                                 },
                                 {
                                     "text": "enter",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "The base form 'enter' cannot function as a modifier for the subject 'Each object' in this context, as it lacks the necessary participle form.",
+                                        "id": "Bentuk dasar 'enter' tidak dapat berfungsi sebagai penjelas untuk subjek 'Each object' dalam konteks ini, karena tidak memiliki bentuk partisipel yang diperlukan."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "Section Two - Skill 4: Be Careful of Present Participles",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -2172,32 +2286,34 @@
                                 {
                                     "text": "it focuses",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because it creates a double subject. 'The Prairie Wetlands Resource Center' is already the subject, so adding 'it' makes the sentence ungrammatical.",
+                                        "id": "Opsi ini salah karena menciptakan subjek ganda. 'The Prairie Wetlands Resource Center' sudah menjadi subjek, sehingga menambahkan 'it' membuat kalimat menjadi tidak gramatikal."
                                     }
                                 },
                                 {
                                     "text": "focuses on",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This option is correct. The sentence already has a subject ('The Prairie Wetlands Resource Center'), so it requires a main verb ('focuses') followed by the appropriate preposition ('on') to complete the predicate.",
+                                        "id": "Opsi ini benar. Kalimat tersebut sudah memiliki subjek ('The Prairie Wetlands Resource Center'), sehingga membutuhkan kata kerja utama ('focuses') yang diikuti oleh preposisi yang tepat ('on') untuk melengkapi predikat."
                                     }
                                 },
                                 {
                                     "text": "focusing",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because 'focusing' is a present participle. It cannot function as the main verb of a sentence without a helping verb (like 'is').",
+                                        "id": "Opsi ini salah karena 'focusing' adalah present participle. Kata ini tidak dapat berfungsi sebagai kata kerja utama kalimat tanpa kata kerja bantu (seperti 'is')."
                                     }
                                 },
                                 {
                                     "text": "to focus on",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option is incorrect because an infinitive ('to focus') cannot serve as the main verb of a sentence.",
+                                        "id": "Opsi ini salah karena bentuk infinitif ('to focus') tidak dapat berfungsi sebagai kata kerja utama dalam sebuah kalimat."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "Section Two — Structure & Written Expression - Skill 1: Be Sure the Sentence Has a Subject and a Verb",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -2209,32 +2325,34 @@
                                 {
                                     "text": "so the harpy has",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option creates a dependent clause ('so the harpy has') that does not logically connect to the preceding appositive phrase, leaving the sentence without a main verb for the subject.",
+                                        "id": "Opsi ini menciptakan klausa dependen ('so the harpy has') yang tidak terhubung secara logis dengan frasa aposisi sebelumnya, sehingga kalimat kehilangan kata kerja utama untuk subjeknya."
                                     }
                                 },
                                 {
                                     "text": "the harpy having",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option uses a present participle ('having') which cannot function as the main verb of the sentence, resulting in a sentence fragment.",
+                                        "id": "Opsi ini menggunakan present participle ('having') yang tidak dapat berfungsi sebagai kata kerja utama kalimat, sehingga menghasilkan fragmen kalimat."
                                     }
                                 },
                                 {
                                     "text": "with the harpy having",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "This option creates a prepositional phrase ('with the harpy having') that lacks a main verb, leaving the sentence incomplete.",
+                                        "id": "Opsi ini menciptakan frasa preposisional ('with the harpy having') yang tidak memiliki kata kerja utama, sehingga kalimat menjadi tidak lengkap."
                                     }
                                 },
                                 {
                                     "text": "the harpy has",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This option correctly provides the subject ('the harpy') and the main verb ('has'), completing the sentence structure where the initial phrase acts as an appositive describing the subject.",
+                                        "id": "Opsi ini dengan tepat menyediakan subjek ('the harpy') dan kata kerja utama ('has'), melengkapi struktur kalimat di mana frasa awal berfungsi sebagai aposisi yang menjelaskan subjek."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "Section Two — Structure & Written Expression - Skill 1: Be Sure the Sentence Has a Subject and a Verb",
+                            "_is_evaluated": true
                         },
                         {
                             "timeLimitSeconds": 0,
@@ -2246,32 +2364,34 @@
                                 {
                                     "text": "Since the",
                                     "reason": {
-                                        "en": "Correct answer.",
-                                        "id": "Jawaban benar."
+                                        "en": "This option correctly uses 'Since' as an adverb connector to introduce a dependent clause. The sentence structure 'Since [subject] [verb], [independent clause]' requires a comma after the dependent clause, which is present in the prompt.",
+                                        "id": "Opsi ini menggunakan 'Since' dengan tepat sebagai konektor adverbia untuk memperkenalkan klausa dependen. Struktur kalimat 'Since [subjek] [kata kerja], [klausa independen]' memerlukan koma setelah klausa dependen, yang sudah ada dalam soal."
                                     }
                                 },
                                 {
                                     "text": "The",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "Using 'The' creates a sentence fragment because it lacks a connector to join the two clauses. It would result in two subjects without a conjunction to link them.",
+                                        "id": "Penggunaan 'The' menciptakan fragmen kalimat karena tidak ada konektor untuk menghubungkan kedua klausa. Hal ini akan menghasilkan dua subjek tanpa konjungsi untuk menghubungkannya."
                                     }
                                 },
                                 {
                                     "text": "Later, the",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "'Later, the' acts as an adverbial phrase but does not function as a connector to join the two clauses, leaving the sentence grammatically incomplete.",
+                                        "id": "'Later, the' bertindak sebagai frasa adverbia tetapi tidak berfungsi sebagai konektor untuk menggabungkan kedua klausa, sehingga kalimat menjadi tidak lengkap secara tata bahasa."
                                     }
                                 },
                                 {
                                     "text": "It was the",
                                     "reason": {
-                                        "en": "Incorrect.",
-                                        "id": "Salah."
+                                        "en": "'It was the' creates a main clause, but without a connector, the sentence would have two independent clauses incorrectly joined by only a comma, resulting in a run-on sentence.",
+                                        "id": "'It was the' menciptakan klausa utama, namun tanpa konektor, kalimat tersebut akan memiliki dua klausa independen yang digabungkan secara tidak tepat hanya dengan koma, menghasilkan kalimat run-on."
                                     }
                                 }
-                            ]
+                            ],
+                            "tested_skill": "Section Two - Skill 7: Use Adverb Time and Cause Connectors Correctly",
+                            "_is_evaluated": true
                         }
                     ],
                     "groups": []
