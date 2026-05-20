@@ -1117,7 +1117,28 @@
                         // For Written Expression (questions with ~[word]~(A) pattern),
                         // preserve A/B/C/D order — labels are anchored to positions in the sentence
                         const isWrittenExpression = q.question && /~\[[^\]]+\]~\s*\([A-D]\)/.test(q.question);
-                        shuffledMap[sIdx][pIdx][qIdx] = isWrittenExpression ? indices : shuffleArray(indices);
+                        
+                        if (isWrittenExpression) {
+                            shuffledMap[sIdx][pIdx][qIdx] = indices;
+                        } else {
+                            // Mengecek teks pada opsi C dan D
+                            const optC = (q.options[2]?.text || "").trim();
+                            const optD = (q.options[3]?.text || "").trim();
+                            
+                            // Mendeteksi apakah opsi tersebut kosong atau berupa "-"
+                            const isCEmpty = optC === "" || optC === "-";
+                            const isDEmpty = optD === "" || optD === "-";
+
+                            if (isCEmpty && isDEmpty) {
+                                // Jika C dan D kosong/strip, maka cukup acak index 0 dan 1 (A dan B)
+                                const shuffledAB = shuffleArray([0, 1]);
+                                // Sisipkan kembali index 2 dan 3 tanpa diacak
+                                shuffledMap[sIdx][pIdx][qIdx] = [...shuffledAB, 2, 3];
+                            } else {
+                                // Jika ada isinya, acak normal (semua 4 opsi)
+                                shuffledMap[sIdx][pIdx][qIdx] = shuffleArray(indices);
+                            }
+                        }
                     });
                 });
             });
