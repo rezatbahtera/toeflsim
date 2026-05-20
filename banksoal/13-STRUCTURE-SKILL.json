@@ -1,0 +1,390 @@
+{
+    "title": "MORE SENTENCES WITH MULTIPLE CLAUSES ",
+    "sections": [
+        {
+            "title": "SKILL ",
+            "type": "structure",
+            "durationMinutes": 25,
+            "parts": [
+                {
+                    "title": "SKILL 9: USE NOUN CLAUSE CONNECTORS CORRECTLY ",
+                    "instruction": "A noun clause is a clause that functions as a noun; because the noun clause is a noun, it is used in a sentence as either an object of a verb, an object of a preposition, or the subject of the sentence. \n",
+                    "questions": [
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "When the season starts is determined by the weather.",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "The manual how the device should be built.",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "The schedule indicated if the teams would be playing in the final game.",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "He refused to enter a plea could not be determined by the lawyer.",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "Talked about where we should go for lunch.",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "Why the condition of the patient deteriorated so rapidly it was not explained.",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "Whether or not the new office would be built was to be determined at the meeting.",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "That the professor has not yet decided when the paper is due.",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "The contract will be awarded is the question to be answered at the meeting.",
+                            "correctIndex": 1,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "timeLimitSeconds": 0,
+                            "audioUrl": "",
+                            "passage": "",
+                            "question": "He always talked with whomever he pleased and did whatever he wanted.",
+                            "correctIndex": 0,
+                            "options": [
+                                {
+                                    "text": "Correct",
+                                    "reason": {
+                                        "en": "Correct answer.",
+                                        "id": "Jawaban benar."
+                                    }
+                                },
+                                {
+                                    "text": "InCorrect",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                },
+                                {
+                                    "text": "",
+                                    "reason": {
+                                        "en": "Incorrect.",
+                                        "id": "Salah."
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "groups": []
+                }
+            ],
+            "instruction": "connecting the clauses in sentences with multiple clauses"
+        }
+    ]
+}
